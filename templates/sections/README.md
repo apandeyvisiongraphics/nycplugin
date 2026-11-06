@@ -1,5 +1,17 @@
 # Section library
 
+> **Design standard (decided 2026-11-06):** every **new** NYC page uses this landing-page design:
+> `"template": "landing"` with `content/pages/{slug}.json`, built from the section types below.
+> Don't create new pages with the older `service` (`content/services/*.json`) or `raw` (`pages/*.php`)
+> templates. Existing pages keep their current design until a content doc replaces them.
+>
+> **Adding a new page:**
+> 1. Run the doc pipeline: `scripts/parse_doc.py` → `scripts/build_pages.py` → `scripts/page_map.py` → `scripts/qa.mjs`.
+>    Without a doc, copy an existing `content/pages/*.json` and edit it.
+> 2. Add the manifest entry with `"template": "landing"`, `"content": "content/pages/{slug}.json"` and `"status": "draft"`.
+> 3. Register its image slots in `content/images.json`.
+> 4. Run `node scripts/compare.mjs`. Every existing route must still pass.
+
 Landing pages (`"template": "landing"` in `data/manifest.php`) are an ordered list of sections in
 `content/pages/{slug}.json`. `templates/landing-page.php` renders each one with
 `templates/sections/{type}.php`. A section template receives only its JSON object (plus a small
