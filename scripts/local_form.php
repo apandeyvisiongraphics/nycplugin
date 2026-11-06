@@ -4,7 +4,7 @@
  * Creates (or updates) a local stand-in for the live Contact Form 7 form
  * [contact-form-7 id="328910e" title="MicroSiteForm_nyc"] so the NYC pages can show and test the
  * real form and popup locally, and saves that shortcode in Settings → Vision Graphics NYC.
- * Fields follow the contact-page doc (inbox/docs/VGNYCLandingPages0511.html, section 3).
+ * Fields follow the contact-page doc (inbox/done/2026-11-06/VGNYCLandingPages0511.html, section 3).
  * On live, the existing MicroSiteForm_nyc form is used as-is; this script refuses to run there.
  *
  * Usage: php -d mysqli.default_socket=… scripts/local_form.php

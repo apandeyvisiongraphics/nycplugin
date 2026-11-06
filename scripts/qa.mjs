@@ -71,7 +71,9 @@ for (const slug of slugs) {
   const route = doc.route;
   const entry = pages[route];
   const isNew = entry && entry.status === 'draft';
-  const url = `${BASE_URL}${route}${isNew ? '' : '?vgnyc_preview=1'}`;
+  // After publishing (Phase 2 Step 8) the page is live: no draft_* keys and no draft status.
+  const isPublished = entry && !isNew && !entry.draft_content;
+  const url = `${BASE_URL}${route}${isNew || isPublished ? '' : '?vgnyc_preview=1'}`;
   const r = { slug, route, url, checks: [], issues: [] };
   const check = (name, ok, detail = '') => { r.checks.push({ name, ok, detail }); };
 
@@ -79,8 +81,15 @@ for (const slug of slugs) {
   const html = await res.text();
   const anon = await fetch(`${BASE_URL}${route}`, { redirect: 'manual' });
   check('Renders for admins (HTTP 200)', res.status === 200, `HTTP ${res.status}`);
+  if (isPublished) {
+    const anonHtml = await anon.clone().text();
+    check('Public (HTTP 200, no draft bar)', anon.status === 200 && !anonHtml.includes('vgnyc-draft-bar'), `anonymous: HTTP ${anon.status}`);
+    const sm = await (await fetch(`${BASE_URL}/nyc/sitemap.xml`)).text();
+    check('Indexable and in the sitemap', /<meta name="robots" content="index, follow"/.test(anonHtml) && sm.includes(`${route}</loc>`), '');
+  } else {
   check('Draft hidden from the public', isNew ? anon.status === 404 : anon.status === 200 && !(await anon.clone().text()).includes('vgnyc-draft-bar'), isNew ? `anonymous: HTTP ${anon.status}` : 'anonymous visitors still get the current live page');
   check('Not indexable while draft', /noindex/.test(res.headers.get('x-robots-tag') || '') && /<meta name="robots" content="noindex/.test(html), res.headers.get('x-robots-tag'));
+  }
   const php = html.match(/<b>(Warning|Notice|Deprecated|Fatal error)<\/b>|PHP (Warning|Notice|Deprecated)/g);
   check('No PHP warnings or notices in output', !php, php ? php.join(', ') : '');
 

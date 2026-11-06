@@ -8,3 +8,9 @@ PHASE1_REFACTOR.md
 inbox/
 images-inbox/
 *.md
+.github/
+node_modules/
+__pycache__/
+vendor/plugin-update-checker/composer.json
+build/
+docs/

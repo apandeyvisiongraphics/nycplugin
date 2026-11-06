@@ -2,13 +2,23 @@
 /**
  * Plugin Name: Vision Graphics NYC Website
  * Description: Customer-facing New York signs and graphics website at /nyc/, using your existing WordPress inquiry form.
- * Version: 1.3.0
+ * Version: 1.4.0
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * Author: Vision Graphics
  */
 if (!defined('ABSPATH')) { http_response_code(404); exit; }
-if (!defined('VGNYC_VERSION')) { define('VGNYC_VERSION', '1.3.0'); }
+if (!defined('VGNYC_VERSION')) { define('VGNYC_VERSION', '1.4.0'); }
+// Updates: the live site checks GitHub Releases and shows "Update now" on the Plugins screen.
+if (is_readable(__DIR__ . '/vendor/plugin-update-checker/plugin-update-checker.php')) {
+    require_once __DIR__ . '/vendor/plugin-update-checker/plugin-update-checker.php';
+    $vgnyc_updater = \YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateChecker(
+        'https://github.com/apandeyvisiongraphics/nycplugin/',
+        __FILE__,
+        'vg-nyc-website'
+    );
+    $vgnyc_updater->getVcsApi()->enableReleaseAssets('/vg-nyc-website\.zip/');
+}
 require __DIR__ . '/includes/landing.php';
 require __DIR__ . '/includes/images.php';
 
