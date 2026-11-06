@@ -6,7 +6,7 @@
 | Status | **REPLACEMENT** (current page stays live; draft previews at `?vgnyc_preview=1`) |
 | Source | `inbox/docs/VGNYCLandingPages0411.html` |
 | Meta title | About Vision Graphics New York | NYC Sign Company (**49** chars) |
-| Meta description | Learn who Vision Graphics is, where we make your New York City signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote. (**163** chars ⚠️ over 160) |
+| Meta description | Learn who Vision Graphics is, where we make your NYC signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote. (**153** chars) |
 | H1 | About Vision Graphics New York: Custom Signs for NYC Businesses |
 
 ## Sections in order
@@ -149,9 +149,9 @@
 ## Issues
 
 - **Replacement** of the current About page. Preview it at `/nyc/about/?vgnyc_preview=1`.
-- **Meta description is 163 characters** (limit 160). Kept as written; the writer needs to shorten it.
+- **Meta description shortened (approved 2026-11-06):** 163 → 153 characters. Only change: "New York City" → "NYC".
 - **Typo (section 6):** "references,s or building requirements". Kept as written; please confirm the fix ("references, or building requirements").
 - **Doc formatting glitch (section 4):** the text under "Checked Before It Ships." is styled as a heading in the doc. It renders as normal text under that heading, and the copy is unchanged.
 - **Project slots (section 7):** real photos only, 4 slots (`nyc-about-projects-01…04`) labeled with their city by the designer.
-- **Testimonials (section 7):** Samuel Levy and Elena Cruz. Confirm these are real clients who agreed to be quoted.
-- **Facts to confirm:** 1966 founding by Robert and Diane Shupe (Service Blue), the Banner Capital Management partnership in 2024, and the family brands list.
+- **Testimonials (section 7):** Samuel Levy and Elena Cruz. Kept as written in the doc (confirmed 2026-11-06).
+- **Facts:** 1966 founding by Robert and Diane Shupe (Service Blue), the Banner Capital Management partnership in 2024, and the family brands list. Kept exactly as in the doc (confirmed 2026-11-06).

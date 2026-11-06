@@ -13,7 +13,7 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "draft_template": "landing",
     "draft_content": "content/pages/about.json",
     "draft_title": "About Vision Graphics New York | NYC Sign Company",
-    "draft_description": "Learn who Vision Graphics is, where we make your New York City signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote.",
+    "draft_description": "Learn who Vision Graphics is, where we make your NYC signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote.",
     "draft_image": "nyc-about-hero-01"
   },
   "/nyc/acrylic-signs/": {

@@ -83,7 +83,10 @@ def check(url, cache={}):
 def build(slug, routes, net):
     d = json.load(open(os.path.join(REPORTS, slug + '-parsed.json'), encoding='utf-8'))
     route = d['route']
-    status = 'REPLACEMENT' if route in routes else 'NEW'
+    status = 'REPLACEMENT' if route in routes and routes[route].get('status') != 'draft' else 'NEW'
+    entry = routes.get(route, {})  # the meta the page will actually use (approved edits included)
+    d['meta_title'] = entry.get('draft_title') or (entry.get('title') if status == 'NEW' and entry else None) or d['meta_title']
+    d['meta_description'] = entry.get('draft_description') or (entry.get('description') if status == 'NEW' and entry else None) or d['meta_description']
     L = ['# Page map: %s' % route, '',
          '| | |', '|---|---|',
          '| Route | `%s` |' % route,
@@ -154,7 +157,7 @@ def main():
         issues = json.load(open(args[args.index('--issues') + 1], encoding='utf-8'))
     slugs = [a for a in args if not a.startswith('--') and not a.endswith('.json')]
     build.alts = alts
-    routes = set(manifest())
+    routes = manifest()
     for slug in slugs:
         d, md, images = build(slug, routes, net)
         md += '\n## Issues\n\n' + ('\n'.join('- ' + i for i in issues.get(slug, [])) or '- None found.') + '\n'

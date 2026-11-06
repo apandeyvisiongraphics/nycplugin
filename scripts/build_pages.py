@@ -15,7 +15,8 @@ Copy is taken verbatim from the doc. Only these mechanical changes are made:
   - links to /nyc/contact/ become #inquiry (every page here has its own form section)
   - <strong> that only wraps a link (Google's link styling) is removed
   - links listed in the batch config ("link_additions") are added to the given text
-The batch config can also set image slot names per doc section ("slot_keys") and alt text ("alts").
+The batch config can also set image slot names per doc section ("slot_keys"), alt text ("alts") and
+approved meta title/description edits ("meta_overrides": {slug: {"meta_description": ...}}).
 Form-field lists, button labels and confirmation messages belong to Contact Form 7 and are skipped.
 """
 import html
@@ -416,6 +417,7 @@ def main():
     os.makedirs(os.path.join(ROOT, 'content', 'pages'), exist_ok=True)
     for slug in slugs:
         doc = json.load(open(os.path.join(REPORTS, slug + '-parsed.json'), encoding='utf-8'))
+        doc.update(config.get('meta_overrides', {}).get(slug, {}))  # approved meta edits (e.g. length fixes)
         ctx = Ctx(slug, doc['route'], config)
         sections = []
         for sec in doc['sections'][1:]:

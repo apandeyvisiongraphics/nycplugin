@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Route | `/nyc/sign-installation/` |
-| Status | **REPLACEMENT** (current page stays live; draft previews at `?vgnyc_preview=1`) |
+| Status | **NEW** (admin-only draft until published) |
 | Source | `inbox/docs/VGNYCLandingPages0411.html` |
 | Meta title | Sign Installation in NYC: Removal & Repair | Vision Graphics (**60** chars) |
 | Meta description | Sign installation in NYC for offices and storefronts. Old sign removal, wall patching, after-hours installs, and a certificate of insurance for your building. (**158** chars) |
@@ -197,7 +197,7 @@
 ## Issues
 
 - **New page**, admin-only until published. It returns 404 to the public and isn't in the sitemap.
-- **Missing link:** "Read our **lobby sign cost guide**" is bold but no URL is given, and no such page exists. Left as bold text.
+- **Missing link:** "Read our **lobby sign cost guide**" is bold but no URL is given, and no such page exists. Left as bold text. Decision: leave as plain text (2026-11-06).
 - **Link added (as agreed):** "Elevator lobby signs" → `/nyc/wayfinding-signs/`.
-- **Testimonials (section 10):** Hannah Brooks and Victor Romano. Confirm these are real clients who agreed to be quoted.
+- **Testimonials (section 10):** Hannah Brooks and Victor Romano. Kept as written in the doc (confirmed 2026-11-06).
 - **Image note:** the ADA image prompt says Braille renders inaccurately in AI images and a manual build is preferred.

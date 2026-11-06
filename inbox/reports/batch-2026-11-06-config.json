@@ -1,18 +1,48 @@
 {
   "link_additions": {
     "sign-installation": [
-      { "text": "Elevator lobby signs", "href": "/nyc/wayfinding-signs/" }
+      {
+        "text": "Elevator lobby signs",
+        "href": "/nyc/wayfinding-signs/"
+      }
     ],
     "contact": [
-      { "text": "privacy policy", "href": "/nyc/privacy/" },
-      { "text": "sign installation page", "href": "/nyc/sign-installation/" }
+      {
+        "text": "privacy policy",
+        "href": "/nyc/privacy/"
+      },
+      {
+        "text": "sign installation page",
+        "href": "/nyc/sign-installation/"
+      }
     ]
   },
   "slot_keys": {
-    "home": { "4": "exterior", "5": "interior", "6": "fabrication", "7": "industries", "8": "process", "11": "boroughs" },
-    "about": { "3": "story", "4": "production", "5": "install" },
-    "sign-installation": { "3": "included", "5": "buildings", "6": "interior-exterior", "7": "removal", "9": "process" },
-    "interior-signs": { "3": "types", "4": "package", "7": "process" }
+    "home": {
+      "4": "exterior",
+      "5": "interior",
+      "6": "fabrication",
+      "7": "industries",
+      "8": "process",
+      "11": "boroughs"
+    },
+    "about": {
+      "3": "story",
+      "4": "production",
+      "5": "install"
+    },
+    "sign-installation": {
+      "3": "included",
+      "5": "buildings",
+      "6": "interior-exterior",
+      "7": "removal",
+      "9": "process"
+    },
+    "interior-signs": {
+      "3": "types",
+      "4": "package",
+      "7": "process"
+    }
   },
   "alts": {
     "nyc-home-hero-01": "Illuminated channel letters above the entrance of a limestone-and-glass building on a New York City avenue",
@@ -65,5 +95,10 @@
     "nyc-interior-signs-types-14": "Frosted vinyl band and cut-vinyl shapes on a glass meeting room wall",
     "nyc-interior-signs-package-01": "Floor plan with sign models and colored dots marking each sign location",
     "nyc-interior-signs-process-01": "Designer marking sign locations on a printed floor plan"
+  },
+  "meta_overrides": {
+    "about": {
+      "meta_description": "Learn who Vision Graphics is, where we make your NYC signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote."
+    }
   }
 }

@@ -244,8 +244,8 @@
 ## Issues
 
 - **Replacement** of the current Interior Signs hub page. Its current product-family links are replaced by the doc's card grid. Preview it at `/nyc/interior-signs/?vgnyc_preview=1`.
-- **Missing link (sections 5 and 12):** "lobby sign cost guide" is bold but no URL is given, and no such page exists.
+- **Missing link (sections 5 and 12):** "lobby sign cost guide" is bold but no URL is given, and no such page exists. Decision: leave as plain text (2026-11-06).
 - **Bold but not linked (section 8):** "Medical and professional offices", "Coworking spaces", "Retail and consultation rooms". Left as bold text.
 - **Project slots (section 10):** real photos only, 4 slots (`nyc-interior-signs-projects-01…04`).
-- **Testimonials (section 11):** Leah Whitman and Dominic Ferraro. Confirm these are real clients who agreed to be quoted.
+- **Testimonials (section 11):** Leah Whitman and Dominic Ferraro. Kept as written in the doc (confirmed 2026-11-06).
 - **Links to the new installation page:** "sign installation in NYC" points to `/nyc/sign-installation/`, so publish both together.

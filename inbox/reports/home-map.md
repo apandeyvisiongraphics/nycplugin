@@ -239,7 +239,7 @@
 - **Caption format cut off (section 9):** "Each slot carries a caption in this format: [PROJECT TYPE]" ends there in the doc. The rest of the format is missing.
 - **Project slots (section 9):** the writer asks for real photos only, not AI images. There are 4 slots (`nyc-home-projects-01…04`) for the designer to fill, with captions to be supplied.
 - **Bold but not linked:** "Building signs", "Blade signs", "Window graphics", "Directional signs", "Door signs", "Sign removal", "Queens", "the Bronx" and "Staten Island". Pages exist for building, blade, window graphics, directional and door signs. Should those be linked? Left as bold text for now.
-- **Testimonials (section 10):** Jordan Feldman, Aisha Rahman and Daniela Ortiz. Confirm these are real clients who agreed to be quoted before publishing.
-- **Claims to confirm:** "60 Years of Visual Communications", and the price range "$300 and $20,000 installed" (FAQ).
+- **Testimonials (section 10):** Jordan Feldman, Aisha Rahman and Daniela Ortiz. Kept as written in the doc (confirmed 2026-11-06).
+- **Claims:** "60 Years of Visual Communications", and the price range "$300 and $20,000 installed" (FAQ). Kept exactly as in the doc (confirmed 2026-11-06).
 - **Image note:** the skyline image prompt says a borough map would need a manual build (AI renders map geometry unreliably). Passed to the designer in the brief.
 - **Form fields and button** ("Get My Quote", Borough dropdown, etc.) belong to the Contact Form 7 form, not the page.

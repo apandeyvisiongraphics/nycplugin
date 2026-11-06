@@ -7,7 +7,7 @@ Branch `content/batch-2026-11-06`. Docs: `inbox/docs/VGNYCLandingPages0411.html`
 | Route | Status | Title (chars) | Description (chars) | Sections | Image slots | Admin preview |
 |---|---|---|---|---|---|---|
 | `/nyc/` | REPLACEMENT | 59 | 155 | 13 | 22 (4 real-photo) | `/nyc/?vgnyc_preview=1` |
-| `/nyc/about/` | REPLACEMENT | 49 | **163** ⚠️ | 12 | 8 (4 real-photo) | `/nyc/about/?vgnyc_preview=1` |
+| `/nyc/about/` | REPLACEMENT | 49 | 153 | 12 | 8 (4 real-photo) | `/nyc/about/?vgnyc_preview=1` |
 | `/nyc/sign-installation/` | **NEW** | 60 | 158 | 12 | 11 | `/nyc/sign-installation/` (admins only) |
 | `/nyc/contact/` | REPLACEMENT | 49 | 150 | 6 | 0 | `/nyc/contact/?vgnyc_preview=1` |
 | `/nyc/interior-signs/` | REPLACEMENT | 57 | 153 | 13 | 21 (4 real-photo) | `/nyc/interior-signs/?vgnyc_preview=1` |
@@ -39,21 +39,17 @@ New, styled in `assets/sections.css`, which loads only on landing pages:
 
 Each slot shows a labeled placeholder until the image arrives, and the prompts are visible to admins only. The designer brief is in **WP Admin → Vision Graphics NYC → Image Brief → Download CSV**.
 
-## Open questions (see each `*-map.md` for details)
+## Decisions (2026-11-06)
 
-1. **Testimonials:** are these 10 people real clients who agreed to be quoted?
-   - Jordan Feldman, Aisha Rahman, Daniela Ortiz (home)
-   - Samuel Levy, Elena Cruz (about)
-   - Hannah Brooks, Victor Romano (sign installation)
-   - Natalie Greene (contact)
-   - Leah Whitman, Dominic Ferraro (interior signs)
+- **Testimonials:** kept exactly as in the docs.
+- **Facts and claims:** follow the docs.
+- **About meta description:** shortened from 163 to 153 characters ("New York City" → "NYC").
+- **"lobby sign cost guide":** stays plain text.
 
-   Testimonials that aren't real can't be published.
-2. **Claims and facts:** "60 Years", "$300 and $20,000 installed", the 1966 founding by Robert and Diane Shupe, Banner Capital Management in 2024, and the family brands list.
-3. **About:** the meta description is 163 characters (over 160). Also confirm the fix for the typo "references,s".
-4. **Missing links:**
-   - "lobby sign cost guide" (sign installation and interior signs): no URL and no page exists.
-   - Bold, unlinked product names on home and interior signs: should they link to the existing pages?
-5. **Home:** the project caption format is cut off in the doc ("[PROJECT TYPE]" and nothing after it).
-6. **Form:** fields, button labels, confirmation message and auto-reply are all Contact Form 7 settings for `MicroSiteForm_nyc`, which doesn't exist on the local site. Should I draft the CF7 form markup from the docs?
-7. **Publish together:** home, about, contact and interior signs link to `/nyc/sign-installation/`.
+## Still open
+
+1. **About typo:** "references,s or building requirements" is kept as written until the writer confirms the fix.
+2. **Bold, unlinked product names** on home and interior signs (e.g. "Building signs", "Blade signs"): link them to the existing pages, or leave them bold?
+3. **Home:** the project caption format is cut off in the doc ("[PROJECT TYPE]" and nothing after it).
+4. **Form:** fields, button labels, confirmation message and auto-reply are Contact Form 7 settings for `MicroSiteForm_nyc`.
+5. **Publish together:** home, about, contact and interior signs link to `/nyc/sign-installation/`.

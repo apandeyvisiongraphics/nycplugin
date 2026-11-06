@@ -4,25 +4,25 @@
     "**Caption format cut off (section 9):** \"Each slot carries a caption in this format: [PROJECT TYPE]\" ends there in the doc. The rest of the format is missing.",
     "**Project slots (section 9):** the writer asks for real photos only, not AI images. There are 4 slots (`nyc-home-projects-01…04`) for the designer to fill, with captions to be supplied.",
     "**Bold but not linked:** \"Building signs\", \"Blade signs\", \"Window graphics\", \"Directional signs\", \"Door signs\", \"Sign removal\", \"Queens\", \"the Bronx\" and \"Staten Island\". Pages exist for building, blade, window graphics, directional and door signs. Should those be linked? Left as bold text for now.",
-    "**Testimonials (section 10):** Jordan Feldman, Aisha Rahman and Daniela Ortiz. Confirm these are real clients who agreed to be quoted before publishing.",
-    "**Claims to confirm:** \"60 Years of Visual Communications\", and the price range \"$300 and $20,000 installed\" (FAQ).",
+    "**Testimonials (section 10):** Jordan Feldman, Aisha Rahman and Daniela Ortiz. Kept as written in the doc (confirmed 2026-11-06).",
+    "**Claims:** \"60 Years of Visual Communications\", and the price range \"$300 and $20,000 installed\" (FAQ). Kept exactly as in the doc (confirmed 2026-11-06).",
     "**Image note:** the skyline image prompt says a borough map would need a manual build (AI renders map geometry unreliably). Passed to the designer in the brief.",
     "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the Contact Form 7 form, not the page."
   ],
   "about": [
     "**Replacement** of the current About page. Preview it at `/nyc/about/?vgnyc_preview=1`.",
-    "**Meta description is 163 characters** (limit 160). Kept as written; the writer needs to shorten it.",
+    "**Meta description shortened (approved 2026-11-06):** 163 → 153 characters. Only change: \"New York City\" → \"NYC\".",
     "**Typo (section 6):** \"references,s or building requirements\". Kept as written; please confirm the fix (\"references, or building requirements\").",
     "**Doc formatting glitch (section 4):** the text under \"Checked Before It Ships.\" is styled as a heading in the doc. It renders as normal text under that heading, and the copy is unchanged.",
     "**Project slots (section 7):** real photos only, 4 slots (`nyc-about-projects-01…04`) labeled with their city by the designer.",
-    "**Testimonials (section 7):** Samuel Levy and Elena Cruz. Confirm these are real clients who agreed to be quoted.",
-    "**Facts to confirm:** 1966 founding by Robert and Diane Shupe (Service Blue), the Banner Capital Management partnership in 2024, and the family brands list."
+    "**Testimonials (section 7):** Samuel Levy and Elena Cruz. Kept as written in the doc (confirmed 2026-11-06).",
+    "**Facts:** 1966 founding by Robert and Diane Shupe (Service Blue), the Banner Capital Management partnership in 2024, and the family brands list. Kept exactly as in the doc (confirmed 2026-11-06)."
   ],
   "sign-installation": [
     "**New page**, admin-only until published. It returns 404 to the public and isn't in the sitemap.",
-    "**Missing link:** \"Read our **lobby sign cost guide**\" is bold but no URL is given, and no such page exists. Left as bold text.",
+    "**Missing link:** \"Read our **lobby sign cost guide**\" is bold but no URL is given, and no such page exists. Left as bold text. Decision: leave as plain text (2026-11-06).",
     "**Link added (as agreed):** \"Elevator lobby signs\" → `/nyc/wayfinding-signs/`.",
-    "**Testimonials (section 10):** Hannah Brooks and Victor Romano. Confirm these are real clients who agreed to be quoted.",
+    "**Testimonials (section 10):** Hannah Brooks and Victor Romano. Kept as written in the doc (confirmed 2026-11-06).",
     "**Image note:** the ADA image prompt says Braille renders inaccurately in AI images and a manual build is preferred."
   ],
   "contact": [
@@ -34,10 +34,10 @@
   ],
   "interior-signs": [
     "**Replacement** of the current Interior Signs hub page. Its current product-family links are replaced by the doc's card grid. Preview it at `/nyc/interior-signs/?vgnyc_preview=1`.",
-    "**Missing link (sections 5 and 12):** \"lobby sign cost guide\" is bold but no URL is given, and no such page exists.",
+    "**Missing link (sections 5 and 12):** \"lobby sign cost guide\" is bold but no URL is given, and no such page exists. Decision: leave as plain text (2026-11-06).",
     "**Bold but not linked (section 8):** \"Medical and professional offices\", \"Coworking spaces\", \"Retail and consultation rooms\". Left as bold text.",
     "**Project slots (section 10):** real photos only, 4 slots (`nyc-interior-signs-projects-01…04`).",
-    "**Testimonials (section 11):** Leah Whitman and Dominic Ferraro. Confirm these are real clients who agreed to be quoted.",
+    "**Testimonials (section 11):** Leah Whitman and Dominic Ferraro. Kept as written in the doc (confirmed 2026-11-06).",
     "**Links to the new installation page:** \"sign installation in NYC\" points to `/nyc/sign-installation/`, so publish both together."
   ]
 }
