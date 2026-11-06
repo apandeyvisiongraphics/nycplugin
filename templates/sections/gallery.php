@@ -4,7 +4,7 @@ if (!defined('ABSPATH')) { http_response_code(404); exit; }
 
 return function (array $s, array $ctx) {
     $reg = vgnyc_images();
-    $h = vgnyc_section_open('gallery', $s, $ctx);
+    $h = '<section class="' . vgnyc_section_class('wrap section vg-gallery', $s) . '">';
     if (!empty($s['h2']) || !empty($s['intro_html'])) {
         $h .= '<div class="vg-head"><div>';
         if (!empty($s['h2'])) { $h .= '<h2>' . esc_html($s['h2']) . '</h2>'; }
@@ -17,5 +17,5 @@ return function (array $s, array $ctx) {
         $caption = !empty($item['caption']) ? $item['caption'] : (string)($reg[$slot]['caption'] ?? '');
         $h .= '<figure class="vg-gallery__item">' . vgnyc_image($slot, array('sizes' => '(max-width: 700px) 100vw, 25vw')) . ($caption !== '' ? '<figcaption>' . esc_html($caption) . '</figcaption>' : '') . '</figure>';
     }
-    return $h . '</div>' . vgnyc_section_close();
+    return $h . '</div></section>';
 };

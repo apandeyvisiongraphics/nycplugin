@@ -3,7 +3,7 @@
 if (!defined('ABSPATH')) { http_response_code(404); exit; }
 
 return function (array $s, array $ctx) {
-    $h = vgnyc_section_open('quotes', $s, $ctx);
+    $h = '<section class="' . vgnyc_section_class('wrap section vg-quotes', $s) . '">';
     if (!empty($s['h2'])) { $h .= '<h2>' . esc_html($s['h2']) . '</h2>'; }
     $h .= '<div class="vg-quotes__grid">';
     foreach ($s['items'] ?? array() as $q) {
@@ -17,5 +17,5 @@ return function (array $s, array $ctx) {
         }
         $h .= '</figure>';
     }
-    return $h . '</div>' . vgnyc_section_close();
+    return $h . '</div></section>';
 };
