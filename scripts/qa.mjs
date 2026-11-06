@@ -47,7 +47,7 @@ function expectedCopy(doc) {
       if (inForm && (b.tag === 'li' || /^cta button/i.test(t))) continue;
       if (b.tag === 'li' && /form heading|lead form/i.test(JSON.stringify(sec.blocks.slice(0, 2)))) continue;
       if (lab && skipLabels.test(lab[1])) continue;
-      if (lab && /^cta buttons?$/i.test(lab[1])) { lab[2].split('|').forEach((x) => out.push(norm(x))); continue; }
+      if (lab && /^cta buttons?$/i.test(lab[1])) { out.push({ any: lab[2].split('|').map(norm) }); continue; }
       if (lab && /^microcopy/i.test(lab[1])) { out.push(norm(lab[2])); continue; }
       if (lab && /^(eyebrow|h1|intro|header|text|form heading)$/i.test(lab[1])) { out.push(norm(lab[2])); continue; }
       if (/^testimonials:?$/i.test(t)) continue;
@@ -88,7 +88,7 @@ for (const slug of slugs) {
   const main = find(dom, (n) => n.tagName === 'main')[0];
   const pageText = textOf(main);
   const expected = expectedCopy(doc);
-  const missing = expected.filter((t) => !pageText.includes(norm(t)));
+  const missing = expected.filter((t) => (typeof t === 'object' ? !t.any.some((x) => pageText.includes(x)) : !pageText.includes(norm(t)))).map((t) => (typeof t === 'object' ? t.any.join(' / ') : t));
   check('Copy matches the doc', missing.length === 0, missing.length ? `${expected.length - missing.length}/${expected.length} doc text blocks found verbatim` : `${expected.length}/${expected.length} doc text blocks found verbatim`);
   missing.forEach((m) => r.issues.push(`Copy not found verbatim: “${m.slice(0, 160)}”`));
 

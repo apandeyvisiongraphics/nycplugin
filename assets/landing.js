@@ -27,8 +27,9 @@
   const slot = dialog.querySelector('.vg-modal__slot');
   let opener = null;
 
+  // Only buttons inside the page content open the popup; header and footer buttons keep linking to /nyc/contact/.
   const isQuoteButton = (a) => {
-    if (!a.matches('a.btn, a.header-quote')) return false;
+    if (!a.matches('main a.btn')) return false;
     const href = a.getAttribute('href') || '';
     return href === '#inquiry' || /^(https?:\/\/[^/]+)?\/nyc\/contact\/(\?.*)?$/.test(href);
   };

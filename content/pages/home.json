@@ -12,11 +12,6 @@
           "label": "Get a Quote",
           "href": "#inquiry",
           "style": "primary"
-        },
-        {
-          "label": "Send a Photo",
-          "href": "#inquiry",
-          "style": "secondary"
         }
       ],
       "image": "nyc-home-hero-01",
@@ -155,6 +150,17 @@
       "doc_section": 6
     },
     {
+      "type": "cta-band",
+      "h2": "Ready for New Signs?",
+      "html": "<p>Start your custom signs New York project with one photo. Send a photo of your storefront, lobby, or office wall and the address, and we will come back with a drawing and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
       "type": "card-grid",
       "h2": "Signs in New York City for Every Industry",
       "intro_html": "<p>Different buildings need different commercial signs NYC owners and managers can rely on. We plan around how your space is used and who walks through it.</p>",
@@ -213,6 +219,18 @@
       "h2": "Recent Sign Projects",
       "intro_html": "<p>Recent Vision Graphics projects. Each project follows the same four steps, from the first photo to the final install. See more on our <a href=\"/nyc/projects/\">projects page</a>.</p>",
       "doc_section": 9
+    },
+    {
+      "type": "cta-band",
+      "variant": "compact",
+      "html": "<p>Send a photo of your space, and we will start your quote.</p>",
+      "cta": {
+        "label": "Send a Photo",
+        "href": "#inquiry",
+        "style": "secondary"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
     },
     {
       "type": "testimonials",

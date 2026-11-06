@@ -203,3 +203,21 @@ html.vg-modal-open{overflow:hidden}
 }
 @media (prefers-reduced-motion:reduce){.vg-modal[open],.vg-modal[open]::backdrop{animation:none}}
 .vgnyc-form input[type=file]::file-selector-button{border:0;background:#242723;color:#fff;border-radius:6px;padding:8px 14px;margin-right:12px;font:inherit;font-weight:600;cursor:pointer}
+
+/* ---------- Mid-page call to action (cta-band) ---------- */
+.vg-cta{padding:8px 0 64px}
+.vg-cta .vg-cta__band{margin:0;gap:36px;padding:38px 44px;position:relative;overflow:hidden;transition:transform .3s ease,box-shadow .3s ease}
+.vg-cta .vg-cta__band::after{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border-radius:50%;background:radial-gradient(circle,rgba(138,194,2,.22),rgba(138,194,2,0) 70%);pointer-events:none}
+.vg-cta .vg-cta__band:hover{box-shadow:0 16px 40px rgba(23,24,23,.1);transform:translateY(-2px)}
+.vg-cta__text{flex:1;position:relative;z-index:1}
+.vg-cta__title{font-size:clamp(1.6rem,2.4vw,2.1rem);line-height:1.12;letter-spacing:-.035em;font-weight:650;color:#171817;margin:0 0 8px}
+.vg-cta__text .vg-prose{font-size:16px;color:#4d5249;max-width:640px}
+.vg-cta .btn{position:relative;z-index:1;flex-shrink:0;font-size:15px;padding:15px 26px}
+.vg-cta--compact .vg-cta__band{padding:22px 30px;background:#fff;border:1px dashed #b9cf8f}
+.vg-cta--compact .vg-cta__text .vg-prose{font-size:18px;font-weight:600;color:#171817}
+@media (max-width:700px){
+  .vg-cta{padding:0 0 48px}
+  .vg-cta .vg-cta__band{flex-direction:column;align-items:flex-start;gap:20px;padding:26px 22px}
+  .vg-cta .btn{width:100%}
+}
+@media (prefers-reduced-motion:reduce){.vg-cta .vg-cta__band{transition:none}.vg-cta .vg-cta__band:hover{transform:none}}

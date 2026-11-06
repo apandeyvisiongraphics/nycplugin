@@ -12,11 +12,6 @@
           "label": "Get a Quote",
           "href": "#inquiry",
           "style": "primary"
-        },
-        {
-          "label": "Send a Photo",
-          "href": "#inquiry",
-          "style": "secondary"
         }
       ],
       "image": "nyc-interior-signs-hero-01",
@@ -182,6 +177,17 @@
       "doc_section": 6
     },
     {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Interior Signs?",
+      "html": "<p>Send photos of your lobby, walls, and floor plan, and tell us which signs you need.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
       "type": "process-steps",
       "h2": "How an Interior Sign Project Works",
       "steps": [
@@ -235,6 +241,18 @@
         }
       ],
       "doc_section": 9
+    },
+    {
+      "type": "cta-band",
+      "variant": "compact",
+      "html": "<p>One project lead keeps the design consistent from the first photo to the final install across all five boroughs.</p>",
+      "cta": {
+        "label": "Send a Photo",
+        "href": "#inquiry",
+        "style": "secondary"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
     },
     {
       "type": "gallery",

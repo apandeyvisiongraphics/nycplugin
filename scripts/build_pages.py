@@ -16,7 +16,8 @@ Copy is taken verbatim from the doc. Only these mechanical changes are made:
   - <strong> that only wraps a link (Google's link styling) is removed
   - links listed in the batch config ("link_additions") are added to the given text
 The batch config can also set image slot names per doc section ("slot_keys"), alt text ("alts") and
-approved meta title/description edits ("meta_overrides": {slug: {"meta_description": ...}}).
+approved meta title/description edits ("meta_overrides": {slug: {"meta_description": ...}}),
+one hero button ("hero_cta": label to keep) and mid-page call-to-action bands ("mid_ctas": true).
 Form-field lists, button labels and confirmation messages belong to Contact Form 7 and are skipped.
 """
 import html
@@ -368,6 +369,48 @@ def build_section(sec, ctx):
     return build_content(sec, ctx)
 
 
+
+# ------------------------------------------------------------------ layout options (batch config)
+def single_hero_cta(sections, keep):
+    """"hero_cta": keep one hero button (by label); returns the buttons that were dropped."""
+    hero = next((x for x in sections if x['type'] == 'hero'), None)
+    if not keep or not hero or len(hero.get('ctas', [])) < 2:
+        return []
+    kept = [c for c in hero['ctas'] if c['label'] == keep] or hero['ctas'][:1]
+    dropped = [c for c in hero['ctas'] if c is not kept[0]]
+    hero['ctas'] = [dict(kept[0], style='primary')]
+    return dropped
+
+
+def add_mid_ctas(sections, dropped, keep):
+    """"mid_ctas": on long pages, add call-to-action bands at about 40% and 75% of the content.
+    They reuse the writer's own wording: the closing (inquiry) heading and first line, and the
+    hero's "send a photo" line with the hero button that was dropped."""
+    if len(sections) < 9:
+        return sections
+    inq = next((x for x in sections if x['type'] == 'inquiry'), None)
+    hero = next((x for x in sections if x['type'] == 'hero'), None)
+    if not inq:
+        return sections
+    stop = next(i for i, x in enumerate(sections) if x['type'] in ('faq', 'inquiry'))
+    # Never next to a section that already ends with its own button (e.g. rich-text "Contact our team").
+    ok = [i for i in range(3, stop) if not sections[i].get('continues') and sections[i - 1]['type'] not in ('hero', 'trust-bar')
+          and not sections[i - 1].get('cta') and not sections[i].get('cta')]
+    if not ok:
+        return sections
+    pick = lambda f: min(ok, key=lambda i: abs(i - (2 + (stop - 2) * f)))
+    first_p = (re.findall(r'<p>.*?</p>', inq.get('intro_html', '')) or [''])[0]
+    bands = {pick(0.4): {'type': 'cta-band', 'h2': inq.get('h2'), 'html': first_p,
+                         'cta': {'label': keep or 'Get a Quote', 'href': '#inquiry'}, 'generated': 'mid-cta'}}
+    photo = [x for x in re.findall(r'<p>.*?</p>', (hero or {}).get('lead_html', '')) if 'photo' in x.lower()]
+    b = pick(0.75)
+    if dropped and photo and all(abs(b - a) >= 2 for a in bands):
+        bands[b] = {'type': 'cta-band', 'variant': 'compact', 'html': photo[-1],
+                    'cta': {'label': dropped[0]['label'], 'href': '#inquiry', 'style': 'secondary'}, 'generated': 'mid-cta'}
+    for i in sorted(bands, reverse=True):
+        sections.insert(i, dict(prune(bands[i]), doc_section=None))
+    return sections
+
 # ------------------------------------------------------------------ manifest / registry
 def manifest():
     php = "define('ABSPATH', 1); echo json_encode(require %s);" % json.dumps(os.path.join(ROOT, 'data', 'manifest.php'))
@@ -425,6 +468,9 @@ def main():
             for s in build_section(sec, ctx):
                 s['doc_section'] = sec['n']
                 sections.append(s)
+        dropped = single_hero_cta(sections, config.get('hero_cta'))
+        if config.get('mid_ctas'):
+            sections = add_mid_ctas(sections, dropped, config.get('hero_cta'))
         content = 'content/pages/%s.json' % slug
         with open(os.path.join(ROOT, content), 'w', encoding='utf-8') as f:
             json.dump({'route': doc['route'], 'source': doc['source'], 'sections': sections}, f, ensure_ascii=False, indent=2)

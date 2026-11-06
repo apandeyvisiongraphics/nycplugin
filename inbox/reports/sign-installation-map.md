@@ -176,23 +176,23 @@
 
 | Anchor text | URL in doc | Will render as | Type | Status |
 |---|---|---|---|---|
-| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| who we are and where signs are made | https://www.visiondoesit.com/nyc/about/ | `/nyc/about/` | internal | route exists ✅; live 200 |
-| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Tell us your loading dock and elevator rules | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| interior signs | https://www.visiondoesit.com/nyc/interior-signs/ | `/nyc/interior-signs/` | internal | route exists ✅; live 200 |
-| exterior signs | https://www.visiondoesit.com/nyc/exterior-signs/ | `/nyc/exterior-signs/` | internal | route exists ✅; live 200 |
-| Learn more about lobby signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live 200 |
-| Learn more about ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live 200 |
-| Learn more about storefront signs | https://www.visiondoesit.com/nyc/storefront-signs/ | `/nyc/storefront-signs/` | internal | route exists ✅; live 200 |
-| Learn more about channel letter signs | https://www.visiondoesit.com/nyc/channel-letter-signs/ | `/nyc/channel-letter-signs/` | internal | route exists ✅; live 200 |
-| Tell us about your old sign | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Send us a photo of your old sign | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Tell us about your wall | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
+| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| who we are and where signs are made | https://www.visiondoesit.com/nyc/about/ | `/nyc/about/` | internal | route exists ✅; live not checked |
+| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Tell us your loading dock and elevator rules | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| interior signs | https://www.visiondoesit.com/nyc/interior-signs/ | `/nyc/interior-signs/` | internal | route exists ✅; live not checked |
+| exterior signs | https://www.visiondoesit.com/nyc/exterior-signs/ | `/nyc/exterior-signs/` | internal | route exists ✅; live not checked |
+| Learn more about lobby signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live not checked |
+| Learn more about ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live not checked |
+| Learn more about storefront signs | https://www.visiondoesit.com/nyc/storefront-signs/ | `/nyc/storefront-signs/` | internal | route exists ✅; live not checked |
+| Learn more about channel letter signs | https://www.visiondoesit.com/nyc/channel-letter-signs/ | `/nyc/channel-letter-signs/` | internal | route exists ✅; live not checked |
+| Tell us about your old sign | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Send us a photo of your old sign | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Tell us about your wall | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
 
 ## Issues
 

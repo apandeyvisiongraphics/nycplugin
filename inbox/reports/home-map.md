@@ -214,24 +214,24 @@
 
 | Anchor text | URL in doc | Will render as | Type | Status |
 |---|---|---|---|---|
-| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| exterior signs | https://www.visiondoesit.com/nyc/exterior-signs/ | `/nyc/exterior-signs/` | internal | route exists ✅; live 200 |
-| Learn more about storefront signs | https://www.visiondoesit.com/nyc/storefront-signs/ | `/nyc/storefront-signs/` | internal | route exists ✅; live 200 |
-| Learn more about channel letter signs | https://www.visiondoesit.com/nyc/channel-letter-signs/ | `/nyc/channel-letter-signs/` | internal | route exists ✅; live 200 |
-| Learn more about dimensional letter signs | https://www.visiondoesit.com/nyc/dimensional-letter-signs/ | `/nyc/dimensional-letter-signs/` | internal | route exists ✅; live 200 |
-| interior signs | https://www.visiondoesit.com/nyc/interior-signs/ | `/nyc/interior-signs/` | internal | route exists ✅; live 200 |
-| Learn more about lobby signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live 200 |
-| Learn more about office signs | https://www.visiondoesit.com/nyc/office-signs/ | `/nyc/office-signs/` | internal | route exists ✅; live 200 |
-| Learn more about ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live 200 |
-| sign installation NYC | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live 404 |
-| Learn more about signs for restaurants. | https://www.visiondoesit.com/nyc/restaurants/ | `/nyc/restaurants/` | internal | route exists ✅; live 200 |
-| Learn more about signs for retail | https://www.visiondoesit.com/nyc/retail/ | `/nyc/retail/` | internal | route exists ✅; live 200 |
-| Learn more about signs for offices and properties. | https://www.visiondoesit.com/nyc/offices-properties/ | `/nyc/offices-properties/` | internal | route exists ✅; live 200 |
-| projects page | https://www.visiondoesit.com/nyc/projects/ | `/nyc/projects/` | internal | route exists ✅; live 200 |
-| Learn more about Manhattan signs. | https://www.visiondoesit.com/nyc/manhattan/ | `/nyc/manhattan/` | internal | route exists ✅; live 200 |
-| Learn more about Brooklyn signs | https://www.visiondoesit.com/nyc/brooklyn/ | `/nyc/brooklyn/` | internal | route exists ✅; live 200 |
-| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
+| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| exterior signs | https://www.visiondoesit.com/nyc/exterior-signs/ | `/nyc/exterior-signs/` | internal | route exists ✅; live not checked |
+| Learn more about storefront signs | https://www.visiondoesit.com/nyc/storefront-signs/ | `/nyc/storefront-signs/` | internal | route exists ✅; live not checked |
+| Learn more about channel letter signs | https://www.visiondoesit.com/nyc/channel-letter-signs/ | `/nyc/channel-letter-signs/` | internal | route exists ✅; live not checked |
+| Learn more about dimensional letter signs | https://www.visiondoesit.com/nyc/dimensional-letter-signs/ | `/nyc/dimensional-letter-signs/` | internal | route exists ✅; live not checked |
+| interior signs | https://www.visiondoesit.com/nyc/interior-signs/ | `/nyc/interior-signs/` | internal | route exists ✅; live not checked |
+| Learn more about lobby signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live not checked |
+| Learn more about office signs | https://www.visiondoesit.com/nyc/office-signs/ | `/nyc/office-signs/` | internal | route exists ✅; live not checked |
+| Learn more about ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live not checked |
+| sign installation NYC | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live not checked |
+| Learn more about signs for restaurants. | https://www.visiondoesit.com/nyc/restaurants/ | `/nyc/restaurants/` | internal | route exists ✅; live not checked |
+| Learn more about signs for retail | https://www.visiondoesit.com/nyc/retail/ | `/nyc/retail/` | internal | route exists ✅; live not checked |
+| Learn more about signs for offices and properties. | https://www.visiondoesit.com/nyc/offices-properties/ | `/nyc/offices-properties/` | internal | route exists ✅; live not checked |
+| projects page | https://www.visiondoesit.com/nyc/projects/ | `/nyc/projects/` | internal | route exists ✅; live not checked |
+| Learn more about Manhattan signs. | https://www.visiondoesit.com/nyc/manhattan/ | `/nyc/manhattan/` | internal | route exists ✅; live not checked |
+| Learn more about Brooklyn signs | https://www.visiondoesit.com/nyc/brooklyn/ | `/nyc/brooklyn/` | internal | route exists ✅; live not checked |
+| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
 
 ## Issues
 

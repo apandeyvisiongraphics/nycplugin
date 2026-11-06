@@ -1,6 +1,6 @@
 # Compare report
 
-Generated 2026-11-06T08:17:45.285Z against `tests/baseline` (http://pandeystore.local).
+Generated 2026-11-06T09:14:05.667Z against `tests/baseline` (http://pandeystore.local).
 
 **81/81 existing targets pass** (+1 new, not in baseline) (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
 

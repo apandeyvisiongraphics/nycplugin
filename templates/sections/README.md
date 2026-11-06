@@ -41,6 +41,7 @@ Rules for every section:
 | `gallery` | Project photos | `h2?`, `intro_html?`, `items` [`{image, caption?}`] |
 | `faq` | Questions and answers, plus FAQPage JSON-LD | `h2`, `items` [`{q, a_html}`] |
 | `inquiry` | The form (always `id="inquiry"`) | `h2`, `intro_html?`, `note_html?` |
+| `cta-band` | Call-to-action band between sections | `h2?` (shown as a styled title, not an H2), `html?`, `cta` `{label, href, style?}`, `variant?` (`compact`) |
 
 ## Examples
 
@@ -70,10 +71,19 @@ Every page uses the one Contact Form 7 form, `[contact-form-7 id="328910e" title
 set in **Settings → Vision Graphics NYC**. Only the first `inquiry` section on a page gets the
 `<!-- VGNYC_FORM -->` placeholder, so the form shows on the page inside a white card.
 
-Every quote button opens that same form in a popup: any `a.btn` (or the header "Request a quote")
-linking to `#inquiry` or `/nyc/contact/`. `templates/landing-page.php` adds the
+Every quote button **inside the page content** opens that same form in a popup: any `main a.btn`
+linking to `#inquiry` or `/nyc/contact/`. Header and footer buttons ("Request a quote", "Contact us")
+are plain links to `/nyc/contact/`. `templates/landing-page.php` adds the
 `<dialog id="vg-inquiry-modal">`, and `assets/landing.js` moves the single form into it and back
 on close, so a page never has two forms. Without JavaScript the buttons jump to `#inquiry`.
+
+## Calls to action
+
+- **Hero:** shows one button, "Get a Quote". The batch config option `"hero_cta"` picks which of the writer's hero buttons to keep.
+- **Long pages (9+ sections):** with `"mid_ctas": true`, `scripts/build_pages.py` adds two bands, never next to a section that already has a button:
+  - **About 40% of the way down:** a full `cta-band` with the closing heading, its first line and "Get a Quote".
+  - **About 75% of the way down:** a compact band with the hero's "send a photo" line and the dropped hero button ("Send a Photo").
+- **Traceability:** both bands reuse the writer's own wording and carry `"generated": "mid-cta"`.
 
 ## Motion
 

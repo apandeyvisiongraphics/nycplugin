@@ -213,33 +213,33 @@
 
 | Anchor text | URL in doc | Will render as | Type | Status |
 |---|---|---|---|---|
-| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Lobby signs in NYC | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live 200 |
-| Acrylic signs in NYC | https://www.visiondoesit.com/nyc/acrylic-signs/ | `/nyc/acrylic-signs/` | internal | route exists ✅; live 200 |
-| Mission statement signs in NYC | https://www.visiondoesit.com/nyc/mission-statement-signs/ | `/nyc/mission-statement-signs/` | internal | route exists ✅; live 200 |
-| Environmental graphics in NYC | https://www.visiondoesit.com/nyc/environmental-graphics/ | `/nyc/environmental-graphics/` | internal | route exists ✅; live 200 |
-| Office signs in NYC | https://www.visiondoesit.com/nyc/office-signs/ | `/nyc/office-signs/` | internal | route exists ✅; live 200 |
-| Door signs in NYC | https://www.visiondoesit.com/nyc/door-signs/ | `/nyc/door-signs/` | internal | route exists ✅; live 200 |
-| Directional signs in NYC | https://www.visiondoesit.com/nyc/directional-signs/ | `/nyc/directional-signs/` | internal | route exists ✅; live 200 |
-| Interior directory signs in NYC | https://www.visiondoesit.com/nyc/interior-directory-signs/ | `/nyc/interior-directory-signs/` | internal | route exists ✅; live 200 |
-| ADA signs in NYC | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live 200 |
-| Restroom signs in NYC | https://www.visiondoesit.com/nyc/restroom-signs/ | `/nyc/restroom-signs/` | internal | route exists ✅; live 200 |
-| Wall graphics in NYC | https://www.visiondoesit.com/nyc/wall-graphics/ | `/nyc/wall-graphics/` | internal | route exists ✅; live 200 |
-| Wall murals in NYC | https://www.visiondoesit.com/nyc/wall-murals/ | `/nyc/wall-murals/` | internal | route exists ✅; live 200 |
-| Wall decals in NYC | https://www.visiondoesit.com/nyc/wall-decals/ | `/nyc/wall-decals/` | internal | route exists ✅; live 200 |
-| Vinyl signs in NYC | https://www.visiondoesit.com/nyc/vinyl-signs/ | `/nyc/vinyl-signs/` | internal | route exists ✅; live 200 |
-| Lobby and reception signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live 200 |
-| ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live 200 |
-| Directory signs | https://www.visiondoesit.com/nyc/interior-directory-signs/ | `/nyc/interior-directory-signs/` | internal | route exists ✅; live 200 |
-| Door signs | https://www.visiondoesit.com/nyc/door-signs/ | `/nyc/door-signs/` | internal | route exists ✅; live 200 |
-| Wall graphics | https://www.visiondoesit.com/nyc/wall-graphics/ | `/nyc/wall-graphics/` | internal | route exists ✅; live 200 |
-| ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live 200 |
-| dimensional letters | https://www.visiondoesit.com/nyc/dimensional-letter-signs/ | `/nyc/dimensional-letter-signs/` | internal | route exists ✅; live 200 |
-| sign installation in NYC | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live 404 |
-| offices and properties | https://www.visiondoesit.com/nyc/offices-properties/ | `/nyc/offices-properties/` | internal | route exists ✅; live 200 |
-| Send us photos of your existing signs | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
+| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Lobby signs in NYC | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live not checked |
+| Acrylic signs in NYC | https://www.visiondoesit.com/nyc/acrylic-signs/ | `/nyc/acrylic-signs/` | internal | route exists ✅; live not checked |
+| Mission statement signs in NYC | https://www.visiondoesit.com/nyc/mission-statement-signs/ | `/nyc/mission-statement-signs/` | internal | route exists ✅; live not checked |
+| Environmental graphics in NYC | https://www.visiondoesit.com/nyc/environmental-graphics/ | `/nyc/environmental-graphics/` | internal | route exists ✅; live not checked |
+| Office signs in NYC | https://www.visiondoesit.com/nyc/office-signs/ | `/nyc/office-signs/` | internal | route exists ✅; live not checked |
+| Door signs in NYC | https://www.visiondoesit.com/nyc/door-signs/ | `/nyc/door-signs/` | internal | route exists ✅; live not checked |
+| Directional signs in NYC | https://www.visiondoesit.com/nyc/directional-signs/ | `/nyc/directional-signs/` | internal | route exists ✅; live not checked |
+| Interior directory signs in NYC | https://www.visiondoesit.com/nyc/interior-directory-signs/ | `/nyc/interior-directory-signs/` | internal | route exists ✅; live not checked |
+| ADA signs in NYC | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live not checked |
+| Restroom signs in NYC | https://www.visiondoesit.com/nyc/restroom-signs/ | `/nyc/restroom-signs/` | internal | route exists ✅; live not checked |
+| Wall graphics in NYC | https://www.visiondoesit.com/nyc/wall-graphics/ | `/nyc/wall-graphics/` | internal | route exists ✅; live not checked |
+| Wall murals in NYC | https://www.visiondoesit.com/nyc/wall-murals/ | `/nyc/wall-murals/` | internal | route exists ✅; live not checked |
+| Wall decals in NYC | https://www.visiondoesit.com/nyc/wall-decals/ | `/nyc/wall-decals/` | internal | route exists ✅; live not checked |
+| Vinyl signs in NYC | https://www.visiondoesit.com/nyc/vinyl-signs/ | `/nyc/vinyl-signs/` | internal | route exists ✅; live not checked |
+| Lobby and reception signs | https://www.visiondoesit.com/nyc/lobby-signs/ | `/nyc/lobby-signs/` | internal | route exists ✅; live not checked |
+| ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live not checked |
+| Directory signs | https://www.visiondoesit.com/nyc/interior-directory-signs/ | `/nyc/interior-directory-signs/` | internal | route exists ✅; live not checked |
+| Door signs | https://www.visiondoesit.com/nyc/door-signs/ | `/nyc/door-signs/` | internal | route exists ✅; live not checked |
+| Wall graphics | https://www.visiondoesit.com/nyc/wall-graphics/ | `/nyc/wall-graphics/` | internal | route exists ✅; live not checked |
+| ADA signs | https://www.visiondoesit.com/nyc/ada-signs/ | `/nyc/ada-signs/` | internal | route exists ✅; live not checked |
+| dimensional letters | https://www.visiondoesit.com/nyc/dimensional-letter-signs/ | `/nyc/dimensional-letter-signs/` | internal | route exists ✅; live not checked |
+| sign installation in NYC | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live not checked |
+| offices and properties | https://www.visiondoesit.com/nyc/offices-properties/ | `/nyc/offices-properties/` | internal | route exists ✅; live not checked |
+| Send us photos of your existing signs | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
 
 ## Issues
 

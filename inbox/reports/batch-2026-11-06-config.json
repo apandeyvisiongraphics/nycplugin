@@ -100,5 +100,7 @@
     "about": {
       "meta_description": "Learn who Vision Graphics is, where we make your NYC signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote."
     }
-  }
+  },
+  "hero_cta": "Get a Quote",
+  "mid_ctas": true
 }

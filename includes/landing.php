@@ -38,7 +38,7 @@ function vgnyc_landing_data($page) {
 
 /** Section types that have a template in templates/sections/. */
 function vgnyc_section_types() {
-    return array('hero', 'trust-bar', 'rich-text', 'image-text', 'features-grid', 'card-grid', 'process-steps', 'testimonials', 'gallery', 'faq', 'inquiry');
+    return array('hero', 'trust-bar', 'rich-text', 'image-text', 'features-grid', 'card-grid', 'process-steps', 'testimonials', 'gallery', 'faq', 'inquiry', 'cta-band');
 }
 
 /** Renders one section; unknown types render nothing. */

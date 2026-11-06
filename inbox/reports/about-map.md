@@ -133,18 +133,18 @@
 
 | Anchor text | URL in doc | Will render as | Type | Status |
 |---|---|---|---|---|
-| custom signs NYC | https://www.visiondoesit.com/nyc/ | `/nyc/` | internal | route exists ✅; live 200 |
-| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Ask our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| how we handle installation in New York City | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live 404 |
-| they will answer them | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| projects page | https://www.visiondoesit.com/nyc/projects/ | `/nyc/projects/` | internal | route exists ✅; live 200 |
-| Ask our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
-| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live 200 |
+| custom signs NYC | https://www.visiondoesit.com/nyc/ | `/nyc/` | internal | route exists ✅; live not checked |
+| Send a Photo | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Get a Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Ask our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| how we handle installation in New York City | https://www.visiondoesit.com/nyc/sign-installation/ | `/nyc/sign-installation/` | internal | route exists ✅; live not checked |
+| they will answer them | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| projects page | https://www.visiondoesit.com/nyc/projects/ | `/nyc/projects/` | internal | route exists ✅; live not checked |
+| Ask our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| send us your requirements | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Contact our team | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
+| Get My Quote | https://www.visiondoesit.com/nyc/contact/ | `/nyc/contact/` | internal | route exists ✅; live not checked |
 
 ## Issues
 
