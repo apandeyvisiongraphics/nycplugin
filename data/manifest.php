@@ -9,7 +9,12 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "template": "service",
     "content": "content/services/about.json",
     "service": false,
-    "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
+    "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp",
+    "draft_template": "landing",
+    "draft_content": "content/pages/about.json",
+    "draft_title": "About Vision Graphics New York | NYC Sign Company",
+    "draft_description": "Learn who Vision Graphics is, where we make your New York City signs, and who installs them. A 60-year-old visual communications company. Send a photo for a quote.",
+    "draft_image": "nyc-about-hero-01"
   },
   "/nyc/acrylic-signs/": {
     "title": "Acrylic signs with a clear design purpose | Vision Graphics New York",
@@ -117,7 +122,11 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "template": "raw",
     "content": "pages/contact.php",
     "service": false,
-    "image": "/nyc/assets/vg-logo-dark.webp"
+    "image": "/nyc/assets/vg-logo-dark.webp",
+    "draft_template": "landing",
+    "draft_content": "content/pages/contact.json",
+    "draft_title": "Request a Sign Quote in NYC | Vision Graphics NYC",
+    "draft_description": "Send photos and a few details about your NYC sign project. A Vision Graphics project lead replies within one business day with next steps and a quote."
   },
   "/nyc/corrugated-signage/": {
     "title": "Corrugated signs for planned short-term use | Vision Graphics New York",
@@ -297,7 +306,12 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "template": "raw",
     "content": "pages/home.php",
     "service": false,
-    "image": "/nyc/assets/mcs-new-home-hero-channel-letters-1600.webp"
+    "image": "/nyc/assets/mcs-new-home-hero-channel-letters-1600.webp",
+    "draft_template": "landing",
+    "draft_content": "content/pages/home.json",
+    "draft_title": "Custom Signs NYC: Design, Build & Install | Vision Graphics",
+    "draft_description": "Custom signs for New York City businesses and property managers. Storefront, lobby, and office signs from design to installation. Send a photo for a quote.",
+    "draft_image": "nyc-home-hero-01"
   },
   "/nyc/interior-directory-signs/": {
     "title": "Interior directories that stay organized | Vision Graphics New York",
@@ -315,7 +329,12 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "template": "service",
     "content": "content/services/interior-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-service-interior-signs-960.webp"
+    "image": "/nyc/assets/mcs-new-service-interior-signs-960.webp",
+    "draft_template": "landing",
+    "draft_content": "content/pages/interior-signs.json",
+    "draft_title": "Interior Signs NYC: Lobby, Office & ADA | Vision Graphics",
+    "draft_description": "Interior signs for New York City offices and buildings. Lobby, office, ADA, and wayfinding signs, designed, made, and installed through one project lead.",
+    "draft_image": "nyc-interior-signs-hero-01"
   },
   "/nyc/large-format-printing-services/": {
     "title": "Large format printing planned at full scale | Vision Graphics New York",
@@ -568,6 +587,15 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "content": "content/services/school-signs.json",
     "service": true,
     "image": "/nyc/assets/mcs-interior-signs-960.webp"
+  },
+  "/nyc/sign-installation/": {
+    "title": "Sign Installation in NYC: Removal & Repair | Vision Graphics",
+    "description": "Sign installation in NYC for offices and storefronts. Old sign removal, wall patching, after-hours installs, and a certificate of insurance for your building.",
+    "template": "landing",
+    "content": "content/pages/sign-installation.json",
+    "service": true,
+    "image": "nyc-sign-installation-hero-01",
+    "status": "draft"
   },
   "/nyc/signs-for-golf-tournaments/": {
     "title": "Golf tournament signs for an organized event | Vision Graphics New York",

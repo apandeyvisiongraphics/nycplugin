@@ -1,0 +1,69 @@
+{
+  "link_additions": {
+    "sign-installation": [
+      { "text": "Elevator lobby signs", "href": "/nyc/wayfinding-signs/" }
+    ],
+    "contact": [
+      { "text": "privacy policy", "href": "/nyc/privacy/" },
+      { "text": "sign installation page", "href": "/nyc/sign-installation/" }
+    ]
+  },
+  "slot_keys": {
+    "home": { "4": "exterior", "5": "interior", "6": "fabrication", "7": "industries", "8": "process", "11": "boroughs" },
+    "about": { "3": "story", "4": "production", "5": "install" },
+    "sign-installation": { "3": "included", "5": "buildings", "6": "interior-exterior", "7": "removal", "9": "process" },
+    "interior-signs": { "3": "types", "4": "package", "7": "process" }
+  },
+  "alts": {
+    "nyc-home-hero-01": "Illuminated channel letters above the entrance of a limestone-and-glass building on a New York City avenue",
+    "nyc-home-exterior-01": "Brushed-metal fascia sign with a soft halo glow above a stone shopfront window",
+    "nyc-home-exterior-02": "Illuminated channel letters glowing on a dark charcoal facade in the evening",
+    "nyc-home-exterior-03": "Brushed-brass dimensional letters on a pale limestone wall",
+    "nyc-home-exterior-04": "Tenant sign band and wall-mounted identification sign on a mid-rise office building",
+    "nyc-home-exterior-05": "Projecting blade sign on a metal bracket above a doorway along a sidewalk",
+    "nyc-home-exterior-06": "Frosted window film band and vinyl lettering on a storefront window",
+    "nyc-home-interior-01": "Backlit wall logo behind a stone reception desk in a tall office lobby",
+    "nyc-home-interior-02": "Dimensional wall logo and conference room plate in a bright open-plan office",
+    "nyc-home-interior-03": "Tactile room sign with raised symbols and Braille beside a door frame",
+    "nyc-home-interior-04": "Overhead directional sign with arrows in an elevator lobby",
+    "nyc-home-interior-05": "Suite sign mounted beside an office door",
+    "nyc-home-fabrication-01": "Acrylic letters being assembled in a fabrication shop beside an installer mounting a panel on a city facade",
+    "nyc-home-industries-01": "Restaurant frontage on a rainy evening with a hanging blade sign and window lettering",
+    "nyc-home-industries-02": "Corner boutique with a fascia sign and window graphics",
+    "nyc-home-industries-03": "Lobby directory board with matching tenant panels",
+    "nyc-home-process-01": "Desk with a storefront photo, tape measure, sketches and a sign mockup on a tablet",
+    "nyc-home-boroughs-01": "New York City skyline across the rivers in morning light",
+    "nyc-about-hero-01": "Design studio desk with sign drawings, material swatches and a laptop beside a window overlooking the city",
+    "nyc-about-story-01": "Large-format printer running in a production facility",
+    "nyc-about-production-01": "Finished sign panels wrapped in protective film on pallets beside a loading dock",
+    "nyc-about-install-01": "Installers on a lift mounting a metal sign panel on an office tower facade",
+    "nyc-sign-installation-hero-01": "Two installers mounting a dimensional metal sign on an office lobby wall",
+    "nyc-sign-installation-included-01": "One wall in four stages: old sign removed, wall patched, new sign mounted and floor cleaned",
+    "nyc-sign-installation-buildings-01": "Installer guiding a padded sign crate out of a freight elevator",
+    "nyc-sign-installation-interior-exterior-01": "Installer leveling a brushed-metal reception logo on a lobby wall",
+    "nyc-sign-installation-interior-exterior-02": "Installer marking the mounting height for suite signs along an office corridor",
+    "nyc-sign-installation-interior-exterior-03": "Installer mounting a directional floor sign beside elevator doors",
+    "nyc-sign-installation-interior-exterior-04": "Tactile room sign being mounted beside a door frame",
+    "nyc-sign-installation-interior-exterior-05": "Installer on a boom lift mounting a fascia sign above a storefront",
+    "nyc-sign-installation-interior-exterior-06": "Installer fixing illuminated channel letters to a building facade",
+    "nyc-sign-installation-removal-01": "Before and after: an old sign removed and the patched wall with a new sign installed",
+    "nyc-sign-installation-process-01": "Client signing an approved sign drawing beside metal, acrylic and vinyl samples",
+    "nyc-interior-signs-hero-01": "Office reception with a brushed-metal wall logo, room signs and an overhead directional sign",
+    "nyc-interior-signs-types-01": "Brushed-metal wall logo behind a stone reception desk in a double-height lobby",
+    "nyc-interior-signs-types-02": "Backlit layered acrylic logo panel on a conference room wall",
+    "nyc-interior-signs-types-03": "Large white dimensional letters on an office feature wall",
+    "nyc-interior-signs-types-04": "Corridor with bold color bands running across the walls and floor",
+    "nyc-interior-signs-types-05": "Brass suite plate and conference room plate beside glass doors",
+    "nyc-interior-signs-types-06": "Hallway of office doors, each with a matching sign beside it",
+    "nyc-interior-signs-types-07": "Hanging directional sign with arrows at a corridor junction",
+    "nyc-interior-signs-types-08": "Building directory with tenant strips beside an elevator",
+    "nyc-interior-signs-types-09": "Fingertip on a tactile room sign with raised symbols and Braille",
+    "nyc-interior-signs-types-10": "Restroom signs with pictograms beside two doors",
+    "nyc-interior-signs-types-11": "Large printed wall graphic behind a sofa in a coworking lounge",
+    "nyc-interior-signs-types-12": "Floor-to-ceiling landscape wall mural in an office break area",
+    "nyc-interior-signs-types-13": "Cut-vinyl wall decals above a break room counter",
+    "nyc-interior-signs-types-14": "Frosted vinyl band and cut-vinyl shapes on a glass meeting room wall",
+    "nyc-interior-signs-package-01": "Floor plan with sign models and colored dots marking each sign location",
+    "nyc-interior-signs-process-01": "Designer marking sign locations on a printed floor plan"
+  }
+}

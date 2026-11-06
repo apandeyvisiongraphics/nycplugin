@@ -170,6 +170,7 @@ const locs = (xml) => new Set([...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map((m) =>
 const rows = await pool(list, 6, async (t) => {
   const r = { route: t.route, template: t.template, html: '-', seo: '-', headers: '-', visual: '-', assets: '-', details: [] };
   const set = (k, res) => { r[k] = res.ok ? 'ok' : 'FAIL'; if (!res.ok) r.details.push(`[${k}] ${res.detail}`); };
+  if (!fs.existsSync(fileFor(B, t.slug))) { r.new = true; r.headers = `new (${(hc[t.slug] || {}).status})`; return r; }
   const oldHtml = fs.readFileSync(fileFor(B, t.slug), 'utf8');
   const cf = fileFor(C, t.slug);
   if (!fs.existsSync(cf)) { r.html = 'FAIL'; r.details.push('[html] not captured'); return r; }
@@ -194,19 +195,21 @@ const rows = await pool(list, 6, async (t) => {
 });
 
 const pass = (r) => !['html', 'seo', 'headers', 'visual', 'assets'].some((k) => r[k] === 'FAIL');
+const result = (r) => (r.new ? 'NEW (no baseline)' : pass(r) ? 'PASS' : 'FAIL');
 const failed = rows.filter((r) => !pass(r));
+const fresh = rows.filter((r) => r.new);
 const header = '| route | template | html | seo | headers | visual | assets | result |\n|---|---|---|---|---|---|---|---|';
-const table = rows.map((r) => `| ${r.route} | ${r.template} | ${r.html} | ${r.seo} | ${r.headers} | ${r.visual} | ${r.assets} | ${pass(r) ? 'PASS' : 'FAIL'} |`).join('\n');
+const table = rows.map((r) => `| ${r.route} | ${r.template} | ${r.html} | ${r.seo} | ${r.headers} | ${r.visual} | ${r.assets} | ${result(r)} |`).join('\n');
 const tally = {};
 for (const r of rows) tally[r.template] = (tally[r.template] || 0) + 1;
 const fallbackFile = path.join(TESTS, 'fallbacks.md');
 const fallbacks = fs.existsSync(fallbackFile) ? fs.readFileSync(fallbackFile, 'utf8').trim() : 'None.';
 const report = `# Compare report\n\nGenerated ${new Date().toISOString()} against \`tests/baseline\` (${BASE_URL}).\n\n` +
-  `**${rows.length - failed.length}/${rows.length} targets pass** (checks: a html, b seo, c headers, d visual @ ${WIDTHS.join(' & ')}px with 0 px tolerance, e assets, f sitemap)${noScreens ? ' — visual check skipped' : ''}.\n\n` +
+  `**${rows.length - failed.length - fresh.length}/${rows.length - fresh.length} existing targets pass**${fresh.length ? ` (+${fresh.length} new, not in baseline)` : ''} (checks: a html, b seo, c headers, d visual @ ${WIDTHS.join(' & ')}px with 0 px tolerance, e assets, f sitemap)${noScreens ? ' — visual check skipped' : ''}.\n\n` +
   `Templates: ${Object.entries(tally).map(([k, v]) => `${k} ${v}`).join(', ')}\n\n${header}\n${table}\n\n## Fallbacks\n\n${fallbacks}\n` +
   (failed.length ? `\n## Failures\n\n${failed.map((r) => `### ${r.route}\n\n\`\`\`\n${r.details.join('\n')}\n\`\`\``).join('\n\n')}\n` : '');
 fs.writeFileSync(path.join(TESTS, 'report.md'), report);
 console.log(header + '\n' + table);
 for (const r of failed) console.log(`\n### ${r.route}\n${r.details.join('\n')}`);
-console.log(`\n${rows.length - failed.length}/${rows.length} pass${noScreens ? ' (visual skipped)' : ''}. Report: tests/report.md`);
+console.log(`\n${rows.length - failed.length - fresh.length}/${rows.length - fresh.length} existing targets pass${fresh.length ? `, ${fresh.length} new (not in baseline): ${fresh.map((r) => r.route).join(' ')}` : ''}${noScreens ? ' (visual skipped)' : ''}. Report: tests/report.md`);
 process.exit(failed.length ? 1 : 0);

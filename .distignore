@@ -5,3 +5,6 @@ legacy/
 .distignore
 PHASE1_REFACTOR.md
 .DS_Store
+inbox/
+images-inbox/
+*.md

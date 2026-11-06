@@ -1,0 +1,213 @@
+{
+  "route": "/nyc/about/",
+  "source": "VGNYCLandingPages0411.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "About Vision Graphics New York: Custom Signs for NYC Businesses",
+      "lead_html": "<p>Vision Graphics New York is how Vision Graphics serves New York City businesses.</p><p>We are a 60-year visual communications company that designs and makes <a href=\"/nyc/\">custom signs NYC</a> owners and property managers rely on, and we manage installation through licensed partners.</p><p>Send a photo, and we will start your quote.</p>",
+      "ctas": [
+        {
+          "label": "Send a Photo",
+          "href": "#inquiry",
+          "style": "primary"
+        },
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "secondary"
+        }
+      ],
+      "image": "nyc-about-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics history",
+          "icon": "award"
+        },
+        {
+          "title": "Made in Salt Lake City",
+          "text": "Shipped to your NYC project",
+          "icon": "layers"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "One Contact",
+          "text": "A project lead from photo to install",
+          "icon": "user"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "image-text",
+      "h2": "Who We Are",
+      "html": "<p>Our roots go back to 1966, when Robert and Diane Shupe started Service Blue, a blueprint business, in their family basement. Over six decades, it grew into Vision Graphics, a large-format and signage producer with a production facility in Salt Lake City.</p><p>We expanded across Utah and Nevada, then beyond. In 2024, Banner Capital Management became our growth partner, and Queen of Wraps and 1Source have since joined the Vision Graphics family.</p><p>We serve brands nationwide. For New York City clients, that history means the production depth to handle one sign or a multi-location program, with the same standards on every job.</p>",
+      "image": "nyc-about-story-01",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "Where Your Signs Are Made",
+      "intro_html": "<p>We make most signs at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p>",
+      "items": [
+        {
+          "title": "Production You Can Ask About",
+          "html": "<p>Our team handles large-format printing, finishing, and fabrication, and can share equipment and material details for your sign. <a href=\"#inquiry\">Ask our team</a> about materials, equipment, and lead times.</p>"
+        },
+        {
+          "title": "Checked Before It Ships.",
+          "html": "<p>We check every piece against the drawing you approved. What leaves our facility matches what you signed off.</p>"
+        },
+        {
+          "title": "Packed and Shipped to Your Project",
+          "html": "<p>We pack signs for transit and ship them to your NYC address or installer. We plan transit time into your schedule, so installation dates line up with delivery.</p>"
+        }
+      ],
+      "image": "nyc-about-production-01",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "How We Install in New York City",
+      "intro_html": "<p>Licensed installation partners handle your New York City installation. The city requires a licensed sign hanger for most installs, and we manage the schedule from delivery to final mounting.</p>",
+      "items": [
+        {
+          "title": "Licensed Partners",
+          "html": "<p>Installers with the right licenses for NYC. A licensed sign hanger installs your sign, and a licensed electrician makes the final connection on lit signs. We prepare the permit paperwork and coordinate the licensed filer.</p>"
+        },
+        {
+          "title": "Insurance",
+          "html": "<p>We can provide a certificate of insurance upon request. Buildings set their own coverage requirements, so our team confirms yours before work starts.</p>"
+        },
+        {
+          "title": "Building Access and After-Hours Work",
+          "html": "<p>We schedule installs around your building's rules. That includes evenings, weekends, and freight elevator windows, and we confirm any added labor charges in your quote.</p><p>See <a href=\"/nyc/sign-installation/\">how we handle installation in New York City</a>.</p>"
+        }
+      ],
+      "image": "nyc-about-install-01",
+      "doc_section": 5
+    },
+    {
+      "type": "rich-text",
+      "h2": "Who You Work With",
+      "html": "<p>A Vision Graphics project lead is your single point of contact from the first photo to the final install.</p><p>Your lead keeps drawings, approvals, and schedule in one place, so you always know who to call.</p><p>Questions about site visits, meetings, references,s or building requirements go to our team, and <a href=\"#inquiry\">they will answer them</a>.</p>",
+      "doc_section": 6
+    },
+    {
+      "type": "features-grid",
+      "h2": "Our Work",
+      "intro_html": "<p>Projects shown here come from other Vision Graphics locations, and each is labeled with its city. Our work appears in stadiums, restaurants, retail spaces, and events across the country. See more on our <a href=\"/nyc/projects/\">projects page</a>.</p>",
+      "items_heading": "Where it fits",
+      "items": [
+        {
+          "title": "Independent Businesses",
+          "html": "<p>One sign or a full storefront refresh, started from a photo. We handle design, production, and installation coordination so you don't have to manage multiple vendors.</p>"
+        },
+        {
+          "title": "Office and Property Programs",
+          "html": "<p>Lobby, suite, and tenant signage kept consistent across a building or a portfolio. We plan landlord approvals and building access from the start.</p>"
+        },
+        {
+          "title": "Multi-Location Brands",
+          "html": "<p>Consistent brand programs with coordinated production and installation across sites. One set of drawings and finishes follows every location.</p>"
+        }
+      ],
+      "doc_section": 7
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-about-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-about-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-about-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-about-projects-04",
+          "caption": ""
+        }
+      ],
+      "continues": true,
+      "doc_section": 7
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "They kept every tenant sign consistent and handled the building paperwork.",
+          "name": "Samuel Levy",
+          "role": "Facilities Director",
+          "company": "Levy & Park Medical Group"
+        },
+        {
+          "quote": "One drawing, the same finish at every location, and one person to call.",
+          "name": "Elena Cruz",
+          "role": "Marketing Director",
+          "company": "Cruz Hospitality Group"
+        }
+      ],
+      "continues": true,
+      "doc_section": 7
+    },
+    {
+      "type": "rich-text",
+      "h2": "The Vision Graphics Family",
+      "html": "<p>Vision Graphics operates as one organization with a family of brands, including 1Source, Queen of Wraps, SBR Technologies, Nevada Blue, Ogden Blue, Screen Works, Michigan Custom Signs and Printnology.</p><p>All of them work to shared standards and systems with one service approach, so the experience stays consistent across regions and specialties.</p>",
+      "doc_section": 8
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "Where are your signs made?",
+          "a_html": "<p>We make most signs at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners. Shipping time is built into your schedule. <a href=\"#inquiry\">Ask our team</a> about materials and lead times for your sign.</p>"
+        },
+        {
+          "q": "Do you have an office in NYC?",
+          "a_html": "<p>Our team serves New York City projects and arranges site visits and meetings around your address. Every project has a Vision Graphics project lead as your single point of contact. <a href=\"#inquiry\">Contact our team</a> with your address, and we will confirm how we handle your site.</p>"
+        },
+        {
+          "q": "Who installs the signs?",
+          "a_html": "<p>Licensed installation partners install your sign because New York City requires a licensed sign hanger for most installations. A licensed electrician makes the final connection on lit signs. We manage the schedule and building access, and we tell you who will be on site before installation day.</p>"
+        },
+        {
+          "q": "Are you insured?",
+          "a_html": "<p>Yes. We can provide a certificate of insurance upon request and send it before work begins. Buildings set their own coverage wording, so <a href=\"#inquiry\">send us your requirements</a> early, and our team will confirm what we can provide.</p>"
+        },
+        {
+          "q": "Can you handle multi-location programs?",
+          "a_html": "<p>Yes. As a sign company NYC property managers and multi-site brands can call on, we handle one address or many, with the same drawings, finishes, and schedule across every site. Tell us each address, and we confirm permits, production, and installation for each one.</p>"
+        },
+        {
+          "q": "Can you provide references?",
+          "a_html": "<p>Yes. We have happy clients who are glad to talk about their experience. <a href=\"#inquiry\">Contact our team</a> with your project type, and we will arrange a conversation.</p>"
+        }
+      ],
+      "doc_section": 9
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Talk About Your Sign?",
+      "intro_html": "<p>Send a photo of your storefront, lobby, or office wall and tell us the address. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 10
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 # Compare report
 
-Generated 2026-11-06T04:59:27.211Z against `tests/baseline` (http://pandeystore.local).
+Generated 2026-11-06T06:36:53.905Z against `tests/baseline` (http://pandeystore.local).
 
-**81/81 targets pass** (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
+**81/81 existing targets pass** (+1 new, not in baseline) (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
 
-Templates: service 65, raw 13, sitemap 1, - 2
+Templates: service 65, raw 13, landing 1, sitemap 1, - 2
 
 | route | template | html | seo | headers | visual | assets | result |
 |---|---|---|---|---|---|---|---|
@@ -71,6 +71,7 @@ Templates: service 65, raw 13, sitemap 1, - 2
 | /nyc/retail/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/retractable-banners/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/school-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/sign-installation/ | landing | - | - | new (404) | - | - | NEW (no baseline) |
 | /nyc/signs-for-golf-tournaments/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/storefront-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/trade-show-displays/ | service | ok | ok | ok | ok | ok | PASS |

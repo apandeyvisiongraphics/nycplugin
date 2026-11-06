@@ -1,0 +1,325 @@
+{
+  "route": "/nyc/",
+  "source": "VGNYCLandingPages0411.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Custom Signs in New York City for Storefronts, Lobbies, and Offices",
+      "lead_html": "<p>We design, build, and install custom signs that NYC businesses and property managers rely on.</p><p>Send a photo of your space, and we will start your quote.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        },
+        {
+          "label": "Send a Photo",
+          "href": "#inquiry",
+          "style": "secondary"
+        }
+      ],
+      "image": "nyc-home-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Design to Install",
+          "text": "One team, start to finish",
+          "icon": "layers"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        },
+        {
+          "title": "Photo Quote",
+          "text": "Send a photo to start",
+          "icon": "camera"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "rich-text",
+      "h2": "Custom Signs for New York City Businesses",
+      "html": "<p>Vision Graphics designs, builds, and installs custom signs in NYC for storefronts, offices, lobbies, and multi-tenant buildings.</p><p>One team manages your project from the first photo to the final install, including permit paperwork and building coordination.</p><p>Behind that team is 60 years of Vision Graphics experience, and we serve brands from Salt Lake City, Las Vegas, and Michigan.</p><p>A single sign gets the same care as a multi-location rollout.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "card-grid",
+      "h2": "Exterior Signs for NYC Storefronts and Buildings",
+      "intro_html": "<p>Your exterior sign is the first thing customers see. We build business signs NYC owners can count on, from street-level storefronts to full building frontages.</p><p>We size each one to your facade, check it against city rules, and build it for New York weather. See all <a href=\"/nyc/exterior-signs/\">exterior signs</a>.</p>",
+      "items": [
+        {
+          "title": "Storefront Signs",
+          "image": "nyc-home-exterior-01",
+          "html": "<p>Signs that get noticed at street level. Fascia panels, lightboxes, and cabinet signs are sized for your frontage, the kind of New York store signs that read from across the street.</p><p>We check size and illumination rules for your zoning district before the design is final. <a href=\"/nyc/storefront-signs/\">Learn more about storefront signs</a>.</p>"
+        },
+        {
+          "title": "Channel Letters",
+          "image": "nyc-home-exterior-02",
+          "html": "<p>Lit letters that read from across the avenue. Each letter uses LED lighting for night visibility.</p><p>We coordinate the electrical permit and a licensed electrician for the final connection. <a href=\"/nyc/channel-letter-signs/\">Learn more about channel letter signs</a>.</p>"
+        },
+        {
+          "title": "Dimensional Letters",
+          "image": "nyc-home-exterior-03",
+          "html": "<p>Raised letters with visible depth. Cut from metal or acrylic and mounted flush or on standoffs, with clean shadow lines for facades, entrances, and lobbies. <a href=\"/nyc/dimensional-letter-signs/\">Learn more about dimensional letter signs</a>.</p>"
+        },
+        {
+          "title": "Building Signs",
+          "image": "nyc-home-exterior-04",
+          "html": "<p>Identification for the whole building. <strong>Building signs</strong> carry tenant names, address numbers, and wall-mounted marks, and we coordinate landlord approvals alongside the design.</p>"
+        },
+        {
+          "title": "Blade Signs",
+          "image": "nyc-home-exterior-05",
+          "html": "<p>Projecting signs that catch walkers from both directions. <strong>Blade signs</strong> hang over the sidewalk, so check projection and size rules for your building before finalizing the design.</p>"
+        },
+        {
+          "title": "Window Graphics",
+          "image": "nyc-home-exterior-06",
+          "html": "<p><strong>Window graphics</strong> that work from the sidewalk. Sign printing NYC storefronts need, from door lettering and privacy bands to full-window displays, on vinyl and frosted film that is easy to update when your offer changes.</p>"
+        }
+      ],
+      "doc_section": 4
+    },
+    {
+      "type": "card-grid",
+      "h2": "Interior Signs for NYC Offices and Lobbies",
+      "intro_html": "<p>Inside your space, signs set the tone for clients and staff. Our NYC signage range covers offices, lobbies, and shared floors, with custom signage NYC businesses can match across every room. See all <a href=\"/nyc/interior-signs/\">interior signs</a>.</p>",
+      "items": [
+        {
+          "title": "Lobby and Reception Signs",
+          "image": "nyc-home-interior-01",
+          "html": "<p>The first brand moment inside the door. Logo walls and reception signs come in metal, acrylic, or wood, sized to the wall and the room. <a href=\"/nyc/lobby-signs/\">Learn more about lobby signs</a>.</p>"
+        },
+        {
+          "title": "Office Signs",
+          "image": "nyc-home-interior-02",
+          "html": "<p>Names, suites, and brand walls on every floor. Suite signs, conference room plates, and logo walls match across the whole office. <a href=\"/nyc/office-signs/\">Learn more about office signs</a>.</p>"
+        },
+        {
+          "title": "ADA Signs",
+          "image": "nyc-home-interior-03",
+          "html": "<p>Room signs made to accessibility standards. Tactile and Braille signs cover rooms, restrooms, and stairs. <a href=\"/nyc/ada-signs/\">Learn more about ADA signs</a>.</p>"
+        },
+        {
+          "title": "Directional Signs",
+          "image": "nyc-home-interior-04",
+          "html": "<p>Help people find the right floor and room. <strong>Directional signs</strong> guide visitors through lobbies, corridors, and elevator banks.</p>"
+        },
+        {
+          "title": "Door Signs",
+          "image": "nyc-home-interior-05",
+          "html": "<p>Clear identification at every door. <strong>Door signs</strong> carry suite numbers, tenant names, and room labels in one consistent style across a building.</p>"
+        }
+      ],
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Sign Fabrication and Installation in NYC",
+      "intro_html": "<p>A sign company NYC property managers trust has to do three things well: build the sign, get it approved, and mount it safely.</p><p>Our sign fabrication NYC process puts one team in charge of all three, so you have one point of contact from first photo to final install.</p>",
+      "items": [
+        {
+          "title": "Who Makes It",
+          "html": "<p>Built by our production team. We build your sign to the drawing you approve, and we check each piece before it ships. Specialty items can involve trusted partners, and we tell you before you approve the quote.</p>"
+        },
+        {
+          "title": "Who Installs It",
+          "html": "<p>Licensed installers for New York City. The city requires a licensed sign hanger for most installations, and a licensed electrician makes the final connection on lit signs.</p><p>Learn how it works on our <a href=\"/nyc/sign-installation/\">sign installation NYC</a> page.</p>"
+        },
+        {
+          "title": "Permits and Building Approvals",
+          "html": "<p>We prepare the paperwork. DOB sign permits, landmark district review, and landlord approvals depend on your building and sign type, and we map them before you commit.</p>"
+        },
+        {
+          "title": "Insurance and Building Access",
+          "html": "<p>Certificates and after-hours work, handled. We provide a certificate of insurance on request, and schedule installs around freight elevator windows, evenings, and weekends.</p>"
+        },
+        {
+          "title": "Old Sign Removal",
+          "html": "<p>We take down what you are replacing. <strong>Sign removal</strong> is part of the install plan, and we scope any wall repair in your quote.</p>"
+        }
+      ],
+      "image": "nyc-home-fabrication-01",
+      "doc_section": 6
+    },
+    {
+      "type": "card-grid",
+      "h2": "Signs in New York City for Every Industry",
+      "intro_html": "<p>Different buildings need different commercial signs NYC owners and managers can rely on. We plan around how your space is used and who walks through it.</p>",
+      "items": [
+        {
+          "title": "Restaurants",
+          "image": "nyc-home-industries-01",
+          "html": "<p>Signs that pull diners in at street level. Blade signs, window graphics, and entrance signage are built to work in daylight and after dark, with building and landlord rules checked early. <a href=\"/nyc/restaurants/\">Learn more about signs for restaurants.</a></p>"
+        },
+        {
+          "title": "Retail",
+          "image": "nyc-home-industries-02",
+          "html": "<p>Consistent branding from storefront to sales floor. Match exterior signs, window graphics, and interior wayfinding across one store or many locations. <a href=\"/nyc/retail/\">Learn more about signs for retail</a>.</p>"
+        },
+        {
+          "title": "Offices and Properties",
+          "image": "nyc-home-industries-03",
+          "html": "<p>Tenant signage that keeps a building consistent. Lobby directories, suite signs, and landlord-approved exterior panels give property managers one design standard for every tenant. <a href=\"/nyc/offices-properties/\">Learn more about signs for offices and properties.</a></p>"
+        }
+      ],
+      "doc_section": 7
+    },
+    {
+      "type": "process-steps",
+      "h2": "How a Sign Project Works",
+      "intro_html": "<p>Four steps take your sign from a photo to a finished install, with one point of contact throughout.</p>",
+      "steps": [
+        "<strong>Send a photo or book a site survey:</strong> Share a photo of the spot, your timeline, and any building rules. For exterior and lit signs, we measure on site and check access and power.",
+        "<strong>Design and approvals:</strong> You receive a drawing to approve before anything is built. We prepare permit and landlord paperwork alongside it.",
+        "<strong>Fabrication:</strong> We build to the approved drawing and check each piece before it ships.",
+        "<strong>Installation:</strong> A licensed crew installs on your building's schedule, including evenings and weekends when needed. The old sign comes down during the same visit."
+      ],
+      "image": "nyc-home-process-01",
+      "doc_section": 8
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-home-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-home-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-home-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-home-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Recent Sign Projects",
+      "intro_html": "<p>Recent Vision Graphics projects. Each project follows the same four steps, from the first photo to the final install. See more on our <a href=\"/nyc/projects/\">projects page</a>.</p>",
+      "doc_section": 9
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "One team, one drawing, and an install our building was happy with.",
+          "name": "Jordan Feldman",
+          "role": "Property Manager",
+          "company": "Feldman Realty Partners"
+        },
+        {
+          "quote": "We sent a photo of the front window and had a quote that week.",
+          "name": "Aisha Rahman",
+          "role": "Owner",
+          "company": "Rahman's Corner Cafe"
+        },
+        {
+          "quote": "Every floor got matching suite signs, and nothing needed a second visit.",
+          "name": "Daniela Ortiz",
+          "role": "Office Manager",
+          "company": "Ortiz & Hale Architects"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 10
+    },
+    {
+      "type": "features-grid",
+      "h2": "NYC Sign Company Serving All Five Boroughs",
+      "intro_html": "<p>We serve custom sign projects in all five boroughs, planning around each building and block. Tell us your address, and we confirm permits, access, and scheduling for your site.</p>",
+      "items": [
+        {
+          "title": "Manhattan",
+          "html": "<p>Lobbies, office floors, and street-level storefronts. Tower lobbies, historic districts, and tight sidewalk access are part of the planning. <a href=\"/nyc/manhattan/\">Learn more about Manhattan signs.</a></p>"
+        },
+        {
+          "title": "Brooklyn",
+          "html": "<p>Storefronts, studios, and growing brands. From converted warehouses to main-street shops, we match the sign to the building and the block. <a href=\"/nyc/brooklyn/\">Learn more about Brooklyn signs</a>.</p>"
+        },
+        {
+          "title": "Queens",
+          "html": "<p>Retail strips, medical offices, and busy corridors across <strong>Queens</strong>. Wide frontages and mixed-use blocks need signs that read from the curb and from passing traffic.</p>"
+        },
+        {
+          "title": "The Bronx",
+          "html": "<p>Retail, healthcare, and industrial buildings across <strong>the Bronx</strong>. Frontage signs and wayfinding keep busy corridors and large sites easy to read.</p>"
+        },
+        {
+          "title": "Staten Island",
+          "html": "<p>Shopping centers, offices, and service businesses across <strong>Staten Island</strong>. Roadside visibility matters on car-oriented sites, and we size signs to match.</p>"
+        }
+      ],
+      "image": "nyc-home-boroughs-01",
+      "doc_section": 11
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions About Custom Signs in NYC",
+      "items": [
+        {
+          "q": "How much do custom signs cost in NYC?",
+          "a_html": "<p>Most business signs cost between $300 and $20,000 installed. Window graphics sit at the low end, while illuminated channel letters and large building signs sit at the high end. NYC permits, access equipment, and landlord requirements can add cost. We itemize every quote from a photo or a site survey.</p>"
+        },
+        {
+          "q": "How long does a custom sign take?",
+          "a_html": "<p>Simple graphics take one to two weeks. Lobby and office signs usually take two to three weeks. Illuminated exterior signs take three to five weeks, plus permit review. Landmark districts and building approvals can add time, so we flag them at the start of your project.</p>"
+        },
+        {
+          "q": "Do I need a permit for a business sign in NYC?",
+          "a_html": "<p>Usually yes. New York City requires a permit for business signs over six square feet and for any illuminated sign. Attached signs can need an alteration permit, lit signs need an electrical permit, and landmark districts add review. Ask any sign company in New York you compare who files the paperwork. We prepare it and coordinate the licensed filer.</p>"
+        },
+        {
+          "q": "Who makes the sign?",
+          "a_html": "<p>Our production team builds your sign to the drawing you approve, and we check each piece before it ships. Specialty items can involve trusted partners. We tell you before you approve the quote.</p>"
+        },
+        {
+          "q": "Who installs the sign?",
+          "a_html": "<p>A licensed NYC sign hanger installs your sign, because the city requires one for most installations. A licensed electrician makes the final connection on lit signs. We tell you who will be on site before installation day.</p>"
+        },
+        {
+          "q": "Can you provide a certificate of insurance for our building?",
+          "a_html": "<p>Yes. We provide a certificate of insurance on request, and we can send it before work begins. Buildings set their own coverage wording, so send us your requirements early, and we will match them where we can.</p>"
+        },
+        {
+          "q": "Can you install after hours or on weekends?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm that in your quote.</p>"
+        },
+        {
+          "q": "Can you remove our old sign?",
+          "a_html": "<p>Yes. We remove the old sign as part of the install plan. NYC requires a licensed sign hanger for removal, and landmark buildings can require review. Any wall repair is scoped in your quote.</p>"
+        },
+        {
+          "q": "Can you handle signs for several NYC locations?",
+          "a_html": "<p>Yes. We handle one address or many, with the same drawings, finishes, and schedule across every site. Tell us each building's address, and we confirm permits and installation for each one.</p>"
+        },
+        {
+          "q": "Do you serve all five boroughs?",
+          "a_html": "<p>Yes. We serve all five boroughs, and every building has its own rules and access needs. Tell us your address when you request a quote, and we plan permits, scheduling, and installation for your site.</p>"
+        }
+      ],
+      "doc_section": 12
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready for New Signs?",
+      "intro_html": "<p>Start your custom signs New York project with one photo. Send a photo of your storefront, lobby, or office wall and the address, and we will come back with a drawing and a quote.</p>",
+      "doc_section": 13
+    }
+  ]
+}

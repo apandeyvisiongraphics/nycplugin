@@ -1,0 +1,324 @@
+{
+  "route": "/nyc/interior-signs/",
+  "source": "VGNYCLandingPages0511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Interior Signs in New York City for Lobbies, Offices and Commercial Buildings",
+      "lead_html": "<p>Vision Graphics designs and makes interior signs for NYC offices, lobbies, and commercial buildings. We also manage installation through licensed partners. Our indoor signs NYC range runs from a single lobby logo to a full package of room, ADA, directory, and wayfinding signs.</p><p>One project lead keeps the design consistent from the first photo to the final install across all five boroughs.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        },
+        {
+          "label": "Send a Photo",
+          "href": "#inquiry",
+          "style": "secondary"
+        }
+      ],
+      "image": "nyc-interior-signs-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Design to Install",
+          "text": "One project lead",
+          "icon": "user"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "card-grid",
+      "h2": "Interior Signs We Design, Make and Install",
+      "intro_html": "<p>Choose the interior signage your space needs, then open the page for options, materials, and what to expect. Our commercial interior signage covers brand signs in the lobby, wayfinding on the floors, and graphics on the walls, all designed to work together.</p>",
+      "groups": [
+        {
+          "label": "Lobby and Brand Signs",
+          "items": [
+            {
+              "title": "Lobby Signs",
+              "image": "nyc-interior-signs-types-01",
+              "html": "<p>Logo walls and reception signs in metal, acrylic, or wood. The first brand moment inside your door, sized to the wall and the room. <a href=\"/nyc/lobby-signs/\">Lobby signs in NYC</a></p>"
+            },
+            {
+              "title": "Acrylic Signs",
+              "image": "nyc-interior-signs-types-02",
+              "html": "<p>Clean, glossy signs with vivid color and optional backlighting. A popular choice for reception walls and logo displays, mounted flush or on standoffs. <a href=\"/nyc/acrylic-signs/\">Acrylic signs in NYC</a></p>"
+            },
+            {
+              "title": "Mission Statement Signs",
+              "image": "nyc-interior-signs-types-03",
+              "html": "<p>Core values and mission walls set in dimensional letters or printed panels. Your culture on display for staff and visitors. <a href=\"/nyc/mission-statement-signs/\">Mission statement signs in NYC</a></p>"
+            },
+            {
+              "title": "Environmental Graphics",
+              "image": "nyc-interior-signs-types-04",
+              "html": "<p>Large-scale graphics that turn corridors, lobbies, and common areas into branded spaces, tied together by one color palette and a consistent layout. <a href=\"/nyc/environmental-graphics/\">Environmental graphics in NYC</a></p>"
+            }
+          ],
+          "intro_html": "<p>The signs visitors see first, including reception-area signage NYC offices put behind the desk, plus walls that carry your story.</p>"
+        },
+        {
+          "label": "Office and Wayfinding Signs",
+          "items": [
+            {
+              "title": "Office Signs",
+              "image": "nyc-interior-signs-types-05",
+              "html": "<p>Suite plates, conference room signs, and brand walls matched across a whole floor, so each room reads as part of one office. <a href=\"/nyc/office-signs/\">Office signs in NYC</a></p>"
+            },
+            {
+              "title": "Door Signs",
+              "image": "nyc-interior-signs-types-06",
+              "html": "<p>Suite numbers, tenant names, and room labels in a consistent style, sized for the door or the wall beside it. <a href=\"/nyc/door-signs/\">Door signs in NYC</a></p>"
+            },
+            {
+              "title": "Directional Signs",
+              "image": "nyc-interior-signs-types-07",
+              "html": "<p>Wayfinding for lobbies, corridors, and elevator banks that points visitors to the right floor and room without a stop at the desk. <a href=\"/nyc/directional-signs/\">Directional signs in NYC</a></p>"
+            },
+            {
+              "title": "Interior Directory Signs",
+              "image": "nyc-interior-signs-types-08",
+              "html": "<p>Building and floor directories with tenant names that are easy to update when occupants change, in a style that matches the rest of your signs. <a href=\"/nyc/interior-directory-signs/\">Interior directory signs in NYC</a></p>"
+            },
+            {
+              "title": "ADA Signs",
+              "image": "nyc-interior-signs-types-09",
+              "html": "<p>Tactile and Braille room signs made for permanent rooms and spaces, planned against your floor plan and the mounting locations beside each door. <a href=\"/nyc/ada-signs/\">ADA signs in NYC</a></p>"
+            },
+            {
+              "title": "Restroom Signs",
+              "image": "nyc-interior-signs-types-10",
+              "html": "<p>Restroom signs with clear symbols and tactile text, made in a style that matches the rest of your interior signs and your floor layout. <a href=\"/nyc/restroom-signs/\">Restroom signs in NYC</a></p>"
+            }
+          ],
+          "intro_html": "<p>Interior office signs NYC tenants and visitors need, from suite plates to ADA room signs, kept in one consistent style.</p>"
+        },
+        {
+          "label": "Wall Graphics",
+          "items": [
+            {
+              "title": "Wall Graphics",
+              "image": "nyc-interior-signs-types-11",
+              "html": "<p>Printed graphics applied to walls for branding, color, and messaging, from a single accent wall to full-height installations across a whole floor. <a href=\"/nyc/wall-graphics/\">Wall graphics in NYC</a></p>"
+            },
+            {
+              "title": "Wall Murals",
+              "image": "nyc-interior-signs-types-12",
+              "html": "<p>Large-format murals that carry a photo, pattern, or brand story across a whole wall, printed to fit the wall's exact dimensions. <a href=\"/nyc/wall-murals/\">Wall murals in NYC</a></p>"
+            },
+            {
+              "title": "Wall Decals",
+              "image": "nyc-interior-signs-types-13",
+              "html": "<p>Cut vinyl shapes and lettering that apply fast and update easily, a lighter way to add brand to a wall. <a href=\"/nyc/wall-decals/\">Wall decals in NYC</a></p>"
+            },
+            {
+              "title": "Vinyl Signs",
+              "image": "nyc-interior-signs-types-14",
+              "html": "<p>Printed or cut vinyl signs for walls, glass, and panels, a flexible and budget-friendly interior option that is easy to update later. <a href=\"/nyc/vinyl-signs/\">Vinyl signs in NYC</a></p>"
+            }
+          ],
+          "intro_html": "<p>Custom wall signage NYC offices use to carry brand and color, from full murals to wall signage in NY buildings that limit drilling.</p>"
+        }
+      ],
+      "doc_section": 3
+    },
+    {
+      "type": "image-text",
+      "h2": "One Sign or a Full Interior Sign Package",
+      "html": "<p>From one lobby sign to a full set for the whole office. We handle a single sign or a complete package for each floor, designed together so the signs match.</p><p>A package can include:</p><ul><li><a href=\"/nyc/lobby-signs/\">Lobby and reception signs</a></li><li>Elevator signs</li><li>Room ID signs</li><li><a href=\"/nyc/ada-signs/\">ADA signs</a></li><li><a href=\"/nyc/interior-directory-signs/\">Directory signs</a></li><li>Floor number signs</li><li><a href=\"/nyc/door-signs/\">Door signs</a></li><li><a href=\"/nyc/wall-graphics/\">Wall graphics</a></li></ul>",
+      "image": "nyc-interior-signs-package-01",
+      "doc_section": 4
+    },
+    {
+      "type": "rich-text",
+      "h2": "Interior Sign Materials",
+      "html": "<p>The right material depends on the wall, the light, and how much a sign gets touched. Not sure which suits your lobby? See how materials affect price in our <strong>lobby sign cost guide</strong>.</p><table><thead><tr><th>Material</th><th>Look</th><th>Best use</th><th>Durability</th></tr></thead><tbody><tr><td>Acrylic</td><td>Glossy, vivid color, takes backlighting</td><td>Lobby and reception signs, logo walls</td><td>Durable indoors. It can scratch, and long direct sun may yellow it.</td></tr><tr><td>Painted aluminum</td><td>Smooth, solid color in a chosen finish</td><td>Room signs, plaques, architectural panels</td><td>Durable and lightweight, with a finish that wears well indoors.</td></tr><tr><td>Brushed metal</td><td>Textured metallic grain with a refined look</td><td>Lobby walls and corporate interiors</td><td>High durability; resists wear in busy areas.</td></tr><tr><td>PVC</td><td>Smooth, matte surface</td><td>Room signs, wall signs, indoor panels</td><td>Good for indoor use. It is softer than metal, so avoid heavy contact.</td></tr><tr><td>Vinyl</td><td>Printed or cut color on flexible film</td><td>Walls, glass, floors, decals</td><td>Lasts for years indoors and is easy to update or remove.</td></tr></tbody></table>",
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Planning Interior Signs for an NYC Office",
+      "intro_html": "<p>Planning indoor business signs for an NYC office starts with the building, then the layout, then the look.</p>",
+      "items": [
+        {
+          "title": "Building Management Approval",
+          "html": "<p>Ask management first. Interior signs usually depend on approval from building management or the landlord, and lit signs need a licensed electrician. We prepare drawings and plan the install around your building's rules.</p>"
+        },
+        {
+          "title": "ADA Requirements",
+          "html": "<p>Know which signs need tactile text. Under the ADA Standards, signs for permanent rooms and spaces need raised characters and Braille, mounted 48 to 60 inches above the floor beside the latch side of the door. Directional signs follow visual rules. See our <a href=\"/nyc/ada-signs/\">ADA signs</a> page.</p>"
+        },
+        {
+          "title": "Keeping Each Sign in One Design",
+          "html": "<p>One style across each floor. Matching fonts, colors, materials, and mounting heights make a building read as one place, even when you order signs in stages.</p>"
+        },
+        {
+          "title": "Dimensional Letters or a Panel System",
+          "html": "<p>Letters for statement walls, panels for signs that change. Choose <a href=\"/nyc/dimensional-letter-signs/\">dimensional letters</a> for a logo or mission wall that stays put, and a panel system for directories and room signs that update often.</p>"
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "process-steps",
+      "h2": "How an Interior Sign Project Works",
+      "steps": [
+        "<strong>Send site photos or book a survey:</strong> Share photos of the walls, your floor plan, and your building's rules.",
+        "<strong>Design and quote:</strong> You receive a drawing and an itemized quote with material options.",
+        "<strong>Fabrication:</strong> We make your signs, check each piece, and ship them to your project.",
+        "<strong>Installation:</strong> Licensed partners install on your building's schedule. See how <a href=\"/nyc/sign-installation/\">sign installation in NYC</a> works."
+      ],
+      "image": "nyc-interior-signs-process-01",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Where Interior Signs Work",
+      "items": [
+        {
+          "title": "Corporate Offices and Multi-Tenant Buildings",
+          "html": "<p>Matching signs from the lobby to each suite. Plan landlord approvals and tenant changes from the start. See signs for <a href=\"/nyc/offices-properties/\">offices and properties</a>.</p>"
+        },
+        {
+          "title": "Medical and Professional Offices",
+          "html": "<p>Clear room signs and wayfinding for patients and clients. <strong>Medical and professional offices</strong> need signs that are easy to read and easy to update.</p>"
+        },
+        {
+          "title": "Coworking Spaces",
+          "html": "<p>Branding and wayfinding that flex as members come and go. <strong>Coworking spaces</strong> often mix wall graphics, room signs, and directories.</p>"
+        },
+        {
+          "title": "Retail and Consultation Rooms",
+          "html": "<p>Interior signs that carry the brand into the room. <strong>Retail and consultation rooms</strong> use wall graphics, door signs, and small brand plaques.</p>"
+        }
+      ],
+      "doc_section": 8
+    },
+    {
+      "type": "features-grid",
+      "h2": "Why NYC Businesses Choose Vision Graphics",
+      "intro_html": "<p>A good indoor signs company in NYC that office managers can rely on covers three things: where the signs are made, who installs them, and which boroughs it serves.</p>",
+      "items": [
+        {
+          "title": "Made at Our Production Facility",
+          "html": "<p>Most signs are made in Salt Lake City and shipped to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p>"
+        },
+        {
+          "title": "Licensed NYC Installation",
+          "html": "<p>Licensed installation partners install your signs, with one Vision Graphics project lead managing the process. We can provide a certificate of insurance upon request.</p>"
+        },
+        {
+          "title": "All Five Boroughs",
+          "html": "<p>We serve all five boroughs, and each building has its own access rules and approvals. Tell us your address, and we plan around it.</p>"
+        }
+      ],
+      "doc_section": 9
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-interior-signs-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-interior-signs-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-interior-signs-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-interior-signs-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "intro_html": "<p>Recent Vision Graphics interior projects. See what a finished package looks like.</p>",
+      "doc_section": 10
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "Our lobby, floor signs and room plates all arrived in one matching style.",
+          "name": "Leah Whitman",
+          "role": "Workplace Manager",
+          "company": "Whitman Creative Studio"
+        },
+        {
+          "quote": "The directory was easy to update when a tenant moved out.",
+          "name": "Dominic Ferraro",
+          "role": "Building Manager",
+          "company": "Ferraro Properties"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 11
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "Should every room use the same sign?",
+          "a_html": "<p>Use one design style, and vary the sign type by purpose. Matching fonts, colors, materials, and mounting heights keep a building consistent, while room signs, directories, and wall graphics each follow their own rules. Permanent room signs need tactile text and Braille, and directional signs do not.</p>"
+        },
+        {
+          "q": "Can existing signs be kept and worked into the new design?",
+          "a_html": "<p>Often yes. <a href=\"#inquiry\">Send us photos of your existing signs</a> and our team will assess their condition and fit before we advise. If a sign stays, we match new signs to its finish and style, and we plan any removal and wall patching in your quote.</p>"
+        },
+        {
+          "q": "What material is best for a lobby sign?",
+          "a_html": "<p>Acrylic and brushed metal are two popular choices. Acrylic offers glossy color and supports backlighting, while brushed metal provides a refined look that holds up well in busy areas. The best choice depends on your wall, your lighting, and your brand. See our <strong>lobby sign cost guide</strong> for price differences.</p>"
+        },
+        {
+          "q": "Do interior signs need building management approval in NYC?",
+          "a_html": "<p>Usually yes. Building management or the landlord typically approves tenant signs before work starts, and many buildings set rules for materials, mounting, and work hours. Lit signs need a licensed electrician. We prepare the drawings management asks for and plan the install around your building's rules.</p>"
+        },
+        {
+          "q": "Which interior signs need Braille and tactile characters?",
+          "a_html": "<p>Signs that identify permanent rooms and spaces, such as room numbers and restrooms, need raised characters and Braille under the ADA Standards. Directional and informational signs need legible visual characters but not tactile text. Tactile signs mount 48 to 60 inches above the floor, beside the latch side of the door.</p>"
+        },
+        {
+          "q": "Can you install after hours?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote. Licensed installation partners handle the install.</p>"
+        },
+        {
+          "q": "Do you work in all five boroughs?",
+          "a_html": "<p>Yes. We serve all five boroughs, and each building has its own access rules and approvals. Tell us your address when you request a quote, and we will plan the schedule, permits, and crew for your site.</p>"
+        }
+      ],
+      "doc_section": 12
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Interior Signs?",
+      "intro_html": "<p>Send photos of your lobby, walls, and floor plan, and tell us which signs you need.</p><p>Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 13
+    }
+  ]
+}
