@@ -136,8 +136,9 @@ for (const slug of slugs) {
       document.querySelectorAll('img[loading="lazy"]').forEach((i) => { i.loading = 'eager'; });
       for (let y = 0; y < document.body.scrollHeight; y += 700) { window.scrollTo(0, y); await new Promise((r) => setTimeout(r, 15)); }
       window.scrollTo(0, 0);
+      await new Promise((r) => setTimeout(r, 900)); // let scroll animations finish
       await Promise.all(Array.from(document.images).map((i) => (i.complete ? null : new Promise((r) => { i.onload = i.onerror = r; }))));
-      const wide = Array.from(document.querySelectorAll('main *')).filter((e) => { const r = e.getBoundingClientRect(); return r.right > document.documentElement.clientWidth + 1 && getComputedStyle(e).position !== 'fixed' && !e.closest('table'); }).slice(0, 3).map((e) => e.tagName.toLowerCase() + (e.className ? '.' + String(e.className).split(' ')[0] : ''));
+      const wide = Array.from(document.querySelectorAll('main *')).filter((e) => { const r = e.getBoundingClientRect(); return r.right > document.documentElement.clientWidth + 1 && getComputedStyle(e).position !== 'fixed' && !e.closest('table') && !e.closest('[data-overflow-ok]') && !e.closest('dialog'); }).slice(0, 3).map((e) => e.tagName.toLowerCase() + (e.className ? '.' + String(e.className).split(' ')[0] : ''));
       return { scroll: document.documentElement.scrollWidth > document.documentElement.clientWidth + 1, wide, broken: Array.from(document.images).filter((i) => i.complete && i.naturalWidth === 0).length, placeholders: document.querySelectorAll('.vgnyc-img-placeholder').length };
     });
     if (info.scroll || info.wide.length) overflow.push(`${w}px: ${info.wide.join(', ') || 'page scrolls sideways'}`);

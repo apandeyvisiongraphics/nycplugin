@@ -31,7 +31,7 @@ Rules for every section:
 | Type | Purpose | Fields |
 |---|---|---|
 | `hero` | Page heading, intro, buttons, hero image | `eyebrow?`, `h1`, `lead_html?`, `ctas?` [`{label, href, style: primary\|secondary}`], `image?` |
-| `trust-bar` | Row of short proof points with icons | `items` [`{title, text, icon?}`] (icon: any `vgnyc_icon()` name, e.g. award, shield-check, clipboard-check, clock, map-pin, camera, user, layers) |
+| `trust-bar` | Slim scrolling strip (marquee) of short proof points with icons | `items` [`{title, text, icon?}`] (icon: any `vgnyc_icon()` name, e.g. award, shield-check, clipboard-check, clock, map-pin, camera, user, layers) |
 | `rich-text` | Heading + paragraphs, lists or a table | `eyebrow?`, `h2?`, `html`, `cta?` `{label, href}` |
 | `image-text` | Heading + text beside one image | `h2`, `html`, `image`, `image_side?` (`left`/`right`) |
 | `features-grid` | Heading + intro + cards of title/text | `h2`, `intro_html?`, `image?` (beside the intro), `items_heading?`, `items` [`{title, html?, image?}`] |
@@ -64,12 +64,23 @@ Rules for every section:
 { "type": "inquiry", "h2": "Ready to Schedule Your Installation?", "intro_html": "<p>Send photos of your wall…</p>" }
 ```
 
-## The form
+## The form and the quote popup
 
 Every page uses the one Contact Form 7 form, `[contact-form-7 id="328910e" title="MicroSiteForm_nyc"]`,
 set in **Settings → Vision Graphics NYC**. Only the first `inquiry` section on a page gets the
-`<!-- VGNYC_FORM -->` placeholder. Buttons point to `#inquiry` (or `/nyc/contact/` on pages without a
-form section).
+`<!-- VGNYC_FORM -->` placeholder, so the form shows on the page inside a white card.
+
+Every quote button opens that same form in a popup: any `a.btn` (or the header "Request a quote")
+linking to `#inquiry` or `/nyc/contact/`. `templates/landing-page.php` adds the
+`<dialog id="vg-inquiry-modal">`, and `assets/landing.js` moves the single form into it and back
+on close, so a page never has two forms. Without JavaScript the buttons jump to `#inquiry`.
+
+## Motion
+
+- **Scroll reveal:** cards, quotes, gallery images, step items and FAQ rows fade up as they scroll in (`assets/landing.js`).
+- **Hover:** cards lift and their images zoom slightly.
+- **Marquee:** the trust bar scrolls continuously and pauses on hover.
+- **Reduce motion:** everything is switched off when the visitor's system asks for less motion.
 
 ## Adding a section type
 

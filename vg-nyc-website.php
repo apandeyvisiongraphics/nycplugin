@@ -305,6 +305,9 @@ function vgnyc_render($path, $page, $o) {
     }
     echo $body;
     echo '<script src="' . esc_url(plugins_url('assets/website.js', __FILE__)) . '?ver=' . VGNYC_VERSION . '" defer></script>';
+    if (($page['template'] ?? '') === 'landing') {
+        echo '<script src="' . esc_url(plugins_url('assets/landing.js', __FILE__)) . '?ver=' . VGNYC_VERSION . '" defer></script>';
+    }
     wp_footer();
     echo '</body></html>';
 }
