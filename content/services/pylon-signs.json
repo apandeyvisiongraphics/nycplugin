@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Pylon sign concepts for site identification",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Pylon sign concepts for site identification",
+  "lead": "A pylon sign is a large site feature whose effectiveness depends on the property layout, approach and surrounding sightlines. It is not a routine substitute for a storefront panel. This review draft gives New York property teams a starting point for discussing identity and information hierarchy with Vision Graphics. Any proposed structure requires a verified scope covering site conditions, engineering, foundations, permissions, fabrication and installation. Begin with the property context and the reason an elevated sign is being considered before choosing its visual form.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Pylon%20sign%20concepts%20for%20site%20identification"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-exterior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Pylon sign concepts for site identification",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Establish the communication need",
+      "html": "<p>Identify who needs to recognize the property and from where. Consider whether a different sign type could serve the entrance more appropriately. If several tenants share the display, organize the name hierarchy and future update needs before developing a visual concept.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Define the specialist responsibilities",
+      "html": "<p>A pylon involves substantial structural and site questions that cannot be answered from artwork alone. Survey information, utilities, foundation design, mounting, lighting and access may all be relevant. No construction or installation commitment is implied by this concept page.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Single-property identity concepts",
+          "p": "Focus the visual study on a clear property or business name."
+        },
+        {
+          "h3": "Multi-tenant layout studies",
+          "p": "Organize several identities within a coherent information structure."
+        },
+        {
+          "h3": "Replacement identity studies",
+          "p": "Review proposed graphic changes against verified existing sign details."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Commercial site planning",
+        "Multi-tenant property studies",
+        "Reviewed existing-sign updates"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is a pylon sign available for any property?",
+        "a_html": "<p>Suitability and permission depend on the site and applicable requirements. The offering and technical scope must be verified.</p>"
+      },
+      {
+        "q": "Can an existing structure be reused?",
+        "a_html": "<p>Only after an appropriate assessment establishes its condition and suitability for the proposed work.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Monument signs",
+      "href": "/nyc/monument-signs/"
+    },
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Exterior signs",
+      "href": "/nyc/exterior-signs/"
+    }
+  ],
+  "cta_band": true
+}

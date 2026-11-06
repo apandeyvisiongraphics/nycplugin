@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Campaign signs with clear approved artwork",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Campaign signs with clear approved artwork",
+  "lead": "Campaign signs need a concise message, consistent identity and accurate approved content. A name, office or campaign statement must remain readable at the distance and pace of the intended setting. Vision Graphics can help New York campaign teams plan the physical artwork and format without making assumptions about where signs may be placed. The campaign is responsible for approving wording, required attribution and lawful display arrangements. Share the final content, quantity and intended use so material and finishing choices can be reviewed for the project.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Campaign%20signs%20with%20clear%20approved%20artwork"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Campaign signs with clear approved artwork",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Keep the hierarchy simple",
+      "html": "<p>Identify the primary name or message and the next most important piece of information. Leave room for any required attribution without reducing it to an afterthought. Review the actual printed size and compare the design from the expected viewing distance.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Organize versions and placement plans",
+      "html": "<p>Different districts, candidates or events may require separate approved files. Use clear version names and a checked order list. The display location, support and duration should be confirmed by the campaign; printing a sign does not authorize its placement.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Corrugated sign formats",
+          "p": "Explore lightweight panels for approved temporary display uses."
+        },
+        {
+          "h3": "Event banners",
+          "p": "Present campaign identity at organized appearances and events."
+        },
+        {
+          "h3": "Coordinated graphic sets",
+          "p": "Maintain consistent artwork across approved sizes and versions."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Campaign events",
+        "Approved temporary displays",
+        "Volunteer and campaign facilities"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you provide required legal attribution?",
+        "a_html": "<p>The campaign and its advisers should supply and approve required wording. Production artwork should preserve it accurately.</p>"
+      },
+      {
+        "q": "Can signs be placed anywhere?",
+        "a_html": "<p>No. The campaign must confirm permission and applicable placement requirements for each setting.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Corrugated signage",
+      "href": "/nyc/corrugated-signage/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    }
+  ],
+  "cta_band": true
+}

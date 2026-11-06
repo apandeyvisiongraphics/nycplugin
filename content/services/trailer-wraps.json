@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Trailer graphics for a large brand canvas",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Trailer graphics for a large brand canvas",
+  "lead": "A trailer can provide generous room for a business identity, but scale alone does not make a message effective. The design needs to account for long viewing distances, panel joins, doors and the way the trailer is used. Vision Graphics can help New York businesses plan trailer graphics around a clear visual hierarchy and the actual surface condition. Share overall dimensions, construction details and photos of every side so the artwork can be developed for the trailer’s specific body rather than a generic rectangle.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Trailer%20graphics%20for%20a%20large%20brand%20canvas"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-vehicle-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Trailer graphics for a large brand canvas",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Use the large space with restraint",
+      "html": "<p>Make the business name and primary graphic easy to recognize, then decide which supporting details deserve space. Avoid filling the entire side with small service text. The rear doors and any nose section need separate layouts that still feel part of the same identity.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Account for panels and hardware",
+      "html": "<p>Rivets, seams, latches and repaired sections can influence material choice and placement. Review existing graphics, surface contamination and areas of wear. Confirm access and installation arrangements for the trailer’s size before production or scheduling is committed.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Full side graphics",
+          "p": "Develop broad coverage for a strong long-distance identity."
+        },
+        {
+          "h3": "Partial trailer graphics",
+          "p": "Place a defined graphic field while retaining exposed body areas."
+        },
+        {
+          "h3": "Lettering and logo systems",
+          "p": "Use large, focused elements for a simpler brand presentation."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Business equipment trailers",
+        "Delivery and transport trailers",
+        "Event support trailers"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can graphics go over rivets?",
+        "a_html": "<p>Suitability depends on the trailer construction, material and installation method. Include close-up surface photographs for review.</p>"
+      },
+      {
+        "q": "Can a trailer match the towing vehicle?",
+        "a_html": "<p>Yes. A shared visual system can coordinate the two while respecting their different proportions and usable areas.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Truck wraps",
+      "href": "/nyc/truck-wraps/"
+    },
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    },
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Branded flags for event and display planning",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Branded flags for event and display planning",
+  "lead": "A branded flag introduces movement and a tall visual element into an event or promotional setting. The graphic has to remain recognizable when the fabric changes shape, which favors simple artwork and strong contrast. Vision Graphics can help New York teams explore flag graphics as part of a coordinated display concept. Before production, the flag system, base, placement and intended conditions need to be confirmed. The display should fit the venue’s rules and the practical realities of setup, supervision and storage.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Branded%20flags%20for%20event%20and%20display%20planning"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-sign-type-banners-flags",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Branded flags for event and display planning",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design for a changing shape",
+      "html": "<p>Keep essential artwork away from areas that may curl or fold. A short business name or logo can work more clearly than several lines of text. Check whether the chosen construction presents different appearances on each side and design with that in mind.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Confirm the complete display system",
+      "html": "<p>A graphic, pole and base need to work together as a verified system. Identify indoor or outdoor use, ground conditions and venue restrictions. Follow the selected manufacturer’s setup and use guidance rather than assuming one base suits every location.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Event identity flags",
+          "p": "Create a concise visual marker for an approved event area."
+        },
+        {
+          "h3": "Promotional flag graphics",
+          "p": "Support a focused campaign with simple branded artwork."
+        },
+        {
+          "h3": "Coordinated display sets",
+          "p": "Relate flag artwork to banners and other portable event materials."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Business events",
+        "Approved retail promotions",
+        "Exhibition and community displays"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can any base be used outdoors?",
+        "a_html": "<p>The base and system must be selected for the actual conditions and used according to verified product guidance.</p>"
+      },
+      {
+        "q": "Should flags contain detailed contact information?",
+        "a_html": "<p>Prioritize recognition. Fine text can become difficult to read as the fabric moves.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    }
+  ],
+  "cta_band": true
+}

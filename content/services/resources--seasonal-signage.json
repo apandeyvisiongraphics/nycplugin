@@ -1,0 +1,101 @@
+{
+  "breadcrumb": "Plan seasonal graphics as a repeatable program",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Plan seasonal graphics as a repeatable program",
+  "lead": "Seasonal signage works best when the campaign has a clear message, a defined display period and an agreed plan for removal or reuse. Adding more graphics is not always the most useful way to create attention. For New York retail and hospitality businesses, a focused window, banner or interior display can support a promotion while keeping the permanent business identity clear. Start with what customers should notice and do, then coordinate artwork, approvals and production around the actual campaign rather than a generic calendar template.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Plan%20seasonal%20graphics%20as%20a%20repeatable%20program"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Plan seasonal graphics as a repeatable program",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Choose one campaign priority",
+      "html": "<p>Decide whether the display announces a product, an event or a limited-time offer. Keep the primary action easy to recognize and move detailed conditions to a suitable supporting location. Review all dates, prices and claims before the final file is approved.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan the changeover",
+      "html": "<p>Identify who removes the previous graphics and what condition the surface must be in for the next set. Material selection should reflect the expected display life and removal needs. Reusable hardware can be considered where the design and chosen system support graphic replacement.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Keep a useful campaign record",
+      "html": "<p>Save the approved artwork, dimensions, display locations and photographs of the final setup. After the campaign, note what was easy to update and what caused confusion. Use actual business observations to refine the next brief rather than assuming every new sign produces a measurable sales increase.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Window campaigns",
+          "p": "Reserve a defined area for changing messages while preserving essential information."
+        },
+        {
+          "h3": "Portable interior displays",
+          "p": "Use banners or panels where a temporary message belongs indoors."
+        },
+        {
+          "h3": "Coordinated campaign sets",
+          "p": "Keep colors and wording consistent across several approved formats."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Retail promotions",
+        "Restaurant announcements",
+        "Business and community events"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can a seasonal graphic be reused?",
+        "a_html": "<p>That depends on the material, finishing, storage and how dates or offers are incorporated. Plan reuse before production.</p>"
+      },
+      {
+        "q": "Will new signs guarantee more sales?",
+        "a_html": "<p>No. A campaign can be designed to communicate clearly, but business results depend on many factors and should be measured honestly.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    },
+    {
+      "label": "Retail",
+      "href": "/nyc/retail/"
+    }
+  ],
+  "cta_band": true
+}

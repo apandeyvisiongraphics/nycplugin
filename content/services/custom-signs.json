@@ -1,0 +1,161 @@
+{
+  "breadcrumb": "Custom signs shaped around the job",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Custom signs shaped around the job",
+  "lead": "A custom sign starts with a communication problem, not a predetermined material. You may need a business name to stand out, a visitor to find the right room or a promotion to make sense at a glance. Vision Graphics helps New York businesses turn those goals into a practical brief. Describe the setting, audience and expected display life, then explore formats that suit them. The result should feel specific to your business while remaining clear enough for people who have never encountered it before.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Custom%20signs%20shaped%20around%20the%20job"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Custom signs shaped around the job",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "product_family": {
+    "h2": "Explore ",
+    "links": [
+      {
+        "label": "Business signs",
+        "href": "/nyc/business-signs/"
+      },
+      {
+        "label": "Banners",
+        "href": "/nyc/banners/"
+      },
+      {
+        "label": "Blade signs",
+        "href": "/nyc/blade-signs/"
+      },
+      {
+        "label": "Custom decals",
+        "href": "/nyc/custom-decals/"
+      },
+      {
+        "label": "Floor graphics",
+        "href": "/nyc/floor-graphics/"
+      },
+      {
+        "label": "Directional signs",
+        "href": "/nyc/directional-signs/"
+      },
+      {
+        "label": "Window film",
+        "href": "/nyc/window-film/"
+      },
+      {
+        "label": "Corrugated signage",
+        "href": "/nyc/corrugated-signage/"
+      },
+      {
+        "label": "Large format printing",
+        "href": "/nyc/large-format-printing-services/"
+      },
+      {
+        "label": "Acrylic sneeze guards",
+        "href": "/nyc/acrylic-sneeze-guards/"
+      },
+      {
+        "label": "Flags",
+        "href": "/nyc/flags/"
+      },
+      {
+        "label": "Magnetic signs",
+        "href": "/nyc/magnetic-signs/"
+      },
+      {
+        "label": "Post and panel signs",
+        "href": "/nyc/post-and-panel-signs/"
+      },
+      {
+        "label": "Pylon signs",
+        "href": "/nyc/pylon-signs/"
+      },
+      {
+        "label": "Apparel",
+        "href": "/nyc/apparel/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Define what the sign must accomplish",
+      "html": "<p>Choose one primary purpose and identify the conditions in which the sign will be read. A countertop message, reception identity and street-facing panel require different scales and levels of detail. Gather reference images to describe a visual direction without assuming they establish a production specification.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Turn the brief into a reviewable design",
+      "html": "<p>Bring the logo, approved wording, measurements and photos together before layout begins. Compare materials and mounting approaches in the context of the site. A reviewed proof and written scope should settle the key decisions before fabrication.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Brand identification",
+          "p": "Develop logos, names and feature signs for a particular space."
+        },
+        {
+          "h3": "Information and navigation",
+          "p": "Organize clear directions, room names or service messages."
+        },
+        {
+          "h3": "Campaign and event graphics",
+          "p": "Create signs with a defined purpose and display period."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Business openings",
+        "Interior and storefront refreshes",
+        "Events and temporary campaigns"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can I show a reference photo?",
+        "a_html": "<p>Yes. Explain what you like about it, such as finish, scale or composition, so the concept can be adapted to your project.</p>"
+      },
+      {
+        "q": "Do I need to know the material first?",
+        "a_html": "<p>No. Describe the use and setting; material options can be evaluated against those requirements.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Business signs",
+      "href": "/nyc/business-signs/"
+    },
+    {
+      "label": "Acrylic signs",
+      "href": "/nyc/acrylic-signs/"
+    },
+    {
+      "label": "Metal signs",
+      "href": "/nyc/metal-signs/"
+    },
+    {
+      "label": "Large format printing",
+      "href": "/nyc/large-format-printing-services/"
+    }
+  ],
+  "cta_band": true
+}

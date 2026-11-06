@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Environmental graphics for a connected place",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Environmental graphics for a connected place",
+  "lead": "Environmental graphics bring branding, storytelling and useful information into the physical space. A wall, a pane of glass and a directional panel can each serve a different role while sharing a clear visual language. For New York workplaces, retail interiors and managed properties, Vision Graphics can help frame a coordinated program around the journey through the building. Start with what people should notice, understand and do at each point, then select the surfaces and graphic treatments that support those goals.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Environmental%20graphics%20for%20a%20connected%20place"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-interior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Environmental graphics for a connected place",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Create a sequence, not a collection",
+      "html": "<p>Identify arrival, orientation, destination and gathering areas on a floor plan. A strong arrival graphic can introduce the identity, while quieter directional elements guide movement. Repeated colors or motifs can connect the experience, but they should not make decorative messages look like essential instructions.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Coordinate with the space and its teams",
+      "html": "<p>Bring interior finishes, lighting plans and room names into the brief. Each surface may need a different production approach, and work may need to align with construction or tenant schedules. Review artwork, measurements and property responsibilities before breaking the program into production packages.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Wall storytelling",
+          "p": "Use murals, timelines or values displays to express identity at room scale."
+        },
+        {
+          "h3": "Glass treatments",
+          "p": "Coordinate privacy patterns and branding with adjacent interior graphics."
+        },
+        {
+          "h3": "Navigation families",
+          "p": "Connect directories, directionals and destination signs through one visual system."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Office fit-outs",
+        "Shared commercial properties",
+        "Retail brand environments"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "What is the first planning document?",
+        "a_html": "<p>A floor plan with the intended visitor journey and a list of graphic locations gives the project a useful structure.</p>"
+      },
+      {
+        "q": "Can the work be phased?",
+        "a_html": "<p>A shared design system can support phases. Confirm materials and artwork records so later additions remain consistent.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Wall murals",
+      "href": "/nyc/wall-murals/"
+    },
+    {
+      "label": "Window film",
+      "href": "/nyc/window-film/"
+    },
+    {
+      "label": "Wayfinding signs",
+      "href": "/nyc/wayfinding-signs/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    }
+  ],
+  "cta_band": true
+}

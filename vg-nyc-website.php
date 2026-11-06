@@ -2,12 +2,13 @@
 /**
  * Plugin Name: Vision Graphics NYC Website
  * Description: Customer-facing New York signs and graphics website at /nyc/, using your existing WordPress inquiry form.
- * Version: 1.2.0
+ * Version: 1.3.0
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * Author: Vision Graphics
  */
 if (!defined('ABSPATH')) { http_response_code(404); exit; }
+if (!defined('VGNYC_VERSION')) { define('VGNYC_VERSION', '1.3.0'); }
 
 function vgnyc_options() {
     // Previous versions saved a private-preview mode. It is deliberately ignored:
@@ -61,6 +62,61 @@ function vgnyc_pages() {
     return $pages;
 }
 function vgnyc_is_path($path) { return (bool)preg_match('#^/nyc(?:/|$)#i', $path); }
+
+// ---- Templates: content (content/, pages/) is kept separate from design (templates/) ----
+function vgnyc_template($name) {
+    static $cache = array();
+    if (!isset($cache[$name])) { $cache[$name] = require __DIR__ . '/templates/' . $name . '.php'; }
+    return $cache[$name];
+}
+function vgnyc_partial($name) {
+    static $cache = array();
+    if (!isset($cache[$name])) { $cache[$name] = require __DIR__ . '/templates/partials/' . $name . '.php'; }
+    return $cache[$name];
+}
+function vgnyc_icon($name, $size) {
+    $paths = array(
+        'arrow-up-right' => '<path d="M7 7h10v10"></path><path d="M7 17 17 7"></path>',
+        'arrow-right' => '<path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path>',
+        'check' => '<path d="M20 6 9 17l-5-5"></path>',
+        'camera' => '<path d="M13.997 4a2 2 0 0 1 1.76 1.05l.486.9A2 2 0 0 0 18.003 7H20a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h1.997a2 2 0 0 0 1.759-1.048l.489-.904A2 2 0 0 1 10.004 4z"></path><circle cx="12" cy="13" r="3"></circle>',
+    );
+    $size = (int)$size;
+    return '<svg xmlns="http://www.w3.org/2000/svg" width="' . $size . '" height="' . $size . '" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-' . esc_attr($name) . '" aria-hidden="true">' . $paths[$name] . '</svg>';
+}
+/** wp_kses_post plus the inline SVG icon markup used by the site. */
+function vgnyc_kses($html) {
+    static $allowed;
+    if ($allowed === null) {
+        $allowed = wp_kses_allowed_html('post');
+        $svg = array_fill_keys(array('xmlns', 'width', 'height', 'viewbox', 'fill', 'stroke', 'stroke-width', 'stroke-linecap', 'stroke-linejoin', 'class', 'aria-hidden'), true);
+        $allowed['svg'] = $svg;
+        $allowed['path'] = array('d' => true);
+        $allowed['circle'] = array('cx' => true, 'cy' => true, 'r' => true);
+        // Responsive images (portfolio cards, proof images) use srcset/sizes, which kses drops by default.
+        $allowed['img'] = array_merge($allowed['img'] ?? array(), array('srcset' => true, 'sizes' => true, 'loading' => true, 'decoding' => true));
+    }
+    return wp_kses((string)$html, $allowed);
+}
+/** Absolute path of a manifest entry's content file, or null when the entry is not valid. */
+function vgnyc_content_file($page) {
+    $template = $page['template'] ?? '';
+    $content = (string)($page['content'] ?? '');
+    $pattern = $template === 'service' ? '#^content/services/[a-z0-9-]+\.json$#D' : ($template === 'raw' ? '#^pages/[a-z0-9-]+\.php$#D' : null);
+    if (!$pattern || !preg_match($pattern, $content) || !is_file(__DIR__ . '/' . $content)) { return null; }
+    return __DIR__ . '/' . $content;
+}
+/** Builds the page body (everything inside <body> that the page owns) for a manifest entry. */
+function vgnyc_body($page) {
+    $file = vgnyc_content_file($page);
+    if ($page['template'] === 'service') {
+        $data = json_decode((string)file_get_contents($file), true);
+        $main = is_array($data) ? call_user_func(vgnyc_template('service-page'), $data) : '';
+    } else {
+        $main = require $file;
+    }
+    return call_user_func(vgnyc_template('raw-page'), $main, !array_key_exists('chrome', $page) || $page['chrome']);
+}
 
 
 
@@ -193,7 +249,7 @@ function vgnyc_render($path, $page, $o) {
     header('Content-Type: text/html; charset=UTF-8');
     $public = (string)get_option('blog_public') === '1';
     header('X-Robots-Tag: ' . ($public ? 'index, follow' : 'noindex, nofollow'));
-    $body = require __DIR__ . '/data/' . $page['file'];
+    $body = vgnyc_body($page);
     $form = '';
     if (strpos($body, '<!-- VGNYC_FORM -->') !== false) {
         if (vgnyc_form_valid($o['form'])) {
@@ -223,12 +279,12 @@ function vgnyc_render($path, $page, $o) {
     $og_image = !empty($page['image']) && strpos($page['image'], '/nyc/assets/') === 0 ? plugins_url('assets/' . substr($page['image'], strlen('/nyc/assets/')), __FILE__) : plugins_url('assets/mcs-new-home-hero-channel-letters-1600.webp', __FILE__);
     echo '<meta property="og:image" content="' . esc_url($og_image) . '">';
     echo '<script type="application/ld+json" id="vgnyc-schema">' . vgnyc_json($graph) . '</script>';
-    echo '<link rel="stylesheet" href="' . esc_url(plugins_url('assets/public.css', __FILE__)) . '?ver=1.2.0"><link rel="stylesheet" href="' . esc_url(plugins_url('assets/wordpress.css', __FILE__)) . '?ver=1.2.0">';
+    echo '<link rel="stylesheet" href="' . esc_url(plugins_url('assets/public.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '"><link rel="stylesheet" href="' . esc_url(plugins_url('assets/wordpress.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '">';
     echo '</head><body class="vgnyc-site">';
     vgnyc_gtm_body();
     wp_body_open();
     echo $body;
-    echo '<script src="' . esc_url(plugins_url('assets/website.js', __FILE__)) . '?ver=1.2.0" defer></script>';
+    echo '<script src="' . esc_url(plugins_url('assets/website.js', __FILE__)) . '?ver=' . VGNYC_VERSION . '" defer></script>';
     wp_footer();
     echo '</body></html>';
 }
@@ -261,6 +317,6 @@ add_action('template_redirect', function () {
         }
         echo '</urlset>'; exit;
     }
-    if (!isset($pages[$path])) { status_header(404); echo 'Not found.'; exit; }
+    if (!isset($pages[$path]) || !vgnyc_content_file($pages[$path])) { status_header(404); echo 'Not found.'; exit; }
     vgnyc_render($path, $pages[$path], $o); exit;
 }, -100);

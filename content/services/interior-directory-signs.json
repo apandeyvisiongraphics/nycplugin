@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Interior directories that stay organized",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Interior directories that stay organized",
+  "lead": "An interior directory helps visitors make sense of a building before they begin searching its corridors. It should organize names and destinations in a way that is easy to scan and practical to update. Vision Graphics can help New York property teams plan directories for offices, tenant floors and shared spaces. Start with a verified occupant list and a clear naming system, then decide how the information should be grouped and which parts are likely to change during the life of the sign.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Interior%20directories%20that%20stay%20organized"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-directory-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Interior directories that stay organized",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Choose an intuitive order",
+      "html": "<p>Alphabetical, floor-based and department-based structures serve different buildings. Use the organizing method that matches the visitor’s question, and keep names consistent with room and entrance signs. Avoid filling every available line if the building is likely to add occupants.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan the update mechanism",
+      "html": "<p>A directory with frequent tenant changes needs a different construction approach from a stable one. Discuss replaceable strips, inserts or separate panels where appropriate. Establish who maintains the content list and checks spelling before each production update.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Tenant directories",
+          "p": "Organize business names with the corresponding floor or suite."
+        },
+        {
+          "h3": "Department directories",
+          "p": "Help visitors locate teams and services within one organization."
+        },
+        {
+          "h3": "Changeable information systems",
+          "p": "Build a visual approach around the expected update frequency."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Multi-tenant lobbies",
+        "Office reception areas",
+        "Shared commercial buildings"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "What information do you need?",
+        "a_html": "<p>Provide the approved names, suite or floor references, preferred ordering and a photo of the directory location.</p>"
+      },
+      {
+        "q": "Can the directory allow for new tenants?",
+        "a_html": "<p>Yes. Plan capacity and changeable elements at the start rather than squeezing future names into a fixed layout.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    },
+    {
+      "label": "Door signs",
+      "href": "/nyc/door-signs/"
+    }
+  ],
+  "cta_band": true
+}

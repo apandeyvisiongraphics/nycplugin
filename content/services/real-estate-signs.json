@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Real estate signs with accurate property information",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Real estate signs with accurate property information",
+  "lead": "Real estate signs connect a property to a clear next action. The message may introduce a listing, guide visitors to an open house or identify available commercial space, and each use calls for a different amount of detail. Vision Graphics helps New York property professionals plan a consistent visual system around approved branding and current information. Start with the property setting, display method and update needs, then choose a format that keeps the main message readable and avoids carrying outdated contact or listing details.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Real%20estate%20signs%20with%20accurate%20property%20information"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Real estate signs with accurate property information",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Distinguish the main sign from updates",
+      "html": "<p>A reusable brokerage identity can be paired with replaceable property information when the construction supports it. Decide which details are permanent and which change between listings. Check contact information, names and approved wording before each version is released.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan for the actual display location",
+      "html": "<p>A window graphic, wall panel and temporary open-house directional each face different conditions. Confirm property consent and any relevant placement requirements, especially outside the property itself. Material and support choices should reflect the setting and intended display period.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Property identity panels",
+          "p": "Present brokerage or property information in a defined sign format."
+        },
+        {
+          "h3": "Window availability graphics",
+          "p": "Communicate approved leasing or sale messages on suitable glass."
+        },
+        {
+          "h3": "Temporary event signs",
+          "p": "Coordinate open-house or viewing directions at authorized locations."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Commercial leasing",
+        "Property listings",
+        "Approved open-house events"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can the contact details be updated separately?",
+        "a_html": "<p>A modular layout or replaceable component can be considered if frequent changes are expected.</p>"
+      },
+      {
+        "q": "Do you verify listing or brokerage claims?",
+        "a_html": "<p>Your team should approve all factual and required content. The artwork process should include a final accuracy check.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Corrugated signage",
+      "href": "/nyc/corrugated-signage/"
+    },
+    {
+      "label": "Parking signs",
+      "href": "/nyc/parking-signs/"
+    }
+  ],
+  "cta_band": true
+}

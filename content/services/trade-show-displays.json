@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Trade show displays with a clear visitor story",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Trade show displays with a clear visitor story",
+  "lead": "An event display has a short window to explain who you are and why someone should stop. The backdrop, table graphics and portable signs need to work together while leaving room for people and conversations. Vision Graphics helps New York teams plan trade show graphics around the actual booth space, hardware and audience. Start with the event requirements and one strong message, then build a coordinated set of pieces that support your team’s presentation without turning the booth into a wall of small text.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Trade%20show%20displays%20with%20a%20clear%20visitor%20story"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-trade-show-displays",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Trade show displays with a clear visitor story",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design at three viewing distances",
+      "html": "<p>Use the largest graphic to establish identity from farther away, a secondary message to explain the offer as visitors approach and detailed material for the conversation itself. Keep important content visible above furniture and account for neighboring displays when planning contrast.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Work from the event and hardware specifications",
+      "html": "<p>Obtain the organizer’s dimensions and display restrictions, then confirm the exact graphic templates for selected hardware. Review transport, setup and storage requirements as part of the plan. Final deadlines and delivery arrangements need agreement before production is scheduled.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Backdrop graphics",
+          "p": "Create a clear visual anchor for the booth or presentation area."
+        },
+        {
+          "h3": "Retractable displays",
+          "p": "Add portable messages that can also support smaller events."
+        },
+        {
+          "h3": "Table and supporting graphics",
+          "p": "Connect the main display with close-range branded elements."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Trade shows and conferences",
+        "Recruitment and networking events",
+        "Pop-up presentations"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you use graphics with existing booth hardware?",
+        "a_html": "<p>Share the hardware details and manufacturer templates so compatibility can be checked before artwork is prepared.</p>"
+      },
+      {
+        "q": "How should a small booth be designed?",
+        "a_html": "<p>Choose a clear headline and leave room for the team’s activity. A readable, uncluttered display supports conversation.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Large format printing",
+      "href": "/nyc/large-format-printing-services/"
+    }
+  ],
+  "cta_band": true
+}

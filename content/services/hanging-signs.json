@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Hanging signs that use the overhead space",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Hanging signs that use the overhead space",
+  "lead": "Hanging signs can make a destination visible when wall space is limited or when a message needs to be seen above surrounding activity. An interior department sign, a suspended reception marker and an exterior hanging identity are different projects with different support requirements. Vision Graphics can help New York businesses develop the artwork and format around the actual viewing direction. Start with the available overhead area, the message and the site’s restrictions, then review the supporting structure and placement before choosing a production approach.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Hanging%20signs%20that%20use%20the%20overhead%20space"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-exterior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Hanging signs that use the overhead space",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design for the angle of approach",
+      "html": "<p>Determine whether the sign needs one readable face or two. Keep the message short enough to recognize while moving, and consider what sits behind the sign from each direction. A strong silhouette and clear contrast may be more useful than fine detail.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Treat suspension as part of the project",
+      "html": "<p>Document ceiling or bracket conditions, clearances, access and any restrictions from the property team. The support system must be appropriate for the sign and location. Exterior exposure adds further considerations, so interior and exterior concepts should not share an assumed mounting specification.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Interior department markers",
+          "p": "Identify aisles, service areas or destinations from a distance."
+        },
+        {
+          "h3": "Double-sided panels",
+          "p": "Present the message to people approaching from opposite directions."
+        },
+        {
+          "h3": "Branded hanging identities",
+          "p": "Explore a shaped or rectangular panel that fits the surrounding architecture."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Retail departments",
+        "Event and exhibition areas",
+        "Reviewed exterior entrances"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can a hanging sign be double-sided?",
+        "a_html": "<p>Yes, the layout can account for two approaches. Placement and support details still need review for the chosen format.</p>"
+      },
+      {
+        "q": "Can any ceiling support a sign?",
+        "a_html": "<p>No. The supporting structure and fixing method must be assessed for the site and sign.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Blade signs",
+      "href": "/nyc/blade-signs/"
+    },
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    },
+    {
+      "label": "Retail",
+      "href": "/nyc/retail/"
+    }
+  ],
+  "cta_band": true
+}
