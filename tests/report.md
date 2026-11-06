@@ -1,14 +1,14 @@
 # Compare report
 
-Generated 2026-11-06T09:14:05.667Z against `tests/baseline` (http://pandeystore.local).
+Generated 2026-11-06T14:53:51.360Z against `tests/baseline` (http://pandeystore.local).
 
-**81/81 existing targets pass** (+1 new, not in baseline) (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
+**82/82 existing targets pass** (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
 
-Templates: service 65, raw 13, landing 1, sitemap 1, - 2
+Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 
 | route | template | html | seo | headers | visual | assets | result |
 |---|---|---|---|---|---|---|---|
-| /nyc/about/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/about/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/acrylic-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/acrylic-sneeze-guards/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/ada-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -20,7 +20,7 @@ Templates: service 65, raw 13, landing 1, sitemap 1, - 2
 | /nyc/business-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/cabinet-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/channel-letter-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/contact/ | raw | ok | ok | ok | ok | ok | PASS |
+| /nyc/contact/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/corrugated-signage/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/custom-decals/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/custom-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -40,9 +40,9 @@ Templates: service 65, raw 13, landing 1, sitemap 1, - 2
 | /nyc/gallery/trade-show-graphics/ | raw | ok | ok | ok | ok | ok | PASS |
 | /nyc/gallery/vehicle-wraps/ | raw | ok | ok | ok | ok | ok | PASS |
 | /nyc/hanging-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/ | raw | ok | ok | ok | ok | ok | PASS |
+| /nyc/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/interior-directory-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/interior-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/interior-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/large-format-printing-services/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/lobby-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/magnetic-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -71,7 +71,7 @@ Templates: service 65, raw 13, landing 1, sitemap 1, - 2
 | /nyc/retail/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/retractable-banners/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/school-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/sign-installation/ | landing | - | - | new (404) | - | - | NEW (no baseline) |
+| /nyc/sign-installation/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/signs-for-golf-tournaments/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/storefront-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/trade-show-displays/ | service | ok | ok | ok | ok | ok | PASS |

@@ -447,6 +447,13 @@
     "x-robots-tag": "index, follow",
     "location": null
   },
+  "sign-installation": {
+    "route": "/nyc/sign-installation/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
   "signs-for-golf-tournaments": {
     "route": "/nyc/signs-for-golf-tournaments/",
     "status": 200,
