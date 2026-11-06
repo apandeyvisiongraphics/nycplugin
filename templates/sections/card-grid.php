@@ -19,19 +19,19 @@ return function (array $s, array $ctx) {
         }
         return $h . '</div>';
     };
-    $h = '<section class="' . vgnyc_section_class('wrap section vg-cards', $s) . '"><div class="vg-head"><div>';
+    $h = vgnyc_section_open('cards', $s, $ctx) . '<div class="vg-head"><div>';
     if (!empty($s['h2'])) { $h .= '<h2>' . esc_html($s['h2']) . '</h2>'; }
     if (!empty($s['intro_html'])) { $h .= '<div class="vg-prose vg-intro">' . vgnyc_kses($s['intro_html']) . '</div>'; }
     $h .= '</div></div>';
     if (!empty($s['groups'])) {
         foreach ($s['groups'] as $g) {
             $h .= '<div class="vg-group">';
-            if (!empty($g['label'])) { $h .= '<h3 class="vg-group__title">' . esc_html($g['label']) . '</h3>'; }
+            if (!empty($g['label'])) { $h .= '<h3 class="vg-group__title vg-diamond">' . esc_html($g['label']) . '</h3>'; }
             if (!empty($g['intro_html'])) { $h .= '<div class="vg-prose vg-group__intro">' . vgnyc_kses($g['intro_html']) . '</div>'; }
             $h .= $cards($g['items'] ?? array(), empty($g['label']) ? 'h3' : 'h4') . '</div>';
         }
     } else {
         $h .= $cards($s['items'] ?? array(), 'h3');
     }
-    return $h . '</section>';
+    return $h . vgnyc_section_close();
 };

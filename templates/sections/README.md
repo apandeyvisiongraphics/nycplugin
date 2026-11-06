@@ -42,6 +42,18 @@ Rules for every section:
 | `faq` | Questions and answers, plus FAQPage JSON-LD | `h2`, `items` [`{q, a_html}`] |
 | `inquiry` | The form (always `id="inquiry"`) | `h2`, `intro_html?`, `note_html?` |
 
+## Look and feel
+
+The sections follow the Detroit Metro Signs landing-page pattern (approved 2026-11-06), in VG NYC colors and type:
+- a full-width image hero with a dark overlay;
+- a proof strip with green diamonds;
+- a green accent bar under every H2;
+- full-width bands that alternate **light / white**, with process steps and the inquiry form on **dark** bands;
+- accent-topped feature cards, image cards and a timeline for steps;
+- a centered FAQ accordion and a dark closing band with the form in a white card.
+
+`templates/landing-page.php` picks each band's tone automatically, so a JSON file never sets colors.
+
 ## Examples
 
 ```json

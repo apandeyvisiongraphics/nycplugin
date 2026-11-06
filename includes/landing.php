@@ -49,9 +49,17 @@ function vgnyc_section($type, array $section, array $ctx = array()) {
     return call_user_func($cache[$type], $section, $ctx);
 }
 
-/** Opening <section> classes shared by section templates. */
-function vgnyc_section_class($base, array $s, $extra = '') {
-    return trim($base . (empty($s['continues']) ? '' : ' vg-continues') . ($extra ? ' ' . $extra : ''));
+/**
+ * Opening markup shared by section templates: a full-width band (tone: white, light or dark,
+ * chosen by templates/landing-page.php) with a .wrap container inside.
+ */
+function vgnyc_section_open($type, array $s, array $ctx, $extra = '', $attrs = '') {
+    $tone = in_array($ctx['tone'] ?? 'white', array('white', 'light', 'dark'), true) ? $ctx['tone'] : 'white';
+    $class = 'vg-sec vg-' . $type . ' vg-tone-' . $tone . (empty($s['continues']) ? '' : ' vg-continues') . ($extra ? ' ' . $extra : '');
+    return '<section class="' . esc_attr($class) . '"' . $attrs . '><div class="wrap">';
+}
+function vgnyc_section_close() {
+    return '</div></section>';
 }
 
 /** FAQPage JSON-LD built from a landing page's FAQ sections. */
