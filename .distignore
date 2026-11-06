@@ -1,0 +1,7 @@
+scripts/
+tests/
+legacy/
+.git*
+.distignore
+PHASE1_REFACTOR.md
+.DS_Store
