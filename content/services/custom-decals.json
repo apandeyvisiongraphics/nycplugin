@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Custom decals for consistent brand details",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Custom decals for consistent brand details",
+  "lead": "A decal is a small graphic with a specific job, whether it identifies equipment, carries a business logo or marks a promotional item. Good results begin with the surface and the conditions the decal will encounter. Vision Graphics can help New York businesses plan shape, size and artwork for a coordinated decal set. Describe how it will be applied, handled and cleaned, then review material and adhesive choices for that use. Product labeling with regulated content needs separate approval of the wording and requirements.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Custom%20decals%20for%20consistent%20brand%20details"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-custom-decals",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Custom decals for consistent brand details",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Make small artwork work harder",
+      "html": "<p>Simplify fine lines and keep essential type large enough to read at the actual size. A contour shape can support the logo, but complicated edges may not add useful information. Review the design at full size instead of relying on a large screen preview.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Identify the surface and handling",
+      "html": "<p>A smooth glass panel, painted tool case and textured container are different applications. Share surface details, exposure and removal expectations. If the decal carries serial numbers or changing information, define the data and versioning process before production.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Logo decals",
+          "p": "Create a repeatable branded mark for suitable surfaces."
+        },
+        {
+          "h3": "Contour-cut graphics",
+          "p": "Use a defined outline around printed artwork."
+        },
+        {
+          "h3": "Identification decals",
+          "p": "Organize approved names, numbers or asset information in a consistent format."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Business equipment identification",
+        "Promotional graphic sets",
+        "Replacement brand decals"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can a decal adhere to any surface?",
+        "a_html": "<p>No. Surface energy, texture, contamination and exposure can affect adhesion. The application should be reviewed before material selection.</p>"
+      },
+      {
+        "q": "Can each decal have different information?",
+        "a_html": "<p>Variable information can be discussed as part of the production scope. Provide a checked data source and clear version rules.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Vinyl signs",
+      "href": "/nyc/vinyl-signs/"
+    },
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    },
+    {
+      "label": "Wall decals",
+      "href": "/nyc/wall-decals/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Truck graphics that respect the body lines",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Truck graphics that respect the body lines",
+  "lead": "A truck offers prominent graphic space, but its cab, bed, box and rear doors may each need a different design treatment. The most effective layout works with those divisions while keeping the business identity clear. Vision Graphics can help New York businesses plan truck graphics around the exact vehicle configuration and daily use. Share photographs of the sides, front and rear, along with information about equipment, handles and existing markings, so the artwork is designed for the truck that will actually carry it.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Truck%20graphics%20that%20respect%20the%20body%20lines"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-vehicle-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Truck graphics that respect the body lines",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design the cab and body as one system",
+      "html": "<p>Use the largest uninterrupted areas for the strongest brand message. Treat hinges, rails, wheel arches and tool compartments as layout constraints. The rear should have its own hierarchy rather than a smaller copy of the side, especially where doors divide the graphic.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Document working conditions",
+      "html": "<p>Identify surfaces exposed to frequent handling, equipment contact or unusual cleaning. Confirm vehicle condition and any planned repairs before the graphic specification is chosen. Review preparation and installation scheduling against the truck’s operational role.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Box and body graphics",
+          "p": "Use broad side panels for a strong identity and concise service message."
+        },
+        {
+          "h3": "Cab lettering",
+          "p": "Place focused branding on available doors and cab surfaces."
+        },
+        {
+          "h3": "Partial truck wraps",
+          "p": "Coordinate selected printed coverage with the existing vehicle color."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Contractor and trade vehicles",
+        "Delivery trucks",
+        "Company work trucks"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can graphics cross doors or compartments?",
+        "a_html": "<p>The layout can coordinate across panels, but gaps and moving parts need to be considered in artwork and production planning.</p>"
+      },
+      {
+        "q": "Do you need to see accessories?",
+        "a_html": "<p>Yes. Racks, rails, boxes and other equipment can hide or interrupt graphics and should appear in the project photographs.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    },
+    {
+      "label": "Trailer wraps",
+      "href": "/nyc/trailer-wraps/"
+    },
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    }
+  ],
+  "cta_band": true
+}

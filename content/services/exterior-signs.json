@@ -1,0 +1,165 @@
+{
+  "breadcrumb": "Exterior signs for a recognizable business",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Exterior signs for a recognizable business",
+  "lead": "An exterior sign has to work in a busy setting. People may approach on foot, glance across the street or search for an entrance after dark. For New York businesses, the facade, surrounding signs and property requirements all influence the design. Vision Graphics can help turn those conditions into a focused brief for storefront identification, window graphics and other exterior formats. Begin with the message and the site; the right sign type follows from how it needs to be seen and what the location can support.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Exterior%20signs%20for%20a%20recognizable%20business"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-exterior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Exterior signs for a recognizable business",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "product_family": {
+    "h2": "Explore ",
+    "links": [
+      {
+        "label": "Storefront signs",
+        "href": "/nyc/storefront-signs/"
+      },
+      {
+        "label": "Building signs",
+        "href": "/nyc/building-signs/"
+      },
+      {
+        "label": "Dimensional letter signs",
+        "href": "/nyc/dimensional-letter-signs/"
+      },
+      {
+        "label": "Channel letter signs",
+        "href": "/nyc/channel-letter-signs/"
+      },
+      {
+        "label": "Door signs",
+        "href": "/nyc/door-signs/"
+      },
+      {
+        "label": "Hanging signs",
+        "href": "/nyc/hanging-signs/"
+      },
+      {
+        "label": "Metal signs",
+        "href": "/nyc/metal-signs/"
+      },
+      {
+        "label": "Monument signs",
+        "href": "/nyc/monument-signs/"
+      },
+      {
+        "label": "Real estate signs",
+        "href": "/nyc/real-estate-signs/"
+      },
+      {
+        "label": "Parking signs",
+        "href": "/nyc/parking-signs/"
+      },
+      {
+        "label": "Political signs",
+        "href": "/nyc/political-signs/"
+      },
+      {
+        "label": "School signs",
+        "href": "/nyc/school-signs/"
+      },
+      {
+        "label": "Signs for golf tournaments",
+        "href": "/nyc/signs-for-golf-tournaments/"
+      },
+      {
+        "label": "Window graphics",
+        "href": "/nyc/window-graphics/"
+      },
+      {
+        "label": "Cabinet signs",
+        "href": "/nyc/cabinet-signs/"
+      },
+      {
+        "label": "Digital signs",
+        "href": "/nyc/digital-signs/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Consider the whole frontage",
+      "html": "<p>Photograph the building from both directions of approach and across the street. Note entrances, awnings, facade changes and neighboring signs. A clear name with strong contrast often communicates more effectively than a crowded list of services. Supporting information can move to the window or entrance.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Scope the site responsibilities early",
+      "html": "<p>Exterior work can involve property approvals, access, mounting, electrical work and local review. Identify the responsible parties and verify those requirements before committing to a fabrication method. Any installation, permit or electrical services must be explicitly included in the reviewed scope.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Storefront and building identity",
+          "p": "Develop a primary business name treatment that suits the facade."
+        },
+        {
+          "h3": "Window and entrance graphics",
+          "p": "Carry supporting messages and practical information closer to the customer."
+        },
+        {
+          "h3": "Portable campaign graphics",
+          "p": "Plan banners and temporary signs for an approved display setting."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Store openings and refreshes",
+        "Tenant identity changes",
+        "Coordinated multi-location branding"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you recommend a sign from a photograph?",
+        "a_html": "<p>A photograph helps compare visual directions. Final material, mounting and installation decisions may require measurements and a site assessment.</p>"
+      },
+      {
+        "q": "Are permits or installation included?",
+        "a_html": "<p>Those responsibilities must be confirmed for the project. They are not assumed from an initial design inquiry.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    }
+  ],
+  "cta_band": true
+}

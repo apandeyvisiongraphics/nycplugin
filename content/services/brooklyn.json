@@ -1,0 +1,169 @@
+{
+  "breadcrumb": "Signs for Brooklyn businesses",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Signs for Brooklyn businesses",
+  "lead": "Brooklyn businesses work in many kinds of spaces, from a narrow neighborhood storefront to a shared office floor or a busy food counter. The right signage starts with the way customers approach that particular location. Vision Graphics helps coordinate your signage brief, design decisions and production requirements. Bring your storefront, window, reception or vehicle project to the conversation, along with photos and a project ZIP. Brooklyn is an initial service focus, and the practical coverage and delivery or installation arrangements are confirmed for each project.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "#request-quote"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-signage-storefronts",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Signs for Brooklyn businesses",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "A storefront that explains the business",
+      "html": "<p>For a café, bodega, salon or independent shop, a few coordinated decisions can clarify the frontage: a recognizable name, an obvious entrance and one focused window message. In pedestrian settings, detailed information can sit closer to the door while the main identity stays simple. Review the whole facade and any landlord sign criteria before choosing a format.</p>"
+    },
+    {
+      "type": "text",
+      "id": "williamsburg",
+      "h2": "Williamsburg: plan the storefront as one composition",
+      "html": "<p>For a Williamsburg shop, café or service business, begin with a photograph of the entire frontage and the view from each direction on the sidewalk. Which pane should carry a promotion, and which should keep the interior visible? Where will hours and entrance information sit? Bring any landlord sign criteria into the brief and identify old signs or window graphics that need removal.</p>"
+    },
+    {
+      "type": "text",
+      "id": "dumbo",
+      "h2": "DUMBO: connect the entrance with the interior",
+      "html": "<p>For a DUMBO office, studio or customer-facing space, show the route from the building entrance to the business itself. Does the project need a lobby logo, suite identification, meeting-room privacy or clearer directions? Include the property contact and ask about approved work hours, deliveries, elevator access and mounting restrictions. Review the actual wall and glass surfaces before choosing materials.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "One contact to organize the next step",
+      "html": "<p>Send us a wide photo, a close view of the surface, approximate dimensions and a description of what needs to change. A useful first discussion separates artwork decisions from property approvals, fabrication and installation needs. That same approach works for a single replacement graphic or a coordinated refresh across several locations.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Start with the space you need to improve",
+      "html": "<p>For a Brooklyn storefront, restaurant or office, a useful first brief shows the space and the business goal. Send the address, photos, approximate dimensions and your target date. Explain whether the priority is a clearer storefront, a promotion on the windows, more privacy or stronger reception branding. Existing signs, building requirements and installation access should be included early. Vision Graphics will review the proposed products and confirm coverage, project responsibilities and timing for the specific location before you commit to the work.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "What affects a Brooklyn project quote",
+      "html": "<p>The products, dimensions, quantities, artwork readiness and material choices define the starting scope. Existing-sign removal, surface preparation, mounting access, building coordination and installation responsibilities can change it. Separate essential opening-day items from later improvements so the proposed sequence is clear. The same site-specific approach applies to briefs in Downtown Brooklyn, Brooklyn Heights, Park Slope and other neighborhoods; coverage is confirmed for each location.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Storefront and window refreshes",
+          "p": "Coordinate the business identity, hours and promotional glass graphics. Start with a full frontage photograph and the property’s sign criteria."
+        },
+        {
+          "h3": "Office and property signs",
+          "p": "Plan lobby logos, privacy film, room identification and directions with the building team. Use a floor plan or sign list to organize the scope."
+        },
+        {
+          "h3": "Restaurant and retail interiors",
+          "p": "Connect the exterior message with wall graphics, menu or service information and other customer-facing displays."
+        },
+        {
+          "h3": "Business and event graphics",
+          "p": "Explore vehicle graphics, banners and portable displays using the same brand artwork. Confirm the application and production details for each item."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Restaurant, café and bodega openings or refreshes",
+        "Retail and local-service storefronts",
+        "Office moves and reception updates",
+        "Glass privacy and interior branding",
+        "Managed-property signage replacements"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Does VG have a Brooklyn factory or showroom?",
+        "a_html": "<p>No Brooklyn facility is represented here. Production and project support are coordinated through Vision Graphics.</p>"
+      },
+      {
+        "q": "Do you cover my Brooklyn project location?",
+        "a_html": "<p>Share the ZIP and project details. Coverage, delivery and any installation arrangements are confirmed during scoping.</p>"
+      },
+      {
+        "q": "What should I send for a Brooklyn sign quote?",
+        "a_html": "<p>Share the address or ZIP, photos, approximate dimensions, quantities and target date. Describe what needs to change and include artwork, landlord requirements and access restrictions if available. You do not need a finished sign specification to start; the proposed product and installation scope can then be reviewed.</p>"
+      },
+      {
+        "q": "Can one brief cover a storefront and its interior graphics?",
+        "a_html": "<p>Yes. List the exterior sign, window graphics and interior items you want considered, with photos and approximate quantities. Tell us which items are essential for opening and which can follow. We can then discuss a coordinated scope and confirm a practical sequence.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Restaurants",
+      "href": "/nyc/restaurants/"
+    },
+    {
+      "label": "Retail",
+      "href": "/nyc/retail/"
+    },
+    {
+      "label": "Offices & properties",
+      "href": "/nyc/offices-properties/"
+    },
+    {
+      "label": "Contact",
+      "href": "/nyc/contact/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Lobby signs",
+      "href": "/nyc/lobby-signs/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Window film",
+      "href": "/nyc/window-film/"
+    },
+    {
+      "label": "Dimensional letter signs",
+      "href": "/nyc/dimensional-letter-signs/"
+    },
+    {
+      "label": "Wall graphics",
+      "href": "/nyc/wall-graphics/"
+    },
+    {
+      "label": "Wayfinding signs",
+      "href": "/nyc/wayfinding-signs/"
+    }
+  ],
+  "cta_band": false,
+  "extra_sections": [
+    "<section class=\"soft-section\"><div class=\"wrap story-grid product-proof\"><figure class=\"project-image \"><img src=\"/nyc/assets/vg-window-storefront-960.webp\" srcset=\"/nyc/assets/vg-window-storefront-480.webp 480w, /nyc/assets/vg-window-storefront-960.webp 960w\" sizes=\"(max-width: 700px) 100vw, 50vw\" alt=\"Ideas for a visible storefront\" loading=\"lazy\"></figure><div><p class=\"eyebrow\">A VISION GRAPHICS EXAMPLE</p><h2>Ideas for a visible storefront</h2><p>A VG portfolio example of storefront window graphics. Use it as inspiration when discussing your Brooklyn space.</p><p class=\"caption-note\">Shown for product inspiration. The photographed location is not confirmed as New York.</p><a class=\"text-link\" href=\"https://www.visiondoesit.com/products/graphics/window-graphics/\">View the original VG collection →</a></div></div></section>",
+    "<section class=\"wrap section portfolio-section\"><div class=\"section-heading\"><div><p class=\"eyebrow\">FROM THE VISION GRAPHICS PORTFOLIO</p><h2>See what VG can bring to a project.</h2></div><a class=\"text-link\" href=\"/nyc/projects/\">Explore VG projects <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-up-right\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"></path><path d=\"M7 17 17 7\"></path></svg></a></div><p class=\"portfolio-intro\">Examples of VG’s broader work. The photographed locations are not specified in the original stories; these are not presented as New York installations.</p><div class=\"portfolio-grid\"><a class=\"portfolio-card\" href=\"/nyc/projects/big-d-construction/\"><img src=\"/nyc/assets/vg-project-big-d-construction.webp\" alt=\"Large Big-D Construction banner displayed on an unfinished commercial building\" width=\"1280\" height=\"720\" loading=\"lazy\"><div><p class=\"eyebrow\">Big-D Construction</p><h3>Brand consistency from office to job site</h3><p>Construction site signage · Fleet graphics · Environmental office graphics</p><span>View the project <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-up-right\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"></path><path d=\"M7 17 17 7\"></path></svg></span></div></a><a class=\"portfolio-card\" href=\"/nyc/projects/cafe-rio/\"><img src=\"/nyc/assets/vg-project-cafe-rio.webp\" alt=\"Café Rio branded delivery vans parked together outside a Vision Graphics facility\" width=\"1280\" height=\"720\" loading=\"lazy\"><div><p class=\"eyebrow\">Café Rio</p><h3>Coordinated graphics across locations</h3><p>Interior graphics packages · Digital displays · Delivery van and fleet graphics</p><span>View the project <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-up-right\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"></path><path d=\"M7 17 17 7\"></path></svg></span></div></a><a class=\"portfolio-card\" href=\"/nyc/projects/eos-fitness/\"><img src=\"/nyc/assets/vg-project-eos-fitness.jpg\" alt=\"EōS Fitness wall mural with a landscape background above gym equipment\" width=\"640\" height=\"360\" loading=\"lazy\"><div><p class=\"eyebrow\">EōS Fitness</p><h3>Branded spaces for a growing fitness business</h3><p>Environmental and facility graphics · Digital displays · Multi-location campaign graphics</p><span>View the project <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-up-right\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"></path><path d=\"M7 17 17 7\"></path></svg></span></div></a></div></section>",
+    "<section class=\"wrap section landing-conversion\" id=\"request-quote\"><div><p class=\"eyebrow\">YOUR PROJECT STARTS HERE</p><h2>Let’s work through the details.</h2><p class=\"lead\">Tell us about your New York project. Share the location, dimensions and timing so we can help plan the next step.</p><p>We’ll review the setting, material options, timing and practical requirements before a final scope is agreed.</p></div><!-- VGNYC_FORM --></section>"
+  ]
+}

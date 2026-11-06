@@ -1,0 +1,272 @@
+{
+  "route": "/nyc/sign-installation/",
+  "source": "VGNYCLandingPages0411.html",
+  "sections": [
+    {
+      "type": "hero",
+      "h1": "Sign Installation in New York City",
+      "lead_html": "<p>Vision Graphics manages sign installation for NYC offices, lobbies, and storefronts.</p><p>Licensed installation partners handle the installation, and one project lead coordinates old-sign removal, wall patching, building approvals, and after-hours scheduling across all five boroughs.</p><p>Send a photo to start.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-sign-installation-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "Certificate of Insurance",
+          "text": "On request",
+          "icon": "clipboard-check"
+        },
+        {
+          "title": "After-Hours Installs",
+          "text": "Around your building's rules",
+          "icon": "clock"
+        },
+        {
+          "title": "One Contact",
+          "text": "A project lead from photo to install",
+          "icon": "user"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "features-grid",
+      "h2": "What's Included",
+      "intro_html": "<p>Our sign installation services cover the full changeover, from removing the old sign to a clean finish.</p><p>For commercial sign installation, wall condition and access shape the scope, so we ask early about drilling, adhesive, and work-hour limits.</p>",
+      "items": [
+        {
+          "title": "Removal and Disposal of the Old Sign",
+          "html": "<p>The old sign comes down first. Removal is part of the install plan, and our team confirms disposal details when you request your quote.</p>"
+        },
+        {
+          "title": "Wall Patching and Touch-Up",
+          "html": "<p>We repair holes and marks where the old sign hung. Patching and paint touch-up are scoped in your quote, based on the photos you send.</p>"
+        },
+        {
+          "title": "Installation",
+          "html": "<p>Your new sign goes up to the drawing you approved. Licensed installation partners mount it, and a licensed electrician connects lit signs.</p>"
+        },
+        {
+          "title": "Clean-Up",
+          "html": "<p>The work area is left clean. The crew clears packing, debris, and dust before leaving.</p>"
+        }
+      ],
+      "image": "nyc-sign-installation-included-01",
+      "doc_section": 3
+    },
+    {
+      "type": "rich-text",
+      "h2": "Sign Fabrication",
+      "html": "<p>We make most signs at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p><p>Our sign fabrication NYC projects use metal and acrylic for dimensional and reception signs, wood for warm lobby finishes, vinyl for windows and walls, and LED lighting for lit signs.</p><p>Your quote shows material options, so you can compare finish and cost before you approve a drawing.</p><p>Transit time is planned into your schedule. Read more about <a href=\"/nyc/about/\">who we are and where signs are made</a>.</p>",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Installing in NYC Buildings",
+      "intro_html": "<p>Getting a sign past building management is often the hardest part of sign installation in NYC, so we plan for it from the first photo.</p><p>Your project lead handles the paperwork and the schedule, and you get one person to call.</p>",
+      "items": [
+        {
+          "title": "Licensed Installation Partners",
+          "html": "<p>Licensed sign installers in NYC. The city requires a licensed sign hanger for most installs, and a licensed electrician connects lit signs. Our partners handle both, and your project lead manages them.</p>"
+        },
+        {
+          "title": "Certificate of Insurance",
+          "html": "<p>We can provide a certificate upon request and send it before work begins. Buildings set their own coverage wording, so <a href=\"#inquiry\">send us your requirements</a> early, and our team will confirm what we can provide.</p>"
+        },
+        {
+          "title": "Building Management Approval",
+          "html": "<p>We prepare the drawings management asks for. Landlords and boards often require sign-off before work starts, and we plan that approval into your schedule.</p>"
+        },
+        {
+          "title": "After-Hours and Weekend Installs",
+          "html": "<p>We schedule installs around your building's rules. Evenings and weekends are available, and we confirm any added labor charges in your quote.</p>"
+        },
+        {
+          "title": "Freight Elevators and Access",
+          "html": "<p>We coordinate freight elevator windows and building access with your manager. <a href=\"#inquiry\">Tell us your loading dock and elevator rules</a>, and we plan the delivery and the crew around them.</p>"
+        }
+      ],
+      "image": "nyc-sign-installation-buildings-01",
+      "doc_section": 5
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Schedule Your Installation?",
+      "html": "<p>Send photos of your wall and your old sign, plus any building rules. Our team will come back with questions and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "card-grid",
+      "h2": "Interior and Exterior Installation",
+      "intro_html": "<p>Sign installations in New York, NY follow different rules inside and out.</p><p>Interior jobs run through building management, and exterior jobs add city permits and, in landmark districts, extra review. See all <a href=\"/nyc/interior-signs/\">interior signs</a> and <a href=\"/nyc/exterior-signs/\">exterior signs</a>.</p>",
+      "groups": [
+        {
+          "label": "Interior",
+          "items": [
+            {
+              "title": "Lobby and Reception Signs",
+              "image": "nyc-sign-installation-interior-exterior-01",
+              "html": "<p>Logo walls and reception signs mounted level and flush. We protect floors and finishes and keep work out of your tenants' way.</p><p>Planning a budget? Read our <strong>lobby sign cost guide</strong>. <a href=\"/nyc/lobby-signs/\">Learn more about lobby signs</a>.</p>"
+            },
+            {
+              "title": "Office Signs",
+              "image": "nyc-sign-installation-interior-exterior-02",
+              "html": "<p>Suite plates, conference room signs, and brand walls. Each sign follows one layout across the whole floor.</p>"
+            },
+            {
+              "title": "Elevator Lobby Signs",
+              "image": "nyc-sign-installation-interior-exterior-03",
+              "html": "<p>Floor numbers and directories at the elevator bank. <a href=\"/nyc/wayfinding-signs/\">Elevator lobby signs</a> are wayfinding signs, and we coordinate placement with building management and protect the elevator doors during the install.</p>"
+            },
+            {
+              "title": "ADA Signs",
+              "image": "nyc-sign-installation-interior-exterior-04",
+              "html": "<p>Tactile and Braille signs mounted at consistent, accessible heights. Our team confirms each location against your floor plan. <a href=\"/nyc/ada-signs/\">Learn more about ADA signs</a>.</p>"
+            }
+          ]
+        },
+        {
+          "label": "Exterior",
+          "items": [
+            {
+              "title": "Storefront Signs",
+              "image": "nyc-sign-installation-interior-exterior-05",
+              "html": "<p>Install fascia and cabinet signs from a lift or ladder at street level. Sidewalk and building rules are planned before install day. <a href=\"/nyc/storefront-signs/\">Learn more about storefront signs</a>.</p>"
+            },
+            {
+              "title": "Channel Letters",
+              "image": "nyc-sign-installation-interior-exterior-06",
+              "html": "<p>Lit letters mounted with the electrical connection made by a licensed electrician. Permits come first, and the install follows approval. <a href=\"/nyc/channel-letter-signs/\">Learn more about channel letter signs</a>.</p>"
+            }
+          ]
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "image-text",
+      "h2": "Sign Removal and Replacement",
+      "html": "<p>Old sign out, new sign in, planned together so the changeover is quick. We scope wall patching and residue cleanup in your quote.</p><p>Old signs leave holes, marks, and adhesive. We assess your wall from the photos you send, then plan the patching and cleanup alongside the new install.</p><p>The city requires a licensed sign hanger for most removals, and landmark buildings may require additional review.</p><p><a href=\"#inquiry\">Tell us about your old sign</a>, and we will plan both steps at once.</p>",
+      "image": "nyc-sign-installation-removal-01",
+      "doc_section": 7
+    },
+    {
+      "type": "rich-text",
+      "h2": "Sign Repair in NYC",
+      "html": "<p>Damaged or failing sign? Our team can assess it and recommend a repair or a replacement.</p><p>Send a photo, and we will take it from there.</p>",
+      "cta": {
+        "label": "Contact our team",
+        "href": "#inquiry"
+      },
+      "doc_section": 8
+    },
+    {
+      "type": "process-steps",
+      "h2": "How It Works",
+      "intro_html": "<p>Five steps take your sign from a photo to a finished install.</p>",
+      "steps": [
+        "<strong>Send photos or book a survey:</strong> Share photos of the wall, the old sign, and your building's rules.",
+        "<strong>Receive your quote:</strong> We send an itemized quote with material options.",
+        "<strong>Approve drawings and paperwork:</strong> You approve the drawings, and we prepare building and permit paperwork.",
+        "<strong>Fabrication and shipping:</strong> We make your sign at our production facility, inspect it, and ship it to your project.",
+        "<strong>Scheduled installation:</strong> Our licensed partners install on the schedule your building allows."
+      ],
+      "image": "nyc-sign-installation-process-01",
+      "doc_section": 9
+    },
+    {
+      "type": "cta-band",
+      "variant": "compact",
+      "html": "<p>Send a photo to start.</p>",
+      "cta": {
+        "label": "Send a Photo",
+        "href": "#inquiry",
+        "style": "secondary"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "The certificate went to our building manager, and the install happened after hours.",
+          "name": "Hannah Brooks",
+          "role": "Office Manager",
+          "company": "Brooks & Wynn Accounting"
+        },
+        {
+          "quote": "The old sign was gone, the wall was patched, the new sign was up, and nobody in the office was disturbed.",
+          "name": "Victor Romano",
+          "role": "Property Manager",
+          "company": "Romano Commercial Realty"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 10
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "Do you remove the old sign?",
+          "a_html": "<p>Yes. Removal is part of the install plan, so the old sign comes down before the new one goes up. New York City requires a licensed sign hanger for most removals, and our licensed partners handle it. <a href=\"#inquiry\">Send us a photo of your old sign</a>, and we will plan both steps.</p>"
+        },
+        {
+          "q": "Do you repair the wall?",
+          "a_html": "<p>Yes. Wall patching and paint touch-up are scoped in your quote, based on the photos you send. Old signs leave holes, marks, and adhesive, so the quote reflects your wall's condition. <a href=\"#inquiry\">Tell us about your wall</a> and any finish requirements.</p>"
+        },
+        {
+          "q": "Can you install after hours?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote. Tell us your building's work hours when you request a quote.</p>"
+        },
+        {
+          "q": "Can you provide a certificate of insurance?",
+          "a_html": "<p>Yes. We can provide a certificate of insurance upon request and send it before work begins. Buildings set their own coverage wording, so <a href=\"#inquiry\">send us your requirements</a> early. Our team will confirm what we can provide for your building.</p>"
+        },
+        {
+          "q": "Who does the installation?",
+          "a_html": "<p>Licensed installation partners install your sign, and a licensed electrician connects lit signs. A Vision Graphics project lead manages the schedule, building access, and paperwork from start to finish. We tell you who will be on site before installation day.</p>"
+        },
+        {
+          "q": "How long does it take from approval to install?",
+          "a_html": "<p>Simple graphics usually take one to two weeks, and lobby and office signs take two to three weeks. Illuminated exterior signs take three to five weeks, plus permit review. Shipping from our Salt Lake City facility adds transit time, which we confirm in your quote. Landmark districts and building approvals can add more.</p>"
+        },
+        {
+          "q": "Do you handle building management approval and permits?",
+          "a_html": "<p>Yes. We prepare the drawings and paperwork building management asks for, and interior signs usually depend on that approval. Exterior signs generally need a New York City DOB permit, and lit signs need a separate electrical permit. Landmark districts add review. We coordinate the licensed filer.</p>"
+        },
+        {
+          "q": "Do you install in all five boroughs?",
+          "a_html": "<p>Yes. We serve all five boroughs, and each building has its own access rules and approvals. Tell us your address when you request a quote, and we will plan the schedule, permits, and crew for your site.</p>"
+        }
+      ],
+      "doc_section": 11
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Schedule Your Installation?",
+      "intro_html": "<p>Send photos of your wall and your old sign, plus any building rules. Our team will come back with questions and a quote.</p>",
+      "doc_section": 12
+    }
+  ]
+}

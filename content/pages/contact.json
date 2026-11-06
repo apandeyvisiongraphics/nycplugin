@@ -1,0 +1,81 @@
+{
+  "route": "/nyc/contact/",
+  "source": "VGNYCLandingPages0511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "h1": "Request a Custom Sign Quote for Your New York City Project",
+      "lead_html": "<p>Send photos of your wall or storefront, rough sizes, and the building address, and we will start your NYC sign quote.</p><p>A Vision Graphics project lead replies within one business day with questions, a site survey request, or a quote. You do not need final artwork.</p>",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Certificate of Insurance",
+          "text": "On request",
+          "icon": "clipboard-check"
+        },
+        {
+          "title": "One Business Day",
+          "text": "Our standard reply time",
+          "icon": "clock"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "inquiry",
+      "h2": "Tell us about your sign",
+      "note_html": "<p>We reply within one business day. See our <a href=\"/nyc/privacy/\">privacy policy</a>.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "process-steps",
+      "h2": "What Happens Next",
+      "steps": [
+        "<strong>We review your photos and details:</strong> A project lead checks your photos, sizes, and building information.",
+        "<strong>We come back with questions or a site survey:</strong> If we need more detail, we ask. For lit and exterior signs, we may arrange a survey.",
+        "<strong>You receive a quote with options:</strong> Your quote shows material options so that you can compare finish and cost."
+      ],
+      "after_html": "<p>Our <a href=\"/nyc/sign-installation/\">sign installation page</a> covers building rules, certificates of insurance, and after-hours installs.</p>",
+      "doc_section": 5
+    },
+    {
+      "type": "faq",
+      "h2": "Quick Answers",
+      "items": [
+        {
+          "q": "Do I need final artwork?",
+          "a_html": "<p>No. Send your logo if you have one, or a photo of your old sign, and we will prepare a drawing for you to approve before anything is made. We accept HEIC, JPG, PNG, PDF, AI, and EPS files.</p>"
+        },
+        {
+          "q": "Can you quote from photos?",
+          "a_html": "<p>Yes. Photos of the wall or storefront plus rough sizes are enough for a first quote. For lit and exterior signs, we may ask for a site survey before the final price.</p>"
+        },
+        {
+          "q": "How fast will you reply?",
+          "a_html": "<p>We reply within one business day. If your project has a firm deadline, choose your timing in the form or tell us in the details box, and we will confirm what is possible.</p>"
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "I sent two photos and an address, and had questions and a quote the next day.",
+          "name": "Natalie Greene",
+          "role": "Operations Manager",
+          "company": "Greene Dental Partners"
+        }
+      ],
+      "doc_section": 7
+    }
+  ]
+}

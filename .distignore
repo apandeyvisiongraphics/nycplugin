@@ -1,0 +1,16 @@
+scripts/
+tests/
+legacy/
+.git*
+.distignore
+PHASE1_REFACTOR.md
+.DS_Store
+inbox/
+images-inbox/
+*.md
+.github/
+node_modules/
+__pycache__/
+vendor/plugin-update-checker/composer.json
+build/
+docs/

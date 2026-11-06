@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Acrylic signs with a clear design purpose",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Acrylic signs with a clear design purpose",
+  "lead": "Acrylic offers several ways to present a business identity, from a simple wall panel to layered dimensional elements. A clear surface can reveal the wall behind the design, while colored or opaque pieces create a stronger block of contrast. For New York reception areas, doors and retail interiors, the right choice depends on the artwork and the surrounding light. Vision Graphics helps turn those visual choices into a considered sign brief, including edge appearance, graphic placement, mounting and the way the sign will be viewed.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Acrylic%20signs%20with%20a%20clear%20design%20purpose"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-acrylic-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Acrylic signs with a clear design purpose",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Think beyond a clear rectangle",
+      "html": "<p>A panel can organize a logo, department name or donor message; separate acrylic letters can let the wall become the background. Layered elements may introduce depth. Decide whether edges and fixings should be visible features or quieter details, and check how reflections affect readability.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review a scaled proof",
+      "html": "<p>Provide vector artwork where available and a photo of the intended location. A proof should show proportions, text placement and the relationship between the panel and surrounding objects. Material grade, thickness, finish and fixings need to be specified for the particular application rather than assumed from a photograph.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Clear panel designs",
+          "p": "Let the mounting wall remain visible around carefully positioned graphics."
+        },
+        {
+          "h3": "Opaque and colored elements",
+          "p": "Create a solid visual field for a logo or room identity."
+        },
+        {
+          "h3": "Layered acrylic compositions",
+          "p": "Combine flat and raised elements for a deliberate sense of depth."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reception logo panels",
+        "Room and department identification",
+        "Retail feature displays"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is all acrylic the same?",
+        "a_html": "<p>No. Surface finish, thickness, color and product grade vary. Select the material against the intended appearance and application.</p>"
+      },
+      {
+        "q": "Can acrylic be used outdoors?",
+        "a_html": "<p>Suitability depends on the selected product, design and mounting conditions. Review the specific application rather than assuming every acrylic sign is exterior-ready.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Lobby signs",
+      "href": "/nyc/lobby-signs/"
+    },
+    {
+      "label": "Dimensional letter signs",
+      "href": "/nyc/dimensional-letter-signs/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    }
+  ],
+  "cta_band": true
+}

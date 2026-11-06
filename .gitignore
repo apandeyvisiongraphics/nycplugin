@@ -1,0 +1,7 @@
+tests/node_modules/
+tests/current/
+tests/diff/
+.DS_Store
+images-inbox/
+__pycache__/
+tests/.admin-cookies.json
