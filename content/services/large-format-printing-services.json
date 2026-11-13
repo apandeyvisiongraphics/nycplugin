@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Large format printing planned at full scale",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Large format printing planned at full scale",
+  "lead": "Large format printing turns artwork into physical graphics that may be viewed across a room, along a storefront or at the scale of a wall. That change in scale affects image quality, typography and finishing. Vision Graphics helps New York businesses prepare the project around the final use rather than simply enlarging a file. Share the intended dimensions, viewing conditions and display method so the artwork, material and production layout can be reviewed together before the job moves into print.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Large%20format%20printing%20planned%20at%20full%20scale"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Large format printing planned at full scale",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Prepare the file for the finished size",
+      "html": "<p>Review image resolution, crop, fonts and color references in the context of the final output. A digital preview cannot show every material or lighting effect. Identify where proofing or a sample would help resolve a meaningful design decision.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan beyond the printed face",
+      "html": "<p>The final use determines whether the graphic needs trimming, paneling, hems, attachment details or another finish. Oversized work may require a coordinated panel sequence and access planning. Confirm the substrate or display hardware before artwork dimensions are locked.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Rigid printed panels",
+          "p": "Present information or branding on a defined board format."
+        },
+        {
+          "h3": "Flexible printed graphics",
+          "p": "Create banners and other roll-based display applications."
+        },
+        {
+          "h3": "Adhesive graphic production",
+          "p": "Prepare wall, window or other surface graphics for the specified use."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Store and office graphics",
+        "Event display systems",
+        "Campaign and promotional programs"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can any image be enlarged?",
+        "a_html": "<p>Files need evaluation at the intended output size and viewing distance. The original image is more useful than a compressed copy.</p>"
+      },
+      {
+        "q": "What should accompany the artwork?",
+        "a_html": "<p>Include dimensions, quantity, use location, display method and any brand color references or finishing requirements.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Wall murals",
+      "href": "/nyc/wall-murals/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Custom decals",
+      "href": "/nyc/custom-decals/"
+    }
+  ],
+  "cta_band": true
+}

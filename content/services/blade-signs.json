@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Blade sign concepts for the pedestrian approach",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Blade sign concepts for the pedestrian approach",
+  "lead": "A blade sign projects from a building so the business identity can face people moving along the street. That different angle can be valuable where a flat storefront sign is difficult to see from the sidewalk. For a New York location, the concept must be shaped by the facade, pedestrian environment and property requirements. Vision Graphics can help develop a compact, readable identity while the bracket, attachment, clearances and approvals are reviewed by the responsible project team before any production commitment.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Blade%20sign%20concepts%20for%20the%20pedestrian%20approach"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-sign-type-blade-hanging-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Blade sign concepts for the pedestrian approach",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Use a short, recognizable message",
+      "html": "<p>A projecting sign usually has limited visual space. Prioritize a logo, business name or simple symbol rather than a full service list. Review both faces and the way the graphic reads from each direction, including the color and activity of the background.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review the projection and support",
+      "html": "<p>Collect building photographs, available dimensions and landlord sign criteria. The bracket and facade connection are integral to the design, and existing hardware should be inspected rather than assumed reusable. Confirm applicable approvals, access and installation responsibilities before release.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Double-sided identity panels",
+          "p": "Present a consistent logo or name in both directions."
+        },
+        {
+          "h3": "Shaped sign concepts",
+          "p": "Use the outline as part of a distinctive brand expression."
+        },
+        {
+          "h3": "Coordinated storefront systems",
+          "p": "Relate the projecting identity to the fascia and window graphics."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Pedestrian retail frontages",
+        "Restaurant entrance concepts",
+        "Local-service storefront studies"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can an existing bracket be reused?",
+        "a_html": "<p>Only after its condition, suitability and connection have been assessed for the proposed sign.</p>"
+      },
+      {
+        "q": "Can the sign be illuminated?",
+        "a_html": "<p>Illumination adds electrical and technical scope that must be confirmed separately. It is not an assumed option in this draft.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Hanging signs",
+      "href": "/nyc/hanging-signs/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    }
+  ],
+  "cta_band": true
+}

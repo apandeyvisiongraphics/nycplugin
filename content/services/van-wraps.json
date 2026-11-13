@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Van wraps and graphics for working teams",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Van wraps and graphics for working teams",
+  "lead": "A business van often serves as both transportation and a visible introduction to the team inside. Its side panels can carry a strong brand statement, while the rear needs a clear message for a different viewing angle. Vision Graphics helps New York businesses plan van graphics around the exact wheelbase, roof height, windows and doors. That detail matters because vehicles sharing a model name may have different usable areas. Start with the vehicle information and current photos before deciding how much coverage makes sense.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Van%20wraps%20and%20graphics%20for%20working%20teams"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-vehicle-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Van wraps and graphics for working teams",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Keep the message clear around sliding doors",
+      "html": "<p>Place the main identity where it reads when the vehicle is closed, and check what happens when doors are open. Avoid important text across deep channels or hardware. Use the side and rear as related layouts with their own spacing and emphasis.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan the vehicle’s preparation",
+      "html": "<p>Assess paint, dents, repairs and existing graphics before production. Confirm which windows and surfaces are in scope and identify any equipment that affects access. Installation arrangements and time off the road should be established before a final schedule is agreed.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Full van concepts",
+          "p": "Create a broad brand treatment across suitable body areas."
+        },
+        {
+          "h3": "Partial van wraps",
+          "p": "Use selected coverage and the existing paint color together."
+        },
+        {
+          "h3": "Door and panel graphics",
+          "p": "Apply focused logos, service descriptions and contact information."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Mobile service teams",
+        "Local delivery businesses",
+        "Company and trade vans"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Why do you need roof height and wheelbase?",
+        "a_html": "<p>Those details change panel dimensions and artwork placement. The final layout must match the actual vehicle configuration.</p>"
+      },
+      {
+        "q": "Can the back look different from the sides?",
+        "a_html": "<p>Yes. A coordinated rear layout can prioritize the information most useful from that viewing position.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    },
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    },
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    }
+  ],
+  "cta_band": true
+}

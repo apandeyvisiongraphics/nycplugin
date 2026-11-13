@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Door signs that identify the destination",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Door signs that identify the destination",
+  "lead": "A door sign is the final confirmation that someone has reached the right place. It may identify a business, a room, an occupant or a practical instruction, and those functions should not compete for attention. Vision Graphics can help New York offices and local businesses build a clear door-sign system around approved names, existing finishes and the way information changes. Review the door and surrounding wall together so the message, mounting position and any accessibility requirements are considered as one coordinated decision.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Door%20signs%20that%20identify%20the%20destination"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Door signs that identify the destination",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Separate permanent and changing information",
+      "html": "<p>Room numbers may stay fixed while staff names change. A layered information system can avoid replacing every element when the office evolves. Agree on naming conventions and text hierarchy across the location before approving individual door layouts.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Choose the right surface for the message",
+      "html": "<p>Glass lettering, a panel on a door and a sign on an adjacent wall have different visual and practical effects. Check handles, movement, existing notices and sightlines. Have the responsible project team confirm any required accessible identification and placement.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Glass door lettering",
+          "p": "Place concise business or room information on suitable glass."
+        },
+        {
+          "h3": "Fixed identification panels",
+          "p": "Present approved room names and numbers in a consistent format."
+        },
+        {
+          "h3": "Changeable name concepts",
+          "p": "Separate frequently updated information from permanent identity."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Office suites",
+        "Meeting and consultation rooms",
+        "Business entrance doors"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Should the sign go on the door or beside it?",
+        "a_html": "<p>That depends on the purpose, door conditions and applicable requirements. Review the location as part of the sign schedule.</p>"
+      },
+      {
+        "q": "Can names be updated later?",
+        "a_html": "<p>Plan a changeable element or separate name component when frequent updates are expected.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "ADA signs",
+      "href": "/nyc/ada-signs/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,97 @@
+{
+  "breadcrumb": "Questions to ask about a sign’s useful life",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Questions to ask about a sign’s useful life",
+  "lead": "A thoughtful sign specification considers what happens before and after the first installation. How often will the information change? Can a component be replaced? What documentation supports a material claim? For New York property and business teams, these questions can be more useful than a broad “green” label. Vision Graphics can help frame the discussion around the actual project, while any environmental attributes need evidence for the specific product and process. Start with longevity, update needs and a realistic plan for the end of use.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Questions%20to%20ask%20about%20a%20sign%E2%80%99s%20useful%20life"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Questions to ask about a sign’s useful life",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design for the changes you can predict",
+      "html": "<p>A permanent panel with a frequently changing phone number may create avoidable replacement work. Separate stable identity from information that will change when the design and construction allow it. For tenant directories or event systems, consider whether replaceable elements can support the expected update cycle.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Ask for specific evidence",
+      "html": "<p>Terms such as recycled, recyclable or lower impact need a defined meaning and supporting documentation. Material composition, printing, finishing and local collection options can affect the answer. Do not assume that a product is recyclable in the project’s location because one component is theoretically recyclable.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan care and end of use",
+      "html": "<p>Request care guidance for the specified material and agree who is responsible for removal when the sign changes. Reuse depends on condition, construction and future needs. Record what was selected so a later team can assess repair, replacement or disposal with better information.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Replaceable content elements",
+          "p": "Review whether changing information can be updated independently."
+        },
+        {
+          "h3": "Documented material choices",
+          "p": "Evaluate specific supplier evidence rather than broad environmental labels."
+        },
+        {
+          "h3": "Reuse and care planning",
+          "p": "Consider maintenance, storage and end-of-use responsibilities early."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Property sign programs",
+        "Repeated event graphics",
+        "Brand refresh planning"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is one sign material always the most sustainable?",
+        "a_html": "<p>No universal conclusion is made here. The use, lifetime, production process and realistic end-of-use options all matter.</p>"
+      },
+      {
+        "q": "Can you certify an environmental claim?",
+        "a_html": "<p>Any claim requires verified documentation and appropriate review for the specific product. No blanket certification is represented.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Interior directory signs",
+      "href": "/nyc/interior-directory-signs/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Branded apparel project planning",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Branded apparel project planning",
+  "lead": "Branded apparel can connect the appearance of a team with the graphics on its vehicles, events and workplace. A garment is a different production surface from a sign, so artwork, placement and decoration need their own review. This page is a planning draft for discussion with Vision Graphics rather than a confirmed apparel catalog. Start with the purpose, garment preferences, sizes and approved brand assets, then verify product availability, decoration methods and order details before a proposal or production commitment is made.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Branded%20apparel%20project%20planning"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Branded apparel project planning",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design for the garment",
+      "html": "<p>A logo that works on a large banner may need a simplified treatment at chest or sleeve size. Consider the garment color, seams and intended placement. Review the actual decoration area and method before assuming the same artwork can be transferred unchanged.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Organize sizes and approvals",
+      "html": "<p>Prepare a checked quantity and size list without including unnecessary personal information. Confirm the proposed garment, colors and decoration proof before production. Care guidance and replacement-order expectations should be based on the selected products and process.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Team identity concepts",
+          "p": "Coordinate garment branding with the organization’s visual standards."
+        },
+        {
+          "h3": "Event apparel concepts",
+          "p": "Plan a focused identity for a specific occasion."
+        },
+        {
+          "h3": "Program coordination",
+          "p": "Relate apparel artwork to vehicle and display graphics without assuming identical production methods."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Teamwear planning",
+        "Business event planning",
+        "Coordinated brand programs"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is apparel a confirmed VG offering?",
+        "a_html": "<p>It needs verification before this page is approved for publication. No garment range, decoration process or availability is promised here.</p>"
+      },
+      {
+        "q": "What information helps scope an apparel request?",
+        "a_html": "<p>Provide the intended use, garment preferences, quantity, size range and approved artwork.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    }
+  ],
+  "cta_band": true
+}

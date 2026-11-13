@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Vinyl graphics for everyday business messages",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Vinyl graphics for everyday business messages",
+  "lead": "Vinyl graphics cover a broad range of jobs: names on a door, promotional artwork on a window, a logo on a vehicle or an identity on an interior wall. The material should follow the application, not the other way around. Vision Graphics helps New York businesses begin with the surface, viewing conditions and planned display period, then consider the artwork and finish. A clear brief makes it easier to distinguish a simple lettering project from a more involved printed graphic program.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Vinyl%20graphics%20for%20everyday%20business%20messages"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Vinyl graphics for everyday business messages",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Cut lettering or printed artwork",
+      "html": "<p>Cut vinyl works with separate shapes and characters, leaving the surface visible between them. Printed graphics support photographs, gradients and more complex artwork. The two approaches can also be coordinated across different parts of a project without requiring one material for every location.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Specify where the graphic will live",
+      "html": "<p>Identify the surface, indoor or outdoor exposure, cleaning routine and removal expectations. Measure around edges and obstructions instead of relying only on a rough overall size. Review color references and legibility at the intended viewing distance before the artwork is approved.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Cut vinyl text",
+          "p": "Create clear names, hours and short messages from separate letterforms."
+        },
+        {
+          "h3": "Printed vinyl graphics",
+          "p": "Use full-color imagery and branded shapes on suitable surfaces."
+        },
+        {
+          "h3": "Coordinated decal sets",
+          "p": "Keep repeated logos and information consistent across multiple items."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Doors and windows",
+        "Interior walls",
+        "Vehicles and equipment identification"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can one vinyl work for every surface?",
+        "a_html": "<p>No. Adhesive, construction and finish should be selected for the particular surface, exposure and expected use.</p>"
+      },
+      {
+        "q": "What artwork is best for lettering?",
+        "a_html": "<p>Vector logo and type artwork is a useful starting point. Text should be approved and prepared correctly for production.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Wall decals",
+      "href": "/nyc/wall-decals/"
+    },
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    }
+  ],
+  "cta_band": true
+}

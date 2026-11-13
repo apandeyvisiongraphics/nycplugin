@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Restroom signs within a clear interior system",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Restroom signs within a clear interior system",
+  "lead": "Restroom identification is a small part of a building’s sign program with an important practical role. Visitors need to recognize the destination, and the project team needs to confirm the appropriate wording, symbols, tactile elements and placement. Vision Graphics can help New York property teams coordinate the visual design with the wider interior signage. Begin with the approved facilities plan and naming decisions so the final sign schedule reflects the actual rooms and the requirements applicable to the property before production artwork is released.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Restroom%20signs%20within%20a%20clear%20interior%20system"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "vg-wayfinding-ada",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Restroom signs within a clear interior system",
+    "caption": "VG portfolio example"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Agree on the identity first",
+      "html": "<p>Use the property team’s approved room descriptions and symbols consistently. Avoid making assumptions from an old sign or a generic online example. Where a facility’s use has changed, resolve the naming and design requirements before replacing the panel.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review the full specification",
+      "html": "<p>The production proof should record the approved wording and visual treatment, plus any tactile and braille elements. Mounting location and field conditions must also be reviewed. A consistent appearance does not by itself establish that a sign meets the applicable requirements.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Coordinated room panels",
+          "p": "Match the restroom identification to the approved interior sign family."
+        },
+        {
+          "h3": "Tactile identification concepts",
+          "p": "Prepare tactile and braille elements for professional specification review."
+        },
+        {
+          "h3": "Directional companions",
+          "p": "Guide visitors toward facilities from relevant decision points."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Commercial offices",
+        "Retail customer facilities",
+        "Managed properties"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can a pictogram replace all other information?",
+        "a_html": "<p>The responsible professional should confirm the content and format required for the specific facility and location.</p>"
+      },
+      {
+        "q": "Can restroom signs match our brand?",
+        "a_html": "<p>Brand colors and styling can be considered within the project’s approved accessibility and identification requirements.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "ADA signs",
+      "href": "/nyc/ada-signs/"
+    },
+    {
+      "label": "Door signs",
+      "href": "/nyc/door-signs/"
+    },
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    }
+  ],
+  "cta_band": true
+}

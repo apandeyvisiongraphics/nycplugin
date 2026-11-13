@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Magnetic signs for suitable removable applications",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Magnetic signs for suitable removable applications",
+  "lead": "A magnetic sign can provide a removable message when the surface and use are appropriate. It is not suitable for every vehicle or panel, and fit and maintenance are part of the decision. Vision Graphics can help New York businesses frame a magnetic graphic concept around a clear logo and concise contact information. Share the intended surface, dimensions and use pattern so compatibility and product guidance can be reviewed before production. A removable format still needs careful planning rather than an assumption that it will stay secure anywhere.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Magnetic%20signs%20for%20suitable%20removable%20applications"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Magnetic signs for suitable removable applications",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Check the surface before the artwork",
+      "html": "<p>A magnetic sign needs an appropriate, sufficiently flat ferrous surface without conflicting trim or curvature. Vehicle body materials vary, so confirm the actual panel. The sign should not bridge unsuitable gaps or be sized simply to fill the largest visible area.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan removal and care",
+      "html": "<p>Follow the selected product’s verified instructions for cleaning, application, removal and use. Dirt or moisture trapped between surfaces can create problems. Discuss how often the sign will be removed and where it will be stored flat when not in use.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Business identity panels",
+          "p": "Present a focused logo and contact message on a reviewed surface."
+        },
+        {
+          "h3": "Temporary vehicle identification",
+          "p": "Explore removable graphics where the vehicle and product guidance allow."
+        },
+        {
+          "h3": "Coordinated small sets",
+          "p": "Keep artwork consistent across multiple compatible applications."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reviewed business vehicle panels",
+        "Temporary brand identification",
+        "Changeable operational graphics"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Will a magnet work on every vehicle?",
+        "a_html": "<p>No. Panel material, curvature and condition must be checked; not all vehicle surfaces accept magnets.</p>"
+      },
+      {
+        "q": "Can it stay on indefinitely?",
+        "a_html": "<p>Use and maintenance should follow the selected product’s instructions. No unrestricted retention or damage-free guarantee is implied.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    },
+    {
+      "label": "Custom decals",
+      "href": "/nyc/custom-decals/"
+    },
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    }
+  ],
+  "cta_band": true
+}

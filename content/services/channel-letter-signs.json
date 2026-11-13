@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Channel letter signs: form, light and placement",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Channel letter signs: form, light and placement",
+  "lead": "Channel letters use individually formed characters to create a strong business identity, often with illumination as part of the design. The visual result depends on letter shape, lighting direction, spacing and the building behind it. For a New York project, Vision Graphics can help organize the concept for technical review. Electrical supply, mounting conditions, property approval and service access all need to be resolved before a proposal becomes a production commitment. Begin with your artwork and a full view of the intended facade.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Channel%20letter%20signs%3A%20form%2C%20light%20and%20placement"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-hero-channel",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Channel letter signs: form, light and placement",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Compare the lighting effect",
+      "html": "<p>Front-facing illumination emphasizes the letter faces, while a reverse-lit concept creates light behind the letters. The wall finish and distance from the surface can influence the appearance. Review a visual concept in both daytime and nighttime terms rather than judging only an isolated product rendering.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Define the technical scope",
+      "html": "<p>Confirm where the letters would mount, how wiring could be routed and who is responsible for electrical work, approvals and access. Existing power or a previous sign should not be assumed suitable. The final design requires product, mounting and site review before production is released.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Front-lit concepts",
+          "p": "Explore letter faces as the primary illuminated element."
+        },
+        {
+          "h3": "Reverse-lit concepts",
+          "p": "Consider a halo effect against a suitable background surface."
+        },
+        {
+          "h3": "Raceway or individual placement",
+          "p": "Review how the mounting approach affects appearance and site requirements."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reviewed storefront identities",
+        "Commercial building branding",
+        "Tenant sign replacement concepts"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Which lighting style is best?",
+        "a_html": "<p>The answer depends on the logo, wall, surroundings and desired appearance. Compare the concept against the actual location.</p>"
+      },
+      {
+        "q": "Can letters connect to existing power?",
+        "a_html": "<p>A qualified electrical review must establish whether the existing supply and wiring are appropriate. Do not assume compatibility.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Cabinet signs",
+      "href": "/nyc/cabinet-signs/"
+    },
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    }
+  ],
+  "cta_band": true
+}

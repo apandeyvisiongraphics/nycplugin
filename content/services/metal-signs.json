@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Metal signs with a considered finish",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Metal signs with a considered finish",
+  "lead": "Metal can give a sign a crisp edge, a reflective surface or a restrained industrial character. It is a material direction rather than a single product: a small room plaque, a flat business panel and a large exterior identity each ask different things of the construction. Vision Graphics can help New York businesses compare the intended appearance and use before selecting a specification. Bring the artwork, mounting location and finish references so durability, legibility and practical attachment can be discussed in the same brief.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Metal%20signs%20with%20a%20considered%20finish"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-metal-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Metal signs with a considered finish",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Choose the visual character",
+      "html": "<p>Brushed, polished, painted and printed appearances create different relationships with light. A reflective finish can look striking close up yet reduce contrast from another angle. Review samples or finish references alongside the wall or facade and decide whether visible fixings suit the design.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Specify the application",
+      "html": "<p>State whether the sign will live indoors or outdoors, whether people can touch it and how it will be mounted. Material type, thickness, edge treatment and protective finishes should follow those conditions. Larger or projecting exterior signs require a separate mounting and site review.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Flat identity panels",
+          "p": "Use a defined metal face for names, logos or property information."
+        },
+        {
+          "h3": "Plaque-style formats",
+          "p": "Present concise permanent information in a compact panel."
+        },
+        {
+          "h3": "Dimensional elements",
+          "p": "Explore individual letters or logo parts where construction suits the artwork."
+        },
+        {
+          "h3": "Aluminum panel concepts",
+          "p": "Consider aluminum as a material direction for a flat sign, with grade, finish and application suitability specified for the project."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Office and reception identity",
+        "Property information panels",
+        "Reviewed exterior business signs"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Will every metal finish look the same outdoors?",
+        "a_html": "<p>No. Appearance and suitability depend on the specific material, finish and exposure. Review those details for the intended location.</p>"
+      },
+      {
+        "q": "Can I match existing metalwork?",
+        "a_html": "<p>Provide a physical or documented finish reference where possible. Exact visual matching should be reviewed before production.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Dimensional letter signs",
+      "href": "/nyc/dimensional-letter-signs/"
+    },
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Acrylic signs",
+      "href": "/nyc/acrylic-signs/"
+    }
+  ],
+  "cta_band": true
+}

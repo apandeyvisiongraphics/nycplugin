@@ -1,0 +1,576 @@
+{
+  "about": {
+    "route": "/nyc/about/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "acrylic-signs": {
+    "route": "/nyc/acrylic-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "acrylic-sneeze-guards": {
+    "route": "/nyc/acrylic-sneeze-guards/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "ada-signs": {
+    "route": "/nyc/ada-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "apparel": {
+    "route": "/nyc/apparel/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "banners": {
+    "route": "/nyc/banners/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "blade-signs": {
+    "route": "/nyc/blade-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "brooklyn": {
+    "route": "/nyc/brooklyn/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "building-signs": {
+    "route": "/nyc/building-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "business-signs": {
+    "route": "/nyc/business-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "cabinet-signs": {
+    "route": "/nyc/cabinet-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "channel-letter-signs": {
+    "route": "/nyc/channel-letter-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "contact": {
+    "route": "/nyc/contact/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "corrugated-signage": {
+    "route": "/nyc/corrugated-signage/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "custom-decals": {
+    "route": "/nyc/custom-decals/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "custom-signs": {
+    "route": "/nyc/custom-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "digital-signs": {
+    "route": "/nyc/digital-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "dimensional-letter-signs": {
+    "route": "/nyc/dimensional-letter-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "directional-signs": {
+    "route": "/nyc/directional-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "door-signs": {
+    "route": "/nyc/door-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "environmental-graphics": {
+    "route": "/nyc/environmental-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "exterior-signs": {
+    "route": "/nyc/exterior-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "flags": {
+    "route": "/nyc/flags/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "fleet-wraps": {
+    "route": "/nyc/fleet-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "floor-graphics": {
+    "route": "/nyc/floor-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery": {
+    "route": "/nyc/gallery/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery--custom-signs": {
+    "route": "/nyc/gallery/custom-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery--exterior-signs": {
+    "route": "/nyc/gallery/exterior-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery--interior-signs": {
+    "route": "/nyc/gallery/interior-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery--trade-show-graphics": {
+    "route": "/nyc/gallery/trade-show-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "gallery--vehicle-wraps": {
+    "route": "/nyc/gallery/vehicle-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "hanging-signs": {
+    "route": "/nyc/hanging-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "home": {
+    "route": "/nyc/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "interior-directory-signs": {
+    "route": "/nyc/interior-directory-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "interior-signs": {
+    "route": "/nyc/interior-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "large-format-printing-services": {
+    "route": "/nyc/large-format-printing-services/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "lobby-signs": {
+    "route": "/nyc/lobby-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "magnetic-signs": {
+    "route": "/nyc/magnetic-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "manhattan": {
+    "route": "/nyc/manhattan/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "metal-signs": {
+    "route": "/nyc/metal-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "mission-statement-signs": {
+    "route": "/nyc/mission-statement-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "monument-signs": {
+    "route": "/nyc/monument-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "office-signs": {
+    "route": "/nyc/office-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "offices-properties": {
+    "route": "/nyc/offices-properties/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "parking-signs": {
+    "route": "/nyc/parking-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "political-signs": {
+    "route": "/nyc/political-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "post-and-panel-signs": {
+    "route": "/nyc/post-and-panel-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "products": {
+    "route": "/nyc/products/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "projects": {
+    "route": "/nyc/projects/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "projects--big-d-construction": {
+    "route": "/nyc/projects/big-d-construction/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "projects--cafe-rio": {
+    "route": "/nyc/projects/cafe-rio/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "projects--eos-fitness": {
+    "route": "/nyc/projects/eos-fitness/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "pylon-signs": {
+    "route": "/nyc/pylon-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "real-estate-signs": {
+    "route": "/nyc/real-estate-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "request-quote": {
+    "route": "/nyc/request-quote/",
+    "status": 301,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "noindex, nofollow",
+    "location": "http://pandeystore.local/nyc/contact/"
+  },
+  "resources": {
+    "route": "/nyc/resources/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "resources--material-lifecycle": {
+    "route": "/nyc/resources/material-lifecycle/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "resources--project-brief": {
+    "route": "/nyc/resources/project-brief/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "resources--seasonal-signage": {
+    "route": "/nyc/resources/seasonal-signage/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "restaurants": {
+    "route": "/nyc/restaurants/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "restroom-signs": {
+    "route": "/nyc/restroom-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "retail": {
+    "route": "/nyc/retail/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "retractable-banners": {
+    "route": "/nyc/retractable-banners/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "school-signs": {
+    "route": "/nyc/school-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "sign-installation": {
+    "route": "/nyc/sign-installation/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "signs-for-golf-tournaments": {
+    "route": "/nyc/signs-for-golf-tournaments/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "sitemap.xml": {
+    "route": "/nyc/sitemap.xml",
+    "status": 200,
+    "content-type": "application/xml; charset=UTF-8",
+    "x-robots-tag": "noindex, nofollow",
+    "location": null
+  },
+  "storefront-signs": {
+    "route": "/nyc/storefront-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "this-page-does-not-exist": {
+    "route": "/nyc/this-page-does-not-exist/",
+    "status": 404,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "noindex, nofollow",
+    "location": null
+  },
+  "trade-show-displays": {
+    "route": "/nyc/trade-show-displays/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "trailer-wraps": {
+    "route": "/nyc/trailer-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "truck-wraps": {
+    "route": "/nyc/truck-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "van-wraps": {
+    "route": "/nyc/van-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "vehicle-graphics": {
+    "route": "/nyc/vehicle-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "vehicle-wraps": {
+    "route": "/nyc/vehicle-wraps/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "vinyl-signs": {
+    "route": "/nyc/vinyl-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "wall-decals": {
+    "route": "/nyc/wall-decals/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "wall-graphics": {
+    "route": "/nyc/wall-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "wall-murals": {
+    "route": "/nyc/wall-murals/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "wayfinding-signs": {
+    "route": "/nyc/wayfinding-signs/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "window-film": {
+    "route": "/nyc/window-film/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
+  "window-graphics": {
+    "route": "/nyc/window-graphics/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  }
+}
