@@ -998,5 +998,132 @@
     "prompt": "",
     "notes": "From the blog doc: images/image9.jpg",
     "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-hero-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "hero",
+    "ratio": "16:10",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office lobby with a dimensional logo on a wood-slat wall behind a curved reception desk, city towers beyond the window",
+    "prompt": "",
+    "notes": "From the blog doc: images/image8.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-lobby-sign-cost-by-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "lobby-sign-cost-by",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Lobby sign material samples in a row: clear acrylic, painted aluminum, brushed metal, dimensional letters and a halo-lit letter",
+    "prompt": "",
+    "notes": "From the blog doc: images/image1.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-what-changes-the-price-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "what-changes-the-price",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Three sample letters of increasing depth in white, brass and black, with a ruler and finish swatches",
+    "prompt": "",
+    "notes": "From the blog doc: images/image9.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-nyc-costs-most-guides-miss-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "nyc-costs-most-guides-miss",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installers on a scaffold mounting a metal logo on a lobby wall in the evening, after business hours",
+    "prompt": "",
+    "notes": "From the blog doc: images/image4.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-certificate-of-insurance-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "certificate-of-insurance",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Desk with a stack of insurance documents, a certificate, a visitor badge and a laptop showing a floor plan",
+    "prompt": "",
+    "notes": "From the blog doc: images/image5.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-wall-patching-and-paint-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "wall-patching-and-paint",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Gloved hand patching screw holes left by an old sign on a white wall, with a close-up of one hole",
+    "prompt": "",
+    "notes": "From the blog doc: images/image6.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-example-replacing-a-lobby-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "example-replacing-a-lobby",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office manager in a lobby reviewing plans for a lobby logo, reception sign and elevator-lobby plaque",
+    "prompt": "",
+    "notes": "From the blog doc: images/image3.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-how-long-it-takes-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "how-long-it-takes",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Timeline icons for a sign project: approved drawing, fabrication, shipping, building approval and installation",
+    "prompt": "",
+    "notes": "From the blog doc: images/image7.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-how-to-get-an-accurate-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "how-to-get-an-accurate",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Man photographing a blank lobby wall with his phone while measuring its width with a tape measure",
+    "prompt": "",
+    "notes": "From the blog doc: images/image2.jpg",
+    "caption": ""
   }
 }

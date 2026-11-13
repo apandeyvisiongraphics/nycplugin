@@ -122,3 +122,6 @@ Posts also get `BlogPosting` and `FAQPage` JSON-LD and `og:type=article`.
 Post JSON: `eyebrow?`, `h1`, `date?`, `author?`, `lead_html?`, `image?`, `aside_cta?` `{label, href}`, `sections`:
 `article` (`id`, `h2`, `image?`, `html`, `variant?`: `checklist`), `faq` (`h2`, `items`), `inquiry` (`h2`, `intro_html?`).
 Indented paragraphs in the doc become a quote box (`<blockquote>`).
+An `H1` in the doc is used as the post title (its intro follows it). The first image under an `H2` is that
+section's image; any further images (e.g. under an `H3`) stay in place as `[[image:slot]]` tokens that the
+template renders as figures. Doc tables become styled price tables (they scroll sideways on phones).

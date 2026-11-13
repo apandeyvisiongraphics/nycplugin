@@ -71,6 +71,16 @@
 .vg-blog .vg-post--checklist .vg-post__prose li::before{left:0;top:13px;width:22px;height:22px;border-radius:6px;background:#eef4e4 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234f7a00' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 6 9 17l-5-5'/%3E%3C/svg%3E") center/13px no-repeat;border:1px solid #d8e6c4}
 .vg-post--checklist .vg-post__prose>p:last-child{margin-top:26px}
 
+/* Price tables */
+.vg-blog .vg-post__prose table{display:table;width:100%;margin-top:24px;border:1px solid var(--border);border-radius:14px;border-collapse:separate;border-spacing:0;font-size:15.5px;line-height:1.55;-webkit-overflow-scrolling:touch}
+.vg-blog .vg-post__prose thead th{background:#eef4e4;color:#171817;font-size:13px;letter-spacing:.02em;border-bottom:1px solid #d8e6c4;white-space:normal}
+.vg-blog .vg-post__prose th,.vg-blog .vg-post__prose td{padding:14px 16px;min-width:130px}
+.vg-blog .vg-post__prose tbody tr:last-child td{border-bottom:0}
+.vg-blog .vg-post__prose tbody tr:nth-child(even) td{background:#fafbf8}
+.vg-blog .vg-post__prose tbody td:first-child{font-weight:600;color:#262626}
+.vg-blog .vg-post__prose em{color:#646761}
+.vg-post__media--inline{margin:22px 0 18px}
+
 /* FAQ inside the article column */
 .vg-post--faq .vg-faq{width:auto;max-width:none;margin:0;padding:0}
 .vg-post--faq .vg-faq h2,.vg-post--faq .vg-faq details{max-width:none}
@@ -96,6 +106,7 @@
   .vg-blog__lead.vg-prose>p:first-child{font-size:18px}
   .vg-post{padding-top:44px}
   .vg-blog .vg-post__prose{font-size:16.5px}
+  .vg-blog .vg-post__prose table{display:block;overflow-x:auto}
   .vg-blog .vg-post__prose blockquote{padding:22px 20px 22px 50px}
   .vg-blog .vg-post__prose blockquote::before{left:14px;font-size:44px}
 }

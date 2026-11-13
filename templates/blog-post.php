@@ -70,7 +70,11 @@ return function (array $post) {
             $h .= '<section class="vg-post' . ($checklist ? ' vg-post--checklist' : '') . '" id="' . esc_attr(vgnyc_blog_anchor($s)) . '">';
             $h .= '<h2>' . esc_html($s['h2'] ?? '') . '</h2>';
             if (!empty($s['image'])) { $h .= '<figure class="vg-media vg-post__media">' . vgnyc_image($s['image'], array('sizes' => '(max-width: 980px) 100vw, 760px')) . '</figure>'; }
-            $h .= '<div class="vg-prose vg-post__prose">' . vgnyc_kses($s['html'] ?? '') . '</div></section>';
+            // [[image:slot]] paragraphs (images the writer placed inside a section) become figures.
+            $prose = preg_replace_callback('#<p>\s*\[\[image:(nyc-[a-z0-9-]+)\]\]\s*</p>#', function ($m) {
+                return '<figure class="vg-media vg-post__media vg-post__media--inline">' . vgnyc_image($m[1], array('sizes' => '(max-width: 980px) 100vw, 760px')) . '</figure>';
+            }, vgnyc_kses($s['html'] ?? ''));
+            $h .= '<div class="vg-prose vg-post__prose">' . $prose . '</div></section>';
         } elseif ($type === 'faq') {
             $h .= '<div class="vg-post vg-post--faq" id="' . esc_attr(vgnyc_blog_anchor($s)) . '">' . vgnyc_section('faq', $s, array('index' => $i)) . '</div>';
         } elseif ($type === 'inquiry' && $form === null) {

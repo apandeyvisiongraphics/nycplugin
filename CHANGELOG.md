@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.2 — 13 November 2026 (blog)
+
+- **New post:** `/nyc/resources/lobby-sign-cost-nyc/` "How Much Does a Lobby Sign Cost in NYC?" — copy verbatim from the doc, 9 images (19 WebP files), two price tables. Card added to `/nyc/resources/`; fixes the "lobby sign cost guide" links from the checklist post.
+- **Blog template:** styled price tables (scroll sideways on phones) and images placed under H3s (`[[image:slot]]`). `build_blog.py` uses a doc H1 as the title.
+- No other page changes (existing routes render byte-identical to 1.4.1).
+
 ## 1.4.1 — 13 November 2026 (blog)
 
 - **Blog posts:** new `"template": "blog"` (`templates/blog-post.php`, `assets/blog.css`, `content/blog/`). Same light design as the landing pages, laid out as an article: breadcrumb, title, intro, author/date/reading time, featured image, sticky "On this page" contents with a quote button, reading progress bar, checklist cards, quote box, FAQ and the closing form section with the popup. `BlogPosting` + `FAQPage` JSON-LD, `og:type=article`.

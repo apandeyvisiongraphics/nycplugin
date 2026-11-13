@@ -153,6 +153,12 @@ def main():
     title = parse_doc.text_of(blocks[0]['html'])
     rest = [b for b in blocks[1:] if not re.match(r'^(url|meta title|meta description)\s*:', b['text'], re.I)]
 
+    # An H1 in the doc is the post title; what follows it (up to the first H2) is the intro.
+    h1s = [b for b in rest if b['tag'] == 'h1']
+    if h1s:
+        title = plain(h1s[0]['html'])
+        rest = [b for b in rest if b is not h1s[0]]
+
     # Split on H2.
     parts, cur = [], {'h2': None, 'blocks': []}
     for b in rest:
@@ -210,6 +216,19 @@ def main():
         img = take_image(part, key)
         if img:
             s['image'] = img
+        # Further images inside the section (e.g. under an H3) stay where the writer put them,
+        # as [[image:slot]] tokens that templates/blog-post.php renders as figures.
+        sub = key
+        for b in part['blocks']:
+            if b['tag'] in ('h3', 'h4'):
+                sub = slugify(parse_doc.text_of(b['html']), 26)
+            m = IMG.search(b['html'])
+            if m:
+                slot = 'nyc-%s-%s-01' % (short, sub)
+                while slot in images:
+                    slot = slot[:-3] + '-%02d' % (int(slot[-2:]) + 1)
+                images[slot] = m.group(1)
+                b['html'] = IMG.sub('[[image:%s]]' % slot, b['html'])
         if is_checklist(part['blocks']):
             s['variant'] = 'checklist'
         s['html'] = body_html(part['blocks'])

@@ -497,6 +497,15 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "service": false,
     "image": "/nyc/assets/vg-logo-dark.webp"
   },
+  "/nyc/resources/lobby-sign-cost-nyc/": {
+    "title": "Lobby Sign Cost in NYC: 2026 Price Guide | Vision Graphics",
+    "description": "Lobby sign prices in NYC by material, plus the costs most guides miss: removal, wall patching, after-hours installs and building insurance requirements.",
+    "file": "resources--lobby-sign-cost-nyc.php",
+    "template": "blog",
+    "content": "content/blog/resources--lobby-sign-cost-nyc.json",
+    "service": false,
+    "image": "nyc-lobby-sign-cost-nyc-hero-01"
+  },
   "/nyc/resources/material-lifecycle/": {
     "title": "Questions to ask about a sign’s useful life | Vision Graphics New York",
     "description": "A thoughtful sign specification considers what happens before and after the first installation.",
