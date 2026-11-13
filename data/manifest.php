@@ -507,13 +507,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
   },
   "/nyc/resources/project-brief/": {
-    "title": "How to prepare a useful sign project brief | Vision Graphics New York",
-    "description": "A sign brief does not need to begin as a technical document.",
+    "title": "Sign Quote Checklist for NYC: What to Send | Vision Graphics",
+    "description": "Get an accurate sign quote in NYC the first time. Photos, measurements, artwork, materials, and building requirements to send, in one checklist. Start here.",
     "file": "resources--project-brief.php",
-    "template": "service",
-    "content": "content/services/resources--project-brief.json",
+    "template": "blog",
+    "content": "content/blog/resources--project-brief.json",
     "service": false,
-    "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
+    "image": "nyc-project-brief-hero-01"
   },
   "/nyc/resources/seasonal-signage/": {
     "title": "Plan seasonal graphics as a repeatable program | Vision Graphics New York",

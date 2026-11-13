@@ -21,11 +21,6 @@ return function (array $page) {
         if ($ctx['form']) { $form = $s; }
         $h .= vgnyc_section($type, $s, $ctx);
     }
-    if ($form !== null) {
-        $h .= '<dialog class="vg-modal" id="vg-inquiry-modal" aria-labelledby="vg-modal-title"><div class="vg-modal__panel">'
-            . '<button type="button" class="vg-modal__close" aria-label="Close">&times;</button>'
-            . '<p class="vg-modal__title" id="vg-modal-title">' . esc_html($form['h2'] ?? '') . '</p>'
-            . '<div class="vg-modal__slot"></div></div></dialog>';
-    }
+    if ($form !== null) { $h .= vgnyc_inquiry_modal($form); }
     return $h . '</main>';
 };

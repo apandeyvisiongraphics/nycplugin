@@ -28,9 +28,9 @@ function vgnyc_draft_version($page) {
     return $draft;
 }
 
-/** Decoded landing JSON for a manifest entry, or null. */
+/** Decoded landing or blog JSON for a manifest entry, or null. */
 function vgnyc_landing_data($page) {
-    if (($page['template'] ?? '') !== 'landing') { return null; }
+    if (!in_array($page['template'] ?? '', array('landing', 'blog'), true)) { return null; }
     $file = vgnyc_content_file($page);
     $data = $file ? json_decode((string)file_get_contents($file), true) : null;
     return is_array($data) ? $data : null;
@@ -52,6 +52,39 @@ function vgnyc_section($type, array $section, array $ctx = array()) {
 /** Opening <section> classes shared by section templates. */
 function vgnyc_section_class($base, array $s, $extra = '') {
     return trim($base . (empty($s['continues']) ? '' : ' vg-continues') . ($extra ? ' ' . $extra : ''));
+}
+
+/**
+ * Quote popup: the <dialog> that assets/landing.js moves the page's one form into when a quote
+ * button is clicked (and back on close). Used by landing pages and blog posts.
+ */
+function vgnyc_inquiry_modal(array $form) {
+    return '<dialog class="vg-modal" id="vg-inquiry-modal" aria-labelledby="vg-modal-title"><div class="vg-modal__panel">'
+        . '<button type="button" class="vg-modal__close" aria-label="Close">&times;</button>'
+        . '<p class="vg-modal__title" id="vg-modal-title">' . esc_html($form['h2'] ?? '') . '</p>'
+        . '<div class="vg-modal__slot"></div></div></dialog>';
+}
+
+/** Anchor id of a blog section (its "id", or a slug of its heading). */
+function vgnyc_blog_anchor(array $s) {
+    $id = sanitize_title((string)($s['id'] ?? ''));
+    return $id !== '' ? $id : sanitize_title((string)($s['h2'] ?? 'section'));
+}
+
+/** BlogPosting JSON-LD for a "blog" manifest entry, or null. */
+function vgnyc_blog_schema($page, $url, $org) {
+    if (($page['template'] ?? '') !== 'blog') { return null; }
+    $data = vgnyc_landing_data($page);
+    if (!$data) { return null; }
+    $node = array('@type' => 'BlogPosting', '@id' => $url . '#article', 'headline' => (string)($data['h1'] ?? ''), 'description' => (string)($page['description'] ?? ''),
+        'mainEntityOfPage' => array('@id' => $url . '#webpage'), 'author' => array('@id' => $org), 'publisher' => array('@id' => $org), 'inLanguage' => 'en-US');
+    if (!empty($data['date']) && strtotime($data['date'])) {
+        $node['datePublished'] = gmdate('Y-m-d', strtotime($data['date']));
+        $node['dateModified'] = !empty($data['updated']) && strtotime($data['updated']) ? gmdate('Y-m-d', strtotime($data['updated'])) : $node['datePublished'];
+    }
+    $image = vgnyc_image_url($data['image'] ?? '');
+    if ($image) { $node['image'] = $image; }
+    return $node;
 }
 
 /** FAQPage JSON-LD built from a landing page's FAQ sections. */

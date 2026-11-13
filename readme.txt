@@ -3,7 +3,7 @@ Contributors: visiongraphics
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 License: Proprietary
 
 Customer-facing New York signs and graphics website at /nyc/, using your existing Contact Form 7 inquiry form.
@@ -15,6 +15,10 @@ Renders the Vision Graphics New York site under /nyc/: home, about, contact, pro
 Updates are delivered from GitHub Releases and appear as "Update now" on the Plugins screen.
 
 == Changelog ==
+
+= 1.4.1 — 13 November 2026 =
+* Blog posts: new "blog" page type (article layout with table of contents, reading time, progress bar, quote popup, BlogPosting schema).
+* /nyc/resources/project-brief/ is now the blog post "What to Send for an Accurate Sign Quote in NYC: A Checklist" (9 new images).
 
 = 1.4.0 — 06 November 2026 =
 * New landing-page design for /nyc/, /nyc/about/, /nyc/contact/ and /nyc/interior-signs/, plus the new page /nyc/sign-installation/.

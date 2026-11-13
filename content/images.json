@@ -871,5 +871,132 @@
     "prompt": "Photorealistic before-and-after split photograph, 3:2. Left: an old faded sign being unscrewed from a wall with a paler outline behind it. Right: the same wall patched, painted, and carrying a clean, new blank sign. A faceless worker stands at the edge of the frame; neutral palette with one open accent, no readable text, no logos.",
     "notes": "",
     "caption": ""
+  },
+  "nyc-project-brief-hero-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "hero",
+    "ratio": "16:10",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office manager photographing a blank lobby wall marked with yellow tape where the new sign will go, beside the elevators",
+    "prompt": "",
+    "notes": "From the blog doc: images/image6.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-photos-of-the-space-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "photos-of-the-space",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Four printed photos of a lobby on a desk: a wide shot, a close-up of the wall, the visitor's view and the access route",
+    "prompt": "",
+    "notes": "From the blog doc: images/image1.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-measurements-and-wall-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "measurements-and-wall",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Man measuring a stone exterior wall with a laser measure, with an inset close-up of the wall surface",
+    "prompt": "",
+    "notes": "From the blog doc: images/image2.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-your-logo-and-final-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "your-logo-and-final",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Two monitors comparing a sharp vector logo with a lower-resolution version of the same logo",
+    "prompt": "",
+    "notes": "From the blog doc: images/image5.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-materials-to-price-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "materials-to-price",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Woman holding acrylic and painted aluminum sample panels against an office wall, with a brushed metal panel at her feet",
+    "prompt": "",
+    "notes": "From the blog doc: images/image3.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-nyc-building-requirements-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "nyc-building-requirements",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Property manager and tenant reviewing sign drawings at a table in a high-rise office",
+    "prompt": "",
+    "notes": "From the blog doc: images/image8.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-scope-removal-patching-and-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "scope-removal-patching-and",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installers mounting a metal sign panel on a building facade beside an office manager on the phone with drawings on her desk",
+    "prompt": "",
+    "notes": "From the blog doc: images/image7.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-sign-quote-checklist-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "sign-quote-checklist",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Clipboard with a completed checklist next to a tape measure, phone, pencil and a metal material sample",
+    "prompt": "",
+    "notes": "From the blog doc: images/image4.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-example-a-lobby-reception-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "example-a-lobby-reception",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office manager attaching wall photos to an email on a laptop, with a floor plan on the monitor behind",
+    "prompt": "",
+    "notes": "From the blog doc: images/image9.jpg",
+    "caption": ""
   }
 }

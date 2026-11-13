@@ -1,5 +1,5 @@
 /* Vision Graphics NYC landing pages: quote popup and scroll animations.
-   Loaded only on "landing" pages (see vgnyc_render). Works without it: buttons fall back to #inquiry. */
+   Loaded on "landing" pages and "blog" posts (see vgnyc_render). Works without it: buttons fall back to #inquiry. */
 (() => {
   const doc = document.documentElement;
   const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -17,6 +17,35 @@
       el.classList.add('vg-reveal');
       io.observe(el);
     });
+  }
+
+  // ---- Blog posts: reading progress bar + highlight the current heading in the table of contents ----
+  const progress = document.querySelector('.vg-blog__progress');
+  const article = document.querySelector('.vg-blog__body');
+  if (progress && article) {
+    // Current heading = the last section whose top has passed 35% of the viewport.
+    const toc = Array.from(document.querySelectorAll('.vg-toc a[href^="#"]'))
+      .map((a) => ({ a, el: document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1))) }))
+      .filter((t) => t.el);
+    let ticking = false;
+    let current = null;
+    const update = () => {
+      ticking = false;
+      const r = article.getBoundingClientRect();
+      const total = r.height - window.innerHeight * 0.6;
+      const p = total > 0 ? Math.min(1, Math.max(0, -r.top / total)) : 1;
+      progress.style.setProperty('--vg-progress', p.toFixed(4));
+      const line = window.innerHeight * 0.35;
+      let active = null;
+      toc.forEach((t) => { if (t.el.getBoundingClientRect().top <= line) active = t.a; });
+      if (active !== current) {
+        toc.forEach((t) => t.a.classList.toggle('is-active', t.a === active));
+        current = active;
+      }
+    };
+    window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+    window.addEventListener('resize', update);
+    update();
   }
 
   // ---- Quote popup: every quote button opens the page's form in a modal ----

@@ -2,13 +2,13 @@
 /**
  * Plugin Name: Vision Graphics NYC Website
  * Description: Customer-facing New York signs and graphics website at /nyc/, using your existing WordPress inquiry form.
- * Version: 1.4.0
+ * Version: 1.4.1
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * Author: Vision Graphics
  */
 if (!defined('ABSPATH')) { http_response_code(404); exit; }
-if (!defined('VGNYC_VERSION')) { define('VGNYC_VERSION', '1.4.0'); }
+if (!defined('VGNYC_VERSION')) { define('VGNYC_VERSION', '1.4.1'); }
 // Updates: the live site checks GitHub Releases and shows "Update now" on the Plugins screen.
 if (is_readable(__DIR__ . '/vendor/plugin-update-checker/plugin-update-checker.php')) {
     require_once __DIR__ . '/vendor/plugin-update-checker/plugin-update-checker.php';
@@ -122,7 +122,7 @@ function vgnyc_kses($html) {
 function vgnyc_content_file($page) {
     $template = $page['template'] ?? '';
     $content = (string)($page['content'] ?? '');
-    $patterns = array('service' => '#^content/services/[a-z0-9-]+\.json$#D', 'raw' => '#^pages/[a-z0-9-]+\.php$#D', 'landing' => '#^content/pages/[a-z0-9-]+\.json$#D');
+    $patterns = array('service' => '#^content/services/[a-z0-9-]+\.json$#D', 'raw' => '#^pages/[a-z0-9-]+\.php$#D', 'landing' => '#^content/pages/[a-z0-9-]+\.json$#D', 'blog' => '#^content/blog/[a-z0-9-]+\.json$#D');
     $pattern = $patterns[$template] ?? null;
     if (!$pattern || !preg_match($pattern, $content) || !is_file(__DIR__ . '/' . $content)) { return null; }
     return __DIR__ . '/' . $content;
@@ -130,9 +130,10 @@ function vgnyc_content_file($page) {
 /** Builds the page body (everything inside <body> that the page owns) for a manifest entry. */
 function vgnyc_body($page) {
     $file = vgnyc_content_file($page);
-    if ($page['template'] === 'service' || $page['template'] === 'landing') {
+    $json_templates = array('service' => 'service-page', 'landing' => 'landing-page', 'blog' => 'blog-post');
+    if (isset($json_templates[$page['template']])) {
         $data = json_decode((string)file_get_contents($file), true);
-        $main = is_array($data) ? call_user_func(vgnyc_template($page['template'] === 'service' ? 'service-page' : 'landing-page'), $data) : '';
+        $main = is_array($data) ? call_user_func(vgnyc_template($json_templates[$page['template']]), $data) : '';
     } else {
         $main = require $file;
     }
@@ -231,6 +232,8 @@ function vgnyc_schema($path, $page) {
         $graph[] = array('@type' => 'Service', '@id' => $url . '#service', 'name' => $name, 'description' => $page['description'], 'url' => $url, 'provider' => array('@id' => $org), 'areaServed' => array(array('@type' => 'AdministrativeArea', 'name' => 'Brooklyn, New York'), array('@type' => 'AdministrativeArea', 'name' => 'Manhattan, New York')));
         $graph[2]['mainEntity'] = array('@id' => $url . '#service');
     }
+    $article = vgnyc_blog_schema($page, $url, $org);
+    if ($article) { $graph[] = $article; }
     $faq = vgnyc_faq_schema($page, $url);
     if ($faq) { $graph[] = $faq; }
     return array('@context' => 'https://schema.org', '@graph' => $graph);
@@ -299,13 +302,17 @@ function vgnyc_render($path, $page, $o) {
     echo $head;
     echo '<title>' . esc_html($page['title']) . '</title><meta name="description" content="' . esc_attr($page['description']) . '">';
     echo '<meta name="robots" content="' . ($public ? 'index, follow' : 'noindex, nofollow') . '"><link rel="canonical" href="' . esc_url($canonical) . '">';
-    echo '<meta property="og:type" content="website"><meta property="og:title" content="' . esc_attr($page['title']) . '"><meta property="og:description" content="' . esc_attr($page['description']) . '"><meta property="og:url" content="' . esc_url($canonical) . '">';
+    echo '<meta property="og:type" content="' . (($page['template'] ?? '') === 'blog' ? 'article' : 'website') . '"><meta property="og:title" content="' . esc_attr($page['title']) . '"><meta property="og:description" content="' . esc_attr($page['description']) . '"><meta property="og:url" content="' . esc_url($canonical) . '">';
     $og_image = !empty($page['image']) && strpos($page['image'], '/nyc/assets/') === 0 ? plugins_url('assets/' . substr($page['image'], strlen('/nyc/assets/')), __FILE__) : (vgnyc_image_url($page['image'] ?? '') ?: plugins_url('assets/mcs-new-home-hero-channel-letters-1600.webp', __FILE__));
     echo '<meta property="og:image" content="' . esc_url($og_image) . '">';
     echo '<script type="application/ld+json" id="vgnyc-schema">' . vgnyc_json($graph) . '</script>';
     echo '<link rel="stylesheet" href="' . esc_url(plugins_url('assets/public.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '"><link rel="stylesheet" href="' . esc_url(plugins_url('assets/wordpress.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '">';
-    if (($page['template'] ?? '') === 'landing') {
+    $sectioned = in_array($page['template'] ?? '', array('landing', 'blog'), true);
+    if ($sectioned) {
         echo '<link rel="stylesheet" href="' . esc_url(plugins_url('assets/sections.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '">';
+    }
+    if (($page['template'] ?? '') === 'blog') {
+        echo '<link rel="stylesheet" href="' . esc_url(plugins_url('assets/blog.css', __FILE__)) . '?ver=' . VGNYC_VERSION . '">';
     }
     echo '</head><body class="vgnyc-site">';
     vgnyc_gtm_body();
@@ -315,7 +322,7 @@ function vgnyc_render($path, $page, $o) {
     }
     echo $body;
     echo '<script src="' . esc_url(plugins_url('assets/website.js', __FILE__)) . '?ver=' . VGNYC_VERSION . '" defer></script>';
-    if (($page['template'] ?? '') === 'landing') {
+    if ($sectioned) {
         echo '<script src="' . esc_url(plugins_url('assets/landing.js', __FILE__)) . '?ver=' . VGNYC_VERSION . '" defer></script>';
     }
     wp_footer();

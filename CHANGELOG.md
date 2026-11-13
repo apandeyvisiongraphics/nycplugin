@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.1 — 13 November 2026 (blog)
+
+- **Blog posts:** new `"template": "blog"` (`templates/blog-post.php`, `assets/blog.css`, `content/blog/`). Same light design as the landing pages, laid out as an article: breadcrumb, title, intro, author/date/reading time, featured image, sticky "On this page" contents with a quote button, reading progress bar, checklist cards, quote box, FAQ and the closing form section with the popup. `BlogPosting` + `FAQPage` JSON-LD, `og:type=article`.
+- **Doc pipeline:** `scripts/build_blog.py` turns a Google Docs export into a post (copy verbatim, images registered and converted to WebP).
+- **Page:** `/nyc/resources/project-brief/` replaced by "What to Send for an Accurate Sign Quote in NYC: A Checklist" (9 images, 19 WebP files). Resources hub card updated. Old content in `legacy/superseded-1.4.1/`.
+
 ## 1.4.0 — 06 November 2026 (5 landing page build)
 
 - **Pages:** new landing design for `/nyc/`, `/nyc/about/`, `/nyc/contact/`, `/nyc/interior-signs/` (replacements) and the new `/nyc/sign-installation/`. Copy, testimonials and facts come verbatim from the content docs (VGNYCLandingPages0411 / 0511).

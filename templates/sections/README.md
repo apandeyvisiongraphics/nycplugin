@@ -100,3 +100,25 @@ Add a section type only when no existing one fits:
 2. Add the type to `vgnyc_section_types()` in `includes/landing.php`.
 3. Add its CSS to `assets/sections.css`, using the public.css tokens.
 4. Document it in this file.
+
+## Blog posts
+
+Articles (resources, guides, checklists) use `"template": "blog"` in `data/manifest.php` with
+`content/blog/{slug}.json`, rendered by `templates/blog-post.php` and styled by `assets/blog.css`
+(on top of `public.css` + `sections.css`, so they share the landing look, the FAQ, the form card and
+the quote popup). Layout: breadcrumb, title, intro, author/date/reading time, featured image,
+sticky "On this page" contents with a quote button, the article, then the closing form section.
+Posts also get `BlogPosting` and `FAQPage` JSON-LD and `og:type=article`.
+
+**Adding a post from a writer's doc** (Google Docs → Download → Web page, unzipped with its `images/` folder):
+
+1. `python3 -I scripts/build_blog.py <doc.html> --date YYYY-MM-DD --alts alts.json` (`--dry-run` to preview).
+   `alts.json` maps each doc image file name (`image1.jpg`) to its alt text.
+   The script writes the post JSON, registers the image slots and converts them to WebP (`cwebp`).
+2. Add the printed manifest entry with `"status": "draft"`. If the URL already exists, add
+   `draft_template: "blog"`, `draft_content`, `draft_title`, `draft_description`, `draft_image`
+   and `draft_service: false` to its entry instead, and preview with `?vgnyc_preview=1`.
+
+Post JSON: `eyebrow?`, `h1`, `date?`, `author?`, `lead_html?`, `image?`, `aside_cta?` `{label, href}`, `sections`:
+`article` (`id`, `h2`, `image?`, `html`, `variant?`: `checklist`), `faq` (`h2`, `items`), `inquiry` (`h2`, `intro_html?`).
+Indented paragraphs in the doc become a quote box (`<blockquote>`).
