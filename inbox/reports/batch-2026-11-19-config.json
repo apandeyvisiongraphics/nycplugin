@@ -1,0 +1,163 @@
+{
+  "link_additions": {
+    "interior-directory-signs": [
+      {
+        "text": "Wayfinding signs",
+        "href": "/nyc/wayfinding-signs/",
+        "bold": true
+      }
+    ],
+    "lobby-signs": [
+      {
+        "text": "Brushed metal",
+        "href": "/nyc/metal-signs/",
+        "bold": true
+      }
+    ],
+    "exterior-signs": [
+      {
+        "text": "Blade signs",
+        "href": "/nyc/blade-signs/",
+        "bold": true
+      },
+      {
+        "text": "Cabinet signs",
+        "href": "/nyc/cabinet-signs/",
+        "bold": true
+      },
+      {
+        "text": "Building signs",
+        "href": "/nyc/building-signs/",
+        "bold": true
+      },
+      {
+        "text": "Monument signs",
+        "href": "/nyc/monument-signs/",
+        "bold": true
+      },
+      {
+        "text": "Pylon signs",
+        "href": "/nyc/pylon-signs/",
+        "bold": true
+      },
+      {
+        "text": "Post and panel signs",
+        "href": "/nyc/post-and-panel-signs/",
+        "bold": true
+      },
+      {
+        "text": "Window graphics",
+        "href": "/nyc/window-graphics/",
+        "bold": true
+      }
+    ],
+    "channel-letter-signs": [
+      {
+        "text": "Building signs",
+        "href": "/nyc/building-signs/",
+        "bold": true
+      }
+    ],
+    "trade-show-displays": [
+      {
+        "text": "retractable banners",
+        "href": "/nyc/retractable-banners/",
+        "bold": true
+      },
+      {
+        "text": "Floor graphics",
+        "href": "/nyc/floor-graphics/",
+        "bold": true
+      },
+      {
+        "text": "banners",
+        "href": "/nyc/banners/",
+        "bold": true
+      }
+    ]
+  },
+  "slot_keys": {
+    "interior-directory-signs": {
+      "4": "turnover",
+      "5": "materials",
+      "7": "lobby-package",
+      "8": "process"
+    },
+    "lobby-signs": {
+      "3": "options",
+      "5": "replacement",
+      "6": "building"
+    },
+    "office-signs": {
+      "4": "planning",
+      "6": "inserts",
+      "7": "installation"
+    },
+    "exterior-signs": {
+      "3": "types",
+      "5": "permits",
+      "6": "weather",
+      "7": "process"
+    },
+    "channel-letter-signs": {
+      "3": "construction",
+      "5": "mounting",
+      "8": "permits"
+    },
+    "trade-show-displays": {
+      "4": "graphics",
+      "5": "javits",
+      "6": "booth-sizes",
+      "7": "events"
+    }
+  },
+  "alts": {
+    "nyc-interior-directory-signs-hero-01": "Brushed-aluminum tenant directory with slim acrylic inserts beside the elevators of a New York office lobby, with a visitor reading it",
+    "nyc-interior-directory-signs-turnover-01": "Property manager sliding a new acrylic insert strip into a wall-mounted tenant directory",
+    "nyc-interior-directory-signs-materials-01": "Three directory samples on an oak table: a wall-mounted aluminum frame, a freestanding floor unit and a cut frame corner",
+    "nyc-interior-directory-signs-lobby-package-01": "Office lobby with a matching logo wall, tenant directory, floor-number plaque and directional sign in brushed aluminum",
+    "nyc-interior-directory-signs-process-01": "Technician checking finished acrylic insert strips beside an aluminum directory frame on a production bench",
+    "nyc-lobby-signs-hero-01": "Brass dimensional letters on a deep green wall behind an oak reception desk in a New York office",
+    "nyc-lobby-signs-options-01": "Layered matte-white acrylic letters on a charcoal fabric wall panel above an oak console",
+    "nyc-lobby-signs-options-02": "Halo-lit metal letters glowing on a pale stone wall in an office lobby in the evening",
+    "nyc-lobby-signs-replacement-01": "Workers removing an old lobby sign, with the new sign waiting in a padded crate against the wall",
+    "nyc-lobby-signs-building-01": "Tenant representative and building engineer measuring a blank lobby wall where a sign will go",
+    "nyc-office-signs-hero-01": "Open-plan New York office with glass conference rooms, room signs beside each door and a suite wall sign",
+    "nyc-office-signs-planning-01": "Office manager with a notebook and tape measure studying a floor plan pinned to a corkboard",
+    "nyc-office-signs-inserts-01": "Hand sliding a name insert into a door sign below a room-number plate",
+    "nyc-office-signs-installation-01": "Installer using a level to mount a conference-room sign beside a glass door in an empty office in the evening",
+    "nyc-exterior-signs-hero-01": "New York commercial block with a lit channel-letter storefront sign, a projecting blade sign and a building sign",
+    "nyc-exterior-signs-types-01": "Corner storefront in the early evening with halo-lit letters on a stone facade and a blade sign above the door",
+    "nyc-exterior-signs-types-02": "Low stone monument sign at the entrance of an office park",
+    "nyc-exterior-signs-types-03": "Cafe window with a frosted film band and cut-vinyl graphics seen from the sidewalk",
+    "nyc-exterior-signs-permits-01": "Sign installer and building owner reviewing a sign drawing in front of a storefront with a blank fascia",
+    "nyc-exterior-signs-weather-01": "Powder-coated aluminum channel letter with rain beading on the finish and stainless fixings",
+    "nyc-exterior-signs-process-01": "Installer on a boom lift mounting a blade sign bracket while a colleague checks the drawing at street level",
+    "nyc-channel-letter-signs-hero-01": "Front-lit channel letters glowing across a dark metal fascia on a New York storefront in the early evening",
+    "nyc-channel-letter-signs-construction-01": "Channel letter with its face removed, showing LED modules inside the aluminum return",
+    "nyc-channel-letter-signs-mounting-01": "Installer fixing channel letters onto a raceway along a storefront sign band",
+    "nyc-channel-letter-signs-permits-01": "Installer measuring a limestone storefront sign band while the owner holds a drawing tube",
+    "nyc-trade-show-displays-hero-01": "10x10 trade show booth with a fabric back wall, a counter and two banner stands in a convention hall",
+    "nyc-trade-show-displays-graphics-01": "Technician fitting a tension fabric graphic onto an aluminum display frame",
+    "nyc-trade-show-displays-javits-01": "Two exhibitors reviewing a booth layout and an exhibitor manual with shipping labels",
+    "nyc-trade-show-displays-booth-sizes-01": "Convention hall floor with a 10x10 inline booth, a 10x20 booth and a 20x20 island booth with a hanging sign",
+    "nyc-trade-show-displays-events-01": "Fabric back wall and two banner stands at a product launch in a corporate lobby"
+  },
+  "meta_overrides": {},
+  "hero_cta": "Get a Quote",
+  "mid_ctas": true,
+  "after_cards": {
+    "lobby-signs": [
+      "3",
+      "5"
+    ],
+    "exterior-signs": [
+      "6"
+    ],
+    "trade-show-displays": [
+      "4",
+      "6",
+      "7"
+    ]
+  }
+}
