@@ -1,0 +1,104 @@
+{
+  "breadcrumb": "Explore signs and graphics by purpose",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Explore signs and graphics by purpose",
+  "lead": "The most useful place to begin is the job the sign needs to do. You may want people to recognize the storefront, find a room, understand a service or remember the business after an event. Vision Graphics’ New York product guide connects those needs with interior signs, exterior concepts, vehicle graphics and portable displays. Explore the related options, then share the setting and goal with our team. Final materials, availability and any delivery or installation arrangements are reviewed against the requirements of your particular project.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Explore%20signs%20and%20graphics%20by%20purpose"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Explore signs and graphics by purpose",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Identity, information and atmosphere",
+      "html": "<p>Lobby signs, dimensional letters and storefront graphics establish identity. Directories and room signs help people navigate. Wall and glass graphics shape the character of the interior. These categories can work together, but each should have a distinct purpose in the plan.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "A flexible starting point",
+      "html": "<p>If you know the product, open its page for planning details. If you only know the problem, send a photograph and a short description. A useful inquiry can begin with “customers miss our entrance” or “our office signs no longer match” before a specific format is selected.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Interior and office signs",
+          "p": "Plan reception, room, wall and glass graphics as a connected experience."
+        },
+        {
+          "h3": "Exterior and storefront graphics",
+          "p": "Study how the business is recognized from the approach and entrance."
+        },
+        {
+          "h3": "Vehicles and events",
+          "p": "Carry a consistent identity beyond the permanent business location."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Openings and relocations",
+        "Brand and storefront refreshes",
+        "Repeatable business programs"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Do I need a separate inquiry for each product?",
+        "a_html": "<p>You can describe the whole project together, including the areas or vehicles involved, so related pieces can be scoped coherently.</p>"
+      },
+      {
+        "q": "Are all product concepts immediately available?",
+        "a_html": "<p>Availability and technical scope need project review. Some specialist concepts remain drafts pending confirmation.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Interior signs",
+      "href": "/nyc/interior-signs/"
+    },
+    {
+      "label": "Exterior signs",
+      "href": "/nyc/exterior-signs/"
+    },
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Cabinet sign planning for business identity",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Cabinet sign planning for business identity",
+  "lead": "A cabinet sign places the message within a single enclosure, making the sign face a defined canvas for a name, logo or coordinated tenant identity. Some designs include illumination, which introduces additional technical requirements. For New York properties, Vision Graphics can help frame a concept around the existing building and the information the sign needs to communicate. If a cabinet is already in place, its condition and construction must be assessed before treating a face change as a straightforward replacement project.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Cabinet%20sign%20planning%20for%20business%20identity"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-exterior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Cabinet sign planning for business identity",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Make the sign face legible",
+      "html": "<p>A cabinet can accommodate complex artwork, but more information is not always more useful. Establish a clear hierarchy for the business name, logo and any descriptor. Review contrast and spacing at the expected distance, including how the artwork may behave when the face is illuminated.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Assess replacement and new-build paths separately",
+      "html": "<p>A replacement face needs confirmed measurements and an understanding of the existing retaining system and cabinet condition. A new enclosure needs a complete mounting and site review. Electrical components, weather exposure and service access belong in the technical scope, not assumptions made from a street photograph.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Single-identity faces",
+          "p": "Organize one business name and logo within a clear rectangular field."
+        },
+        {
+          "h3": "Tenant information layouts",
+          "p": "Develop a coordinated hierarchy where several names share a sign."
+        },
+        {
+          "h3": "Existing cabinet face review",
+          "p": "Evaluate a proposed graphic update against verified enclosure details."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Commercial property identity",
+        "Reviewed tenant changes",
+        "Existing sign refresh studies"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can only the face be replaced?",
+        "a_html": "<p>That depends on the existing cabinet’s dimensions, condition and construction. A site assessment should determine whether a face-only scope is appropriate.</p>"
+      },
+      {
+        "q": "Are illuminated cabinets available?",
+        "a_html": "<p>Illumination is a concept for technical review here. Availability, electrical work and installation need confirmation for the project.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Channel letter signs",
+      "href": "/nyc/channel-letter-signs/"
+    },
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Exterior signs",
+      "href": "/nyc/exterior-signs/"
+    }
+  ],
+  "cta_band": true
+}

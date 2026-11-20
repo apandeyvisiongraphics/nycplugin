@@ -1,0 +1,323 @@
+{
+  "source": "VGNYCLandingPages0511.html",
+  "url": "https://www.visiondoesit.com/nyc/contact/",
+  "route": "/nyc/contact/",
+  "slug": "contact",
+  "meta_title": "Request a Sign Quote in NYC | Vision Graphics NYC",
+  "meta_description": "Send photos and a few details about your NYC sign project. A Vision Graphics project lead replies within one business day with next steps and a quote.",
+  "h1": "Request a Custom Sign Quote for Your New York City Project",
+  "title_line": "Request a Sign Quote in NYC",
+  "sections": [
+    {
+      "n": 0,
+      "label": "(preamble)",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "Request a Sign Quote in NYC",
+          "text": "Request a Sign Quote in NYC"
+        }
+      ]
+    },
+    {
+      "n": 1,
+      "label": "Hero",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "<strong>H1:</strong> Request a Custom Sign Quote for Your New York City Project",
+          "text": "H1: Request a Custom Sign Quote for Your New York City Project"
+        },
+        {
+          "tag": "p",
+          "html": "<strong>Intro:</strong> Send photos of your wall or storefront, rough sizes, and the building address, and we will start your NYC sign quote.",
+          "text": "Intro: Send photos of your wall or storefront, rough sizes, and the building address, and we will start your NYC sign quote."
+        },
+        {
+          "tag": "p",
+          "html": "A Vision Graphics project lead replies within one business day with questions, a site survey request, or a quote. You do not need final artwork.",
+          "text": "A Vision Graphics project lead replies within one business day with questions, a site survey request, or a quote. You do not need final artwork."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "label": "Trust Strip",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "<strong>60 Years</strong> | Vision Graphics legacy",
+          "text": "60 Years | Vision Graphics legacy"
+        },
+        {
+          "tag": "p",
+          "html": "<strong>Certificate of Insurance</strong> | On request",
+          "text": "Certificate of Insurance | On request"
+        },
+        {
+          "tag": "p",
+          "html": "<strong>One Business Day</strong> | Our standard reply time",
+          "text": "One Business Day | Our standard reply time"
+        },
+        {
+          "tag": "p",
+          "html": "(Icon row. No review counts or star ratings until real reviews exist.)",
+          "text": "(Icon row. No review counts or star ratings until real reviews exist.)"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "label": "",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "<strong>Form heading:</strong> Tell us about your sign",
+          "text": "Form heading: Tell us about your sign"
+        },
+        {
+          "tag": "h3",
+          "html": "About you",
+          "text": "About you"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Name</strong> (required)",
+          "text": "Name (required)"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Business Name</strong> (required)",
+          "text": "Business Name (required)"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Email</strong> (required). Helper text: We reply to this address.",
+          "text": "Email (required). Helper text: We reply to this address."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Phone</strong> (optional). Helper text: Add it if you prefer a call.",
+          "text": "Phone (optional). Helper text: Add it if you prefer a call."
+        },
+        {
+          "tag": "h3",
+          "html": "About your sign",
+          "text": "About your sign"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Product of interest</strong> (required, grouped dropdown). Helper text: Pick the closest match, or choose Not sure yet or I have a question.",
+          "text": "Product of interest (required, grouped dropdown). Helper text: Pick the closest match, or choose Not sure yet or I have a question."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Exterior:</strong> Storefront sign / Channel letters / Dimensional letters / Building sign / Blade sign / Window graphics",
+          "text": "Exterior: Storefront sign / Channel letters / Dimensional letters / Building sign / Blade sign / Window graphics"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Interior:</strong> Lobby or reception sign / Office signs / Elevator lobby or directional signs / ADA signs / Door signs",
+          "text": "Interior: Lobby or reception sign / Office signs / Elevator lobby or directional signs / ADA signs / Door signs"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Services:</strong> Installation only / Sign removal and replacement / Sign repair",
+          "text": "Services: Installation only / Sign removal and replacement / Sign repair"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Other:</strong> Multiple signs or a full program / Not sure yet or I have a question",
+          "text": "Other: Multiple signs or a full program / Not sure yet or I have a question"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Project timing</strong> (required dropdown): As soon as possible / Within 1 month / 1 to 3 months / More than 3 months / Planning or budgeting only. Helper text: Lit exterior signs usually need three to five weeks plus permit review.",
+          "text": "Project timing (required dropdown): As soon as possible / Within 1 month / 1 to 3 months / More than 3 months / Planning or budgeting only. Helper text: Lit exterior signs usually need three to five weeks plus permit review."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Borough</strong> (required dropdown): Manhattan / Brooklyn / Queens / The Bronx / Staten Island",
+          "text": "Borough (required dropdown): Manhattan / Brooklyn / Queens / The Bronx / Staten Island"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Photos and artwork</strong> (optional upload). Helper text: Add photos of the wall, the old sign, and your logo; up to 5 files, 10 MB each. We accept HEIC, JPG, PNG, PDF, AI, and EPS.",
+          "text": "Photos and artwork (optional upload). Helper text: Add photos of the wall, the old sign, and your logo; up to 5 files, 10 MB each. We accept HEIC, JPG, PNG, PDF, AI, and EPS."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Project details</strong> (optional, short text)",
+          "text": "Project details (optional, short text)"
+        },
+        {
+          "tag": "h3",
+          "html": "Add building details (optional, collapsed by default)",
+          "text": "Add building details (optional, collapsed by default)"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Install address.</strong> Helper text: A street address helps us plan permits and access.",
+          "text": "Install address. Helper text: A street address helps us plan permits and access."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Building type</strong> (dropdown): Office building / Retail storefront / Restaurant or cafe / Medical or dental office / Mixed-use or residential building / Property management portfolio / Other",
+          "text": "Building type (dropdown): Office building / Retail storefront / Restaurant or cafe / Medical or dental office / Mixed-use or residential building / Property management portfolio / Other"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Building requirements</strong> (checkboxes): Old sign to remove / Certificate of insurance required / After-hours or weekend install / Landlord or board approval needed / Landmark or historic building / Limits on drilling or adhesives",
+          "text": "Building requirements (checkboxes): Old sign to remove / Certificate of insurance required / After-hours or weekend install / Landlord or board approval needed / Landmark or historic building / Limits on drilling or adhesives"
+        },
+        {
+          "tag": "li",
+          "html": "<strong>Number of locations</strong> (dropdown, shown only when Multiple signs or a full program is chosen): 2 to 5 / 6 to 10 / More than 10",
+          "text": "Number of locations (dropdown, shown only when Multiple signs or a full program is chosen): 2 to 5 / 6 to 10 / More than 10"
+        },
+        {
+          "tag": "p",
+          "html": "<strong>Button:</strong> Get My Quote",
+          "text": "Button: Get My Quote"
+        },
+        {
+          "tag": "p",
+          "html": "<strong>Microcopy under button:</strong> We reply within one business day. See our <strong>privacy policy</strong>.",
+          "text": "Microcopy under button: We reply within one business day. See our privacy policy."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "label": "Confirmation Message",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "<strong>On-page message (shown after submit, replacing the form):</strong>",
+          "text": "On-page message (shown after submit, replacing the form):"
+        },
+        {
+          "tag": "p",
+          "html": "Thanks, [First Name]. We have your project. A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote.",
+          "text": "Thanks, [First Name]. We have your project. A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote."
+        },
+        {
+          "tag": "p",
+          "html": "To add anything, reply to the email we just sent you.",
+          "text": "To add anything, reply to the email we just sent you."
+        },
+        {
+          "tag": "p",
+          "html": "<strong><em>Auto-reply email:</em></strong>",
+          "text": "Auto-reply email:"
+        },
+        {
+          "tag": "p",
+          "html": "<strong><em>Subject:</em></strong> <em>We received your sign quote request</em>",
+          "text": "Subject: We received your sign quote request"
+        },
+        {
+          "tag": "p",
+          "html": "<em>Hi [First Name],</em>",
+          "text": "Hi [First Name],"
+        },
+        {
+          "tag": "p",
+          "html": "<em>Thanks for sending your project. We have your request for [Product of interest] in [Borough].</em>",
+          "text": "Thanks for sending your project. We have your request for [Product of interest] in [Borough]."
+        },
+        {
+          "tag": "p",
+          "html": "<em>A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote. If you need to add photos or details, reply to this email.</em>",
+          "text": "A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote. If you need to add photos or details, reply to this email."
+        },
+        {
+          "tag": "p",
+          "html": "<em>The Vision Graphics team</em>",
+          "text": "The Vision Graphics team"
+        },
+        {
+          "tag": "p",
+          "html": "<strong><em>Developer note:</em></strong> <em>send the confirmation to a thank-you URL so the conversion can be tracked.</em>",
+          "text": "Developer note: send the confirmation to a thank-you URL so the conversion can be tracked."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "label": "H2: What Happens Next",
+      "blocks": [
+        {
+          "tag": "li",
+          "html": "<strong>We review your photos and details:</strong> A project lead checks your photos, sizes, and building information.",
+          "text": "We review your photos and details: A project lead checks your photos, sizes, and building information."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>We come back with questions or a site survey:</strong> If we need more detail, we ask. For lit and exterior signs, we may arrange a survey.",
+          "text": "We come back with questions or a site survey: If we need more detail, we ask. For lit and exterior signs, we may arrange a survey."
+        },
+        {
+          "tag": "li",
+          "html": "<strong>You receive a quote with options:</strong> Your quote shows material options so that you can compare finish and cost.",
+          "text": "You receive a quote with options: Your quote shows material options so that you can compare finish and cost."
+        },
+        {
+          "tag": "p",
+          "html": "Our sign installation page covers building rules, certificates of insurance, and after-hours installs.",
+          "text": "Our sign installation page covers building rules, certificates of insurance, and after-hours installs."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "label": "H2: Quick Answers",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "<strong>Do I need final artwork?</strong>",
+          "text": "Do I need final artwork?"
+        },
+        {
+          "tag": "p",
+          "html": "No. Send your logo if you have one, or a photo of your old sign, and we will prepare a drawing for you to approve before anything is made. We accept HEIC, JPG, PNG, PDF, AI, and EPS files.",
+          "text": "No. Send your logo if you have one, or a photo of your old sign, and we will prepare a drawing for you to approve before anything is made. We accept HEIC, JPG, PNG, PDF, AI, and EPS files."
+        },
+        {
+          "tag": "p",
+          "html": "<strong>Can you quote from photos?</strong>",
+          "text": "Can you quote from photos?"
+        },
+        {
+          "tag": "p",
+          "html": "Yes. Photos of the wall or storefront plus rough sizes are enough for a first quote. For lit and exterior signs, we may ask for a site survey before the final price.",
+          "text": "Yes. Photos of the wall or storefront plus rough sizes are enough for a first quote. For lit and exterior signs, we may ask for a site survey before the final price."
+        },
+        {
+          "tag": "p",
+          "html": "<strong>How fast will you reply?</strong>",
+          "text": "How fast will you reply?"
+        },
+        {
+          "tag": "p",
+          "html": "We reply within one business day. If your project has a firm deadline, choose your timing in the form or tell us in the details box, and we will confirm what is possible.",
+          "text": "We reply within one business day. If your project has a firm deadline, choose your timing in the form or tell us in the details box, and we will confirm what is possible."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "label": "Testimonial",
+      "blocks": [
+        {
+          "tag": "p",
+          "html": "I sent two photos and an address, and had questions and a quote the next day. Natalie Greene, Operations Manager, Greene Dental Partners.",
+          "text": "I sent two photos and an address, and had questions and a quote the next day. Natalie Greene, Operations Manager, Greene Dental Partners."
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "links": [],
+  "clean_html": "<p>Request a Sign Quote in NYC</p><p><strong><em>URL:</em></strong> <em><a href=\"https://www.visiondoesit.com/nyc/contact/\">https://www.visiondoesit.com/nyc/contact/</a></em></p><p><strong><em>Meta title:</em></strong> <em>Request a Sign Quote in NYC | Vision Graphics NYC</em></p><p><strong><em>Meta description:</em></strong> <em>Send photos and a few details about your NYC sign project. A Vision Graphics project lead replies within one business day with next steps and a quote.</em></p><h2>1. Hero</h2><p><strong>H1:</strong> Request a Custom Sign Quote for Your New York City Project</p><p><strong>Intro:</strong> Send photos of your wall or storefront, rough sizes, and the building address, and we will start your NYC sign quote.</p><p>A Vision Graphics project lead replies within one business day with questions, a site survey request, or a quote. You do not need final artwork.</p><h2>2. Trust Strip</h2><p><strong>60 Years</strong> | Vision Graphics legacy</p><p><strong>Certificate of Insurance</strong> | On request</p><p><strong>One Business Day</strong> | Our standard reply time</p><p>(Icon row. No review counts or star ratings until real reviews exist.)</p><h2>3.</h2><p><strong>Form heading:</strong> Tell us about your sign</p><h3>About you</h3><li><strong>Name</strong> (required)</li><li><strong>Business Name</strong> (required)</li><li><strong>Email</strong> (required). Helper text: We reply to this address.</li><li><strong>Phone</strong> (optional). Helper text: Add it if you prefer a call.</li><h3>About your sign</h3><li><strong>Product of interest</strong> (required, grouped dropdown). Helper text: Pick the closest match, or choose Not sure yet or I have a question.</li><li><strong>Exterior:</strong> Storefront sign / Channel letters / Dimensional letters / Building sign / Blade sign / Window graphics</li><li><strong>Interior:</strong> Lobby or reception sign / Office signs / Elevator lobby or directional signs / ADA signs / Door signs</li><li><strong>Services:</strong> Installation only / Sign removal and replacement / Sign repair</li><li><strong>Other:</strong> Multiple signs or a full program / Not sure yet or I have a question</li><li><strong>Project timing</strong> (required dropdown): As soon as possible / Within 1 month / 1 to 3 months / More than 3 months / Planning or budgeting only. Helper text: Lit exterior signs usually need three to five weeks plus permit review.</li><li><strong>Borough</strong> (required dropdown): Manhattan / Brooklyn / Queens / The Bronx / Staten Island</li><li><strong>Photos and artwork</strong> (optional upload). Helper text: Add photos of the wall, the old sign, and your logo; up to 5 files, 10 MB each. We accept HEIC, JPG, PNG, PDF, AI, and EPS.</li><li><strong>Project details</strong> (optional, short text)</li><h3>Add building details (optional, collapsed by default)</h3><li><strong>Install address.</strong> Helper text: A street address helps us plan permits and access.</li><li><strong>Building type</strong> (dropdown): Office building / Retail storefront / Restaurant or cafe / Medical or dental office / Mixed-use or residential building / Property management portfolio / Other</li><li><strong>Building requirements</strong> (checkboxes): Old sign to remove / Certificate of insurance required / After-hours or weekend install / Landlord or board approval needed / Landmark or historic building / Limits on drilling or adhesives</li><li><strong>Number of locations</strong> (dropdown, shown only when Multiple signs or a full program is chosen): 2 to 5 / 6 to 10 / More than 10</li><p><strong>Button:</strong> Get My Quote</p><p><strong>Microcopy under button:</strong> We reply within one business day. See our <strong>privacy policy</strong>.</p><h2>4. Confirmation Message</h2><p><strong>On-page message (shown after submit, replacing the form):</strong></p><p>Thanks, [First Name]. We have your project. A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote.</p><p>To add anything, reply to the email we just sent you.</p><p><strong><em>Auto-reply email:</em></strong></p><p><strong><em>Subject:</em></strong> <em>We received your sign quote request</em></p><p><em>Hi [First Name],</em></p><p><em>Thanks for sending your project. We have your request for [Product of interest] in [Borough].</em></p><p><em>A Vision Graphics project lead will review your photos and details and reply within one business day with questions, a site survey request, or a quote. If you need to add photos or details, reply to this email.</em></p><p><em>The Vision Graphics team</em></p><p><strong><em>Developer note:</em></strong> <em>send the confirmation to a thank-you URL so the conversion can be tracked.</em></p><h2>5. H2: What Happens Next</h2><li><strong>We review your photos and details:</strong> A project lead checks your photos, sizes, and building information.</li><li><strong>We come back with questions or a site survey:</strong> If we need more detail, we ask. For lit and exterior signs, we may arrange a survey.</li><li><strong>You receive a quote with options:</strong> Your quote shows material options so that you can compare finish and cost.</li><p>Our sign installation page covers building rules, certificates of insurance, and after-hours installs.</p><h2>6. H2: Quick Answers</h2><p><strong>Do I need final artwork?</strong></p><p>No. Send your logo if you have one, or a photo of your old sign, and we will prepare a drawing for you to approve before anything is made. We accept HEIC, JPG, PNG, PDF, AI, and EPS files.</p><p><strong>Can you quote from photos?</strong></p><p>Yes. Photos of the wall or storefront plus rough sizes are enough for a first quote. For lit and exterior signs, we may ask for a site survey before the final price.</p><p><strong>How fast will you reply?</strong></p><p>We reply within one business day. If your project has a firm deadline, choose your timing in the form or tell us in the details box, and we will confirm what is possible.</p><h2>7. Testimonial</h2><p>I sent two photos and an address, and had questions and a quote the next day. Natalie Greene, Operations Manager, Greene Dental Partners.</p>"
+}

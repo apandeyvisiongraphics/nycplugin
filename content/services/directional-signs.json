@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Directional signs at the moment of decision",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Directional signs at the moment of decision",
+  "lead": "Directional signs are most useful where someone must choose a route. Too early, the message may be forgotten; too late, it leaves the visitor retracing their steps. Vision Graphics can help New York businesses and property teams organize directions around actual movement through the space. Start with a floor plan, destination names and the paths visitors use, then place concise instructions at the relevant decision points. Consistency between directional signs, directories and room identification matters more than the number of signs installed.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Directional%20signs%20at%20the%20moment%20of%20decision"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "vg-wayfinding-ada",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Directional signs at the moment of decision",
+    "caption": "VG portfolio example"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Walk the route as a first-time visitor",
+      "html": "<p>Trace the journey from each entrance to key destinations and note every ambiguous turn. Use the same room and department names throughout. Keep arrows visually consistent, and verify their meaning against the final placement rather than approving them in isolation.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Choose formats for the environment",
+      "html": "<p>Wall panels, hanging signs and applied graphics each suit different sightlines. Review background activity, available mounting surfaces and the expected pace of movement. Permanent navigation and temporary event directions can share design principles while using different materials.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Wall directionals",
+          "p": "Place concise destination information at corridor and lobby decisions."
+        },
+        {
+          "h3": "Overhead navigation concepts",
+          "p": "Explore suspended directions where a reviewed mounting location improves visibility."
+        },
+        {
+          "h3": "Temporary route graphics",
+          "p": "Coordinate event or short-term directions within an approved space."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Office visitor routes",
+        "Retail service areas",
+        "Events and shared properties"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "How many directional signs are needed?",
+        "a_html": "<p>Map the route and decision points first. The goal is sufficient guidance with consistent naming, not a fixed number of signs.</p>"
+      },
+      {
+        "q": "Can this replace a building accessibility review?",
+        "a_html": "<p>No. Navigation design should be coordinated with the responsible project professionals and any applicable requirements.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Interior directory signs",
+      "href": "/nyc/interior-directory-signs/"
+    },
+    {
+      "label": "Door signs",
+      "href": "/nyc/door-signs/"
+    },
+    {
+      "label": "Floor graphics",
+      "href": "/nyc/floor-graphics/"
+    }
+  ],
+  "cta_band": true
+}

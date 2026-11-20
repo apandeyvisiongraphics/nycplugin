@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Post and panel sign concepts for property information",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Post and panel sign concepts for property information",
+  "lead": "A post and panel sign places a defined message between or alongside supports, often near a property entrance or an approved temporary display area. The visible panel is only one part of the system: support, ground conditions and placement also determine whether the concept is appropriate. Vision Graphics can help New York property teams organize the graphic brief and compare information layouts. This page remains a review draft until the product offering and the site-specific fabrication, support and installation responsibilities have been confirmed.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Post%20and%20panel%20sign%20concepts%20for%20property%20information"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Post and panel sign concepts for property information",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Use a clear panel hierarchy",
+      "html": "<p>Prioritize the property name or main instruction, then give supporting information enough space to remain readable. If tenants or project details change, consider how the panel content could be updated without redesigning the full identity.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review the support and location",
+      "html": "<p>Document the proposed position, approach and surrounding conditions. Posts, foundations, utilities, exposure and permissions need appropriate review. An existing support system should not be assumed suitable for a different panel or a larger sign.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Property identity concepts",
+          "p": "Present a concise name and directional message."
+        },
+        {
+          "h3": "Tenant information concepts",
+          "p": "Organize several occupants within an approved panel layout."
+        },
+        {
+          "h3": "Temporary project information",
+          "p": "Explore a defined panel for an authorized time-limited use."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Property entrance studies",
+        "Commercial site information",
+        "Approved project displays"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can the panel be changed later?",
+        "a_html": "<p>A replaceable panel can be considered, but the system should be specified for that purpose and reviewed for the site.</p>"
+      },
+      {
+        "q": "Are posts and installation included?",
+        "a_html": "<p>They are not assumed. The complete support and installation scope must be verified for the project.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Real estate signs",
+      "href": "/nyc/real-estate-signs/"
+    },
+    {
+      "label": "Monument signs",
+      "href": "/nyc/monument-signs/"
+    },
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    }
+  ],
+  "cta_band": true
+}

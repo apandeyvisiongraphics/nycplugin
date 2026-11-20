@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Building identification with the site in mind",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Building identification with the site in mind",
+  "lead": "A building sign connects an organization to a physical place. It may identify a single tenant, anchor an entrance or help visitors distinguish one building from another. In New York, the building’s scale and surrounding streetscape are as important as the logo. Vision Graphics can help develop the visual brief and identify the information needed for a project review. A proposed design must be considered alongside facade conditions, property consent, access and any structural, electrical or regulatory requirements that apply to that location.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Building%20identification%20with%20the%20site%20in%20mind"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-home-feature",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Building identification with the site in mind",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Read the building before choosing the sign",
+      "html": "<p>Look at where people approach, where they stop and where the entrance becomes visible. A sign high on a facade serves a different purpose from identity near the door. Use a measured elevation to relate letter size, contrast and placement to architectural lines.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Move from concept to an approved scope",
+      "html": "<p>Gather photographs, dimensions, landlord criteria and any available drawings. Confirm the intended mounting surface and whether illumination is under consideration. Site assessment, engineering, permissions and installation arrangements need defined ownership before fabrication can be approved.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Flat panel identification",
+          "p": "Use a defined sign face to organize a business or building name."
+        },
+        {
+          "h3": "Individual dimensional letters",
+          "p": "Let the facade become the background for separate lettering."
+        },
+        {
+          "h3": "Entrance identity systems",
+          "p": "Coordinate primary building identification with tenant and door information."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Commercial building entrances",
+        "Single-tenant premises",
+        "Property identity refreshes"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you work from architectural drawings?",
+        "a_html": "<p>Drawings help establish the concept, but current field measurements and conditions should be confirmed before final production decisions.</p>"
+      },
+      {
+        "q": "Does this include structural work?",
+        "a_html": "<p>No structural or installation commitment is implied here. Required specialists and responsibilities must be identified in the project scope.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Dimensional letter signs",
+      "href": "/nyc/dimensional-letter-signs/"
+    },
+    {
+      "label": "Exterior signs",
+      "href": "/nyc/exterior-signs/"
+    }
+  ],
+  "cta_band": true
+}

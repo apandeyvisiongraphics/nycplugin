@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Signs for offices and managed properties",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Signs for offices and managed properties",
+  "lead": "Office and property signage needs to serve both the brand and the building. A reception logo introduces the organization; directories, room signs and directions support everyday use. Vision Graphics helps New York project teams frame these pieces as a coordinated program, whether the work involves one suite or several tenant areas. Start with approved names, a floor plan and the property’s requirements. That foundation makes it easier to separate permanent identification from information that will change as occupants and room uses evolve.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Signs%20for%20offices%20and%20managed%20properties"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-corporate-lobby-signs-business-lobby-signage",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Signs for offices and managed properties",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Build one checked sign schedule",
+      "html": "<p>List each sign location, approved wording, quantity and responsible approver. Link directories to room names so visitors encounter the same terminology throughout the route. Mark items that need tactile information or another specialist review rather than assuming one decorative template suits every function.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Coordinate with facilities and management",
+      "html": "<p>Collect wall and glass details, access requirements and restrictions on drilling or adhesives. A new tenant may need privacy film, reception identity and door graphics together, while a property manager may prioritize repeatable updates. Confirm responsibilities for approvals, production and installation before work proceeds.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Lobby and tenant identity",
+          "p": "Introduce the organization and confirm the right suite or entrance."
+        },
+        {
+          "h3": "Directories and room systems",
+          "p": "Organize navigation and identification with future updates in mind."
+        },
+        {
+          "h3": "Glass and wall treatments",
+          "p": "Coordinate privacy, branding and interior atmosphere."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Office relocations",
+        "Tenant improvement projects",
+        "Property signage maintenance"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can one visual system serve several tenants?",
+        "a_html": "<p>A property standard can organize shared information while allowing individual tenant identities within approved guidelines.</p>"
+      },
+      {
+        "q": "Who supplies the final room names?",
+        "a_html": "<p>The property or project team should provide and approve the sign schedule before production artwork is released.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Lobby signs",
+      "href": "/nyc/lobby-signs/"
+    },
+    {
+      "label": "Interior directory signs",
+      "href": "/nyc/interior-directory-signs/"
+    },
+    {
+      "label": "ADA signs",
+      "href": "/nyc/ada-signs/"
+    }
+  ],
+  "cta_band": true
+}

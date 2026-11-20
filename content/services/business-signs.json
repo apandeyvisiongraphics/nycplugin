@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Business signs for the complete customer journey",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Business signs for the complete customer journey",
+  "lead": "Business signage works best when each piece answers a real question: Is this the right place? Where do I enter? What can I do here? For New York businesses, Vision Graphics can help connect exterior identity, window information and interior graphics into one understandable experience. Whether you are opening, moving or refreshing an established location, start with the customer journey and the messages that are missing. Then prioritize the signs that will make the space clearer, more recognizable and easier to use.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Business%20signs%20for%20the%20complete%20customer%20journey"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Business signs for the complete customer journey",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Prioritize the moments that matter",
+      "html": "<p>List the first things a customer needs to recognize and the decisions they make on arrival. Give the primary identity a clear role, then organize hours, services, directions and promotional content around it. Avoid asking one crowded sign to solve every problem.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Build consistency without buying everything at once",
+      "html": "<p>A shared artwork system can guide individual replacements or a phased refresh. Keep approved logos, colors, type choices and sign dimensions in a project record. Review each location’s surfaces and permissions even when the brand system is repeated.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Opening sign sets",
+          "p": "Coordinate the primary identity, entrance information and essential interior messages."
+        },
+        {
+          "h3": "Brand refresh programs",
+          "p": "Replace selected elements while maintaining a consistent overall appearance."
+        },
+        {
+          "h3": "Multi-location systems",
+          "p": "Use repeatable design principles with site-specific layouts."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Independent businesses",
+        "Professional services",
+        "Growing multi-location brands"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "What should be ordered first for a new business?",
+        "a_html": "<p>Start with the signs needed for recognition, entry and essential navigation, then plan promotional and decorative elements around them.</p>"
+      },
+      {
+        "q": "Can old and new branding coexist during a refresh?",
+        "a_html": "<p>A phased plan can identify which elements change first and how to avoid conflicting names or contact details.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    }
+  ],
+  "cta_band": true
+}

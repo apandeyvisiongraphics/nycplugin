@@ -1,0 +1,196 @@
+{
+  "route": "/nyc/interior-directory-signs/",
+  "source": "VGNYCLandingPages171811.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Office and Building Directory Signs in New York City",
+      "lead_html": "<p>A directory sign is the master list at your entrance: tenant names, suites, and floors in one place.</p><p>Vision Graphics designs and makes office directory signs and lobby directory signs for NYC buildings, with changeable inserts for tenant turnover, and manages installation through licensed partners. Our interior directory signs send each visitor to the right floor.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-interior-directory-signs-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Changeable Inserts",
+          "text": "Built for tenant turnover",
+          "icon": "check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "rich-text",
+      "h2": "Types of Directory Signs",
+      "html": "<p>A building directory sign lists where tenants and departments are. The right type depends on how often names change and how many people cross your lobby each day.</p><table><thead><tr><th>Type</th><th>Best use</th><th>How tenant names get changed</th><th>Typical materials</th></tr></thead><tbody><tr><td>Lobby directory</td><td>The main entrance of an office or multi-tenant building</td><td>Replace the inserts, or the whole panel, through our team</td><td>Aluminum frame, acrylic face, painted finish</td></tr><tr><td>Floor directory</td><td>The elevator landing on each floor</td><td>Swap the inserts for that floor's tenants</td><td>Aluminum frame, acrylic or painted panel</td></tr><tr><td>Tenant panels with changeable inserts</td><td>Buildings with frequent tenant turnover</td><td>Slide out one strip and slide in a new one</td><td>Aluminum frame with engraved or printed inserts in acrylic, metal or vinyl</td></tr><tr><td>Digital directory</td><td>Larger lobbies that want live updates</td><td>Updated from a content system. Ask our team.</td><td>A display in a housing. Ask our team.</td></tr></tbody></table><p>Most commercial building directory systems pair a lobby directory with a building floor directory on each landing, so visitors can find a tenant at the entrance and confirm the stop when the elevator opens. Plan any office building directory with turnover in mind.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "Built for Tenant Turnover",
+      "intro_html": "<p>Tenants move in and out, so a directory should change without replacing the sign. Tenant directory signs read best when the whole system is planned for change. See signs for <a href=\"/nyc/offices-properties/\">offices and properties</a>.</p>",
+      "items": [
+        {
+          "title": "Changeable Inserts",
+          "html": "<p>Swap one strip and leave the frame in place. Tenant names sit on inserts that slide out of the frame, so move-outs are a quick change.</p>"
+        },
+        {
+          "title": "Replacement Inserts",
+          "html": "<p>Order the next strip when a tenant changes. Send us the new name and suite, and our team prepares a matching insert.</p>"
+        },
+        {
+          "title": "Matching the Building",
+          "html": "<p>New inserts match the frame and the lobby. We keep the font, color, and finish consistent, so the directory still looks like part of the building.</p>"
+        },
+        {
+          "title": "List Order",
+          "html": "<p>List the building name first, then each tenant with its suite or floor, in one consistent order. Alphabetical is easiest to scan.</p>"
+        }
+      ],
+      "image": "nyc-interior-directory-signs-turnover-01",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Materials and Mounting",
+      "intro_html": "<p>Aluminum frames, acrylic faces, and painted finishes cover most lobbies. Wall-mounted directories suit an entry wall or corridor, and freestanding directories suit an open lobby.</p>",
+      "items": [
+        {
+          "title": "Frames and Faces",
+          "html": "<p>Aluminum frames withstand daily handling, and acrylic faces take color cleanly. Painted finishes let the directory match your lobby.</p>"
+        },
+        {
+          "title": "Mounting",
+          "html": "<p>Wall-mounted units save floor space, and freestanding units work where no wall is available. We confirm the mounting method against your wall and your building's rules.</p>"
+        },
+        {
+          "title": "What Changes the Price",
+          "html": "<p>Listing count, frame size, material, mounting method, and inserts all affect the price. A building directory board with many listings needs a larger frame. Standard small directories start in the low hundreds of dollars online, and custom lobby directories cost more.</p><p>See typical sign prices in our <a href=\"/nyc/resources/lobby-sign-cost-nyc/\">lobby sign cost guide</a>.</p>"
+        }
+      ],
+      "image": "nyc-interior-directory-signs-materials-01",
+      "doc_section": 5
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Directory?",
+      "html": "<p>Send photos of your lobby and your tenant list, and tell us which floors need directories.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "rich-text",
+      "h2": "ADA and Accessibility",
+      "html": "<p>Directories are informational signs. ADA rules require directional and informational signs to have legible visual characters, a non-glare finish, and clear contrast; they are not required to be tactile.</p><p>Room ID signs for permanent spaces follow tactile and Braille rules. See our <a href=\"/nyc/ada-signs/\">ADA signs</a> page, and ask our team about the requirements for your building. Tell us the finish and contrast your building needs, and our team confirms the layout before production.</p>",
+      "doc_section": 6
+    },
+    {
+      "type": "image-text",
+      "h2": "Directories as Part of a Full Lobby Package",
+      "html": "<p>A directory works best as the first step in a larger wayfinding system. Plan directory signs for the lobby and each floor together, so the whole building shares one design.</p><p>A full package can include:</p><ul><li><a href=\"/nyc/lobby-signs/\">Lobby sign</a></li><li>Lobby directory and floor directories</li><li>Elevator signs</li><li>Floor number signs</li><li><a href=\"/nyc/directional-signs/\">Directional signs</a></li><li><a href=\"/nyc/wayfinding-signs/\">Wayfinding signs</a></li></ul><p>See all <a href=\"/nyc/interior-signs/\">interior signs</a>.</p>",
+      "image": "nyc-interior-directory-signs-lobby-package-01",
+      "doc_section": 7
+    },
+    {
+      "type": "process-steps",
+      "h2": "How a Directory Project Works",
+      "steps": [
+        "<strong>Send photos or book a survey:</strong> Share photos of the lobby wall and the floor landings, plus your building's rules.",
+        "<strong>Send the tenant list:</strong> Give us tenant names, suites, and floors, in the order you want.",
+        "<strong>Design and approval:</strong> You approve a drawing with the layout, finish, and mounting. We prepare building paperwork alongside it.",
+        "<strong>Fabrication and shipping:</strong> We make the directory, check it against the drawing, and ship it to your building.",
+        "<strong>Installation:</strong> Licensed partners install on your building's schedule. See how <a href=\"/nyc/sign-installation/\">sign installation works in NYC</a>."
+      ],
+      "image": "nyc-interior-directory-signs-process-01",
+      "doc_section": 8
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "When a tenant moved out, we swapped one insert and the lobby directory looked new.",
+          "name": "Corinne Walsh",
+          "role": "Property Manager",
+          "company": "Walsh & Hart Properties"
+        },
+        {
+          "quote": "The floor directories matched the lobby sign exactly.",
+          "name": "Andre Castellano",
+          "role": "Building Manager",
+          "company": "Castellano Commercial"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 9
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "How do we update tenant names?",
+          "a_html": "<p>Slide out the old insert and slide in a new one. Changeable directories hold each tenant name on its own strip, so a move-out is a quick change and the frame stays in place. Send us the new name and suite, and our team prepares a matching insert.</p>"
+        },
+        {
+          "q": "How long does a directory take to make?",
+          "a_html": "<p>Most directories take two to three weeks from approved drawing to install, plus shipping time from our Salt Lake City production facility and any building approval. Large lobby directories and digital options can take longer. Tell us your target date, and we will confirm the schedule in your quote.</p>"
+        },
+        {
+          "q": "Can a new directory match our existing lobby sign?",
+          "a_html": "<p>Yes. Send photos of your lobby sign, and our team matches the font, color, and finish so the directory looks like part of the same design. If the original sign is hard to reference, we work from your photos and brand files.</p>"
+        },
+        {
+          "q": "Do you offer digital directories?",
+          "a_html": "<p>Our team can advise on digital directories. Vision Graphics provides digital signage consulting, installation, and content creation, so we can talk through whether a digital directory suits your building. <a href=\"#inquiry\">Send us your lobby layout and tenant count</a>, and we'll review the options.</p>"
+        },
+        {
+          "q": "Can you install after hours?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote. Licensed installation partners handle the install.</p>"
+        },
+        {
+          "q": "What should a building directory list?",
+          "a_html": "<p>Start with the building name, then list each tenant or department with its suite number or floor, in one consistent order. Alphabetical order is easiest to scan. Floor directories repeat only that floor's listings, so visitors can confirm their stop when the elevator opens.</p>"
+        },
+        {
+          "q": "What affects the cost of a directory sign?",
+          "a_html": "<p>Listing count, frame size, material, mounting method, and the number of inserts all move the price. Small standard directories start in the low hundreds of dollars online, and custom lobby directories cost more. We itemize each quote, so you can see what drives the price.</p>"
+        }
+      ],
+      "doc_section": 10
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Directory?",
+      "intro_html": "<p>Send photos of your lobby and your tenant list, and tell us which floors need directories.</p><p>Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 11
+    }
+  ]
+}

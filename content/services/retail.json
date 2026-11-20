@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Signs for retail and local-service businesses",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Signs for retail and local-service businesses",
+  "lead": "A retail or service storefront should make the business recognizable while giving people a reason to step inside. Once they enter, clear information and a consistent visual style help them understand the offer. Vision Graphics works with New York project briefs for shops, salons and neighborhood services, connecting windows, entrance details, interior graphics and promotions. Start with the way a first-time customer sees the location, then prioritize the changes that make the message clearer and the physical space feel more like your brand.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Signs%20for%20retail%20and%20local-service%20businesses"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-signage-storefronts",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Signs for retail and local-service businesses",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Balance the window with the interior view",
+      "html": "<p>A window can introduce a service or promotion without covering every pane. Decide which areas should carry graphics and which should preserve a view of products or activity. Keep essential hours and entry information separate from campaigns that change frequently.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Make promotions easy to refresh",
+      "html": "<p>Plan the update cycle for seasonal offers, events and product launches. A coordinated design system can connect window graphics, banners and interior panels while allowing content to change. Confirm artwork, removal expectations and surface conditions for each new campaign.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Window and entrance graphics",
+          "p": "Clarify identity, services and practical information at arrival."
+        },
+        {
+          "h3": "Interior branding",
+          "p": "Use walls, panels and focused decals to reinforce the store experience."
+        },
+        {
+          "h3": "Campaign displays",
+          "p": "Coordinate temporary messages across approved display locations."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Independent shops",
+        "Salons and personal services",
+        "Neighborhood professional services"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can a small storefront still use several sign types?",
+        "a_html": "<p>Yes, if each has a clear role. Prioritize readable identity and essential information before adding promotional elements.</p>"
+      },
+      {
+        "q": "Can seasonal graphics match permanent signs?",
+        "a_html": "<p>A shared color, type and image system can connect them while allowing the campaign to have its own message.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Wall graphics",
+      "href": "/nyc/wall-graphics/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    }
+  ],
+  "cta_band": true
+}

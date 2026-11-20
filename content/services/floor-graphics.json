@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Floor graphics with a defined purpose",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Floor graphics with a defined purpose",
+  "lead": "Floor graphics put a message into the path people use, which makes placement and material suitability essential. They can support a temporary promotion, reinforce a route or mark an approved waiting area, but the floor is a working surface with its own cleaning and wear conditions. Vision Graphics can help New York businesses plan the message and visual layout for review. Share the flooring type, traffic pattern and intended display period so the selected product can be assessed for that specific use.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Floor%20graphics%20with%20a%20defined%20purpose"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-interior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Floor graphics with a defined purpose",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Keep the instruction short",
+      "html": "<p>People tend to encounter a floor message while moving. Use a simple visual, limited text and a clear direction when needed. Place graphics where they can be seen without creating confusing paths or competing with essential building signs.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review the surface and material documentation",
+      "html": "<p>Identify the floor finish, texture, cleaning method and areas exposed to moisture. The proposed material should have documentation appropriate to the application, including any relevant slip-related performance. Testing, preparation and removal requirements need review before production and placement.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Promotional floor graphics",
+          "p": "Connect a focused campaign message to an approved interior location."
+        },
+        {
+          "h3": "Directional elements",
+          "p": "Use arrows or markers as part of a coordinated route."
+        },
+        {
+          "h3": "Queue and service markers",
+          "p": "Organize approved waiting or service positions with clear graphics."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Retail campaigns",
+        "Event navigation",
+        "Service-area organization"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can floor graphics go on any flooring?",
+        "a_html": "<p>No. The floor, exposure, cleaning and material documentation must be reviewed for compatibility and suitability.</p>"
+      },
+      {
+        "q": "Are floor graphics automatically slip resistant?",
+        "a_html": "<p>No general assurance is made here. Review the specific product’s documented performance and the actual use conditions.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    },
+    {
+      "label": "Retail",
+      "href": "/nyc/retail/"
+    },
+    {
+      "label": "Environmental graphics",
+      "href": "/nyc/environmental-graphics/"
+    }
+  ],
+  "cta_band": true
+}

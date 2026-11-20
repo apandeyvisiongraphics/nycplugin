@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Mission and values signs people can read",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Mission and values signs people can read",
+  "lead": "A mission statement deserves more thought than placing a paragraph on the largest available wall. Employees and visitors should be able to understand the message at the distance and pace the space allows. For New York workplaces, Vision Graphics can help turn approved values, a purpose statement or company history into a readable visual composition. The project begins with editorial choices: what matters most, who is reading and how the words connect to the organization’s wider identity in the room.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Mission%20and%20values%20signs%20people%20can%20read"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-hero-image",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Mission and values signs people can read",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Give the message a hierarchy",
+      "html": "<p>Select a short lead thought, then decide whether supporting copy belongs on the same wall or in a separate display. Differentiate headings from details with scale and spacing. Keep the final wording approved before production so design time is spent on the arrangement rather than repeated text changes.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Choose a form that suits the culture",
+      "html": "<p>Cut lettering can feel direct, dimensional elements can emphasize a key phrase and printed panels can support a longer story. Review the wall, lighting and surrounding activity. Position the message where people can engage with it without interrupting essential navigation.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Cut vinyl statements",
+          "p": "Use separate words and lines for a clean, integrated wall message."
+        },
+        {
+          "h3": "Dimensional headline elements",
+          "p": "Highlight a short purpose statement with visible physical depth."
+        },
+        {
+          "h3": "Story panels",
+          "p": "Organize longer history or values content into readable sections."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Employee welcome areas",
+        "Meeting and collaboration rooms",
+        "Company history displays"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you help shorten a long statement?",
+        "a_html": "<p>The project can begin with a proposed content hierarchy. Your team should approve every wording change before artwork is finalized.</p>"
+      },
+      {
+        "q": "Can values be added later?",
+        "a_html": "<p>Plan a modular layout or separate panels if the content may expand, instead of filling all available space at the first stage.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Wall decals",
+      "href": "/nyc/wall-decals/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Environmental graphics",
+      "href": "/nyc/environmental-graphics/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,97 @@
+{
+  "breadcrumb": "How to prepare a useful sign project brief",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "How to prepare a useful sign project brief",
+  "lead": "A sign brief does not need to begin as a technical document. It needs to explain the business goal, the location and what people should understand when they see the finished piece. For a New York project, a few accurate details can prevent a long chain of assumptions about the site or artwork. Use this guide to gather photographs, wording, dimensions and approvals before contacting Vision Graphics. If something is unknown, label it clearly; an honest gap is easier to resolve than a guessed production detail.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=How%20to%20prepare%20a%20useful%20sign%20project%20brief"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to How to prepare a useful sign project brief",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Capture the whole setting",
+      "html": "<p>Take a wide photograph from the normal approach, a straight-on view of the intended area and close-ups of the surface or existing fixings. Include obstacles such as doors, handles and lighting. For vehicles, photograph every side and record the exact body configuration.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Separate content from construction",
+      "html": "<p>Provide the approved logo and final wording, but describe material ideas as preferences until reviewed. Label approximate measurements and identify who will confirm production dimensions. List landlord, facilities or design approvals that must be obtained before the work can move ahead.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "State the practical constraints",
+      "html": "<p>Include the project ZIP, desired timing, quantity and any access restrictions. Explain whether old graphics need removal or whether the sign must be updated later. Ask for delivery and installation responsibilities to be explicit in the proposed scope.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Location record",
+          "p": "Photos, a plan where available and the exact intended sign position."
+        },
+        {
+          "h3": "Artwork record",
+          "p": "Approved logos, wording, color references and rights information."
+        },
+        {
+          "h3": "Scope record",
+          "p": "Quantities, timing needs, approval contacts and known site constraints."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Storefront inquiries",
+        "Office sign programs",
+        "Vehicle and event projects"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "What if I cannot measure safely?",
+        "a_html": "<p>Do not attempt unsafe access. Provide the information you have and identify the need for a suitable measurement process.</p>"
+      },
+      {
+        "q": "Should I send a screenshot of my logo?",
+        "a_html": "<p>An original vector or high-resolution file is more useful. A screenshot can illustrate the idea but may not support production.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Request quote",
+      "href": "/nyc/request-quote/"
+    },
+    {
+      "label": "Products",
+      "href": "/nyc/products/"
+    },
+    {
+      "label": "Contact",
+      "href": "/nyc/contact/"
+    }
+  ],
+  "cta_band": true
+}

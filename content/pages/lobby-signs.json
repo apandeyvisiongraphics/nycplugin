@@ -1,0 +1,261 @@
+{
+  "route": "/nyc/lobby-signs/",
+  "source": "VGNYCLandingPages171811.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Lobby Signs in New York City for Office Receptions and Building Entrances",
+      "lead_html": "<p>Visitors read your lobby sign before anyone says hello. Vision Graphics designs and makes lobby signs for NYC offices to use on reception walls and building entrances.</p><p>From acrylic logo panels to brushed metal and dimensional letters, we manage installation through licensed partners.</p><p>Replacing an old sign? We also plan the removal and wall patching.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-lobby-signs-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Replacement Ready",
+          "text": "Removal and wall patching planned",
+          "icon": "check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "features-grid",
+      "h2": "Lobby Sign Options",
+      "intro_html": "<p>The right lobby sign depends on your wall, your lighting, and how boldly the brand should read. Our custom lobby signs and lobby signage cover six common options, and we can combine them in one design.</p>",
+      "items": [
+        {
+          "title": "Dimensional Letters",
+          "html": "<p>Raised letters with depth and shadow. A dimensional lobby logo sign gives company lobby signs a polished, architectural look. <a href=\"/nyc/dimensional-letter-signs/\">Learn more about dimensional letter signs</a>.</p>"
+        },
+        {
+          "title": "Acrylic Logo Panels",
+          "html": "<p>Clean color and a glossy finish. An acrylic lobby sign suits reception walls, and it can be lit from behind. <a href=\"/nyc/acrylic-signs/\">Learn more about acrylic signs</a>.</p>"
+        },
+        {
+          "title": "Brushed and Painted Metal",
+          "html": "<p>A refined look that wears well. <a href=\"/nyc/metal-signs/\">Brushed metal</a> and painted aluminum hold up in busy lobbies.</p>"
+        },
+        {
+          "title": "Standoff Signs",
+          "html": "<p>Panels held off the wall for depth. <strong>Standoff signs</strong> cast a soft shadow and suit logo panels and feature walls.</p>"
+        },
+        {
+          "title": "Backlit and Halo-Lit Signs",
+          "html": "<p>Glowing letters that read in any light. <strong>Backlit lobby signs</strong> need power behind the wall, and a licensed electrician makes the final connection.</p>"
+        },
+        {
+          "title": "Mixed Materials",
+          "html": "<p>Metal and acrylic in one design. Layered materials add depth and carry brand colors across the wall.</p>"
+        }
+      ],
+      "images": [
+        "nyc-lobby-signs-options-01",
+        "nyc-lobby-signs-options-02"
+      ],
+      "after_html": "<p>For a values or mission wall, see our <a href=\"/nyc/mission-statement-signs/\">mission statement signs</a>. For tenant lists, see our <a href=\"/nyc/interior-directory-signs/\">interior directory signs</a>.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "rich-text",
+      "h2": "Lobby Sign Materials Compared",
+      "html": "<p>Compare the look, best use, and relative cost, then see typical prices in our <a href=\"/nyc/resources/lobby-sign-cost-nyc/\">lobby sign cost guide</a>. Finish matters too. A polished surface reflects ceiling lights, and a brushed or matte finish cuts glare.</p><table><thead><tr><th>Material</th><th>Look</th><th>Best use</th><th>Relative cost</th></tr></thead><tbody><tr><td>Acrylic</td><td>Glossy, vivid color, takes backlighting</td><td>Reception walls and logo panels</td><td>Low to medium</td></tr><tr><td>Painted aluminum</td><td>Smooth, solid color in a chosen finish</td><td>Panels, plaques and architectural walls</td><td>Medium</td></tr><tr><td>Brushed metal</td><td>Textured metallic grain with a refined look</td><td>Corporate lobbies and busy entrances</td><td>Medium to high</td></tr><tr><td>Dimensional letters</td><td>Raised letters with depth and shadow</td><td>Logo walls and feature walls</td><td>Medium to high</td></tr><tr><td>Lit signs</td><td>Glowing letters or a lit panel</td><td>Feature walls and low-light lobbies</td><td>High</td></tr></tbody></table>",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Replacing an Existing Lobby Sign",
+      "intro_html": "<p>Most NYC lobby buyers already have a sign. Replacing it is a project with its own steps, and we plan them together. Office reception signage goes up more smoothly when removal, repair, and installation are one plan.</p>",
+      "items": [
+        {
+          "title": "Removal of the Old Sign",
+          "html": "<p>The old sign comes down first. Removal is part of the installation plan, and our team confirms the details when you request your quote.</p>"
+        },
+        {
+          "title": "Wall Patching",
+          "html": "<p>We repair holes and marks left by the old sign. Patching and paint touch-up are included in your quote, and our team confirms who will do the work.</p>"
+        },
+        {
+          "title": "Matching the New Sign",
+          "html": "<p>A new sign can match what stays. If other signs in the lobby remain, we match the finish and style so the lobby reads as one design.</p>"
+        },
+        {
+          "title": "Lobby, Reception and Elevator Signs as One Package",
+          "html": "<p>Designing them together keeps fonts, finishes, and mounting heights consistent. It can also save a second round of building approvals. Elevator lobby signs here are wayfinding signs.</p>"
+        }
+      ],
+      "image": "nyc-lobby-signs-replacement-01",
+      "after_html": "<p>A replacement sign may need landlord or management approval again, so send the details early. See how <a href=\"/nyc/sign-installation/\">sign installation works in NYC</a>.</p>",
+      "doc_section": 5
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Replace Your Lobby Sign?",
+      "html": "<p>Send photos of your lobby wall and your old sign, plus your building's rules.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Planning Around Your Building",
+      "intro_html": "<p>Your building may set rules before any sign goes up. Planning around them avoids delays.</p>",
+      "items": [
+        {
+          "title": "Certificate of Insurance",
+          "html": "<p>Your building may require a certificate of insurance before work starts. Buildings set their own wording and limits, so send the requirements early. We provide a certificate on request.</p>"
+        },
+        {
+          "title": "Management Approval",
+          "html": "<p>Interior signs may require approval from building management or the landlord. Approval often requires drawings and mounting details, and we prepare them.</p>"
+        },
+        {
+          "title": "After-Hours Installation",
+          "html": "<p>Your building may limit installs to evenings or weekends. After-hours work can add labor charges, and we confirm them in your quote. Tell us your building's rules in your <a href=\"#inquiry\">quote request</a>.</p>"
+        }
+      ],
+      "image": "nyc-lobby-signs-building-01",
+      "doc_section": 6
+    },
+    {
+      "type": "rich-text",
+      "h2": "Make the Wall Part of the Brief",
+      "html": "<p>Treat the wall as part of the brief. Send photos of the wall, rough sizes, the wall finish, and any limits on drilling or adhesives. Wall condition and access can change the scope, and it's better to find a wall that needs repair early.</p><p>We'll provide a drawing of the new sign on your wall before we make anything, so you can confirm size, position, and finish.</p><p>Tell us how your lobby is lit, too.</p><p>Not sure what to send? Use our <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a>.</p>",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Where Lobby Signs Work",
+      "intro_html": "<p>Office lobby signs share the same basics wherever they go: a clear brand, a matched design, and a building that signs off.</p><p>Lobby signs that Manhattan offices order, lobby signs for business owners elsewhere in the city, and lobby signage that New York property managers approve all start with the wall.</p><p>See signs for <a href=\"/nyc/manhattan/\">Manhattan</a> offices.</p>",
+      "items": [
+        {
+          "title": "Corporate Receptions",
+          "html": "<p>A brand wall behind the desk. Corporate lobby signs set the tone for clients and new hires.</p>"
+        },
+        {
+          "title": "Professional Offices",
+          "html": "<p>Law, medical, and financial practices. A quiet, polished sign builds trust at the front desk.</p>"
+        },
+        {
+          "title": "Coworking Spaces",
+          "html": "<p>Branding that flexes with members. A feature wall and an entrance sign help a shared space read as one brand.</p>"
+        },
+        {
+          "title": "Tenant Entrances",
+          "html": "<p>A suite entrance in a multi-tenant building. Consistent signs across tenants keep the building coherent. See signs for <a href=\"/nyc/offices-properties/\">offices and properties</a>.</p>"
+        }
+      ],
+      "doc_section": 8
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-lobby-signs-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-lobby-signs-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-lobby-signs-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-lobby-signs-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "doc_section": 9
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "Old sign down, new sign up, wall patched, and reception looked finished by Monday.",
+          "name": "Nadia Brennan",
+          "role": "Office Manager",
+          "company": "Brennan & Cole Architects"
+        },
+        {
+          "quote": "The lobby and elevator signs matched exactly.",
+          "name": "Owen Delgado",
+          "role": "Operations Director",
+          "company": "Delgado Advisory Group"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 10
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "How large should a lobby logo be?",
+          "a_html": "<p>Size the logo to the wall and the viewing distance. A common rule of thumb is one inch of letter height per 10 feet of viewing distance, and many reception logos span about half the width of the wall behind the desk. We confirm the size on a drawing of your wall before anything is made.</p>"
+        },
+        {
+          "q": "Can it match our brand colors?",
+          "a_html": "<p>Yes. Send your logo files and any brand color codes, and we match the colors on the drawing you approve. Finish also changes how a color reads under ceiling lights, so tell us how your lobby is lit.</p>"
+        },
+        {
+          "q": "What affects the cost of a lobby sign?",
+          "a_html": "<p>Size, the number and depth of letters, finish, lighting, mounting method, and wall condition all move the price. Material matters most: acrylic usually costs less than brushed metal, and lit signs cost more. See typical ranges in our <a href=\"/nyc/resources/lobby-sign-cost-nyc/\">lobby sign cost guide</a>.</p>"
+        },
+        {
+          "q": "Letters or a panel?",
+          "a_html": "<p>Choose letters for a logo that stays put, and a panel when the sign has several elements, fine details, or a lit face. Letters give depth and shadow, and a panel keeps small details together. Send a photo of your wall, and we will recommend one.</p>"
+        },
+        {
+          "q": "Can you remove our old sign?",
+          "a_html": "<p>Yes. Removal is part of the install plan, so we take down the old sign before installing the new one. Wall patching and paint touch-up are included in your quote, and our team will confirm the details. <a href=\"#inquiry\">Send us a photo of your old sign</a>.</p>"
+        },
+        {
+          "q": "Can you install after hours?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote. Licensed installation partners handle the installation.</p>"
+        },
+        {
+          "q": "Can you recommend a company for interior and lobby signs in NYC?",
+          "a_html": "<p>Vision Graphics designs and makes interior and lobby signs for NYC offices, with a 60-year history, production in Salt Lake City, and licensed installation partners managed by one project lead. We serve all five boroughs. Send a photo of your lobby, and our team will come back with a drawing and a quote.</p>"
+        }
+      ],
+      "doc_section": 11
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Replace Your Lobby Sign?",
+      "intro_html": "<p>Send photos of your lobby wall and your old sign, plus your building's rules.</p><p>Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 12
+    }
+  ]
+}

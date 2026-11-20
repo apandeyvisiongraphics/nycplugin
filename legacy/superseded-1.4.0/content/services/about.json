@@ -1,0 +1,88 @@
+{
+  "breadcrumb": "Vision Graphics for your New York business",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Vision Graphics for your New York business",
+  "lead": "Vision Graphics’ New York experience brings a local conversation together with VG production support. The team helps businesses organize the details of each signage project, from the first concept through a reviewed production plan. The focus begins with Brooklyn and Manhattan, from a single storefront refresh to coordinated office, vehicle or event graphics. The approach is straightforward: understand the setting, make the design decisions reviewable and confirm the practical scope before production. Look Good. Be Seen. begins with a clear project brief.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Vision%20Graphics%20for%20your%20New%20York%20business"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Vision Graphics for your New York business",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "A useful conversation before a product choice",
+      "html": "<p>You do not need to arrive with every material decision made. Photographs, a business goal and a rough description of the space give the team something concrete to discuss. The next step is to identify what needs measuring, approving or clarifying so the project can move forward with shared expectations.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Local context and honest project records",
+      "html": "<p>Service arrangements are confirmed for each project; no local factory or showroom is represented here. Portfolio images may illustrate work completed elsewhere and should retain their factual captions. Each New York project needs its own confirmed service arrangements and approved details rather than assumptions drawn from a previous installation.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Personal project contact",
+          "p": "Discuss the location, message and priorities with our team."
+        },
+        {
+          "h3": "Coordinated production brief",
+          "p": "Bring artwork, dimensions and application details into one reviewed scope."
+        },
+        {
+          "h3": "Consistent brand programs",
+          "p": "Connect signs, graphics and displays through approved visual standards."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Independent business projects",
+        "Office and property programs",
+        "Multi-location brand coordination"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Are portfolio examples necessarily in New York?",
+        "a_html": "<p>No. Captions should identify their actual provenance; work from another market is not presented as a New York installation.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Contact",
+      "href": "/nyc/contact/"
+    },
+    {
+      "label": "Gallery",
+      "href": "/nyc/gallery/"
+    },
+    {
+      "label": "Products",
+      "href": "/nyc/products/"
+    }
+  ],
+  "cta_band": true
+}

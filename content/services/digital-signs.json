@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Digital sign project planning",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Digital sign project planning",
+  "lead": "Digital signage introduces a changing content system rather than a single printed message. A screen may present menus, directions or promotional information, but its usefulness depends on who maintains the content and how the hardware fits the site. For a New York project, begin by defining the audience, viewing conditions and update routine. This page is a planning draft for discussion with Vision Graphics; equipment supply, software, electrical work, support and installation are not represented as confirmed services until the project offering is reviewed.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Digital%20sign%20project%20planning"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Digital sign project planning",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Plan the content operation first",
+      "html": "<p>Identify who writes, approves and changes the messages. Decide what must remain visible and what can rotate. A readable menu and a fast-moving promotional loop have different layout needs. Consider a fallback for essential information when a screen or connection is unavailable.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Define the hardware and service questions",
+      "html": "<p>Document viewing distance, ambient light, indoor or outdoor placement, connectivity and access. Hardware selection, mounting, power and any software subscriptions need a verified specification. Confirm ongoing support responsibilities and costs before treating a display concept as a complete signage solution.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Menu presentation concepts",
+          "p": "Organize changing items and prices with a readable content hierarchy."
+        },
+        {
+          "h3": "Interior information concepts",
+          "p": "Explore directories or announcements where a screen serves a defined audience."
+        },
+        {
+          "h3": "Promotional content concepts",
+          "p": "Plan short messages with an approved update and review routine."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Restaurant menu planning",
+        "Office information planning",
+        "Retail campaign planning"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Does VG provide digital hardware and software?",
+        "a_html": "<p>That offering must be confirmed. This draft does not promise equipment, subscriptions, integrations or support.</p>"
+      },
+      {
+        "q": "What is needed before choosing a screen?",
+        "a_html": "<p>Define the content, viewing conditions, mounting location, update responsibility and technical support requirements first.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Restaurants",
+      "href": "/nyc/restaurants/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Business signs",
+      "href": "/nyc/business-signs/"
+    }
+  ],
+  "cta_band": true
+}

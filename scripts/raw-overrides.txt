@@ -1,0 +1,2 @@
+# One slug per line: pages that must stay "raw" even if they fit the service layout.
+# Add a reason after "#" and in tests/fallbacks.md.

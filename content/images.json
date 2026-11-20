@@ -1,0 +1,1835 @@
+{
+  "nyc-about-hero-01": {
+    "page": "/nyc/about/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Design studio desk with sign drawings, material swatches and a laptop beside a window overlooking the city",
+    "prompt": "Photorealistic wide photograph, 16:9, of a bright design studio desk with printed sign drawings, material swatches and a laptop showing an abstract sign mockup, beside a tall window that looks out on a softly blurred city street and towers beyond, morning light, warm neutral palette with [ACCENT COLOR: designer's choice], subjects in the central 60%, calm negative space top-left, no people, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-about-install-01": {
+    "page": "/nyc/about/",
+    "section": "install",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installers on a lift mounting a metal sign panel on an office tower facade",
+    "prompt": "Photorealistic photograph, 3:2, of a faceless installer in safety gear on a lift mounting a metal sign panel on the glass-and-stone facade of an office tower, a second worker steadying the panel, late afternoon light, the city softly blurred beyond, warm neutral palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-about-production-01": {
+    "page": "/nyc/about/",
+    "section": "production",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Finished sign panels wrapped in protective film on pallets beside a loading dock",
+    "prompt": "Photorealistic photograph, 3:2, of finished sign panels and letters wrapped in protective film and stacked on pallets beside a loading dock in a clean production facility, early morning light, a faceless worker silhouette with a pallet jack in the distance, warm neutral palette with one open accent, no readable text, no logos, no vehicles.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-about-projects-01": {
+    "page": "/nyc/about/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-about-projects-02": {
+    "page": "/nyc/about/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-about-projects-03": {
+    "page": "/nyc/about/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-about-projects-04": {
+    "page": "/nyc/about/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Project slots: four real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-about-story-01": {
+    "page": "/nyc/about/",
+    "section": "story",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Large-format printer running in a production facility",
+    "prompt": "Photorealistic photograph, 3:2, of a modern large-format printer running in a bright production facility, with a glass display case at the edge of the frame holding rolled blueprint tubes, suggesting six decades of history, soft daylight, warm palette with one open accent, no people, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-construction-01": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "construction",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Channel letter with its face removed, showing LED modules inside the aluminum return",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a single channel letter on a workshop bench with its face removed to show LED modules lined inside the aluminum return and a coil of wiring beside it. A technician's gloved hand holds the face panel. Bright shop light, aluminum and white palette with natural color on the wiring. Subject in the central 60%; no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-hero-01": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Front-lit channel letters glowing across a dark metal fascia on a New York storefront in the early evening",
+    "prompt": "Photorealistic wide photograph, 16:9, of a New York storefront in the early evening with front-lit channel letters glowing evenly across a dark metal fascia (abstract, unreadable letterforms), pedestrians passing and warm window light on the sidewalk. Charcoal and warm white palette with natural color on an awning stripe. Subjects in the central 60%, calm space at upper left. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-mounting-01": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "mounting",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer fixing channel letters onto a raceway along a storefront sign band",
+    "prompt": "Photorealistic photograph, 3:2, of an installer fixing channel letters onto a raceway along a storefront signband, a drill and level in use, with the remaining letters lined up on a scaffold plank. Clear daylight, limestone facade, neutral palette with natural color on the level. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-permits-01": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "permits",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer measuring a limestone storefront sign band while the owner holds a drawing tube",
+    "prompt": "Photorealistic photograph, 3:2, of an installer on a short ladder measuring the sign band of a limestone storefront with a laser measure while the owner stands below holding a tablet and a drawing tube. Clear daylight, neutral palette with natural color on the drawing tube. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-projects-01": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-projects-02": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-projects-03": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-channel-letter-signs-projects-04": {
+    "page": "/nyc/channel-letter-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any channel letter sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-exterior-signs-hero-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "New York commercial block with a lit channel-letter storefront sign, a projecting blade sign and a building sign",
+    "prompt": "Photorealistic wide photograph, 16:9, of a New York commercial block in clear morning light, with a lit channel-letter storefront sign (abstract, unreadable), a projecting blade sign above a doorway, and a building sign on the upper facade. Pedestrians pass on the sidewalk. Limestone and glass palette with a natural awning color. Subjects in the central 60%, calm space at upper left. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-permits-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "permits",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Sign installer and building owner reviewing a sign drawing in front of a storefront with a blank fascia",
+    "prompt": "Photorealistic photograph, 3:2, of a sign installer and a building owner in front of a storefront with a blank fascia, reviewing a printed sign drawing on a clipboard and a tablet. Clear daylight, neutral palette with natural color on the clipboard. No readable text, logos, or license plates. Camera at eye level, subjects in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-process-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer on a boom lift mounting a blade sign bracket while a colleague checks the drawing at street level",
+    "prompt": "Photorealistic photograph, 3:2, of an installer on a boom lift mounting a blade sign bracket on a mid-rise facade. At the same time, a colleague checks a drawing at street level behind safety barriers. Morning light, neutral palette with natural color on the barriers. No readable text, logos, or license plates. Camera from street level looking up, subjects in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-projects-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-exterior-signs-projects-02": {
+    "page": "/nyc/exterior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-exterior-signs-projects-03": {
+    "page": "/nyc/exterior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-exterior-signs-projects-04": {
+    "page": "/nyc/exterior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any exterior sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-exterior-signs-types-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Corner storefront in the early evening with halo-lit letters on a stone facade and a blade sign above the door",
+    "prompt": "Photorealistic photograph, 3:2, of a corner storefront in the early evening with halo-lit letters glowing on a stone facade and a blade sign above the door, while a customer opens the door. Warm white light, neutral palette, natural color on the door frame. No readable text or logos. Camera at eye level, shallow depth of field, subjects in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-types-02": {
+    "page": "/nyc/exterior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Low stone monument sign at the entrance of an office park",
+    "prompt": "Photorealistic photograph, 3:2, of a low stone monument sign at the entrance of an office park, with an abstract mark, trimmed shrubs, and soft overcast daylight. A car passes in the blurred background. Neutral stone palette with natural color on a planter. No readable text or logos. Camera at a slight low angle, subjects in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-types-03": {
+    "page": "/nyc/exterior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Cafe window with a frosted film band and cut-vinyl graphics seen from the sidewalk",
+    "prompt": "Photorealistic photograph, 3:2, of a cafe window seen from the sidewalk at midday, with a frosted film band and cut-vinyl shapes, street reflections in the glass, and a customer visible inside. Warm neutral palette with natural color on a chair. No readable text or logos. Camera at eye level, shallow depth of field, subjects in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-exterior-signs-weather-01": {
+    "page": "/nyc/exterior-signs/",
+    "section": "weather",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Powder-coated aluminum channel letter with rain beading on the finish and stainless fixings",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a powder-coated aluminum channel letter on a facade after rain, with water beading on the finish and stainless fixings visible, a wet sidewalk reflecting the glow below. Soft overcast light, neutral palette with natural color on the fixings. No readable text or logos. Macro camera, shallow depth of field, subject in the central 60% with calm space at upper left. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-boroughs-01": {
+    "page": "/nyc/",
+    "section": "boroughs",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "New York City skyline across the rivers in morning light",
+    "prompt": "Photorealistic wide aerial photograph, 16:9, of the New York City skyline across the rivers in hazy morning light, with soft light separating distinct areas, warm neutral palette, no text, no borders, no labels. Flag: if a borough map is preferred, build it manually with five pins, because AI renders map geometry unreliably.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-01": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Brushed-metal fascia sign with a soft halo glow above a stone shopfront window",
+    "prompt": "Photorealistic photograph, 3:2, of a stone-clad shopfront in strong midday sun. A blank brushed-metal fascia sign carries a soft halo glow above a large glass window that reflects the street, with one blurred pedestrian: no readable text, no logos, no brick.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-02": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Illuminated channel letters glowing on a dark charcoal facade in the evening",
+    "prompt": "Photorealistic close-up photograph, 3:2, of illuminated channel letters on a dark charcoal facade, shot from the side on a late evening with shallow depth of field. Abstract rounded letterforms, warm white glow with crisp return: no people, no readable text, no navy or amber lighting.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-03": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Brushed-brass dimensional letters on a pale limestone wall",
+    "prompt": "Photorealistic close-crop photograph, 3:2, of raised brushed-brass dimensional letters (abstract shapes, partly cropped) on a pale limestone wall in low morning light, with long soft shadows. No people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-04": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Tenant sign band and wall-mounted identification sign on a mid-rise office building",
+    "prompt": "Photorealistic low-angle photograph, 3:2, looking up a mid-rise office facade under broken clouds. A tenant sign band runs above the entrance, and a larger wall-mounted identification sign sits higher up, both blank abstract forms. No people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-05": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Projecting blade sign on a metal bracket above a doorway along a sidewalk",
+    "prompt": "Photorealistic photograph, 3:2, looking down a sidewalk toward a projecting blade sign on a metal bracket above a doorway, morning sun, shallow focus, blurred pedestrians, blank abstract sign face. No readable text, no brick.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-exterior-06": {
+    "page": "/nyc/",
+    "section": "exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Frosted window film band and vinyl lettering on a storefront window",
+    "prompt": "Photorealistic interior photograph, 3:2, looking out through a storefront window with a frosted film band and abstract vinyl lettering shapes that cast soft patterns on the floor, afternoon light. A faceless installer holds a squeegee at the edge of the frame; no text is readable.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-fabrication-01": {
+    "page": "/nyc/",
+    "section": "fabrication",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Acrylic letters being assembled in a fabrication shop beside an installer mounting a panel on a city facade",
+    "prompt": "Photorealistic split-screen photograph, 3:2. Left: a clean fabrication bench with acrylic letters being assembled under overhead light. Right: a faceless installer on a lift mounting a panel on a city facade. Three small icons between the halves (a document, a shield, a clock) drawn as simple shapes with no text. No readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-hero-01": {
+    "page": "/nyc/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Illuminated channel letters above the entrance of a limestone-and-glass building on a New York City avenue",
+    "prompt": "Photorealistic wide photograph, 16:9, of a limestone-and-glass commercial building on a New York City avenue in overcast mid-morning light, wet pavement after rain. Illuminated channel letters in abstract, unreadable letterforms sit above the entrance, and a boom lift with a faceless installer sits at the edge of the frame. Warm gray palette with [ACCENT COLOR: designer's choice]. Subjects in the central 60%, calm negative space top-left. No readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-industries-01": {
+    "page": "/nyc/",
+    "section": "industries",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Restaurant frontage on a rainy evening with a hanging blade sign and window lettering",
+    "prompt": "Photorealistic photograph, 3:2, of a dark-painted timber restaurant frontage on a rainy evening with a hanging blade sign (blank face), abstract window lettering shapes and a warm interior glow on wet pavement: no readable text, no brick, no blue-hour tones.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-industries-02": {
+    "page": "/nyc/",
+    "section": "industries",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Corner boutique with a fascia sign and window graphics",
+    "prompt": "Photorealistic photograph, 3:2, of a corner boutique with a large glass frontage in bright afternoon light, a fascia sign, abstract window graphics and a hint of interior wayfinding visible through the glass, light stone palette; no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-industries-03": {
+    "page": "/nyc/",
+    "section": "industries",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Lobby directory board with matching tenant panels",
+    "prompt": "Photorealistic interior photograph, 3:2, of a lobby directory board with matching tenant panels in a neutral stone lobby, with a faceless property manager silhouette reviewing plans on a tablet beside it. A small swatch strip of finish options sits in one corner; No readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-interior-01": {
+    "page": "/nyc/",
+    "section": "interior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Backlit wall logo behind a stone reception desk in a tall office lobby",
+    "prompt": "Photorealistic interior photograph, 3:2, of a tall office lobby with a stone reception desk and a backlit wall logo made of a blank abstract mark, warm light, slightly elevated camera. No people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-interior-02": {
+    "page": "/nyc/",
+    "section": "interior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Dimensional wall logo and conference room plate in a bright open-plan office",
+    "prompt": "Photorealistic interior photograph, 3:2, of a bright open-plan office with a dimensional wall logo of abstract shapes behind a collaboration area and a small conference room plate beside a glass door, light wood and white palette, daylight. No people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-interior-03": {
+    "page": "/nyc/",
+    "section": "interior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Tactile room sign with raised symbols and Braille beside a door frame",
+    "prompt": "Photorealistic macro photograph, 3:2, of a tactile room sign beside a door frame with raised abstract symbols and braille-style dots, soft side light, a faceless hand resting near it; no readable letters.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-interior-04": {
+    "page": "/nyc/",
+    "section": "interior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Overhead directional sign with arrows in an elevator lobby",
+    "prompt": "Photorealistic wide photograph, 3:2, of an elevator bank with a polished floor and an overhead directional panel using arrow icons only, daylight from a side window, cool gray palette with one accent. No people, no text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-interior-05": {
+    "page": "/nyc/",
+    "section": "interior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Suite sign mounted beside an office door",
+    "prompt": "Photorealistic photograph, 3:2, of one office door with a clean suite sign beside it and a faceless hand about to open the door, warm corridor light, blank abstract plate. No numbers, no words.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-process-01": {
+    "page": "/nyc/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Desk with a storefront photo, tape measure, sketches and a sign mockup on a tablet",
+    "prompt": "Photorealistic top-down photograph, 3:2, of a desk with a printed storefront photo, a tape measure, marker sketches, and a tablet showing an abstract sign mockup. Four small numbered dots are layered along the flow (numbers added in post). Warm wood and white palette. No readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-home-projects-01": {
+    "page": "/nyc/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "caption": ""
+  },
+  "nyc-home-projects-02": {
+    "page": "/nyc/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "caption": ""
+  },
+  "nyc-home-projects-03": {
+    "page": "/nyc/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "caption": ""
+  },
+  "nyc-home-projects-04": {
+    "page": "/nyc/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations. Each slot carries a caption in this format: [PROJECT TYPE]",
+    "caption": ""
+  },
+  "nyc-interior-directory-signs-hero-01": {
+    "page": "/nyc/interior-directory-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Brushed-aluminum tenant directory with slim acrylic inserts beside the elevators of a New York office lobby, with a visitor reading it",
+    "prompt": "Photorealistic wide photograph, 16:9, of the lobby of a New York multi-tenant office building in soft morning light. Beside the elevator doors, a wall-mounted tenant directory holds a brushed-aluminum frame with rows of slim acrylic inserts in one matching color, each a row of abstract strokes with no readable text. A visitor in business casual stands reading it while a property manager with a tablet walks past in the softly blurred background. Polished limestone floor, warm wood paneling, and a potted plant complete the lobby. Palette: limestone, warm wood, brushed aluminum, and warm white, with color on one insert strip and the plant pot. Composition: the directory and the visitor in the central 60%, calm negative space in the upper left.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-directory-signs-lobby-package-01": {
+    "page": "/nyc/interior-directory-signs/",
+    "section": "lobby-package",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office lobby with a matching logo wall, tenant directory, floor-number plaque and directional sign in brushed aluminum",
+    "prompt": "Photorealistic wide photograph, 3:2, of a New York office lobby seen diagonally from a corner toward the elevator bank in late-afternoon light. One matching finish of brushed aluminum and warm white runs through four signs: a lobby logo wall made of an abstract mark behind a reception desk, a tenant directory beside the elevator doors, a slim floor-number plaque above one elevator door, and a directional sign at the corridor entrance, all with abstract strokes and no readable text. A visitor in business casual walks toward the directory, and a security guard sits at a desk in the soft background. Composition: the four signs layered in depth within the central 60%.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-directory-signs-materials-01": {
+    "page": "/nyc/interior-directory-signs/",
+    "section": "materials",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Three directory samples on an oak table: a wall-mounted aluminum frame, a freestanding floor unit and a cut frame corner",
+    "prompt": "Photorealistic photograph, 3:2, of three directory samples on a pale oak showroom table: a slim wall-mounted aluminum frame with acrylic inserts, a small freestanding floor unit with a painted finish, and a cut frame corner that reveals the aluminum extrusion, the acrylic edge, and the small screws that hold an insert in place. A designer in a linen shirt rests one hand on the table beside a swatch card of finishes. Soft window light from the left, gentle shadows. Composition: the three samples arranged in a loose triangle in the central 60%, with at least 8% margin to every edge.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-directory-signs-process-01": {
+    "page": "/nyc/interior-directory-signs/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Technician checking finished acrylic insert strips beside an aluminum directory frame on a production bench",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a production bench where a technician in a work apron arranges a row of finished acrylic insert strips beside an aluminum directory frame, checking each against a printed layout clipped to a board, the layout drawn as abstract lines with no readable text. A rack of more strips stands behind, and a roll of protective film lies at the bench's edge. Bright, even shop light with a soft window glow from the left. Composition: the technician's hands, the strips, and the frame in the central 60%, shallow depth of field, calm space in the upper left.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-directory-signs-turnover-01": {
+    "page": "/nyc/interior-directory-signs/",
+    "section": "turnover",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Property manager sliding a new acrylic insert strip into a wall-mounted tenant directory",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a property manager's hands sliding a new slim acrylic insert strip into an empty slot of a wall-mounted tenant directory, while the replaced strip rests in her other hand. The frame is brushed aluminum, the other strips are rows of abstract strokes with no readable text, and the wall is pale plaster with soft side light. Part of her blazer sleeve and a lanyard are visible. Composition: the hands and the open slot in the central 60%, with the directory frame leading diagonally across the frame and calm negative space at the upper left.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-hero-01": {
+    "page": "/nyc/interior-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office reception with a brushed-metal wall logo, room signs and an overhead directional sign",
+    "prompt": "Photorealistic wide photograph, 16:9, of a modern New York office reception with a brushed-metal wall logo (abstract mark), a pair of blank room signs in the hallway beyond and an overhead directional panel, soft daylight, warm neutral palette with [ACCENT COLOR: designer's choice], subjects in the central 60%, calm negative space top-left, no people, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-package-01": {
+    "page": "/nyc/interior-signs/",
+    "section": "package",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Floor plan with sign models and colored dots marking each sign location",
+    "prompt": "Photorealistic overhead photograph, 3:2, of a printed floor plan on a conference table with small blank sign models and colored sticky dots marking where each sign goes, a swatch strip of finishes in one corner, faceless hands pointing at a location, warm wood palette with one open accent, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-process-01": {
+    "page": "/nyc/interior-signs/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Designer marking sign locations on a printed floor plan",
+    "prompt": "Photorealistic photograph, 3:2, of a faceless designer marking sign locations on a printed floor plan with a marker at a bright studio table, a laptop showing an abstract sign layout beside it, a lobby softly blurred through a window behind, warm palette with one open accent, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-projects-01": {
+    "page": "/nyc/interior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-interior-signs-projects-02": {
+    "page": "/nyc/interior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-interior-signs-projects-03": {
+    "page": "/nyc/interior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-interior-signs-projects-04": {
+    "page": "/nyc/interior-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "notes": "Four image slots, real photos only, no AI images. The designer selects projects from other Vision Graphics locations.",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-01": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Brushed-metal wall logo behind a stone reception desk in a double-height lobby",
+    "prompt": "Photorealistic photograph, 3:2, of a double-height office lobby with a brushed-metal wall logo (abstract mark) behind a stone reception desk, a faceless receptionist silhouette, soft skylight, warm neutral palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-02": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Backlit layered acrylic logo panel on a conference room wall",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a layered acrylic logo panel (abstract shapes) glowing softly with backlighting on a dark conference room wall, polished table edge in the foreground, shallow depth of field, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-03": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Large white dimensional letters on an office feature wall",
+    "prompt": "Photorealistic photograph, 3:2, of an open workspace feature wall carrying a large set of abstract dimensional letterforms in matte white, staff desks softly blurred in the foreground, morning window light, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-04": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Corridor with bold color bands running across the walls and floor",
+    "prompt": "Photorealistic wide photograph, 3:2, of a long corridor with bold abstract color bands running across the walls and floor in one palette, converging toward a bright window at the end, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-05": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Brass suite plate and conference room plate beside glass doors",
+    "prompt": "Photorealistic photograph, 3:2, of an executive floor reception where a blank brass suite plate sits beside a glass door and a conference room plate beside another, warm wood and white palette, evening interior light, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-06": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Hallway of office doors, each with a matching sign beside it",
+    "prompt": "Photorealistic photograph, 3:2, looking down a hallway of matching office doors, each with a small blank sign on the wall beside it, one door slightly open with warm light spilling out, no people, no readable text, no numbers.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-07": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Hanging directional sign with arrows at a corridor junction",
+    "prompt": "Photorealistic photograph, 3:2, of a corridor junction with a hanging directional panel using arrow icons only, a ceiling track light and a polished floor, cool gray palette with one open accent, a faceless visitor silhouette in the distance, no text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-08": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Building directory with tenant strips beside an elevator",
+    "prompt": "Photorealistic photograph, 3:2, of a wall-mounted building directory with rows of blank tenant strips beside an elevator, a faceless person reading it from three-quarter view, warm lobby light, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-09": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Fingertip on a tactile room sign with raised symbols and Braille",
+    "prompt": "Photorealistic macro photograph, 3:2, of a faceless fingertip resting on a tactile room sign with abstract raised shapes and braille-style dots beside a door frame, soft raking light, neutral palette, no readable letters. Flag: braille renders inaccurately in AI, so a manual build is preferred.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-10": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Restroom signs with pictograms beside two doors",
+    "prompt": "Photorealistic photograph, 3:2, of two restroom doors side by side in a bright corridor, each with a simple abstract pictogram plate on the wall beside it, light tile floor, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-11": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Large printed wall graphic behind a sofa in a coworking lounge",
+    "prompt": "Photorealistic photograph, 3:2, of a coworking lounge with one large abstract printed wall graphic in two brand colors behind a sofa, daylight from tall windows, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-12": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Floor-to-ceiling landscape wall mural in an office break area",
+    "prompt": "Photorealistic wide photograph, 3:2, of an office break area with a floor-to-ceiling abstract landscape mural, a long table in front of it, late afternoon light, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-13": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Cut-vinyl wall decals above a break room counter",
+    "prompt": "Photorealistic photograph, 3:2, of a break room wall with playful abstract cut-vinyl shapes in a loose arrangement above a counter, a mug and plant in the foreground, soft morning light, no people, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-interior-signs-types-14": {
+    "page": "/nyc/interior-signs/",
+    "section": "types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Frosted vinyl band and cut-vinyl shapes on a glass meeting room wall",
+    "prompt": "Photorealistic photograph, 3:2, of a glass meeting room wall with a frosted vinyl band and abstract cut-vinyl shapes, a faceless person visible as a blur behind the glass, bright daylight, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-certificate-of-insurance-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "certificate-of-insurance",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Desk with a stack of insurance documents, a certificate, a visitor badge and a laptop showing a floor plan",
+    "prompt": "",
+    "notes": "From the blog doc: images/image5.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-example-replacing-a-lobby-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "example-replacing-a-lobby",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office manager in a lobby reviewing plans for a lobby logo, reception sign and elevator-lobby plaque",
+    "prompt": "",
+    "notes": "From the blog doc: images/image3.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-hero-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "hero",
+    "ratio": "16:10",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office lobby with a dimensional logo on a wood-slat wall behind a curved reception desk, city towers beyond the window",
+    "prompt": "",
+    "notes": "From the blog doc: images/image8.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-how-long-it-takes-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "how-long-it-takes",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Timeline icons for a sign project: approved drawing, fabrication, shipping, building approval and installation",
+    "prompt": "",
+    "notes": "From the blog doc: images/image7.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-how-to-get-an-accurate-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "how-to-get-an-accurate",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Man photographing a blank lobby wall with his phone while measuring its width with a tape measure",
+    "prompt": "",
+    "notes": "From the blog doc: images/image2.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-lobby-sign-cost-by-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "lobby-sign-cost-by",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Lobby sign material samples in a row: clear acrylic, painted aluminum, brushed metal, dimensional letters and a halo-lit letter",
+    "prompt": "",
+    "notes": "From the blog doc: images/image1.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-nyc-costs-most-guides-miss-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "nyc-costs-most-guides-miss",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installers on a scaffold mounting a metal logo on a lobby wall in the evening, after business hours",
+    "prompt": "",
+    "notes": "From the blog doc: images/image4.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-wall-patching-and-paint-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "wall-patching-and-paint",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Gloved hand patching screw holes left by an old sign on a white wall, with a close-up of one hole",
+    "prompt": "",
+    "notes": "From the blog doc: images/image6.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-sign-cost-nyc-what-changes-the-price-01": {
+    "page": "/nyc/resources/lobby-sign-cost-nyc/",
+    "section": "what-changes-the-price",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Three sample letters of increasing depth in white, brass and black, with a ruler and finish swatches",
+    "prompt": "",
+    "notes": "From the blog doc: images/image9.jpg",
+    "caption": ""
+  },
+  "nyc-lobby-signs-building-01": {
+    "page": "/nyc/lobby-signs/",
+    "section": "building",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Tenant representative and building engineer measuring a blank lobby wall where a sign will go",
+    "prompt": "Photorealistic photograph, 3:2, of a tenant representative and a building engineer walking through an office lobby near the elevators, one holding a tablet and the other a tape measure, pointing at a blank wall where a sign will go. Soft daylight, limestone and stainless steel palette with natural color on the tape measure. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-lobby-signs-hero-01": {
+    "page": "/nyc/lobby-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Brass dimensional letters on a deep green wall behind an oak reception desk in a New York office",
+    "prompt": "Photorealistic wide photograph, 16:9, of a New York office reception with brass dimensional letters (abstract, no readable text) on a deep forest-green wall behind a long oak desk. A receptionist greets a visitor, with soft daylight from a street-facing window and a limestone floor. Warm palette with natural color on the visitor's coat. Subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-lobby-signs-options-01": {
+    "page": "/nyc/lobby-signs/",
+    "section": "options",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Layered matte-white acrylic letters on a charcoal fabric wall panel above an oak console",
+    "prompt": "Photorealistic photograph, 3:2, of thick matte-white acrylic letter shapes (abstract, unreadable) stacked in layers on a charcoal fabric wall panel above a pale oak console, with raking light creating soft shadows. A small plant and vase sit on the console; palette: charcoal, white, oak, with natural color on the vase. No people, no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-lobby-signs-options-02": {
+    "page": "/nyc/lobby-signs/",
+    "section": "options",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Halo-lit metal letters glowing on a pale stone wall in an office lobby in the evening",
+    "prompt": "Photorealistic photograph, 3:2, of halo-lit metal letters (abstract, unreadable) glowing softly around their edges on a pale stone wall in a quiet office lobby in the evening, seen at a slight angle from the side. A visitor walks past in the blurred background. Warm white glow, graphite and stone palette, with natural color on a chair. No readable text, logos, or neon. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-lobby-signs-projects-01": {
+    "page": "/nyc/lobby-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "caption": ""
+  },
+  "nyc-lobby-signs-projects-02": {
+    "page": "/nyc/lobby-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "caption": ""
+  },
+  "nyc-lobby-signs-projects-03": {
+    "page": "/nyc/lobby-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "caption": ""
+  },
+  "nyc-lobby-signs-projects-04": {
+    "page": "/nyc/lobby-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any lobby projects from other locations. Remove section if no lobby project images available.",
+    "caption": ""
+  },
+  "nyc-lobby-signs-replacement-01": {
+    "page": "/nyc/lobby-signs/",
+    "section": "replacement",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Workers removing an old lobby sign, with the new sign waiting in a padded crate against the wall",
+    "prompt": "Photorealistic wide photograph, 3:2, of a lobby wall mid-replacement: an old faded sign half unscrewed with a paler outline behind it, a worker in a vest steadying it, a second worker laying a drop sheet, and a padded crate holding the new sign leaning against the wall. Even daylight, warm neutral palette with natural color on a tool case. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-office-signs-hero-01": {
+    "page": "/nyc/office-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Open-plan New York office with glass conference rooms, room signs beside each door and a suite wall sign",
+    "prompt": "Photorealistic wide photograph, 16:9, of an open-plan New York office with glass-walled conference rooms, each with a slim blank sign beside the door and a larger wall sign at the suite entrance. Staff work at desks in soft daylight from tall windows. Light oak and white palette with natural color on one chair. Subjects in the central 60%, calm space in the upper left; no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-office-signs-inserts-01": {
+    "page": "/nyc/office-signs/",
+    "section": "inserts",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Hand sliding a name insert into a door sign below a room-number plate",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a hand sliding a small name insert into a door sign beside an office door, with a room-number plate above it. A shelf in the soft background holds a box of spare matching plates. Warm light, pale wall, graphite and oak palette with natural color on the box. No readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-office-signs-installation-01": {
+    "page": "/nyc/office-signs/",
+    "section": "installation",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer using a level to mount a conference-room sign beside a glass door in an empty office in the evening",
+    "prompt": "Photorealistic photograph, 3:2, of a quiet open-plan office floor in the evening where an installer in a work vest uses a level to mount a conference-room sign beside a glass door. Chairs are pushed in at empty desks, and floor protection runs along the corridor. Warm white light and a neutral palette with natural color on the installer's tool case. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-office-signs-planning-01": {
+    "page": "/nyc/office-signs/",
+    "section": "planning",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office manager with a notebook and tape measure studying a floor plan pinned to a corkboard",
+    "prompt": "Photorealistic photograph, 3:2, of an office manager in a quiet office corner holding a notebook and a tape measure, looking at a floor plan pinned to a corkboard with small colored pins marking rooms. Late-morning window light, a small plant at the edge of the frame, and a warm neutral palette with natural color on the pins. No readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-office-signs-projects-01": {
+    "page": "/nyc/office-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-office-signs-projects-02": {
+    "page": "/nyc/office-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-office-signs-projects-03": {
+    "page": "/nyc/office-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-office-signs-projects-04": {
+    "page": "/nyc/office-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any office projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-project-brief-example-a-lobby-reception-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "example-a-lobby-reception",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Office manager attaching wall photos to an email on a laptop, with a floor plan on the monitor behind",
+    "prompt": "",
+    "notes": "From the blog doc: images/image9.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-hero-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "hero",
+    "ratio": "16:10",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office manager photographing a blank lobby wall marked with yellow tape where the new sign will go, beside the elevators",
+    "prompt": "",
+    "notes": "From the blog doc: images/image6.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-materials-to-price-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "materials-to-price",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Woman holding acrylic and painted aluminum sample panels against an office wall, with a brushed metal panel at her feet",
+    "prompt": "",
+    "notes": "From the blog doc: images/image3.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-measurements-and-wall-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "measurements-and-wall",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Man measuring a stone exterior wall with a laser measure, with an inset close-up of the wall surface",
+    "prompt": "",
+    "notes": "From the blog doc: images/image2.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-nyc-building-requirements-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "nyc-building-requirements",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Property manager and tenant reviewing sign drawings at a table in a high-rise office",
+    "prompt": "",
+    "notes": "From the blog doc: images/image8.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-photos-of-the-space-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "photos-of-the-space",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Four printed photos of a lobby on a desk: a wide shot, a close-up of the wall, the visitor's view and the access route",
+    "prompt": "",
+    "notes": "From the blog doc: images/image1.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-scope-removal-patching-and-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "scope-removal-patching-and",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installers mounting a metal sign panel on a building facade beside an office manager on the phone with drawings on her desk",
+    "prompt": "",
+    "notes": "From the blog doc: images/image7.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-sign-quote-checklist-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "sign-quote-checklist",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Clipboard with a completed checklist next to a tape measure, phone, pencil and a metal material sample",
+    "prompt": "",
+    "notes": "From the blog doc: images/image4.jpg",
+    "caption": ""
+  },
+  "nyc-project-brief-your-logo-and-final-01": {
+    "page": "/nyc/resources/project-brief/",
+    "section": "your-logo-and-final",
+    "ratio": "16:10",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Two monitors comparing a sharp vector logo with a lower-resolution version of the same logo",
+    "prompt": "",
+    "notes": "From the blog doc: images/image5.jpg",
+    "caption": ""
+  },
+  "nyc-sign-installation-buildings-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "buildings",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer guiding a padded sign crate out of a freight elevator",
+    "prompt": "Photorealistic photograph, 3:2, of an open freight elevator at a service corridor with a faceless worker guiding a padded sign crate on a hand truck, protective floor runners underfoot and a clipboard hanging on the wall, warm industrial light, warm neutral palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-hero-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Two installers mounting a dimensional metal sign on an office lobby wall",
+    "prompt": "Photorealistic wide photograph, 16:9, of two faceless installers in safety gear mounting a dimensional metal sign on the wall of a stone-and-glass office lobby, floor protected with runners, soft morning light, warm neutral palette with [ACCENT COLOR: designer's choice], subjects in the central 60%, calm negative space top-left, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-included-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "included",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "One wall in four stages: old sign removed, wall patched, new sign mounted and floor cleaned",
+    "prompt": "Photorealistic four-panel photograph, 3:2, showing one wall in four stages left to right: an old sign being unscrewed with a faint paler outline behind it, the patched wall, a new blank sign mounted, and a swept floor. Only faceless hands and tools appear; soft neutral light, warm palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer leveling a brushed-metal reception logo on a lobby wall",
+    "prompt": "Photorealistic close-up photograph, 3:2, of an installer's gloved hands using a level and a paper template to position a brushed-metal reception logo on a pale wall, drop cloth on the floor below, side light, warm palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-02": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer marking the mounting height for suite signs along an office corridor",
+    "prompt": "Photorealistic photograph, 3:2, of a corridor wall with a row of blank suite signs while a faceless installer marks pencil ticks and checks the mounting height with a tape measure, soft overhead light, light gray palette with one open accent, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-03": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer mounting a directional floor sign beside elevator doors",
+    "prompt": "Photorealistic photograph, 3:2, of an elevator bank where a faceless installer on a short ladder mounts a blank directional floor sign beside the doors, protective film over the door frames, polished floor, cool gray palette with one open accent, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-04": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Tactile room sign being mounted beside a door frame",
+    "prompt": "Photorealistic close-up photograph, 3:2, of a faceless hand pressing a tactile room sign onto a wall beside a door frame, with a measuring tape visible in the background, abstract raised symbols, soft light, neutral palette, no readable letters. Flag: Braille dots render inaccurately in AI images, so a manual build is preferred.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-05": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer on a boom lift mounting a fascia sign above a storefront",
+    "prompt": "Photorealistic photograph, 3:2, of a faceless installer on a boom lift mounting a fascia sign above a stone shopfront on a city sidewalk in early morning light, orange cones and a barrier around the work area, no readable text, no brick, no vehicles.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-interior-exterior-06": {
+    "page": "/nyc/sign-installation/",
+    "section": "interior-exterior",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer fixing illuminated channel letters to a building facade",
+    "prompt": "Photorealistic photograph, 3:2, of a faceless installer fixing glowing channel letters to a facade with a handheld drill, a mounting template and a coil of cable visible, late afternoon light, abstract letterforms, no readable text, no navy-and-amber lighting.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-process-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Client signing an approved sign drawing beside metal, acrylic and vinyl samples",
+    "prompt": "Photorealistic photograph, 3:2, of hands signing an approval drawing on a clipboard beside a sample board of metal, acrylic and vinyl swatches, shallow depth of field, a floor plan blurred behind, five small numbered dots layered along the flow (numbers added in post), warm wood palette with one open accent, no readable text.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-sign-installation-removal-01": {
+    "page": "/nyc/sign-installation/",
+    "section": "removal",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Before and after: an old sign removed and the patched wall with a new sign installed",
+    "prompt": "Photorealistic before-and-after split photograph, 3:2. Left: an old faded sign being unscrewed from a wall with a paler outline behind it. Right: the same wall patched, painted, and carrying a clean, new blank sign. A faceless worker stands at the edge of the frame; neutral palette with one open accent, no readable text, no logos.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-booth-sizes-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "booth-sizes",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Convention hall floor with a 10x10 inline booth, a 10x20 booth and a 20x20 island booth with a hanging sign",
+    "prompt": "Photorealistic elevated photograph, 3:2, of a convention hall floor showing a 10x10 inline booth, a 10x20 booth, and a 20x20 island booth with a hanging sign, attendees walking the aisles. Soft overhead light, neutral palette with natural color on the booth carpets. Wide camera with deep focus so all three booths read clearly. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-events-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "events",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Fabric back wall and two banner stands at a product launch in a corporate lobby",
+    "prompt": "Photorealistic photograph, 3:2, of a branded fabric back wall and two banner stands set up in a corporate lobby for a product launch, guests mingling with drinks nearby. Daylight from tall windows, warm neutral palette with natural color on the banner stands. Camera at eye level, medium depth of field. Subjects in the central 60%; no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-graphics-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "graphics",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Technician fitting a tension fabric graphic onto an aluminum display frame",
+    "prompt": "Photorealistic photograph, 3:2, of a technician in a workshop fitting a tension fabric graphic onto an aluminum display frame, rolls of printed fabric (abstract pattern, no text) stacked behind. Bright shop light, white and aluminum palette with natural color in the fabric pattern. Camera at a slight angle with shallow depth of field. Subjects in the central 60%; no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-hero-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "10x10 trade show booth with a fabric back wall, a counter and two banner stands in a convention hall",
+    "prompt": "Photorealistic wide photograph, 16:9, of a bright 10x10 trade show booth inside a large convention hall, with a branded fabric back wall (abstract graphic, no readable text), a counter and two banner stands, a visitor talking with a staff member. Use a neutral palette with natural colors on the counter. Subjects in the central 60%, calm space at upper left. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-javits-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "javits",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Two exhibitors reviewing a booth layout and an exhibitor manual with shipping labels",
+    "prompt": "Photorealistic photograph, 3:2, of two exhibitors at a table reviewing a printed booth layout and a thick exhibitor manual, with shipping labels and a coffee cup beside them. Soft window light, warm neutral palette with natural color on the labels. Camera at eye level across the table, shallow depth of field. Subjects in the central 60%; no readable text or logos. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-projects-01": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-projects-02": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-projects-03": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-trade-show-displays-projects-04": {
+    "page": "/nyc/trade-show-displays/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  }
+}

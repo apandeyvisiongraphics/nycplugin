@@ -1,0 +1,62 @@
+{
+  "interior-directory-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/interior-directory-signs/?vgnyc_preview=1`.",
+    "**Bold but not linked (section 7):** \"Wayfinding signs\". `/nyc/wayfinding-signs/` exists. Linked to the existing pages (decided 2026-11-19).",
+    "**No projects section** in this doc (the other five pages have one).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Claims:** \"low hundreds of dollars online\" and \"two to three weeks\" (FAQ). Kept exactly as in the doc.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page."
+  ],
+  "lobby-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/lobby-signs/?vgnyc_preview=1`.",
+    "**Bold but not linked (section 3):** \"Brushed metal\" (`/nyc/metal-signs/` exists), \"Standoff signs\" and \"Backlit lobby signs\" (no pages). Pages without a route stay bold (decided 2026-11-19).",
+    "**\"Elevator lobby signs here are wayfinding signs.\" (section 5):** left as plain text, because the doc has no link (decided 2026-11-19).",
+    "**Two images among six option cards (section 3):** the doc places one image after \"Dimensional Letters\" and one after \"Backlit and Halo-Lit Signs\". They're shown as a pair beside the section intro so the cards stay even.",
+    "**Projects (real photos only):** 4 slots (`nyc-lobby-signs-projects-01…04`) for real project photos. The writer says to remove the section if no photos are available. The section stays with labeled placeholders, and you will decide later (2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Claim:** \"one inch of letter height per 10 feet of viewing distance\" (FAQ). Kept exactly as in the doc.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page."
+  ],
+  "office-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/office-signs/?vgnyc_preview=1`.",
+    "**Meta description is 161 characters (limit 160):** kept exactly as in the doc (decided 2026-11-19).",
+    "**Hero (doc formatting):** \"CTA buttons:\" sits on the same line as \"Our custom office signs plan the whole floor as one system.\" They're split mechanically, so the hero shows the paragraph and the \"Get a Quote\" button.",
+    "**Checklist (section 4):** the `[ ]` items are drawn as a checklist with check icons instead of literal brackets.",
+    "**Bold but not linked (section 3):** \"Conference room signs\" (no page). Pages without a route stay bold (decided 2026-11-19).",
+    "**Projects (real photos only):** 4 slots (`nyc-office-signs-projects-01…04`) for real project photos. The writer says to remove the section if no photos are available. The section stays with labeled placeholders, and you will decide later (2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**ADA table (section 3):** summarizes the U.S. Access Board guide. Kept exactly as in the doc.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page."
+  ],
+  "exterior-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/exterior-signs/?vgnyc_preview=1`.",
+    "**Bold but not linked (section 3):** \"Blade signs\", \"Cabinet signs\", \"Building signs\", \"Monument signs\", \"Pylon signs\", \"Post and panel signs\" and \"Window graphics\". Pages exist for all seven. Linked to the existing pages (decided 2026-11-19).",
+    "**Grouped types (section 3):** Storefront Signs, Building and Property Signs and Window Graphics each show their own image beside the group heading, with the sign types as cards underneath.",
+    "**Missing periods (section 3):** \"Storefront signs in NYC\" and \"Dimensional letter signs in NYC\" (link text at the end of a sentence) have no full stop. Kept as written.",
+    "**Projects (real photos only):** 4 slots (`nyc-exterior-signs-projects-01…04`) for real project photos. The writer says to remove the section if no photos are available. The section stays with labeled placeholders, and you will decide later (2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Facts:** DOB permits, the six-square-foot exemption, Landmarks Preservation Commission, and Local Law 15 of 2026 (protections through February 8, 2028 for signs in place by February 9, 2025). Kept exactly as in the doc.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page. The per-page field lists in the doc are not added: every page uses the same form, form design and buttons as the 2026-11-06 pages (decided 2026-11-19)."
+  ],
+  "channel-letter-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/channel-letter-signs/?vgnyc_preview=1`.",
+    "**Meta description is 161 characters (limit 160):** kept exactly as in the doc (decided 2026-11-19).",
+    "**Wording (section 10):** \"For channel letter signs, Manhattan businesses order; see signs for Manhattan.\" reads like an editing slip. Kept as written (decided 2026-11-19).",
+    "**Bold but not linked (section 10):** \"Building signs\" (`/nyc/building-signs/` exists). Pages without a route stay bold (decided 2026-11-19).",
+    "**Prices (sections 7 and 13):** $4,000 to $12,000, small sets near $3,000, front-lit $3,000 to $12,000, halo-lit $5,000 to $15,000, and the percentage uplifts. Kept exactly as in the doc.",
+    "**Facts:** LPC limits (18 inches tall, 2 inches projection), LED life (50,000 hours), and Local Law 15 of 2026. Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 slots (`nyc-channel-letter-signs-projects-01…04`) for real project photos. The writer says to remove the section if no photos are available. The section stays with labeled placeholders, and you will decide later (2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page. The per-page field lists in the doc are not added: every page uses the same form, form design and buttons as the 2026-11-06 pages (decided 2026-11-19)."
+  ],
+  "trade-show-displays": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/trade-show-displays/?vgnyc_preview=1`.",
+    "**Bold but not linked:** \"retractable banners\" (section 3 table), \"Floor graphics\" and \"banners\" (section 4). Pages exist for all three. Linked to the existing pages (decided 2026-11-19).",
+    "**Checklist (section 5):** the `[ ]` items are drawn as a checklist with check icons instead of literal brackets.",
+    "**Hero buttons:** \"Get a Quote | Send a File\". The hero keeps \"Get a Quote\" (batch rule). There is no \"send a photo\" line, so the page gets one mid-page call-to-action band, not two.",
+    "**Projects (real photos only):** 4 slots (`nyc-trade-show-displays-projects-01…04`) for real project photos. The writer says to remove the section if no photos are available. The section stays with labeled placeholders, and you will decide later (2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Claims:** file specs (100 to 150 dpi, CMYK) and Javits fire-retardant rules. Kept exactly as in the doc.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page. The per-page field lists in the doc are not added: every page uses the same form, form design and buttons as the 2026-11-06 pages (decided 2026-11-19)."
+  ]
+}

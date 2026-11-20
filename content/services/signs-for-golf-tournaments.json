@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Golf tournament signs for an organized event",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Golf tournament signs for an organized event",
+  "lead": "Tournament graphics need to welcome participants, recognize sponsors and help people find the right activity without overwhelming the course or venue. Vision Graphics can help New York event organizers build a coordinated sign set around the day’s schedule and approved sponsor information. Begin with a location plan and a list of messages, then select formats that suit each display point. Consistent artwork makes the event feel connected, while careful version checks help prevent a sponsor name or hole assignment from appearing on the wrong sign.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Golf%20tournament%20signs%20for%20an%20organized%20event"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-retractable-banners",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Golf tournament signs for an organized event",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Build a location and sponsor schedule",
+      "html": "<p>List each sign’s destination, wording, sponsor artwork and quantity in one checked document. Confirm logo permissions and make deadlines for content approval clear within the project. Separate the welcome message from detailed instructions and sponsor recognition.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Choose support for the venue",
+      "html": "<p>Discuss how each piece will be displayed and removed with the event venue. Temporary panels, banners and portable displays serve different locations. Outdoor exposure, approved supports and access should be reviewed before the production scope is finalized.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Sponsor recognition panels",
+          "p": "Give approved sponsor identities a consistent, readable treatment."
+        },
+        {
+          "h3": "Welcome and event banners",
+          "p": "Create a clear arrival message for participants and guests."
+        },
+        {
+          "h3": "Directional and activity signs",
+          "p": "Guide people to registration, activities and other approved destinations."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Charity tournaments",
+        "Company outings",
+        "Club and community events"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can each sign feature a different sponsor?",
+        "a_html": "<p>Yes. Supply a checked sponsor list and the corresponding approved artwork for every version.</p>"
+      },
+      {
+        "q": "What should the event organizer prepare?",
+        "a_html": "<p>A sign location plan, quantities, sponsor assets, approved wording and the venue’s display requirements are useful starting points.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    },
+    {
+      "label": "Corrugated signage",
+      "href": "/nyc/corrugated-signage/"
+    },
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    }
+  ],
+  "cta_band": true
+}

@@ -1,0 +1,74 @@
+# Builds the plugin zip for a version tag (v*) and attaches it to the GitHub Release.
+# The live site's update checker (vendor/plugin-update-checker) reads that Release and
+# shows "Update now" in WP Admin → Plugins.
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+env:
+  # Top-level folder inside the zip. Must equal the plugin folder on the live site
+  # (WP Admin → Plugins → "Deactivate" link → plugin=<folder>/vg-nyc-website.php).
+  PLUGIN_DIR: vg-nyc-website
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php: ['7.4', '8.2']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          coverage: none
+      - name: php -l
+        run: |
+          set -e
+          find . -name '*.php' -not -path './tests/*' -not -path './.git/*' -print0 \
+            | xargs -0 -n1 php -l > lint.log || { grep -v '^No syntax errors' lint.log; exit 1; }
+          echo "php -l: $(wc -l < lint.log) files OK on PHP ${{ matrix.php }}"
+
+  release:
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check versions match the tag
+        run: |
+          TAG="${GITHUB_REF_NAME#v}"
+          HEADER=$(sed -n 's/^ \* Version: *//p' vg-nyc-website.php | tr -d '\r')
+          CONST=$(sed -n "s/.*define('VGNYC_VERSION', '\([^']*\)').*/\1/p" vg-nyc-website.php)
+          STABLE=$(sed -n 's/^Stable tag: *//p' readme.txt | tr -d '\r')
+          echo "tag=$TAG header=$HEADER constant=$CONST stable=$STABLE"
+          [ "$TAG" = "$HEADER" ] && [ "$TAG" = "$CONST" ] && [ "$TAG" = "$STABLE" ] || { echo "::error::Version mismatch"; exit 1; }
+
+      - name: Build zip
+        run: |
+          mkdir -p "build/$PLUGIN_DIR"
+          rsync -a --exclude-from=.distignore --exclude=build/ ./ "build/$PLUGIN_DIR/"
+          for d in inbox images-inbox tests scripts legacy .github; do
+            [ ! -e "build/$PLUGIN_DIR/$d" ] || { echo "::error::$d must not be in the zip"; exit 1; }
+          done
+          test -f "build/$PLUGIN_DIR/vendor/plugin-update-checker/plugin-update-checker.php"
+          test -d "build/$PLUGIN_DIR/assets/images"
+          (cd build && zip -qr ../vg-nyc-website.zip "$PLUGIN_DIR")
+          unzip -l vg-nyc-website.zip | tail -1
+
+      - name: Create or update the GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then
+            gh release edit "$GITHUB_REF_NAME" --notes-file RELEASE_NOTES.md
+            gh release upload "$GITHUB_REF_NAME" vg-nyc-website.zip --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" vg-nyc-website.zip \
+              --title "Vision Graphics NYC Website $GITHUB_REF_NAME" --notes-file RELEASE_NOTES.md
+          fi

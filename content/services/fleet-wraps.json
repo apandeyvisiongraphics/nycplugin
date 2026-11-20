@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Fleet graphics with consistent decisions",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Fleet graphics with consistent decisions",
+  "lead": "A fleet should look connected even when the vehicles are not identical. Consistency comes from a shared visual system and reliable records, not from forcing one layout onto every body shape. Vision Graphics can help New York businesses plan graphics for vans, trucks and other work vehicles with a clear hierarchy for logos, services and contact information. Begin with an accurate vehicle list and current photos so the program can account for different models, replacement vehicles and the practical sequence of rollout.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Fleet%20graphics%20with%20consistent%20decisions"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-fleet-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Fleet graphics with consistent decisions",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Build a master system and vehicle variants",
+      "html": "<p>Define the elements that should stay consistent, such as logo scale relationships, colors and message order. Then adapt placement to each vehicle configuration. Keep important text clear of doors, hardware and obstructed panels instead of relying on a single stretched template.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan for additions and changes",
+      "html": "<p>Create a record for each unit, including approved artwork and placement. Decide how vehicles will be prepared and scheduled, and how future phone, web or brand changes will be handled. Rollout timing and installation arrangements need to be agreed around the team’s operating needs.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Coordinated wrap programs",
+          "p": "Apply a shared visual direction across several vehicle types."
+        },
+        {
+          "h3": "Lettering and decal standards",
+          "p": "Use a focused graphic kit with vehicle-specific placement."
+        },
+        {
+          "h3": "Replacement and addition records",
+          "p": "Maintain the artwork information needed to scope later vehicles."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Field-service fleets",
+        "Delivery teams",
+        "Multi-location business vehicles"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Must every fleet vehicle use identical coverage?",
+        "a_html": "<p>No. A shared brand system can connect full wraps, partial wraps and lettering when layouts are planned consistently.</p>"
+      },
+      {
+        "q": "What belongs in the fleet list?",
+        "a_html": "<p>Include each vehicle’s make, model, year, configuration, color and photos, plus any existing graphics or known surface issues.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    },
+    {
+      "label": "Truck wraps",
+      "href": "/nyc/truck-wraps/"
+    },
+    {
+      "label": "Van wraps",
+      "href": "/nyc/van-wraps/"
+    }
+  ],
+  "cta_band": true
+}

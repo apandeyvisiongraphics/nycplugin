@@ -1,0 +1,117 @@
+{
+  "breadcrumb": "Vehicle wraps built around the vehicle",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Vehicle wraps built around the vehicle",
+  "lead": "A vehicle wrap turns the body of a car, van or truck into a moving brand surface. The artwork still has to make sense when the vehicle is parked, viewed from an angle or seen briefly in traffic. Vision Graphics helps New York businesses frame vehicle graphics around recognition and clear contact information. Share the exact vehicle details, current photos and brand artwork so the design can account for doors, handles, windows and body lines before coverage and production details are chosen.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Vehicle%20wraps%20built%20around%20the%20vehicle"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-vehicle-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Vehicle wraps built around the vehicle",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "product_family": {
+    "h2": "Explore ",
+    "links": [
+      {
+        "label": "Fleet wraps",
+        "href": "/nyc/fleet-wraps/"
+      },
+      {
+        "label": "Trailer wraps",
+        "href": "/nyc/trailer-wraps/"
+      },
+      {
+        "label": "Truck wraps",
+        "href": "/nyc/truck-wraps/"
+      },
+      {
+        "label": "Van wraps",
+        "href": "/nyc/van-wraps/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Prioritize recognition at a glance",
+      "html": "<p>Start with the business identity and one useful message. A long service list or several competing contact methods can become hard to read on a moving vehicle. Use each side and the rear deliberately, placing key content away from panel gaps and complex curves.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Assess the vehicle before selecting coverage",
+      "html": "<p>Record make, model, year and body configuration, then photograph all sides and any damage or existing graphics. Paint condition and previous repairs can affect suitability. Confirm preparation, removal, installation arrangements and vehicle downtime as part of the reviewed project scope.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Full wrap concepts",
+          "p": "Explore broad coverage where the vehicle and project scope support it."
+        },
+        {
+          "h3": "Partial wraps",
+          "p": "Combine printed coverage with the vehicle’s existing color as part of the design."
+        },
+        {
+          "h3": "Lettering and graphic sets",
+          "p": "Use focused logos and information without covering the entire body."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Service businesses",
+        "Delivery and field teams",
+        "Company brand refreshes"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you design from the vehicle model alone?",
+        "a_html": "<p>Vehicle details help, but current photographs and confirmation of body configuration are still needed before final production layout.</p>"
+      },
+      {
+        "q": "Will a wrap hide damaged paint?",
+        "a_html": "<p>A wrap is not a repair system. Existing paint and body condition should be assessed before material and installation decisions.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    },
+    {
+      "label": "Van wraps",
+      "href": "/nyc/van-wraps/"
+    },
+    {
+      "label": "Truck wraps",
+      "href": "/nyc/truck-wraps/"
+    },
+    {
+      "label": "Vehicle graphics",
+      "href": "/nyc/vehicle-graphics/"
+    }
+  ],
+  "cta_band": true
+}

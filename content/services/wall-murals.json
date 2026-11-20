@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Custom wall murals for immersive interiors",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Custom wall murals for immersive interiors",
+  "lead": "A wall mural gives imagery the scale of the room. It can tell a company story, establish a neighborhood-inspired atmosphere or create a distinctive retail backdrop. The best mural starts with the experience you want people to have, then works backward to the image, crop and wall. Vision Graphics can help New York businesses plan that relationship without treating every large photograph as production-ready. Share the space and your creative direction so image quality, panel layout and surface conditions can be considered together.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Custom%20wall%20murals%20for%20immersive%20interiors"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-wall-murals",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Custom wall murals for immersive interiors",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Choose the image for its final scale",
+      "html": "<p>A file that looks sharp on a laptop may reveal limitations when enlarged. Evaluate the final crop and typical viewing distance, and keep faces, text and important details away from doors or planned panel seams. Confirm image rights before production artwork is approved.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Treat the wall as a measured layout",
+      "html": "<p>Record width, height, corners, obstructions and any areas outside reach. A mural proof should make the crop and panel sequence understandable. Review wall condition, access and the intended display life, then include surface preparation and installation arrangements in the agreed scope.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Photographic murals",
+          "p": "Build atmosphere with a properly licensed image prepared for the intended scale."
+        },
+        {
+          "h3": "Illustrated environments",
+          "p": "Use custom patterns, maps or artwork with a consistent visual voice."
+        },
+        {
+          "h3": "Brand story walls",
+          "p": "Combine imagery and carefully limited text to explain a company or place."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Restaurant feature walls",
+        "Office lounges",
+        "Retail and showroom interiors"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you use a photo I already have?",
+        "a_html": "<p>Share the original file and rights information. Resolution and cropping should be assessed at the proposed finished size.</p>"
+      },
+      {
+        "q": "Where will the seams go?",
+        "a_html": "<p>Panel planning depends on dimensions, material and artwork. Review seam placement as part of the production layout.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Wall graphics",
+      "href": "/nyc/wall-graphics/"
+    },
+    {
+      "label": "Wall decals",
+      "href": "/nyc/wall-decals/"
+    },
+    {
+      "label": "Restaurants",
+      "href": "/nyc/restaurants/"
+    }
+  ],
+  "cta_band": true
+}

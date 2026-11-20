@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Monument sign concepts for a property entrance",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Monument sign concepts for a property entrance",
+  "lead": "A monument sign gives a property a fixed point of identification near the ground. Its relationship to landscaping, the entrance and passing traffic matters as much as the logo on its face. This format is most useful where the actual site offers the space and visibility to support it. Vision Graphics can help frame the visual conversation for a proposed New York property project, while foundations, engineering, permissions and installation remain matters for a verified site-specific scope and the responsible professionals.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Monument%20sign%20concepts%20for%20a%20property%20entrance"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-monument-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Monument sign concepts for a property entrance",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Begin with the approach",
+      "html": "<p>Consider where a visitor first needs to recognize the property and how the sign relates to the entrance. Photographs should include surrounding planting, driveways, walkways and other obstructions. A sign concept should respect the actual site rather than importing a suburban layout into an unsuitable urban setting.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Separate identity design from site construction",
+      "html": "<p>Choose the information hierarchy and architectural character, then identify the technical work required to support it. Ground conditions, foundation design, utilities, lighting and permissions cannot be established from a logo brief. Confirm responsibilities and supporting documentation before any fabrication or construction commitment.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Single-property identity",
+          "p": "Focus the sign on a building or organization name."
+        },
+        {
+          "h3": "Tenant directory concepts",
+          "p": "Plan a readable and maintainable hierarchy for multiple occupants."
+        },
+        {
+          "h3": "Architectural material concepts",
+          "p": "Explore visual relationships with the property’s existing finishes."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reviewed campus entrances",
+        "Commercial property approaches",
+        "Multi-tenant identity studies"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is a monument sign suitable for a small storefront?",
+        "a_html": "<p>Usually the site and approach determine suitability. A storefront or window identity may serve a compact street frontage more effectively.</p>"
+      },
+      {
+        "q": "Does the project include foundations?",
+        "a_html": "<p>Foundation, engineering and construction services are not assumed. They need specialist review and an explicitly agreed scope.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Building signs",
+      "href": "/nyc/building-signs/"
+    },
+    {
+      "label": "Exterior signs",
+      "href": "/nyc/exterior-signs/"
+    },
+    {
+      "label": "Offices & properties",
+      "href": "/nyc/offices-properties/"
+    }
+  ],
+  "cta_band": true
+}

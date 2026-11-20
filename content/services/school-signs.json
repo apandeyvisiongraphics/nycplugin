@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "School signs for clear campus communication",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "School signs for clear campus communication",
+  "lead": "School signage serves students, staff, families and visitors who may be unfamiliar with the building. A coordinated program can connect arrival information, room identity, event graphics and the school’s visual character. Vision Graphics can help New York education teams organize a sign brief around approved names and the way the space is used. Begin with a location list and the messages each audience needs, then coordinate branding with navigation and any technical requirements that the school’s responsible project professionals identify.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=School%20signs%20for%20clear%20campus%20communication"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-interior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to School signs for clear campus communication",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Separate daily guidance from changing news",
+      "html": "<p>Permanent room and department identification should remain clear when event posters or campaign graphics are added. Use a consistent naming system, and decide which surfaces are intended for frequently changing information. A school identity can connect the pieces without making every message visually dominant.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan approval and content ownership",
+      "html": "<p>Confirm who approves names, logos, photographs and student-related content. Gather existing sign standards and any facilities requirements. Work around the actual building schedule and confirm access and installation arrangements before setting production expectations.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Room and department signs",
+          "p": "Coordinate approved identification across the building."
+        },
+        {
+          "h3": "School identity graphics",
+          "p": "Use logos, values and imagery in suitable interior locations."
+        },
+        {
+          "h3": "Event and activity displays",
+          "p": "Prepare banners and portable graphics for defined occasions."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "School reception areas",
+        "Classroom and department identification",
+        "Performances and community events"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can signs use student photographs?",
+        "a_html": "<p>Use only imagery with the necessary permissions and school approval. Confirm rights before artwork is released.</p>"
+      },
+      {
+        "q": "Can the school’s existing colors be matched?",
+        "a_html": "<p>Provide approved brand references and review the material and finish proposed for each application.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    },
+    {
+      "label": "Banners",
+      "href": "/nyc/banners/"
+    }
+  ],
+  "cta_band": true
+}

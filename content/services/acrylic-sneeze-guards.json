@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Acrylic barrier concepts for counters",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Acrylic barrier concepts for counters",
+  "lead": "An acrylic counter barrier is a physical screen that must fit the way staff and customers use the space. Its dimensions, support and openings need to be planned around visibility, access and daily work. This page is a review draft for discussing custom acrylic barrier concepts with Vision Graphics. It does not claim that a barrier prevents illness or provides a certified level of protection. Begin with the counter layout and intended function, then confirm the offering and suitable construction before a project is scoped.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Acrylic%20barrier%20concepts%20for%20counters"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-hero-image",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Acrylic barrier concepts for counters",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Understand the counter activity",
+      "html": "<p>Document where people stand or sit, what passes across the counter and which equipment must remain accessible. A transaction opening changes the panel’s function and layout. Keep visibility and cleaning access in the brief alongside the desired physical separation.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Review stability and maintenance",
+      "html": "<p>The support method must suit the actual counter and use. Material, thickness, edges, attachments and cleaning guidance require a defined specification. Do not assume a decorative acrylic sign panel is appropriate for a barrier or that a screen has an unverified health performance.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Counter screen concepts",
+          "p": "Explore a defined panel shape around the work surface."
+        },
+        {
+          "h3": "Transaction opening concepts",
+          "p": "Plan openings around a documented operational need."
+        },
+        {
+          "h3": "Custom fit studies",
+          "p": "Review the relationship between the screen, equipment and user positions."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reception counter studies",
+        "Checkout counter studies",
+        "Service-desk layout reviews"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Does an acrylic barrier prevent infection?",
+        "a_html": "<p>No effectiveness claim is made. Any health or safety purpose needs appropriate professional assessment and verified evidence.</p>"
+      },
+      {
+        "q": "Are these a confirmed VG product?",
+        "a_html": "<p>The offering and construction details require review before this draft can become an approved product page.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Acrylic signs",
+      "href": "/nyc/acrylic-signs/"
+    },
+    {
+      "label": "Custom signs",
+      "href": "/nyc/custom-signs/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    }
+  ],
+  "cta_band": true
+}

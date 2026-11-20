@@ -1,0 +1,249 @@
+{
+  "route": "/nyc/office-signs/",
+  "source": "VGNYCLandingPages171811.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Office Signs in New York City for Workplaces, Suites and Shared Offices",
+      "lead_html": "<p>Office signs tell people where they are, who works here, and where to go next.</p><p>Vision Graphics designs and makes office signs NYC workplaces use, from room ID and wall signs to directories and wayfinding, and manages installation through licensed partners.</p><p>Our custom office signs plan the whole floor as one system.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-office-signs-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "One System",
+          "text": "Planned as a package",
+          "icon": "check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "features-grid",
+      "h2": "Types of Office Signs",
+      "intro_html": "<p>Office signage and suite signage fall into six groups. Pick the signs you need, or plan them together so fonts, finishes, and mounting heights match. A complete office signage plan keeps each floor easy to read.</p>",
+      "items": [
+        {
+          "title": "Door and Nameplate Signs",
+          "html": "<p>Names and titles at the entrance to each office. Staff names change often, so these are built to be updated. <a href=\"/nyc/door-signs/\">Learn more about door signs</a>.</p>"
+        },
+        {
+          "title": "Room ID Signs",
+          "html": "<p>Room numbers and names for conference rooms and shared spaces. <strong>Conference room signs</strong> and room ID signs keep a floor easy to read.</p>"
+        },
+        {
+          "title": "Wall and Logo Signs",
+          "html": "<p>Brand walls and suite signs that carry your logo. These office signs for wall displays work at reception, suite entrances, and shared areas, and business wall signs can match across floors. <a href=\"/nyc/lobby-signs/\">Learn more about lobby signs.</a></p>"
+        },
+        {
+          "title": "Directory Signs",
+          "html": "<p>Tenant and floor lists with changeable inserts. Directories keep multi-suite floors easy to navigate. <a href=\"/nyc/interior-directory-signs/\">Learn more about directory signs.</a></p>"
+        },
+        {
+          "title": "Directional Signs",
+          "html": "<p>Arrows and floor markers that point to rooms and exits. They guide visitors without a stop at the front desk. <a href=\"/nyc/directional-signs/\">Learn more about directional signs</a>.</p>"
+        },
+        {
+          "title": "ADA and Restroom Signs",
+          "html": "<p>Tactile room labels and restroom signs. Permanent rooms need raised characters and Braille where such signs are provided. <a href=\"/nyc/ada-signs/\">Learn more about ADA signs</a> | <a href=\"/nyc/restroom-signs/\">Learn more about restroom signs</a></p>"
+        }
+      ],
+      "after_html": "<p><strong>At a glance</strong></p><table><thead><tr><th>Sign type</th><th>Where it goes</th><th>ADA treatment (U.S. Access Board guide)</th></tr></thead><tbody><tr><td>Door and nameplate</td><td>Entrances to individual offices</td><td>Occupant names are exempt. A room number on the same sign is tactile.</td></tr><tr><td>Room ID</td><td>Conference rooms, shared rooms and other permanent spaces</td><td>Tactile characters and Grade 2 Braille where such signs are provided</td></tr><tr><td>Wall and logo</td><td>Reception, suite entrances and feature walls</td><td>Company names and logos are exempt</td></tr><tr><td>Directory</td><td>Lobby and floor landings</td><td>Directories are exempt</td></tr><tr><td>Directional</td><td>Corridors and elevator landings</td><td>Visual rules only, with no tactile requirement</td></tr><tr><td>ADA and restroom</td><td>Beside doors of permanent rooms and restrooms</td><td>Tactile and Braille, mounted 48 to 60 inches high on the latch side</td></tr></tbody></table><p>This table summarizes the U.S. Access Board's guide to the ADA Standards. The rules apply where signs are provided. Ask our team about your floor plan.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "image-text",
+      "h2": "Planning Signs for a New Office or Move",
+      "html": "<p>Count the rooms before you count the signs. A short list at the start keeps the whole system consistent.</p><ul class=\"vg-checklist\"><li><strong>Sign count:</strong> each room, entrance, and corridor that needs a sign</li><li><strong>Naming:</strong> final room names, room numbers, and staff names</li><li><strong>ADA rooms:</strong> which signs identify permanent rooms and need tactile text</li><li><strong>Brand style:</strong> fonts, colors, finish, and logo files</li><li><strong>Building rules:</strong> certificate of insurance, approval, work hours, and freight elevator</li></ul><p>Your building and fit-out team sets code-required signs, such as exit, stair, evacuation, and restroom signs. Share that list early so the office signs match.</p><p>Not sure what to send? Use our <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a>.</p>",
+      "image": "nyc-office-signs-planning-01",
+      "doc_section": 4
+    },
+    {
+      "type": "rich-text",
+      "h2": "Office Sign Materials",
+      "html": "<p>Acrylic office signs suit most rooms, and metal suits the spaces visitors see first. See typical prices in our <a href=\"/nyc/resources/lobby-sign-cost-nyc/\">lobby sign cost guide</a>.</p><table><thead><tr><th>Material</th><th>Look</th><th>Best use</th><th>Relative cost</th></tr></thead><tbody><tr><td>Acrylic</td><td>Glossy, vivid color, clean edges</td><td>Room signs, suite plates and logo panels</td><td>Low to medium</td></tr><tr><td>Aluminum</td><td>Smooth painted color</td><td>Room signs and plaques</td><td>Medium</td></tr><tr><td>Brushed metal</td><td>Textured metallic grain with a refined look</td><td>Executive floors and reception</td><td>Medium to high</td></tr><tr><td>Frosted vinyl</td><td>Soft privacy band or lettering on glass</td><td>Conference rooms and glass walls</td><td>Low</td></tr><tr><td>PVC</td><td>Smooth, matte surface</td><td>Wall signs and indoor panels</td><td>Low</td></tr></tbody></table>",
+      "doc_section": 5
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Office Signs?",
+      "html": "<p>Send photos of your floor and a list of rooms, and tell us which signs you need. Our team will come back with questions, a drawing, and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Signs That Stay Consistent as You Grow",
+      "intro_html": "<p>Offices change. Staff move, suites grow, and new floors open.</p>",
+      "items": [
+        {
+          "title": "Replaceable Name Inserts",
+          "html": "<p>Change a name without replacing the sign. Occupant names are exempt from the ADA sign rules, so a name insert can change without redoing the room number.</p>"
+        },
+        {
+          "title": "Ordering Extra Signs Later",
+          "html": "<p>Add signs as you add rooms. Send us the new room names, and our team prepares signs that match the set.</p>"
+        },
+        {
+          "title": "Matching the Set",
+          "html": "<p>New signs match the old ones. We keep fonts, finishes, and mounting heights consistent, so a new floor reads like part of the same office.</p>"
+        }
+      ],
+      "image": "nyc-office-signs-inserts-01",
+      "doc_section": 6
+    },
+    {
+      "type": "features-grid",
+      "h2": "Installation in an Occupied Office",
+      "intro_html": "<p>Signs go up while people work, so we plan installs around your day.</p>",
+      "items": [
+        {
+          "title": "After-Hours and Weekend Installs",
+          "html": "<p>We schedule installs around your building's rules. Evenings and weekends are available, and we confirm any added labor charges in your quote.</p>"
+        },
+        {
+          "title": "Phased by Floor",
+          "html": "<p>One floor at a time. For multi-floor offices, we plan the order with your building so we finish each floor before starting the next.</p>"
+        },
+        {
+          "title": "Building Rules",
+          "html": "<p>Your building may require a certificate of insurance and approval. Buildings set their own wording and limits, and we prepare the drawings they ask for. See how <a href=\"/nyc/sign-installation/\">sign installation works in NYC</a>.</p>"
+        }
+      ],
+      "image": "nyc-office-signs-installation-01",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Offices We Plan For",
+      "intro_html": "<p>Different offices need different signs, but the plan is the same: count the rooms, match the style, then install. That holds for office signage Manhattan firms order and for office signs Brooklyn studios choose.</p><p>See signs for <a href=\"/nyc/offices-properties/\">offices and properties</a>, <a href=\"/nyc/manhattan/\">Manhattan</a> and <a href=\"/nyc/brooklyn/\">Brooklyn</a>.</p>",
+      "items": [
+        {
+          "title": "Law Offices",
+          "html": "<p>Quiet, polished signs for reception and conference rooms. Law office signs build trust at the front desk and keep client rooms clearly labeled.</p>"
+        },
+        {
+          "title": "Medical and Dental Offices",
+          "html": "<p>Clear room signs and wayfinding for patients. Medical office signs and doctor and dental office signs need legible, high-contrast labels for exam rooms and restrooms.</p>"
+        },
+        {
+          "title": "Coworking Spaces",
+          "html": "<p>Branding and room signs that flex as members change. A mix of wall graphics, room signs, and directories helps a shared space read as one brand.</p>"
+        },
+        {
+          "title": "Corporate Offices",
+          "html": "<p>One system across floors and suites. Matching signs from reception to each conference room keep a large office coherent.</p>"
+        }
+      ],
+      "doc_section": 8
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-office-signs-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-office-signs-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-office-signs-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-office-signs-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "doc_section": 9
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "Each room sign matched, and we installed them after we closed.",
+          "name": "Ruth Calloway",
+          "role": "Office Manager",
+          "company": "Calloway & Pierce Law"
+        },
+        {
+          "quote": "When staff changed, we swapped name inserts and the room numbers stayed put.",
+          "name": "Helena Voss",
+          "role": "Practice Manager",
+          "company": "Voss Family Dental"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 10
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "What signs does an office need?",
+          "a_html": "<p>Most offices need four groups: a brand sign at reception, room ID signs, wayfinding signs and directories, and the safety signs your building requires. Plan them as one system so fonts, finishes, and mounting heights match. Your building and fit-out team sets exit, stair, and evacuation signs.</p>"
+        },
+        {
+          "q": "Can name signs be changed when staff moves?",
+          "a_html": "<p>Yes, when the sign has a replaceable name insert. Occupant names are exempt from the ADA sign rules, so you can change an insert while the room number stays in place. <a href=\"#inquiry\">Send us the new name</a> and our team will prepare a matching insert.</p>"
+        },
+        {
+          "q": "Do room signs need to be ADA compliant?",
+          "a_html": "<p>Where room signs are provided, the ADA Standards require raised characters and Grade 2 Braille on signs that identify permanent rooms, such as room numbers, conference rooms, and restrooms, mounted 48 to 60 inches high on the latch side. Directional signs need visual rules only, and occupant names are exempt. See our <a href=\"/nyc/ada-signs/\">ADA signs</a> page.</p>"
+        },
+        {
+          "q": "How long does it take?",
+          "a_html": "<p>Most office signs take two to three weeks from approved drawing to installation, plus shipping time from our Salt Lake City production facility and any building approval. Large multi-floor packages can take longer. Tell us your move-in date, and we will confirm the schedule in your quote.</p>"
+        },
+        {
+          "q": "Can you work after hours?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote. Licensed installation partners handle the install.</p>"
+        },
+        {
+          "q": "Can you plan signs for several floors or suites?",
+          "a_html": "<p>Yes. We plan the whole set together, quote it by floor, and phase installs with your building so each floor is finished before the next begins. <a href=\"#inquiry\">Send us your floor plans and room list</a>, and our team will prepare one drawing set for each floor.</p>"
+        }
+      ],
+      "doc_section": 11
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Office Signs?",
+      "intro_html": "<p>Send photos of your floor and a list of rooms, and tell us which signs you need. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 12
+    }
+  ]
+}

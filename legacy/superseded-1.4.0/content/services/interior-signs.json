@@ -1,0 +1,149 @@
+{
+  "breadcrumb": "Interior signs for New York spaces",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Interior signs for New York spaces",
+  "lead": "Interior signs shape the experience after someone walks through the door. A reception logo establishes identity, a directory explains the building and room signs make the last few steps easier. For New York offices, shops and shared properties, these elements work best as a coordinated system rather than isolated purchases. Vision Graphics helps frame the choices around your brand, the people using the space and the surfaces available. Begin with the areas visitors encounter first, then plan a consistent approach for the rest.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Interior%20signs%20for%20New%20York%20spaces"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-interior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Interior signs for New York spaces",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "product_family": {
+    "h2": "Explore ",
+    "links": [
+      {
+        "label": "Lobby signs",
+        "href": "/nyc/lobby-signs/"
+      },
+      {
+        "label": "Office signs",
+        "href": "/nyc/office-signs/"
+      },
+      {
+        "label": "Acrylic signs",
+        "href": "/nyc/acrylic-signs/"
+      },
+      {
+        "label": "ADA signs",
+        "href": "/nyc/ada-signs/"
+      },
+      {
+        "label": "Restroom signs",
+        "href": "/nyc/restroom-signs/"
+      },
+      {
+        "label": "Interior directory signs",
+        "href": "/nyc/interior-directory-signs/"
+      },
+      {
+        "label": "Environmental graphics",
+        "href": "/nyc/environmental-graphics/"
+      },
+      {
+        "label": "Mission statement signs",
+        "href": "/nyc/mission-statement-signs/"
+      },
+      {
+        "label": "Vinyl signs",
+        "href": "/nyc/vinyl-signs/"
+      },
+      {
+        "label": "Wall decals",
+        "href": "/nyc/wall-decals/"
+      },
+      {
+        "label": "Wall murals",
+        "href": "/nyc/wall-murals/"
+      },
+      {
+        "label": "Wall graphics",
+        "href": "/nyc/wall-graphics/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Build a readable family of signs",
+      "html": "<p>Choose a hierarchy for building, floor, department and room information. Repeating type, colors and mounting details can make different sign formats feel connected without making every message equally prominent. Distinguish brand expression from navigation so decorative graphics do not compete with essential directions.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Plan around the room",
+      "html": "<p>Photograph walls in ordinary lighting and note paint, texture, glass and existing fixings. A reception wall may suit dimensional letters, while changeable tenant information may need a panel system. Review landlord requirements and any accessibility-related design criteria with the responsible project team before selecting production details.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Dimensional identity",
+          "p": "Individual letters and logos create depth on reception or feature walls."
+        },
+        {
+          "h3": "Printed and cut graphics",
+          "p": "Vinyl elements carry names, imagery and messages across suitable interior surfaces."
+        },
+        {
+          "h3": "Panel and directory systems",
+          "p": "Coordinated panels organize identification and information that may change."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Reception and waiting areas",
+        "Shared offices and tenant floors",
+        "Retail interiors and consultation rooms"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Should every room use the same sign?",
+        "a_html": "<p>Use a shared visual system, but let each sign’s purpose determine its size, content and any required tactile features.</p>"
+      },
+      {
+        "q": "Can existing signs be incorporated?",
+        "a_html": "<p>Photos and a location list help identify what can remain and where replacement or additional signs would improve consistency.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Lobby signs",
+      "href": "/nyc/lobby-signs/"
+    },
+    {
+      "label": "Office signs",
+      "href": "/nyc/office-signs/"
+    },
+    {
+      "label": "ADA signs",
+      "href": "/nyc/ada-signs/"
+    },
+    {
+      "label": "Wall graphics",
+      "href": "/nyc/wall-graphics/"
+    }
+  ],
+  "cta_band": true
+}

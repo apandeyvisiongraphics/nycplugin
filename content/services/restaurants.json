@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Signs for restaurants, cafés and bodegas",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Signs for restaurants, cafés and bodegas",
+  "lead": "A food business has several messages to communicate at once: who you are, what you serve, where to order and what is available now. The signs work better when those messages have a clear order. Vision Graphics helps New York restaurants, cafés and bodegas plan storefront, window and interior graphics around the customer’s path. Start with the moments that cause confusion or fail to show the business at its best, then build a focused refresh rather than placing the same crowded message on every surface.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Signs%20for%20restaurants%2C%20caf%C3%A9s%20and%20bodegas"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-building-signage-storefronts",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Signs for restaurants, cafés and bodegas",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Make the first visit easier",
+      "html": "<p>Keep the storefront identity clear and use the entrance for practical information. Inside, distinguish ordering, pickup and other service points with concise messages. Menu artwork needs an approved content list and a plan for future price or item changes; decoration should support the experience without competing with essential choices.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Coordinate the visible surfaces",
+      "html": "<p>A window promotion, wall mural and counter sign can share colors and imagery while serving different purposes. Photograph the customer view and note reflections, lighting and cleaning conditions. Review food-related claims and all menu content with your team before approving production artwork.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Storefront and entrance refresh",
+          "p": "Connect the business name with hours and an understandable entry."
+        },
+        {
+          "h3": "Window promotions",
+          "p": "Give a seasonal offer or signature product a focused display area."
+        },
+        {
+          "h3": "Interior brand and service graphics",
+          "p": "Coordinate atmosphere, ordering information and pickup directions."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Restaurant openings",
+        "Café brand refreshes",
+        "Bodega and takeout service graphics"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you print a menu before all prices are final?",
+        "a_html": "<p>Prepare the design direction early, but approve the complete menu and prices before final production.</p>"
+      },
+      {
+        "q": "Do you offer a fixed storefront package?",
+        "a_html": "<p>The scope should follow the actual space and priorities. No standard price or guaranteed package turnaround is assumed.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Storefront signs",
+      "href": "/nyc/storefront-signs/"
+    },
+    {
+      "label": "Window graphics",
+      "href": "/nyc/window-graphics/"
+    },
+    {
+      "label": "Wall murals",
+      "href": "/nyc/wall-murals/"
+    },
+    {
+      "label": "Request quote",
+      "href": "/nyc/request-quote/"
+    }
+  ],
+  "cta_band": true
+}

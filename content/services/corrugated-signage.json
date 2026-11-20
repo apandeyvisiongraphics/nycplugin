@@ -1,0 +1,96 @@
+{
+  "breadcrumb": "Corrugated signs for planned short-term use",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Corrugated signs for planned short-term use",
+  "lead": "Corrugated plastic signs can be a practical format for temporary messages, events and property marketing when the application suits a lightweight panel. The important choices include how the sign will be supported, which sides need printing and how long it is expected to remain in place. Vision Graphics can help New York businesses and organizers plan the artwork around those conditions. Start with a concise message and an approved display location so production decisions follow the actual use rather than a standard-size assumption.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Corrugated%20signs%20for%20planned%20short-term%20use"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-custom-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Corrugated signs for planned short-term use",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Keep the panel easy to understand",
+      "html": "<p>Use a clear heading and only the information needed at the viewing distance. Small temporary signs can become crowded quickly, especially when several logos or disclaimers are included. Confirm the final wording and any required attribution before preparing the production layout.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Match support to the setting",
+      "html": "<p>Explain whether the panel will be mounted, placed in a holder or displayed on an approved ground support. Orientation and construction should be reviewed against the chosen method. Exposure and display life influence suitability; this format is not a substitute for a permanent structural sign.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Single-sided panels",
+          "p": "Focus the message toward one primary approach."
+        },
+        {
+          "h3": "Double-sided layouts",
+          "p": "Make a message visible from two directions where placement allows."
+        },
+        {
+          "h3": "Coordinated sign sets",
+          "p": "Keep event or property information consistent across several locations."
+        },
+        {
+          "h3": "Yard and ground-supported panels",
+          "p": "Plan a concise temporary message with a compatible support and an authorized location; ground placement is reviewed for the actual setting."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Temporary event directions",
+        "Property marketing",
+        "Approved campaign displays"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Is corrugated signage intended to be permanent?",
+        "a_html": "<p>It is commonly considered for temporary uses. The actual material and support should be selected for the planned conditions and duration.</p>"
+      },
+      {
+        "q": "Can I print both sides?",
+        "a_html": "<p>Two-sided layouts can be scoped. Confirm whether each side should match or serve a different direction of approach.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Political signs",
+      "href": "/nyc/political-signs/"
+    },
+    {
+      "label": "Real estate signs",
+      "href": "/nyc/real-estate-signs/"
+    },
+    {
+      "label": "Signs for golf tournaments",
+      "href": "/nyc/signs-for-golf-tournaments/"
+    }
+  ],
+  "cta_band": true
+}

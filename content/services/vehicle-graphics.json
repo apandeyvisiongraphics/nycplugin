@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Vehicle lettering and focused graphics",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Vehicle lettering and focused graphics",
+  "lead": "Vehicle graphics do not have to cover every panel to communicate a business identity. A well-placed logo, short service description and clear contact route can give a work vehicle a coordinated appearance. For New York teams, that may be a useful starting point when vehicles vary in color or body style. Vision Graphics can help organize a repeatable graphic set around the space available, while accounting for panel shapes, existing markings and the condition of each vehicle before production is planned.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Vehicle%20lettering%20and%20focused%20graphics"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-new-service-vehicle-wraps",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Vehicle lettering and focused graphics",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Use the body color intentionally",
+      "html": "<p>Separate letters and decals leave the vehicle visible, so contrast is essential. Review each design against the actual paint color and avoid small details that disappear from a distance. The rear may need a simpler arrangement than the sides because its usable space is different.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Create a repeatable record",
+      "html": "<p>Keep approved artwork, placement drawings and vehicle-specific dimensions together. This makes replacements and future additions easier to scope. Before each installation, confirm the actual vehicle, surface condition and any changes to the contact information or branding.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Cut lettering",
+          "p": "Apply names and short messages as separate characters."
+        },
+        {
+          "h3": "Printed logo decals",
+          "p": "Present full-color brand artwork within a defined graphic area."
+        },
+        {
+          "h3": "Coordinated vehicle kits",
+          "p": "Develop consistent elements that can be adapted to different body styles."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Single service vehicles",
+        "Mixed company fleets",
+        "Replacement logos and contact updates"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Are graphics a lower-coverage alternative to a wrap?",
+        "a_html": "<p>Yes. The design can focus on selected areas while using the existing vehicle color as the background.</p>"
+      },
+      {
+        "q": "Can old lettering be covered?",
+        "a_html": "<p>Existing graphics and adhesive should be assessed. Removal and surface preparation may be needed for a sound result.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Vehicle wraps",
+      "href": "/nyc/vehicle-wraps/"
+    },
+    {
+      "label": "Custom decals",
+      "href": "/nyc/custom-decals/"
+    },
+    {
+      "label": "Fleet wraps",
+      "href": "/nyc/fleet-wraps/"
+    }
+  ],
+  "cta_band": true
+}

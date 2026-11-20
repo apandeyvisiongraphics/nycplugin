@@ -1,0 +1,254 @@
+{
+  "route": "/nyc/trade-show-displays/",
+  "source": "VGNYCLandingPages171811.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Trade Show Displays in New York City for 10x10 Booths and Javits Shows",
+      "lead_html": "<p>Vision Graphics makes custom trade show displays NYC exhibitors use: fabric backwalls, pop-up displays, and large-format graphics for 10x10 booths, Javits Center shows, and corporate events.</p><p>We make the displays, pack them for show shipping, and send them to your advance warehouse or your address.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-trade-show-displays-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Made to Ship",
+          "text": "Packed for show shipping",
+          "icon": "layers"
+        },
+        {
+          "title": "File Check",
+          "text": "Artwork reviewed before printing",
+          "icon": "check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide events",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "rich-text",
+      "h2": "Trade Show Displays We Make",
+      "html": "<p>A trade show display is the structure and graphics that carry your brand on the show floor. Our trade show booth displays and trade show exhibits come in six formats, and we can mix them in one booth.</p><table><thead><tr><th>Display</th><th>Best use</th><th>Portability</th><th>Typical booth size</th></tr></thead><tbody><tr><td>Fabric backwall</td><td>A clean branded wall behind the counter</td><td>Packs flat and light</td><td>10x10 and 10x20</td></tr><tr><td>Pop-up display</td><td>Quick setup for frequent shows</td><td>Folds into a carry case</td><td>10x10</td></tr><tr><td>Banner stands</td><td>Side messages and entry points. See <a href=\"/nyc/retractable-banners/\">retractable banners</a>.</td><td>Very portable</td><td>Any size, as accents</td></tr><tr><td>Tabletop displays</td><td>Small spaces and tabletop events</td><td>Carry-on size</td><td>A table or 6-foot space</td></tr><tr><td>Counters and kiosks</td><td>Meeting and demo space</td><td>Ships in cases</td><td>10x10 and up</td></tr><tr><td>Large format graphics</td><td>Hanging signs, panels and floor graphics</td><td>Rolls or flat panels</td><td>Any size</td></tr></tbody></table><p>A pop-up display suits frequent shows, and a fabric trade show backdrop creates a clean, branded wall. Together, these exhibits and displays pack into cases for shipping.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "Graphics for Your Booth",
+      "intro_html": "<p>Trade show signage, from hanging signs to floor graphics, does the first job at a booth: it gets noticed from the aisle. Most shows require fire-retardant materials for custom trade show signage in NYC, so ask our team what we can supply.</p>",
+      "items": [
+        {
+          "title": "Printed Fabric",
+          "html": "<p>Clean color that packs flat. Printed fabric graphics suit backwalls and hanging signs, and they travel well.</p>"
+        },
+        {
+          "title": "Rigid Panels",
+          "html": "<p>Flat, durable panels for counters and feature walls. Rigid panels hold sharp edges and handle setup well.</p>"
+        },
+        {
+          "title": "Floor Graphics",
+          "html": "<p>Branded graphics underfoot. <a href=\"/nyc/floor-graphics/\">Floor graphics</a> guide visitors into your booth, subject to your show's rules.</p>"
+        },
+        {
+          "title": "Hanging Signs",
+          "html": "<p>Overhead signs that help you stand out from across the hall. Hanging signs are rigged through the venue, and lightweight fabric is common because of weight limits.</p>"
+        }
+      ],
+      "image": "nyc-trade-show-displays-graphics-01",
+      "after_html": "<p>A trade show banner or two can carry a message beside the back wall. See our <a href=\"/nyc/banners/\">banners</a>.</p>",
+      "doc_section": 4
+    },
+    {
+      "type": "image-text",
+      "h2": "Planning for a Javits Center Show",
+      "html": "<p>Each Javits Center show sets its own rules in the exhibitor manual. Check yours before you order, and use this list as a start.</p><ul class=\"vg-checklist\"><li><strong>Deadlines:</strong> the advance warehouse window, the artwork due date, and your move-in time</li><li><strong>Shipping:</strong> the advance warehouse address and shipping labels from your manual</li><li><strong>Hand carry and labor:</strong> which setup work you may do yourself and which needs union labor</li><li><strong>Fire-retardant materials:</strong> fabrics and decorations may need certificates</li><li><strong>Island booths:</strong> designs and technical drawings may need to go to the venue</li><li><strong>Hanging signs:</strong> rigging is arranged through the venue</li><li><strong>Insurance:</strong> exhibitors may need general liability insurance</li></ul><p>Vision Graphics makes the display and the graphics, and your exhibitor manual covers labor, shipping, and venue services.</p>",
+      "image": "nyc-trade-show-displays-javits-01",
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Trade Show Displays by Booth Size",
+      "intro_html": "<p>Booth space is sold in 10-foot steps. Here is what fits in each size and what is typically included. Good trade show display design starts with the booth size.</p>",
+      "items": [
+        {
+          "title": "10x10 Booths",
+          "html": "<p>A pop-up display or an 8-foot back wall, a counter, and a side banner. This 10x10 trade show booth setup is a standard size for most shows.</p>"
+        },
+        {
+          "title": "10x20 Booths",
+          "html": "<p>A longer back wall, side walls, two side banners, and a counter. A 10x20 trade show booth gives room for demos and a meeting area.</p>"
+        },
+        {
+          "title": "Island Booths",
+          "html": "<p>Open on four sides, with modular or truss walls and a hanging sign. Drawings may need to go to the venue. We make the graphics and display parts, and our team can talk through a full build.</p>"
+        }
+      ],
+      "image": "nyc-trade-show-displays-booth-sizes-01",
+      "after_html": "<p>A pop-up trade show booth can grow from a 10x10 to a 10x20 when the frame is planned for it.</p>",
+      "doc_section": 6
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Display?",
+      "html": "<p>Send your show name, dates, and booth size, plus any artwork you have. Our team will come back with questions, a drawing, and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Portable Displays for Corporate Events",
+      "intro_html": "<p>Custom portable displays for events in NY work beyond trade shows, from conference rooms to convention signage. Portable trade show displays travel in cases and set up in minutes.</p>",
+      "items": [
+        {
+          "title": "Lobbies",
+          "html": "<p>A branded display for a reception area or a launch.</p>"
+        },
+        {
+          "title": "Conferences",
+          "html": "<p>A back wall and side banners for panel rooms and breakout areas.</p>"
+        },
+        {
+          "title": "Pop-Ups",
+          "html": "<p>A fast display for retail pop-ups and brand events.</p>"
+        }
+      ],
+      "image": "nyc-trade-show-displays-events-01",
+      "after_html": "<p>Outdoor event displays need to handle wind and weather, and venues may set their own rules. Ask our team about your event.</p>",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Reusing and Updating Your Display",
+      "items": [
+        {
+          "title": "Swap the Graphics",
+          "html": "<p>Keep the frame, change the message. New graphics let one display work for the next show.</p>"
+        },
+        {
+          "title": "Existing Displays",
+          "html": "<p>Send photos of your frame and its model number. Our team checks if new graphics fit.</p>"
+        },
+        {
+          "title": "One Frame, Several Booths",
+          "html": "<p>Plan the frame for growth. A modular system can expand from a 10x10 to a 10x20 booth.</p>"
+        }
+      ],
+      "doc_section": 8
+    },
+    {
+      "type": "process-steps",
+      "h2": "How It Works",
+      "steps": [
+        "<strong>Brief and sizes:</strong> Tell us your show, your booth size, and your dates.",
+        "<strong>Design or artwork check:</strong> We review your files, or design the graphics, before anything is printed. Send vector files if you have them.",
+        "<strong>Production:</strong> We make the display and graphics in Salt Lake City and check each piece.",
+        "<strong>Delivery:</strong> We pack the display for show shipping and send it to your advance warehouse or your address."
+      ],
+      "doc_section": 9
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-trade-show-displays-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-trade-show-displays-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-trade-show-displays-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-trade-show-displays-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "doc_section": 10
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "The back wall arrived packed and ready, with time to spare before move-in.",
+          "name": "Camille Archer",
+          "role": "Marketing Manager",
+          "company": "Archer Biosciences"
+        },
+        {
+          "quote": "Swapping the graphics for our second show took one call.",
+          "name": "Devon Marsh",
+          "role": "Events Lead",
+          "company": "Marsh & Lane Software"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 11
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "How far ahead should I order for a show?",
+          "a_html": "<p>Order as early as you can, and check your show's deadlines in the exhibitor manual. Plan time for the artwork check, production, and shipping to the advance warehouse, which can receive materials in the weeks before move-in. Graphics usually take one to two weeks and portable displays two to three, plus shipping.</p>"
+        },
+        {
+          "q": "Do you deliver to the Javits Center?",
+          "a_html": "<p>We ship to the advance warehouse address in your exhibitor manual, or to your own address, with the labels your show provides. Javits rules and official contractors vary by show, so we do not promise direct delivery to the building. <a href=\"#inquiry\">Send us your manual's shipping page</a>, and we will confirm the options.</p>"
+        },
+        {
+          "q": "Can you update graphics on an existing display?",
+          "a_html": "<p>Often yes. <a href=\"#inquiry\">Send photos of your frame</a> and its model number, and our team will check if new graphics fit. Swapping graphics lets one display work for the next show, and it keeps the frame you already own.</p>"
+        },
+        {
+          "q": "Rent or buy?",
+          "a_html": "<p>Buy if you exhibit more than once, because a frame you own can take new graphics for each show. Renting suits a single large custom booth. We make displays and graphics you own, and our team can talk through a full custom booth if you need one.</p>"
+        },
+        {
+          "q": "What file format do you need?",
+          "a_html": "<p>Send vector files (AI, EPS, or PDF) for logos and text, and photos at least 100 to 150 dpi at the final print size, in CMYK color. Bleed varies by display, so our team confirms the specs before printing. Images copied from websites print soft at large sizes.</p>"
+        },
+        {
+          "q": "Are your fabrics fire-retardant?",
+          "a_html": "<p>Javits Center shows typically require fire-retardant fabrics and a certificate on request, and your exhibitor manual sets the details. <a href=\"#inquiry\">Ask our team</a> what we can supply for your display before you order. Check for a certificate before you assume any fabric meets a show's rules.</p>"
+        },
+        {
+          "q": "Where can I get custom trade show displays made in NYC for a Javits Center show?",
+          "a_html": "<p>Vision Graphics makes custom trade show displays and graphics in Salt Lake City and ships them to your show, with an artwork check and one project lead from design to delivery. Your exhibitor manual covers labor, shipping, and venue services. <a href=\"#inquiry\">Send your show name, dates, and booth size</a> to start.</p>"
+        }
+      ],
+      "doc_section": 12
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Display?",
+      "intro_html": "<p>Send your show name, dates, and booth size, plus any artwork you have. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 13
+    }
+  ]
+}

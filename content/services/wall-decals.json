@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Wall decals for focused messages",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Wall decals for focused messages",
+  "lead": "Sometimes the room needs a few deliberate elements rather than an entire wall treatment. Wall decals can place a logo, short statement, graphic pattern or directional cue exactly where it is useful. The surrounding paint remains part of the design, so spacing and contrast matter as much as the artwork itself. Vision Graphics helps New York businesses plan decals around the condition and use of the wall, including how long the message should stay and what may happen when it is removed.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Wall%20decals%20for%20focused%20messages"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-interior-signs",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Wall decals for focused messages",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Use the open space",
+      "html": "<p>Individual letters and shapes can look crowded when scaled only to fit the maximum available width. Leave breathing room around the graphic and test the arrangement alongside furniture. Break a long statement into a readable composition rather than shrinking the text to make it fit.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Confirm the surface and the change cycle",
+      "html": "<p>Paint, texture and curing conditions influence the choice of adhesive graphic. Describe whether this is a campaign, a tenant change or a permanent brand element. Discuss testing and removal expectations before production; no adhesive should be assumed harmless to every painted surface.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Cut lettering",
+          "p": "Apply short words or statements with the wall showing between the characters."
+        },
+        {
+          "h3": "Printed contour decals",
+          "p": "Use full-color illustrations or logos trimmed around the chosen outline."
+        },
+        {
+          "h3": "Repeated graphic motifs",
+          "p": "Create a measured pattern from separate shapes or brand elements."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Values and mission messages",
+        "Children’s and community spaces",
+        "Retail promotional walls"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Are decals removable?",
+        "a_html": "<p>Removal depends on the material, surface and time in place. State your removal needs so a suitable approach can be reviewed.</p>"
+      },
+      {
+        "q": "Can small text become a decal?",
+        "a_html": "<p>Very small or delicate details may be difficult to produce and handle. The artwork should be checked at its final size.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Wall graphics",
+      "href": "/nyc/wall-graphics/"
+    },
+    {
+      "label": "Mission statement signs",
+      "href": "/nyc/mission-statement-signs/"
+    },
+    {
+      "label": "Vinyl signs",
+      "href": "/nyc/vinyl-signs/"
+    }
+  ],
+  "cta_band": true
+}

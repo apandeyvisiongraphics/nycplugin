@@ -1,0 +1,92 @@
+{
+  "breadcrumb": "Custom banners for a focused message",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Custom banners for a focused message",
+  "lead": "A banner gives a campaign, event or announcement a visible temporary home. Its flexible format is useful only when the message remains readable and the finishing suits the way it will be displayed. Vision Graphics helps New York businesses plan banners around the setting, viewing distance and expected display period. Begin with one main idea, then choose the size, artwork and attachment approach together. An indoor promotion and an exposed exterior display should be treated as separate applications, even when they share the same design.",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Custom%20banners%20for%20a%20focused%20message"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "mcs-banners",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Custom banners for a focused message",
+    "caption": "Illustrative sign example · Michigan Custom Signs source"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Design for a quick read",
+      "html": "<p>Use a short headline, a clear visual and only the supporting information people need. A banner viewed across a room should not be laid out like a flyer. Check the final dimensions and avoid putting critical text near edges or attachment areas.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Match finishing to the display",
+      "html": "<p>Describe whether the banner will hang on a wall, frame or another approved support. Material, hems, pockets and attachment details should follow that plan. Outdoor placement needs a review of exposure, support and any property permissions rather than an assumption that every banner can go anywhere.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Indoor promotional banners",
+          "p": "Present announcements and campaigns in a controlled interior setting."
+        },
+        {
+          "h3": "Event banners",
+          "p": "Coordinate a headline message with sponsor or event identity."
+        },
+        {
+          "h3": "Reviewed outdoor banners",
+          "p": "Scope material and finishing against the actual exterior display conditions."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Openings and announcements",
+        "Retail promotions",
+        "Community and business events"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "How much text should a banner include?",
+        "a_html": "<p>Keep the message proportionate to viewing distance and reading time. A headline and one action are often more useful than a long list.</p>"
+      },
+      {
+        "q": "Can the same artwork fit any size?",
+        "a_html": "<p>Different proportions may require a new layout. Confirm the finished size before approving the design.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Retractable banners",
+      "href": "/nyc/retractable-banners/"
+    },
+    {
+      "label": "Trade show displays",
+      "href": "/nyc/trade-show-displays/"
+    },
+    {
+      "label": "Large format printing",
+      "href": "/nyc/large-format-printing-services/"
+    }
+  ],
+  "cta_band": true
+}

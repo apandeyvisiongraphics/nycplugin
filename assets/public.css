@@ -429,3 +429,73 @@ button{border:0}
 .export-mobile a{display:block;padding:8px}
 .export-mobile:not([open])>nav{display:none}
 @media (max-width:980px){.export-mobile{display:block;margin-left:12px}}
+/* ---------- Header v2 (2026-11): sticky bar, animated nav, card dropdowns, icon menu on mobile. Copy and links unchanged. ---------- */
+.utility span::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--green);margin-right:9px;vertical-align:middle;position:relative;top:-1px}
+.utility a{transition:color .2s}.utility a:hover{color:var(--green)}
+.main-header{position:sticky;top:0;z-index:60;border-bottom:1px solid transparent;transition:box-shadow .25s,border-color .25s,background .25s}
+body:has(#wpadminbar) .main-header{top:32px}
+@media (max-width:782px){body:has(#wpadminbar) .main-header{top:46px}}
+@media (max-width:600px){body:has(#wpadminbar) .main-header{top:0}}
+.main-header.is-scrolled{background:rgba(255,255,255,.96);-webkit-backdrop-filter:saturate(1.4) blur(10px);backdrop-filter:saturate(1.4) blur(10px);border-bottom-color:#e6e9e1;box-shadow:0 8px 24px -14px rgba(20,24,16,.28)}
+.main-header .logo img{transition:opacity .2s}.main-header .logo:hover img{opacity:.85}
+/* nav items: green underline that grows on hover, when open, and on the current page */
+.desktop-nav>details>summary,.desktop-nav>a{position:relative;color:#262626;transition:color .2s}
+.desktop-nav>details>summary::-webkit-details-marker{display:none}
+.desktop-nav>details>summary::after,.desktop-nav>a::after{content:"";position:absolute;left:0;right:0;bottom:10px;height:2px;border-radius:2px;background:var(--green);transform:scaleX(0);transform-origin:left;transition:transform .25s ease}
+.desktop-nav>details>summary:hover,.desktop-nav>a:hover,.desktop-nav>details[open]>summary,.desktop-nav>a[aria-current]{color:#4d6d00}
+.desktop-nav>details>summary:hover::after,.desktop-nav>a:hover::after,.desktop-nav>details[open]>summary::after,.desktop-nav>a[aria-current]::after{transform:scaleX(1)}
+.desktop-nav summary svg{transition:transform .25s}.desktop-nav details[open]>summary svg{transform:rotate(180deg)}
+/* mega menu */
+.mega .mega-panel{border-top:1px solid #e6e9e1;box-shadow:0 24px 40px -18px rgba(20,24,16,.3);border-radius:0 0 14px 14px;padding-left:max(48px,calc((100vw - 1300px)/2));padding-right:max(48px,calc((100vw - 1300px)/2));animation:vgDrop .22s ease-out}
+.mega .mega-panel>div:not(.mega-bottom){padding-right:18px;border-right:1px solid #eef0ea}
+.mega .mega-panel>div:nth-child(4){border-right:0}
+.mega .mega-panel a{color:#3a3d37;transition:color .15s,transform .15s}
+.mega .mega-panel a:not(.mega-title):not(.mega-all):hover{color:#4d6d00;transform:translateX(3px)}
+.mega .mega-panel .mega-title{color:#0e0d0f;align-items:center;padding-bottom:10px;border-bottom:2px solid var(--green);width:max-content;max-width:100%}
+.mega .mega-panel .mega-title svg{color:#5c8100}
+.mega .mega-panel .mega-all{display:inline-flex!important;align-items:center;gap:6px;font-weight:650}
+.mega-bottom{background:var(--gray);margin:6px -18px -4px;padding:14px 18px!important;border-radius:10px;border-top:0!important;flex-wrap:wrap;gap:12px 36px!important}
+.mega-bottom a{margin:0!important}.mega-bottom a:hover{text-decoration:underline;text-underline-offset:3px}
+/* service areas dropdown */
+.area-nav>div{top:calc(100% + 2px);left:-14px;border:1px solid #e6e9e1;border-radius:12px;padding:8px;min-width:230px;box-shadow:0 18px 36px -14px rgba(20,24,16,.3);animation:vgDrop .2s ease-out}
+.area-nav>div a{padding:10px 12px;border-radius:8px;font-size:14px;transition:background .15s,color .15s}
+.area-nav>div a:hover{background:#f1f5e6;color:#3f5a00}
+@keyframes vgDrop{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+/* quote button */
+.header-quote{box-shadow:0 6px 16px -8px rgba(110,160,0,.7);transition:background .2s,transform .2s,box-shadow .2s}
+.header-quote:hover{transform:translateY(-1px);box-shadow:0 10px 20px -8px rgba(110,160,0,.75)}
+.header-quote svg{transition:transform .2s}.header-quote:hover svg{transform:translate(2px,-2px)}
+/* product ribbon */
+.product-ribbon{background:#f6f7f3}
+.product-ribbon .wrap{padding:6px 0;justify-content:space-between}
+.product-ribbon a{position:relative;padding:6px 12px;border-radius:999px;color:#30332d;transition:background .2s,color .2s}
+.product-ribbon a:first-child{margin-left:-12px}.product-ribbon a:last-child{margin-right:-12px}
+.product-ribbon a:hover{background:#e9f2d3;color:#3f5a00;text-decoration:none}
+.product-ribbon a[aria-current]{background:#fff;color:#3f5a00;box-shadow:inset 0 0 0 1px #cfe39a}
+/* landing pages: header lines up with the wider page gutters */
+body:has(main.vg-landing) :is(.utility,.main-header,.product-ribbon)>.wrap{width:calc(100% - 176px);max-width:1180px}
+@media (max-width:1200px){body:has(main.vg-landing) :is(.utility,.main-header,.product-ribbon)>.wrap{width:calc(100% - 112px)}}
+@media (max-width:980px){body:has(main.vg-landing) :is(.utility,.main-header,.product-ribbon)>.wrap{width:calc(100% - 72px)}}
+@media (max-width:700px){body:has(main.vg-landing) :is(.utility,.main-header,.product-ribbon)>.wrap{width:calc(100% - 40px)}}
+/* mobile menu: icon button and a full-height panel */
+.export-mobile>summary{display:flex;align-items:center;gap:9px;height:42px;padding:0 13px;border:1px solid #dfe2dc;border-radius:8px;font-size:14px;font-weight:600;transition:border-color .2s,background .2s}
+.export-mobile>summary::-webkit-details-marker{display:none}
+.export-mobile>summary:hover,.export-mobile[open]>summary{border-color:#b9c9a0;background:#f6f9ef}
+.menu-icon{position:relative;width:18px;height:12px;display:inline-block}
+.menu-icon i{position:absolute;left:0;right:0;height:2px;border-radius:2px;background:#262626;transition:transform .25s,opacity .2s,top .25s}
+.menu-icon i:nth-child(1){top:0}.menu-icon i:nth-child(2){top:5px}.menu-icon i:nth-child(3){top:10px}
+.export-mobile[open] .menu-icon i:nth-child(1){top:5px;transform:rotate(45deg)}
+.export-mobile[open] .menu-icon i:nth-child(2){opacity:0}
+.export-mobile[open] .menu-icon i:nth-child(3){top:5px;transform:rotate(-45deg)}
+.export-mobile>nav{max-height:calc(100vh - 110px);max-height:calc(100dvh - 110px);padding:10px 24px 28px;border-top:1px solid #e6e9e1;box-shadow:0 30px 40px -20px rgba(20,24,16,.35);display:grid;grid-template-columns:1fr;animation:vgDrop .2s ease-out}
+.export-mobile>nav a{padding:13px 4px;border-bottom:1px solid #eef0ea;font-size:16px;font-weight:550;display:flex;justify-content:space-between;align-items:center}
+.export-mobile>nav a::after{content:"";width:7px;height:7px;border-top:2px solid #9aa58a;border-right:2px solid #9aa58a;transform:rotate(45deg);margin-right:4px}
+.export-mobile>nav a:hover,.export-mobile>nav a[aria-current]{color:#4d6d00}
+.export-mobile>nav a[aria-current]::after{border-color:var(--green)}
+.export-mobile>nav a:last-child{margin-top:16px;border:0;border-radius:8px;background:var(--green);color:#142000;justify-content:center;gap:10px;font-weight:650}
+.export-mobile>nav a:last-child::after{border-color:#142000}
+html.vg-menu-open{overflow:hidden}
+@media (max-width:700px){.export-mobile{margin-left:8px}.export-mobile>summary{padding:0 11px}.menu-label{font-size:13px}}
+@media (max-width:420px){.menu-label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}.export-mobile>summary{width:42px;justify-content:center;padding:0}}
+@media (prefers-reduced-motion:reduce){.main-header *,.main-header{animation:none!important;transition:none!important}}
+html{scroll-padding-top:110px}@media (max-width:980px){html{scroll-padding-top:96px}}

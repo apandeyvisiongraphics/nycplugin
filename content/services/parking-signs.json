@@ -1,0 +1,93 @@
+{
+  "breadcrumb": "Parking and property-use signs",
+  "eyebrow": "VISION GRAPHICS · NEW YORK",
+  "h1": "Parking and property-use signs",
+  "lead": "Parking signs help a property explain where vehicles should go and which spaces have a particular purpose. They need clear wording, a sensible location and a format that suits the viewing distance. For New York property managers, Vision Graphics can help organize a consistent set of on-site messages, from visitor parking identification to delivery instructions. The property team should supply approved wording and confirm placement authority. A printed sign alone does not establish a legal restriction or authorize changes to public streets.",
+  "review_note": "Planning guide · ",
+  "primary_cta": {
+    "label": "Discuss your project",
+    "href": "/nyc/contact/?product=Parking%20and%20property-use%20signs"
+  },
+  "secondary_cta": {
+    "label": "Explore options",
+    "href": "#options"
+  },
+  "hero_image": {
+    "base": "vg-wayfinding-ada",
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Signage example related to Parking and property-use signs",
+    "caption": "VG portfolio example"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "h2": "Make the instruction specific",
+      "html": "<p>Separate the destination from any conditions of use. Avoid cramming several exceptions into a small panel; a simple hierarchy makes the most important instruction easier to see. Keep terminology consistent across entrances, parking areas and delivery points.</p>"
+    },
+    {
+      "type": "text",
+      "h2": "Confirm placement and wording",
+      "html": "<p>List each sign location and photograph the approach. Identify who owns or controls the surface and whether the sign relates to private property or a public area. Review approved language and any required symbols with the responsible property or legal professional before production.</p>"
+    },
+    {
+      "type": "options",
+      "id": "options",
+      "eyebrow": "MATERIALS & APPROACHES",
+      "h2": "Find the right fit.",
+      "items": [
+        {
+          "h3": "Space identification",
+          "p": "Label visitor, staff or assigned spaces with an organized numbering system."
+        },
+        {
+          "h3": "Delivery and access directions",
+          "p": "Guide authorized vehicles to the appropriate on-site destination."
+        },
+        {
+          "h3": "Property instruction panels",
+          "p": "Present approved conditions in a clear, readable layout."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "h2": "Where it can work",
+      "items": [
+        "Private parking areas",
+        "Managed commercial properties",
+        "Loading and service areas"
+      ]
+    }
+  ],
+  "faqs": {
+    "h2": "A few useful answers.",
+    "items": [
+      {
+        "q": "Can you supply enforceable restriction wording?",
+        "a_html": "<p>The property owner and appropriate professional should approve legal wording and authority. This page does not provide legal advice.</p>"
+      },
+      {
+        "q": "Can signs be installed on public posts?",
+        "a_html": "<p>Public placement requires the relevant authorization. Confirm the approved location and responsible party before planning attachment.</p>"
+      }
+    ]
+  },
+  "related": [
+    {
+      "label": "Directional signs",
+      "href": "/nyc/directional-signs/"
+    },
+    {
+      "label": "Real estate signs",
+      "href": "/nyc/real-estate-signs/"
+    },
+    {
+      "label": "Offices & properties",
+      "href": "/nyc/offices-properties/"
+    }
+  ],
+  "cta_band": true
+}
