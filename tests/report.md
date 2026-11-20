@@ -1,10 +1,10 @@
 # Compare report
 
-Generated 2026-11-06T14:53:51.360Z against `tests/baseline` (http://pandeystore.local).
+Generated 2026-11-20T14:58:50.512Z against `tests/baseline` (http://pandeystore.local).
 
-**82/82 existing targets pass** (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
+**83/83 existing targets pass** (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
 
-Templates: landing 5, service 63, raw 11, sitemap 1, - 2
+Templates: landing 11, service 56, raw 11, blog 2, sitemap 1, - 2
 
 | route | template | html | seo | headers | visual | assets | result |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 | /nyc/building-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/business-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/cabinet-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/channel-letter-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/channel-letter-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/contact/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/corrugated-signage/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/custom-decals/ | service | ok | ok | ok | ok | ok | PASS |
@@ -29,7 +29,7 @@ Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 | /nyc/directional-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/door-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/environmental-graphics/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/exterior-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/exterior-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/flags/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/fleet-wraps/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/floor-graphics/ | service | ok | ok | ok | ok | ok | PASS |
@@ -41,16 +41,16 @@ Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 | /nyc/gallery/vehicle-wraps/ | raw | ok | ok | ok | ok | ok | PASS |
 | /nyc/hanging-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/ | landing | ok | ok | ok | ok | ok | PASS |
-| /nyc/interior-directory-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/interior-directory-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/interior-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/large-format-printing-services/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/lobby-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/lobby-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/magnetic-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/manhattan/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/metal-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/mission-statement-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/monument-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/office-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/office-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/offices-properties/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/parking-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/political-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -63,8 +63,9 @@ Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 | /nyc/pylon-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/real-estate-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/resources/ | raw | ok | ok | ok | ok | ok | PASS |
+| /nyc/resources/lobby-sign-cost-nyc/ | blog | ok | ok | ok | ok | ok | PASS |
 | /nyc/resources/material-lifecycle/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/resources/project-brief/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/resources/project-brief/ | blog | ok | ok | ok | ok | ok | PASS |
 | /nyc/resources/seasonal-signage/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/restaurants/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/restroom-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -74,7 +75,7 @@ Templates: landing 5, service 63, raw 11, sitemap 1, - 2
 | /nyc/sign-installation/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/signs-for-golf-tournaments/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/storefront-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/trade-show-displays/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/trade-show-displays/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/trailer-wraps/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/truck-wraps/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/van-wraps/ | service | ok | ok | ok | ok | ok | PASS |

@@ -391,6 +391,13 @@
     "x-robots-tag": "index, follow",
     "location": null
   },
+  "resources--lobby-sign-cost-nyc": {
+    "route": "/nyc/resources/lobby-sign-cost-nyc/",
+    "status": 200,
+    "content-type": "text/html; charset=UTF-8",
+    "x-robots-tag": "index, follow",
+    "location": null
+  },
   "resources--material-lifecycle": {
     "route": "/nyc/resources/material-lifecycle/",
     "status": 200,
