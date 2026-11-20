@@ -15,8 +15,16 @@ Copy is taken verbatim from the doc. Only these mechanical changes are made:
   - links to /nyc/contact/ become #inquiry (every page here has its own form section)
   - <strong> that only wraps a link (Google's link styling) is removed
   - links listed in the batch config ("link_additions") are added to the given text
+    ("bold": true = only where the writer made that exact phrase bold)
+Doc formatting glitches handled the same way every time (and printed as notes when unusual):
+  - "[ ]" list items are a checklist (<ul class="vg-checklist">), never process steps
+  - a writer label after a line break inside a paragraph ("...<br> CTA buttons: ...") starts its own block
+  - a table after the cards (with an optional bold lead-in line) goes below the grid ("after_html")
+  - images after each H3 group (with H4 items) belong to that group; 2+ images scattered between
+    items of a flat list are shown together beside the section intro ("images")
 The batch config can also set image slot names per doc section ("slot_keys"), alt text ("alts") and
 approved meta title/description edits ("meta_overrides": {slug: {"meta_description": ...}}),
+closing lines to move from the last card to below the grid ("after_cards": {slug: [doc section numbers]}),
 one hero button ("hero_cta": label to keep) and mid-page call-to-action bands ("mid_ctas": true).
 Form-field lists, button labels and confirmation messages belong to Contact Form 7 and are skipped.
 """
@@ -60,7 +68,7 @@ def is_note(b):
 class Ctx:
     def __init__(self, slug, route, config):
         self.slug, self.route, self.config = slug, route, config
-        self.slots, self.counters, self.added = [], {}, []
+        self.slots, self.counters, self.added, self.notes = [], {}, [], []
         self.section_n = None
 
     def links(self, h):
@@ -72,7 +80,9 @@ class Ctx:
         h = re.sub(r'href="/nyc/contact/"', 'href="#inquiry"', h)
         h = re.sub(r'<strong>\s*(<a href="[^"]*">.*?</a>)\s*(\.?)\s*</strong>', r'\1\2', h, flags=re.S)
         for add in self.config.get('link_additions', {}).get(self.slug, []):
-            pat = r'(?:<strong>)?%s(?:</strong>)?' % re.escape(html.escape(add['text'], quote=False))
+            esc = re.escape(html.escape(add['text'], quote=False))
+            # "bold": true links only the writer's bold phrase, never the same words in plain text
+            pat = (r'<strong>%s</strong>' % esc) if add.get('bold') else (r'(?:<strong>)?%s(?:</strong>)?' % esc)
             new, n = re.subn(pat, '<a href="%s">%s</a>' % (add['href'], html.escape(add['text'], quote=False)), h, count=1)
             if n and new != h:
                 h = new
@@ -113,7 +123,17 @@ def key_for(label, typ):
     return '-'.join(words[:2]) or typ
 
 
+CHECK = re.compile(r'^\s*\[\s?\]\s*')
+
+
+def is_check(b):
+    return b['tag'] == 'li' and bool(CHECK.match(b['text']))
+
+
 def ul(items):
+    if items and all(CHECK.match(i) for i in items):
+        # Writer's "[ ]" checklist: drawn as checkboxes instead of the literal brackets.
+        return '<ul class="vg-checklist">%s</ul>' % ''.join('<li>%s</li>' % CHECK.sub('', i, count=1) for i in items)
     return '<ul>%s</ul>' % ''.join('<li>%s</li>' % i for i in items)
 
 
@@ -259,12 +279,17 @@ def build_content(sec, ctx):
     has_h4 = any(b['tag'] == 'h4' for b in blocks)
     intro, groups, section_img, extra = [], [], None, []
     cur_group, cur_item, items_heading = None, None, None
-    gallery_note, testimonials = None, None
+    gallery_note, testimonials, after = None, None, None
     i = 0
     while i < len(blocks):
         b = blocks[i]
         lab = label_of(b)
         nxt = blocks[i + 1] if i + 1 < len(blocks) else None
+        if after is None and cur_item is not None and (b['tag'] == 'table' or (
+                re.fullmatch(r'<strong>[^<]*</strong>', b['html']) and nxt is not None and nxt['tag'] == 'table')):
+            after = []                                   # a table after the cards (e.g. "At a glance") goes below the grid
+        if after is not None and not is_image(b):
+            after.append(b); i += 1; continue
         if testimonials is not None:
             testimonials.append(b); i += 1; continue
         if lab == 'testimonials':
@@ -272,7 +297,9 @@ def build_content(sec, ctx):
         if re.search(r'image slots|project slots', b['text'], re.I):
             gallery_note = b['text']; i += 1; continue
         if is_image(b):
-            if cur_item is not None and cur_item.get('image') is None and cur_item['_body']:
+            if has_h4 and cur_group is not None and cur_group.get('image') is None:
+                cur_group['image'] = ctx.slot(key, b)       # one image after each group (e.g. Storefront / Building)
+            elif cur_item is not None and cur_item.get('image') is None and cur_item['_body']:
                 cur_item['image'] = ctx.slot(key, b)
             else:
                 section_img = ctx.slot(key, b)
@@ -301,12 +328,25 @@ def build_content(sec, ctx):
             intro.append(b)
         i += 1
 
+    if str(ctx.section_n) in ctx.config.get('after_cards', {}).get(ctx.slug, []) and groups and groups[-1]['items']:
+        # Batch config "after_cards": the last card keeps its first paragraph, and the closing lines that
+        # follow it belong to the whole section, so they go below the grid (copy unchanged).
+        last = groups[-1]['items'][-1]
+        after = (after or []) + last['_body'][1:]
+        last['_body'] = last['_body'][:1]
     for g in groups:
         g['intro_html'] = html_of(g.pop('_intro'), ctx)
         for it in g['items']:
             it['html'] = html_of(it.pop('_body'), ctx)
     items = [it for g in groups for it in g['items']]
-    if items and not all(it['image'] for it in items):
+    section_imgs = None
+    group_imgs = any(g.get('image') for g in groups)
+    if items and not all(it['image'] for it in items) and len([it for it in items if it['image']]) >= 2:
+        # Two or more images between some of the items (not one per item): shown together beside the intro.
+        section_imgs = [it['image'] for it in items if it['image']]
+        for it in items:
+            it['image'] = None
+    elif items and not all(it['image'] for it in items):
         # Images that follow only some items belong to the section (e.g. one image after the last item).
         imgs = [it['image'] for it in items if it['image']]
         if len(imgs) == 1 and section_img is None:
@@ -314,13 +354,18 @@ def build_content(sec, ctx):
             for it in items:
                 it['image'] = None
     out = []
-    if items and all(it['image'] for it in items):
+    if group_imgs:
+        out.append(prune({'type': 'features-grid', 'h2': h2, 'intro_html': html_of(intro, ctx),
+                          'groups': [prune({'label': g['label'], 'intro_html': g['intro_html'], 'image': g.get('image'),
+                                            'items': [prune(it) for it in g['items']]}) for g in groups]}))
+    elif items and all(it['image'] for it in items):
         out.append(prune({'type': 'card-grid', 'h2': h2, 'intro_html': html_of(intro, ctx),
                           'groups': [prune(g) for g in groups] if any(g['label'] for g in groups) else None,
                           'items': None if any(g['label'] for g in groups) else [prune(it) for it in items]}))
     elif items:
         out.append(prune({'type': 'features-grid', 'h2': h2, 'intro_html': html_of(intro, ctx), 'items_heading': items_heading,
-                          'items': [prune(it) for it in items], 'image': section_img}))
+                          'items': [prune(it) for it in items], 'image': section_img, 'images': section_imgs,
+                          'after_html': html_of(after or [], ctx)}))
     elif section_img:
         out.append({'type': 'image-text', 'h2': h2, 'html': html_of(intro, ctx), 'image': section_img})
     elif gallery_note is None or intro:
@@ -349,7 +394,18 @@ def prune(d):
     return {k: v for k, v in d.items() if v not in (None, '', [], {})}
 
 
+def split_runon_labels(sec):
+    """A writer label after a line break inside a paragraph starts its own block (doc formatting glitch)."""
+    out = []
+    for b in sec['blocks']:
+        parts = re.split(r'\s*<br\s*/?>\s*(?=<strong>[A-Za-z][A-Za-z0-9 ]{0,40}:</strong>)', b['html']) if b['tag'] == 'p' else [b['html']]
+        for h in parts:
+            out.append(dict(b, html=h.strip(), text=text_of(h)) if len(parts) > 1 else b)
+    return dict(sec, blocks=out)
+
+
 def build_section(sec, ctx):
+    sec = split_runon_labels(sec)
     l = sec['label'].lower()
     blocks = sec['blocks']
     if 'hero' in l:
@@ -364,7 +420,7 @@ def build_section(sec, ctx):
         return build_faq(sec, ctx)
     if 'testimonial' in l or 'clients say' in l:
         return build_testimonials(blocks, heading(sec['label']) if 'h2' in l else None, ctx)
-    if any(k in l for k in ('how it works', 'happens next', 'project works')) or (blocks and sum(b['tag'] == 'li' for b in blocks) >= 3 and all('<strong>' in b['html'] for b in blocks if b['tag'] == 'li') and not any(b['tag'] in ('h3', 'h4') for b in blocks)):
+    if any(k in l for k in ('how it works', 'happens next', 'project works')) or (blocks and not any(is_check(b) for b in blocks) and sum(b['tag'] == 'li' for b in blocks) >= 3 and all('<strong>' in b['html'] for b in blocks if b['tag'] == 'li') and not any(b['tag'] in ('h3', 'h4') for b in blocks)):
         return build_steps(sec, ctx)
     return build_content(sec, ctx)
 
@@ -497,6 +553,8 @@ def main():
             state = 'REPLACEMENT (draft_content)'
         types = ', '.join(s['type'] for s in sections)
         print('%-20s %-28s %2d sections, %2d image slots, +%d links  [%s]' % (slug, state, len(sections), len(ctx.slots), len(ctx.added), types))
+        for n in ctx.notes:
+            print('    note: ' + n)
     with open(reg_path, 'w', encoding='utf-8') as f:
         json.dump(dict(sorted(registry.items())), f, ensure_ascii=False, indent=2)
         f.write('\n')

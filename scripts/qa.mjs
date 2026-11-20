@@ -39,8 +39,11 @@ function expectedCopy(doc) {
   for (const sec of doc.sections.slice(1)) {
     if (/confirmation/i.test(sec.label)) continue;
     let inForm = false;
-    for (const b of sec.blocks) {
-      const t = norm(b.text);
+    // Same mechanical splits as build_pages.py: a writer label run into the previous line
+    // ("...one system. CTA buttons: ...") is its own block, and "[ ]" checklist brackets are drawn as icons.
+    const blocks = sec.blocks.flatMap((b) => norm(b.text).split(/\s+(?=CTA buttons?:)/).map((text) => ({ ...b, text })));
+    for (const b of blocks) {
+      const t = b.tag === 'li' ? norm(b.text).replace(/^\[\s?\]\s*/, '') : norm(b.text);
       if (/^\(.*\)\.?$/.test(t) || /^image\b/i.test(t) || /image slots|project slots/i.test(t)) continue;
       const lab = t.match(/^([A-Za-z][A-Za-z0-9 ]{0,40}):\s*(.*)$/);
       if (lab && /^(lead form fields)$/i.test(lab[1])) { inForm = true; continue; }

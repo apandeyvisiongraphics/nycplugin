@@ -32,9 +32,9 @@ Rules for every section:
 |---|---|---|
 | `hero` | Page heading, intro, buttons, hero image | `eyebrow?`, `h1`, `lead_html?`, `ctas?` [`{label, href, style: primary\|secondary}`], `image?` |
 | `trust-bar` | Slim scrolling strip (marquee) of short proof points with icons | `items` [`{title, text, icon?}`] (icon: any `vgnyc_icon()` name, e.g. award, shield-check, clipboard-check, clock, map-pin, camera, user, layers) |
-| `rich-text` | Heading + paragraphs, lists or a table | `eyebrow?`, `h2?`, `html`, `cta?` `{label, href}` |
+| `rich-text` | Heading + paragraphs, lists or a table | `eyebrow?`, `h2?`, `html`, `cta?` `{label, href}`. A writer's `[ ]` list becomes `<ul class="vg-checklist">` (check icons) in any `*_html` field |
 | `image-text` | Heading + text beside one image | `h2`, `html`, `image`, `image_side?` (`left`/`right`) |
-| `features-grid` | Heading + intro + cards of title/text | `h2`, `intro_html?`, `image?` (beside the intro), `items_heading?`, `items` [`{title, html?, image?}`] |
+| `features-grid` | Heading + intro + cards of title/text | `h2`, `intro_html?`, `image?` (beside the intro) **or** `images?` (2 slots, a pair beside the intro), `items_heading?`, `after_html?` (below the cards, e.g. a table), `items` [`{title, html?, image?}`] **or** `groups` [`{label, intro_html?, image?, items}`] (group heading H3 with its image beside it, card titles H4) |
 | `card-grid` | Image cards, optionally grouped | `h2`, `intro_html?`, `items` [`{title, html?, image}`] **or** `groups` [`{label, intro_html?, items}`] |
 | `process-steps` | Numbered steps | `h2`, `intro_html?`, `steps` [html], `after_html?`, `image?` |
 | `testimonials` | Client quotes, initials avatars | `h2?`, `items` [`{quote, name, role?, company?}`] |
