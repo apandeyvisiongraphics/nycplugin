@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.5.0 — 20 November 2026 (6 landing pages)
+
+- **Replaced pages (landing design):** `/nyc/interior-directory-signs/`, `/nyc/lobby-signs/`, `/nyc/office-signs/`, `/nyc/exterior-signs/`, `/nyc/channel-letter-signs/`, `/nyc/trade-show-displays/`. Copy, testimonials and facts verbatim from `VGNYCLandingPages171811.html`; titles and descriptions as written in the doc. Bold product names link to their existing NYC pages. Old content moved to `legacy/superseded-1.5.0/`.
+- **features-grid:** grouped cards (`groups` with a label, intro and image per group), image pairs (`images`), a list heading (`items_heading`), notes or tables below the cards (`after_html`), 4 columns for 4, 8 or 7 cards, card titles as H4 under a group H3.
+- **Checklists:** doc lists written as `[ ]` items render as green-check lists (`ul.vg-checklist`).
+- **Images:** 50 new slots, 106 WebP files (7.3 MB).
+- **Pipeline:** `build_pages.py` splits run-on labels, detects checklists, moves tables and section-wide closing lines below the cards (`after_cards` in the batch config) and links bold names only (`"bold": true`).
+- Other routes render byte-identical to 1.4.2.
+
 ## 1.4.2 — 13 November 2026 (blog)
 
 - **New post:** `/nyc/resources/lobby-sign-cost-nyc/` "How Much Does a Lobby Sign Cost in NYC?" — copy verbatim from the doc, 9 images (19 WebP files), two price tables. Card added to `/nyc/resources/`; fixes the "lobby sign cost guide" links from the checklist post.
