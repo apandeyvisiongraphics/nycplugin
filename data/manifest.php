@@ -102,13 +102,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-exterior-signs-960.webp"
   },
   "/nyc/channel-letter-signs/": {
-    "title": "Channel letter signs: form, light and placement | Vision Graphics New York",
-    "description": "Channel letters use individually formed characters to create a strong business identity, often with illumination as part of the design.",
+    "title": "Channel Letter Signs NYC | Front-Lit & Halo-Lit",
+    "description": "Custom channel letter signs for New York City storefronts. Front-lit, halo-lit, and combination LED letters, with permit guidance, fabrication, and installation.",
     "file": "channel-letter-signs.php",
-    "template": "service",
-    "content": "content/services/channel-letter-signs.json",
+    "template": "landing",
+    "content": "content/pages/channel-letter-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-hero-channel-960.webp"
+    "image": "nyc-channel-letter-signs-hero-01"
   },
   "/nyc/contact/": {
     "title": "Request a Sign Quote in NYC | Vision Graphics NYC",
@@ -192,13 +192,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-interior-signs-960.webp"
   },
   "/nyc/exterior-signs/": {
-    "title": "Exterior signs for a recognizable business | Vision Graphics New York",
-    "description": "An exterior sign has to work in a busy setting.",
+    "title": "Exterior Signs NYC: Outdoor Business Signs | Vision Graphics",
+    "description": "Outdoor business signs for NYC storefronts and buildings. Channel letters, storefront, blade, and building signs, designed, made, and installed. Get a quote.",
     "file": "exterior-signs.php",
-    "template": "service",
-    "content": "content/services/exterior-signs.json",
+    "template": "landing",
+    "content": "content/pages/exterior-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-service-exterior-signs-960.webp"
+    "image": "nyc-exterior-signs-hero-01"
   },
   "/nyc/flags/": {
     "title": "Branded flags for event and display planning | Vision Graphics New York",
@@ -300,13 +300,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "nyc-home-hero-01"
   },
   "/nyc/interior-directory-signs/": {
-    "title": "Interior directories that stay organized | Vision Graphics New York",
-    "description": "An interior directory helps visitors make sense of a building before they begin searching its corridors.",
+    "title": "Office Directory Signs NYC | Building & Lobby Directories",
+    "description": "Office and building directory signs for NYC lobbies and multi-tenant buildings. Changeable tenant inserts, clear layouts, and installation. Get a quote.",
     "file": "interior-directory-signs.php",
-    "template": "service",
-    "content": "content/services/interior-directory-signs.json",
+    "template": "landing",
+    "content": "content/pages/interior-directory-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-building-directory-signs-960.webp"
+    "image": "nyc-interior-directory-signs-hero-01"
   },
   "/nyc/interior-signs/": {
     "title": "Interior Signs NYC: Lobby, Office & ADA | Vision Graphics",
@@ -327,13 +327,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
   },
   "/nyc/lobby-signs/": {
-    "title": "Lobby Signs in New York | Vision Graphics",
-    "description": "Explore dimensional letters and logo panels for New York reception areas. Learn what affects cost and send your wall photo to start a lobby-sign quote.",
+    "title": "Lobby Signs NYC: Custom Reception Signage | Vision Graphics",
+    "description": "Lobby and reception signs for NYC offices. Acrylic, brushed metal, and dimensional logo signs, with old sign removal and after-hours installs. Get a quote.",
     "file": "lobby-signs.php",
-    "template": "service",
-    "content": "content/services/lobby-signs.json",
+    "template": "landing",
+    "content": "content/pages/lobby-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-hero-image-960.webp"
+    "image": "nyc-lobby-signs-hero-01"
   },
   "/nyc/magnetic-signs/": {
     "title": "Magnetic signs for suitable removable applications | Vision Graphics New York",
@@ -381,13 +381,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-monument-signs-960.webp"
   },
   "/nyc/office-signs/": {
-    "title": "Office Signs in New York | Vision Graphics",
-    "description": "Plan coordinated office signs, reception branding and glass graphics in Brooklyn and Manhattan. Build a clear project brief with Vision Graphics.",
+    "title": "Office Signs NYC | Custom Office Signage | Vision Graphics",
+    "description": "Custom office signs for NYC workplaces. Room ID, wall, suite, and wayfinding signs, designed as one system and installed around your business hours. Get a quote.",
     "file": "office-signs.php",
-    "template": "service",
-    "content": "content/services/office-signs.json",
+    "template": "landing",
+    "content": "content/pages/office-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-corporate-lobby-signs-business-lobby-signage-960.webp"
+    "image": "nyc-office-signs-hero-01"
   },
   "/nyc/offices-properties/": {
     "title": "Signs for offices and managed properties | Vision Graphics New York",
@@ -606,13 +606,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-building-signage-storefronts-960.webp"
   },
   "/nyc/trade-show-displays/": {
-    "title": "Trade show displays with a clear visitor story | Vision Graphics New York",
-    "description": "An event display has a short window to explain who you are and why someone should stop.",
+    "title": "Trade Show Displays NYC | 10x10 Booths | Vision Graphics",
+    "description": "Custom trade show displays and graphics for New York City events and the Javits Center. Portable displays, backdrops, banner stands, and large-format graphics.",
     "file": "trade-show-displays.php",
-    "template": "service",
-    "content": "content/services/trade-show-displays.json",
+    "template": "landing",
+    "content": "content/pages/trade-show-displays.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-service-trade-show-displays-960.webp"
+    "image": "nyc-trade-show-displays-hero-01"
   },
   "/nyc/trailer-wraps/": {
     "title": "Trailer graphics for a large brand canvas | Vision Graphics New York",
