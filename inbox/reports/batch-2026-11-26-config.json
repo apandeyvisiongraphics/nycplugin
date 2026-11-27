@@ -1,0 +1,118 @@
+{
+  "link_additions": {
+    "storefront-signs": [
+      {
+        "text": "cabinet signs",
+        "href": "/nyc/cabinet-signs/",
+        "bold": true
+      },
+      {
+        "text": "metal signs",
+        "href": "/nyc/metal-signs/",
+        "bold": true
+      },
+      {
+        "text": "Cabinet signs",
+        "href": "/nyc/cabinet-signs/",
+        "bold": true
+      },
+      {
+        "text": "Metal signs",
+        "href": "/nyc/metal-signs/",
+        "bold": true
+      }
+    ],
+    "wayfinding-signs": [
+      {
+        "text": "school signs",
+        "href": "/nyc/school-signs/",
+        "bold": true
+      }
+    ]
+  },
+  "slot_keys": {
+    "storefront-signs": {
+      "5": "permits",
+      "6": "business-types",
+      "8": "process"
+    },
+    "window-film": {
+      "5": "coverage",
+      "7": "logos",
+      "9": "installation"
+    },
+    "window-graphics": {
+      "4": "glass",
+      "5": "seasonal",
+      "6": "perforated"
+    },
+    "wayfinding-signs": {
+      "5": "formats",
+      "6": "planning",
+      "9": "buildings"
+    },
+    "school-signs": {
+      "3": "areas",
+      "4": "pride",
+      "7": "calendar"
+    },
+    "manhattan": {
+      "3": "offices",
+      "4": "storefronts",
+      "5": "buildings"
+    }
+  },
+  "alts": {
+    "nyc-storefront-signs-hero-01": "Neighborhood shopfront with a sage-green wood facade, a bronze dimensional sign on the sign band and a blade sign bracket by the door",
+    "nyc-storefront-signs-permits-01": "Two people on a sidewalk looking up at a bare sign band and an empty blade sign bracket above a shop entrance",
+    "nyc-storefront-signs-business-types-01": "Baker unlocking the glass door of a small neighborhood bakery in early morning light",
+    "nyc-storefront-signs-process-01": "Two installers in high-visibility vests carrying a long flat sign panel along a sidewalk toward a shopfront",
+    "nyc-window-film-hero-01": "Office corridor lined with glass conference rooms finished with a repeating frosted window film pattern",
+    "nyc-window-film-coverage-01": "Visitor in an office corridor looking at a glass meeting room screened by a wide horizontal frosted band",
+    "nyc-window-film-logos-01": "Suite entry glass door and sidelight in a stone-floored lobby with a cut frosted film logo",
+    "nyc-window-film-installation-01": "Installer smoothing a large sheet of frosted film onto a glass office partition with a squeegee",
+    "nyc-window-graphics-hero-01": "Neighborhood bookshop window with a printed color panel and cut vinyl lettering on the glass",
+    "nyc-window-graphics-glass-01": "Narrow shop window with a small cut-lettering panel near the door and a larger printed graphic on the main pane",
+    "nyc-window-graphics-seasonal-01": "Installer's gloved hands peeling transfer tape from fresh cut vinyl lettering on a shop window",
+    "nyc-window-graphics-perforated-01": "View from inside a coffee bar looking out through a perforated one-way window graphic",
+    "nyc-wayfinding-signs-hero-01": "Sunlit office atrium with a suspended overhead directional sign above people crossing the floor",
+    "nyc-wayfinding-signs-formats-01": "Projecting flag sign with arrow shapes mounted at a corridor corner between glass-walled offices",
+    "nyc-wayfinding-signs-planning-01": "Visitor with a lanyard pausing at a corridor junction where three hallways branch on an office floor",
+    "nyc-wayfinding-signs-buildings-01": "Calm clinic corridor with a wall-mounted directional sign beside a waiting area",
+    "nyc-school-signs-hero-01": "School entrance hall in morning light with a large geometric wall graphic above a wooden bench",
+    "nyc-school-signs-areas-01": "Wide school corridor with lockers along one wall and a wall-mounted directional sign",
+    "nyc-school-signs-pride-01": "School gymnasium wall with a large geometric pride graphic in bold shapes above the wooden floor",
+    "nyc-school-signs-calendar-01": "Installer measuring a wall in an empty school corridor during summer break",
+    "nyc-manhattan-hero-01": "Corner conference room at golden hour with floor-to-ceiling windows overlooking Manhattan rooftops",
+    "nyc-manhattan-offices-01": "High-floor office reception with brushed-metal dimensional letters behind a long pale ash desk",
+    "nyc-manhattan-storefronts-01": "Cast-iron shopfront with slender columns and a flat painted sign band, with a pedestrian passing",
+    "nyc-manhattan-buildings-01": "Porter holding a side-street service entrance door open while a delivery person wheels in a padded crate"
+  },
+  "meta_overrides": {},
+  "hero_cta": "Get a Quote",
+  "mid_ctas": true,
+  "after_cards": {
+    "storefront-signs": [
+      "3",
+      "5"
+    ],
+    "window-film": [
+      "5"
+    ],
+    "window-graphics": [
+      "7",
+      "9"
+    ],
+    "wayfinding-signs": [
+      "9"
+    ],
+    "school-signs": [
+      "8"
+    ]
+  },
+  "drop_sections": {
+    "wayfinding-signs": [
+      11
+    ]
+  }
+}
