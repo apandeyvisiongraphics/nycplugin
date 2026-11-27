@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.6.0 — 27 November 2026 (6 landing pages)
+
+- **Replaced pages (landing design):** `/nyc/storefront-signs/`, `/nyc/window-film/`, `/nyc/window-graphics/`, `/nyc/wayfinding-signs/`, `/nyc/school-signs/`, `/nyc/manhattan/`. Copy, testimonials and facts verbatim from `VGNYCLandingPages242511.html`; titles and descriptions as written in the doc. Bold product names link to their existing NYC pages. Old content moved to `legacy/superseded-1.6.0/`.
+- **Wayfinding signs:** the Projects section is left out (no real project photos), via `drop_sections` in the batch config.
+- **process-steps:** numbered H3 steps in the doc render as steps with an H3 title (`.vg-steps__list li>h3`).
+- **Images:** 44 new slots, 94 WebP files (5.9 MB).
+- **Pipeline:** `parse_doc.py` keeps numbered H3 steps inside their section; `build_pages.py` supports `drop_sections`; `qa.mjs` skips dropped sections; the Image Brief CSV exports the filtered rows.
+- Other routes render byte-identical to 1.5.0, apart from image `?v=` cache-busting.
+
 ## 1.5.0 — 20 November 2026 (6 landing pages)
 
 - **Replaced pages (landing design):** `/nyc/interior-directory-signs/`, `/nyc/lobby-signs/`, `/nyc/office-signs/`, `/nyc/exterior-signs/`, `/nyc/channel-letter-signs/`, `/nyc/trade-show-displays/`. Copy, testimonials and facts verbatim from `VGNYCLandingPages171811.html`; titles and descriptions as written in the doc. Bold product names link to their existing NYC pages. Old content moved to `legacy/superseded-1.5.0/`.
