@@ -63,5 +63,7 @@ The Wayfinding signs page has no Projects section, because there are no real pro
 WP Admin → Plugins → "Vision Graphics NYC Website" → **Update now**.
 Then check each of the 6 pages, and open the quote popup on one of them.
 
+v1.5.0 was never published as a GitHub Release. A site on v1.4.2 that updates to v1.6.0 also gets the six v1.5.0 pages: `/nyc/interior-directory-signs/`, `/nyc/lobby-signs/`, `/nyc/office-signs/`, `/nyc/exterior-signs/`, `/nyc/channel-letter-signs/` and `/nyc/trade-show-displays/`.
+
 ## Rollback
-Re-install the v1.5.0 release zip from GitHub Releases: Plugins → Add New → Upload → Replace current.
+Re-install the v1.4.2 release zip from GitHub Releases: Plugins → Add New → Upload → Replace current. This also removes the v1.5.0 pages.
