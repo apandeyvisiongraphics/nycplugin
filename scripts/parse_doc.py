@@ -184,7 +184,11 @@ def page(bl, source):
     for b in bl:
         t = b['text']
         m = SECTION.match(t)
-        if m and b['tag'] in ('h1', 'h2', 'h3', 'p') and len(t) < 120:
+        # Numbered H1/H2 always start a section. A numbered H3 or paragraph does only when it
+        # continues the numbering (§8 → "9."), so numbered steps inside a section ("1. Send
+        # Photos" under §8) stay in that section.
+        if m and len(t) < 120 and (b['tag'] in ('h1', 'h2') or
+                                   (b['tag'] in ('h3', 'p') and int(m.group(1)) == cur['n'] + 1)):
             cur = {'n': int(m.group(1)), 'label': m.group(2).strip(), 'blocks': []}
             doc['sections'].append(cur)
             continue

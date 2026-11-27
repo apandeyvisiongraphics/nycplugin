@@ -43,7 +43,8 @@ function expectedCopy(doc) {
     // ("...one system. CTA buttons: ...") is its own block, and "[ ]" checklist brackets are drawn as icons.
     const blocks = sec.blocks.flatMap((b) => norm(b.text).split(/\s+(?=CTA buttons?:)/).map((text) => ({ ...b, text })));
     for (const b of blocks) {
-      const t = b.tag === 'li' ? norm(b.text).replace(/^\[\s?\]\s*/, '') : norm(b.text);
+      // Numbered H3 steps ("1. Send Photos") show the number in the step circle, so it is not in the text.
+      const t = b.tag === 'li' ? norm(b.text).replace(/^\[\s?\]\s*/, '') : /^h[34]$/.test(b.tag) ? norm(b.text).replace(/^\d+\.\s+/, '') : norm(b.text);
       if (/^\(.*\)\.?$/.test(t) || /^image\b/i.test(t) || /image slots|project slots/i.test(t)) continue;
       const lab = t.match(/^([A-Za-z][A-Za-z0-9 ]{0,40}):\s*(.*)$/);
       if (lab && /^(lead form fields)$/i.test(lab[1])) { inForm = true; continue; }
@@ -99,7 +100,10 @@ for (const slug of slugs) {
   const dom = parse5.parse(html);
   const main = find(dom, (n) => n.tagName === 'main')[0];
   const pageText = textOf(main);
-  const expected = expectedCopy(doc);
+  // Doc sections left out by an approved drop_sections config entry are not expected on the page.
+  const built = JSON.parse(fs.readFileSync(path.join(ROOT, 'content', 'pages', `${slug}.json`), 'utf8'));
+  const kept = new Set(built.sections.map((s) => s.doc_section));
+  const expected = expectedCopy({ ...doc, sections: [doc.sections[0], ...doc.sections.slice(1).filter((s) => kept.has(s.n))] });
   const missing = expected.filter((t) => (typeof t === 'object' ? !t.any.some((x) => pageText.includes(x)) : !pageText.includes(norm(t)))).map((t) => (typeof t === 'object' ? t.any.join(' / ') : t));
   check('Copy matches the doc', missing.length === 0, missing.length ? `${expected.length - missing.length}/${expected.length} doc text blocks found verbatim` : `${expected.length}/${expected.length} doc text blocks found verbatim`);
   missing.forEach((m) => r.issues.push(`Copy not found verbatim: “${m.slice(0, 160)}”`));

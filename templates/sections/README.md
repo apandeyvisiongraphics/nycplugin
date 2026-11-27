@@ -36,7 +36,7 @@ Rules for every section:
 | `image-text` | Heading + text beside one image | `h2`, `html`, `image`, `image_side?` (`left`/`right`) |
 | `features-grid` | Heading + intro + cards of title/text | `h2`, `intro_html?`, `image?` (beside the intro) **or** `images?` (2 slots, a pair beside the intro), `items_heading?`, `after_html?` (below the cards, e.g. a table), `items` [`{title, html?, image?}`] **or** `groups` [`{label, intro_html?, image?, items}`] (group heading H3 with its image beside it, card titles H4) |
 | `card-grid` | Image cards, optionally grouped | `h2`, `intro_html?`, `items` [`{title, html?, image}`] **or** `groups` [`{label, intro_html?, items}`] |
-| `process-steps` | Numbered steps | `h2`, `intro_html?`, `steps` [html], `after_html?`, `image?` |
+| `process-steps` | Numbered steps | `h2`, `intro_html?`, `steps` [html: `<strong>Label:</strong> text`, or `<h3>Title</h3><p>text</p>` for numbered H3 steps in the doc], `after_html?`, `image?` |
 | `testimonials` | Client quotes, initials avatars | `h2?`, `items` [`{quote, name, role?, company?}`] |
 | `gallery` | Project photos | `h2?`, `intro_html?`, `items` [`{image, caption?}`] |
 | `faq` | Questions and answers, plus FAQPage JSON-LD | `h2`, `items` [`{q, a_html}`] |
