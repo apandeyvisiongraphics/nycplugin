@@ -1,10 +1,10 @@
 # Compare report
 
-Generated 2026-11-20T14:58:50.512Z against `tests/baseline` (http://pandeystore.local).
+Generated 2026-11-27T04:26:23.926Z against `tests/baseline` (http://pandeystore.local).
 
 **83/83 existing targets pass** (checks: a html, b seo, c headers, d visual @ 1440 & 390px with 0 px tolerance, e assets, f sitemap).
 
-Templates: landing 11, service 56, raw 11, blog 2, sitemap 1, - 2
+Templates: landing 17, service 50, raw 11, blog 2, sitemap 1, - 2
 
 | route | template | html | seo | headers | visual | assets | result |
 |---|---|---|---|---|---|---|---|
@@ -46,7 +46,7 @@ Templates: landing 11, service 56, raw 11, blog 2, sitemap 1, - 2
 | /nyc/large-format-printing-services/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/lobby-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/magnetic-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/manhattan/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/manhattan/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/metal-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/mission-statement-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/monument-signs/ | service | ok | ok | ok | ok | ok | PASS |
@@ -71,10 +71,10 @@ Templates: landing 11, service 56, raw 11, blog 2, sitemap 1, - 2
 | /nyc/restroom-signs/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/retail/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/retractable-banners/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/school-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/school-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/sign-installation/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/signs-for-golf-tournaments/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/storefront-signs/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/storefront-signs/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/trade-show-displays/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/trailer-wraps/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/truck-wraps/ | service | ok | ok | ok | ok | ok | PASS |
@@ -85,9 +85,9 @@ Templates: landing 11, service 56, raw 11, blog 2, sitemap 1, - 2
 | /nyc/wall-decals/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/wall-graphics/ | service | ok | ok | ok | ok | ok | PASS |
 | /nyc/wall-murals/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/wayfinding-signs/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/window-film/ | service | ok | ok | ok | ok | ok | PASS |
-| /nyc/window-graphics/ | service | ok | ok | ok | ok | ok | PASS |
+| /nyc/wayfinding-signs/ | landing | ok | ok | ok | ok | ok | PASS |
+| /nyc/window-film/ | landing | ok | ok | ok | ok | ok | PASS |
+| /nyc/window-graphics/ | landing | ok | ok | ok | ok | ok | PASS |
 | /nyc/sitemap.xml | sitemap | ok | - | ok | - | - | PASS |
 | /nyc/this-page-does-not-exist/ | - | ok | - | ok | - | - | PASS |
 | /nyc/request-quote/ | - | ok | - | ok | - | - | PASS |
