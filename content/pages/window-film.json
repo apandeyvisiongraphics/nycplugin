@@ -1,0 +1,290 @@
+{
+  "route": "/nyc/window-film/",
+  "source": "VGNYCLandingPages242511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Window Film and Frosted Privacy Film in New York City for Offices",
+      "lead_html": "<p>Glass keeps an office open, but meeting rooms and desks need privacy.</p><p>Vision Graphics designs and makes frosted and privacy window film for NYC offices, conference rooms, and glass partitions, as part of our <a href=\"/nyc/interior-signs/\">interior signs in NYC</a> range. We plan coverage with you and manage installation through licensed partners.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-window-film-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Privacy Planning",
+          "text": "Sightlines and coverage",
+          "icon": "check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "rich-text",
+      "h2": "Types of Window Film",
+      "html": "<p>Window frosting comes in several looks, and each gives a different mix of privacy and light. Frosted glass film, patterned film, and printed film all suit offices, so compare them below and match each one to its room.</p><table><thead><tr><th>Film type</th><th>Best use</th><th>Privacy level</th><th>Light</th></tr></thead><tbody><tr><td>Frosted film</td><td>Conference rooms, partitions and private offices</td><td>Medium to high</td><td>Daylight passes, views blur</td></tr><tr><td>Patterned or decorative film</td><td>Glass partitions and open-plan dividers</td><td>Soft to medium</td><td>Most light passes</td></tr><tr><td>Cut logo frosting</td><td>Reception glass and entry doors</td><td>Soft to medium</td><td>Clear areas stay open</td></tr><tr><td>Printed decorative film</td><td>Brand walls and feature glass</td><td>Varies with the design</td><td>Varies with the print</td></tr><tr><td>Perforated one-way film</td><td>Printed graphics where you want to see out. See <a href=\"/nyc/window-graphics/\">window graphics</a>.</td><td>Daytime privacy only</td><td>Some light, view out from inside</td></tr></tbody></table><p>Privacy depends on the pattern, the lighting, and the viewing angle. Decorative window film is chosen for looks and privacy, so tell <a href=\"#inquiry\">our team</a> if heat, safety, or security also matter.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "rich-text",
+      "h2": "Window Film vs Etched Glass vs Window Tint",
+      "html": "<p>Privacy glass film, etched glass, and window tint often get mixed up. Each does a different job, so the right choice depends on what the glass needs to do.</p><table><thead><tr><th>Option</th><th>What it does</th><th>Permanent or removable</th><th>Relative cost</th></tr></thead><tbody><tr><td>Etched glass</td><td>Treats the glass surface itself for a permanent frosted look</td><td>Permanent</td><td>Higher</td></tr><tr><td>Frosted film</td><td>Adds decorative privacy to existing glass</td><td>Removable</td><td>Lower</td></tr><tr><td>Window tint and solar film</td><td>Controls heat, glare, and UV, and is a separate product from decorative film</td><td>Usually removable</td><td>Varies by product</td></tr></tbody></table><p>Mirror-style one-way window film gives daytime privacy and reverses at night when interior lights are brighter. Frosted privacy film blurs the view from both sides, day and night.</p><p>If heat, glare, or security is your goal, tell <a href=\"#inquiry\">our team</a> what you need.</p>",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "How Much Coverage You Need",
+      "intro_html": "<p>Privacy window film works when it matches how people see the room. Stand in the corridor, then sit at the desk, and check what each view shows.</p>",
+      "items": [
+        {
+          "title": "Frosted Bands",
+          "html": "<p>A horizontal band screens a chosen sightline across doors and fixed panels. Place it where seated and standing views cross, and leave clear glass above for daylight.</p>"
+        },
+        {
+          "title": "Full-Panel Film",
+          "html": "<p>Full coverage blocks views at all heights. It suits rooms for confidential work and reduces views of daylight and the corridor.</p>"
+        }
+      ],
+      "image": "nyc-window-film-coverage-01",
+      "after_html": "<p>Continuous bands read as one clean line. Individual shapes give a lighter look and leave more of the view open.</p><p>Check the glass from both sides, under day and evening light, before you choose. A pattern can look different at night.</p>",
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Glass Door Markings and Frosted Bands",
+      "intro_html": "<p>Frosted bands often double as glass door markings. The rules below are New York State's and the city's, and they may change.</p>",
+      "items": [
+        {
+          "title": "Where the Rule Applies",
+          "html": "<p>New York State's Industrial Code covers transparent glass doors and the fixed glass beside them in commercial buildings. It reaches fixed sidelights within six feet of a door, and it does not cover all interior glass walls.</p>"
+        },
+        {
+          "title": "Marking Heights",
+          "html": "<p>Marks sit in two zones: 30 to 36 inches and 60 to 66 inches above the floor. They must be opaque and easy to see from any direction. Some narrow sidelights may be exempt, and doors with horizontal separation bars may skip the upper zone.</p>"
+        },
+        {
+          "title": "Who Confirms",
+          "html": "<p>Your building or design professional confirms what applies to your doors. We state the rule and show your chosen band heights on the drawing, and we do not certify compliance.</p>"
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Window Film?",
+      "html": "<p>Send photos of each glass wall, a rough pane count, and your logo. Our team will come back with questions, a drawing, and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Frosted Logos and Branded Glass",
+      "intro_html": "<p>A cut logo in frosted film puts your brand on reception glass and entry doors while the clear areas stay open. It pairs well with a matching wall sign.</p>",
+      "items": [
+        {
+          "title": "Frosted Glass Logo Installation in NYC",
+          "html": "<p>Send your logo as a vector file (AI, EPS, or PDF) and a photo of the glass. We show the logo on your glass in a drawing before anything is cut.</p>"
+        },
+        {
+          "title": "Custom Window Frosting for Patterns",
+          "html": "<p>Custom window frosting in NYC can repeat brand shapes or geometric patterns across several panes, with chosen areas left clear. Artwork detail and alignment affect the layout, and a drawing confirms it.</p>"
+        },
+        {
+          "title": "Matching the Reception",
+          "html": "<p>Glass and wall signs work well as one design. See <a href=\"/nyc/lobby-signs/\">lobby signs in NYC</a> for logo walls that match your glass.</p>"
+        }
+      ],
+      "image": "nyc-window-film-logos-01",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Where Window Film Works",
+      "intro_html": "<p>Window privacy films in NYC offices work differently by room. These are the spaces where we see them used most.</p>",
+      "items": [
+        {
+          "title": "Conference Rooms",
+          "html": "<p>Office window film gives meeting rooms privacy while the room stays bright. Match the pattern across nearby rooms so the floor reads as one design.</p>"
+        },
+        {
+          "title": "Glass Partitions",
+          "html": "<p>Patterned film breaks up views across open-plan areas. It keeps desks visible without a full wall of clear glass.</p>"
+        },
+        {
+          "title": "Entry Doors",
+          "html": "<p>Door and sidelight film can combine a brand mark with the marking zones above. Pair it with <a href=\"/nyc/office-signs/\">office signs in NYC</a> for matching room and door signs.</p>"
+        },
+        {
+          "title": "Medical Offices",
+          "html": "<p>Exam rooms and consult spaces need privacy and daylight. Frosted film screens the view into the room while letting in daylight.</p>"
+        },
+        {
+          "title": "Storefront Privacy",
+          "html": "<p>Street-level glass can use frosted bands for privacy at counters and desks. Film on storefront glass may need building approval, and landmark districts may add review. See <a href=\"/nyc/window-graphics/\">window graphics</a> for printed storefront work.</p>"
+        }
+      ],
+      "doc_section": 8
+    },
+    {
+      "type": "features-grid",
+      "h2": "Installation and Removal",
+      "intro_html": "<p>We apply film after the drawing, glass check, and building approvals are complete. A Vision Graphics project lead manages each step.</p>",
+      "items": [
+        {
+          "title": "Production",
+          "html": "<p>We make most film graphics at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p>"
+        },
+        {
+          "title": "Installation",
+          "html": "<p>Licensed installation partners install your film. A Vision Graphics project lead manages the schedule, building access, and paperwork. See how <a href=\"/nyc/sign-installation/\">sign installation in NYC</a> works.</p>"
+        },
+        {
+          "title": "After-Hours Installation",
+          "html": "<p>We schedule installs around your building's rules, including evenings, weekends, and freight elevator windows. After-hours work can add labor charges, and we confirm them in your quote.</p>"
+        },
+        {
+          "title": "Glass Check",
+          "html": "<p>Glass type and condition affect the film choice. Tell us if your glass is double-pane, tempered, or fire-rated, and we confirm the film with the film or glass maker.</p>"
+        },
+        {
+          "title": "Removal",
+          "html": "<p>Our team confirms the removal scope in your quote. Film age, adhesive, and glass condition affect the work.</p>"
+        },
+        {
+          "title": "Building Approval and Insurance",
+          "html": "<p>Your building may require approval before we apply film, and we prepare the drawings they request. We can provide a certificate of insurance upon request, and our team confirms your building's requirements.</p>"
+        },
+        {
+          "title": "What to Send",
+          "html": "<p>Send photos of each glass wall, a pane count, rough sizes, and your logo. See the <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a> for what to include.</p>"
+        }
+      ],
+      "image": "nyc-window-film-installation-01",
+      "doc_section": 9
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-window-film-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-film-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-film-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-film-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "intro_html": "<p>Projects from other Vision Graphics locations show the range of our signage work.</p>",
+      "doc_section": 10
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "Our glass conference rooms finally feel private, and the building approved the layout without a second round.",
+          "name": "Renata Okafor",
+          "role": "Office Manager",
+          "company": "Okafor & Lindqvist LLP"
+        },
+        {
+          "quote": "The cut logo on our entry glass matched our wall sign.",
+          "name": "Theo Brandt",
+          "role": "Operations Lead",
+          "company": "Brandt Analytics"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 11
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "How much does frosted window film cost for an office?",
+          "a_html": "<p>Most frosted window film for offices costs roughly $8 to $ 20+ per square foot installed, with custom logos and printed film near the high end. A 60-square-foot conference room wall would run about $500 to $1,200. Treat these as planning ranges that your quote replaces.</p>"
+        },
+        {
+          "q": "Can you add our logo or a pattern to the film?",
+          "a_html": "<p>Yes. We cut logos and patterns in frosted film, and we show the layout on your glass in a drawing before anything is cut. Send your logo as a vector file (AI, EPS, or PDF) and a photo of the glass, and <a href=\"#inquiry\">our team</a> confirms the details.</p>"
+        },
+        {
+          "q": "Can you install without disrupting the office (after hours or weekends)?",
+          "a_html": "<p>Yes. We schedule installs around your building's rules, including evenings and weekends. After-hours work can add labor charges, and we confirm them in your quote. Furniture and access near the glass affect the scope, so tell us about both when you request your quote.</p>"
+        },
+        {
+          "q": "How long does an office floor take to install?",
+          "a_html": "<p>Most film projects run about 1 to 2 weeks from approved drawings to installation, plus shipping. A large floor depends on the number of panes, access, and your building's hours. Your quote confirms the schedule, and our project lead manages it.</p>"
+        },
+        {
+          "q": "Can the film be removed later without damaging the glass?",
+          "a_html": "<p>Usually, but it depends on the film's age, the adhesive, and the glass condition. Our team confirms the removal scope in your quote. Send a photo of the existing film and, if you know it, when it was installed.</p>"
+        },
+        {
+          "q": "Do we need landlord or building approval first?",
+          "a_html": "<p>Often yes in multi-tenant buildings. Your building may require approval before we install film on the glass, and we can prepare the drawings they request. We can provide a certificate of insurance upon request, and our team will confirm your building's requirements.</p>"
+        },
+        {
+          "q": "Do glass doors in an NYC office need markings?",
+          "a_html": "<p>Often yes, for glass doors and the fixed glass beside them in commercial buildings. Marks sit at 30 to 36 inches and 60 to 66 inches above the floor, and some narrow sidelights may be exempt. Your building or design professional confirms what applies to your doors.</p>"
+        },
+        {
+          "q": "Does frosted film give privacy at night?",
+          "a_html": "<p>Yes. Frosted film blurs the view from both sides, day and night. Mirror-style one-way film works mainly in daylight and reverses when indoor lights are brighter than outdoor light. Tell <a href=\"#inquiry\">our team</a> when you need privacy after dark.</p>"
+        },
+        {
+          "q": "Can film go on double-pane, tempered or fire-rated glass?",
+          "a_html": "<p>Often yes. Decorative film absorbs little heat, but the glass type matters. Tell us whether your glass is double-pane, tempered, or fire-rated, and we'll confirm the film with the film or glass maker before ordering. Fire-rated glass needs a manufacturer check.</p>"
+        },
+        {
+          "q": "Which companies install frosted window film for offices in NYC?",
+          "a_html": "<p>Vision Graphics designs and makes frosted and privacy window film for NYC offices, with a 60-year history and production in Salt Lake City. Licensed installation partners install it, managed by one Vision Graphics project lead. We serve all five boroughs. Send a photo of your glass, and our team replies with questions, a drawing, and a quote.</p>"
+        }
+      ],
+      "doc_section": 12
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Window Film?",
+      "intro_html": "<p>Send photos of each glass wall, a rough pane count, and your logo. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 13
+    }
+  ]
+}

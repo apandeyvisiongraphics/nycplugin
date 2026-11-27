@@ -1,0 +1,64 @@
+{
+  "storefront-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/storefront-signs/?vgnyc_preview=1`.",
+    "**Bold but not linked:** \"cabinet signs\" and \"metal signs\" (section 3, \"Learn more about …\"), \"Cabinet signs\" and \"Metal signs\" (section 4 table rows; the other rows are linked). `/nyc/cabinet-signs/` and `/nyc/metal-signs/` exist. Linked (decided 2026-11-19).",
+    "**Process steps written as numbered H3 headings** (section 8, 5 steps). Shown as the numbered steps layout, each with its H3 title and text; the \"1. \" number is shown in the circle.",
+    "**Closing lines below the cards:** \"Some storefronts also carry awning signs…\" (section 3) and \"Permit paperwork is part of the plan…\" (section 5) apply to the whole section, so they sit below the cards. Wording unchanged.",
+    "**Claims:** price range \"$1,500 to $12,000 or more\", \"1 to 5 weeks\", zoning and Local Law 15 of 2026 details (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ],
+  "window-film": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/window-film/?vgnyc_preview=1`.",
+    "**Typo kept as written:** \"$8 to $ 20+ per square foot\" (FAQ, extra space after the second $) (decided 2026-11-19: keep editing slips).",
+    "**Closing lines below the cards:** \"Continuous bands read as one clean line…\" and \"Check the glass from both sides…\" (section 5). Wording unchanged.",
+    "**Claims:** NY State door-marking heights (30–36 and 60–66 inches), price range and \"1 to 2 weeks\" (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ],
+  "window-graphics": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/window-graphics/?vgnyc_preview=1`.",
+    "**Closing lines below the cards:** \"Permit paperwork is part of the plan…\" (section 7) and the Manhattan / Brooklyn lines (section 9). Wording unchanged.",
+    "**Claims:** LPC 20 percent vinyl limit, price ranges per square foot, \"1 to 2 weeks\" (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ],
+  "wayfinding-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/wayfinding-signs/?vgnyc_preview=1`.",
+    "**Bold but not linked (section 9):** \"school signs\". `/nyc/school-signs/` exists. Linked (decided 2026-11-19).",
+    "**\"How It Works\" (section 10)** has unnumbered H3s (Production, Installation, After-Hours…), so it is shown as cards like the matching sections on Window Film and Window Graphics, not as numbered steps.",
+    "**Closing line below the cards:** \"Directional signs in Manhattan buildings…\" (section 9). Wording unchanged.",
+    "**Claims:** ADA projection and clearance figures, Local Law 26 of 2004, price ranges (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ],
+  "school-signs": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/school-signs/?vgnyc_preview=1`.",
+    "**Meta description is 161 characters** (limit 160). Kept as written (decided 2026-11-19).",
+    "**\"How It Works\" (section 10)** has unnumbered H3s, so it is shown as cards (same as Wayfinding).",
+    "**Closing line below the cards:** \"Public school purchasing paths vary…\" (section 8). Wording unchanged.",
+    "**Claims:** Chancellor's Regulation C-105, procurement rules, price ranges (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ],
+  "manhattan": [
+    "**Replacement** of the current page. The current version stays live until you approve. Preview it at `/nyc/manhattan/?vgnyc_preview=1`.",
+    "**Process steps written as numbered H3 headings** (section 7, 4 steps). Shown as the numbered steps layout, same as Storefront.",
+    "**Proof strip** has \"Landmark Planning\" in place of the usual \"5 Boroughs\" item. Kept as written.",
+    "**Claims:** historic district names (Ladies' Mile, SoHo-Cast Iron, Upper East Side), lead times (FAQ). Kept exactly as in the doc.",
+    "**Projects (real photos only):** 4 placeholder slots, kept until you decide (decided 2026-11-19).",
+    "**Testimonials:** kept exactly as written in the doc (confirmed 2026-11-06).",
+    "**Hero buttons** \"Get a Quote | Send a Photo\": one \"Get a Quote\" hero button plus the mid-page CTA band, the same as the 2026-11-06 and 2026-11-19 pages.",
+    "**Form fields and button** (\"Get My Quote\", Borough dropdown, etc.) belong to the one Contact Form 7 form, not the page (decided 2026-11-19)."
+  ]
+}

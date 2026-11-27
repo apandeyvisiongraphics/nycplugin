@@ -1,0 +1,319 @@
+{
+  "route": "/nyc/window-graphics/",
+  "source": "VGNYCLandingPages242511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Window Graphics in New York City for Storefronts and Promotions",
+      "lead_html": "<p>Storefront glass explains your business before customers reach the door.</p><p>Vision Graphics designs and makes window graphics for NYC shops, restaurants, and street-level businesses, as part of our <a href=\"/nyc/exterior-signs/\">exterior signs in NYC</a> range. We plan each pane with you and manage installation through licensed partners.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-window-graphics-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Glass Planning",
+          "text": "Both sides of the glass",
+          "icon": "check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "rich-text",
+      "h2": "Types of Window Graphics",
+      "html": "<p>Window decals for business come in a few types, and each suits a different job on the glass.</p><p>Cut window lettering carries names and hours, printed store window decals carry campaigns, and perforated window vinyl lets you see out. Compare them below, then match each one to its pane.</p><table><thead><tr><th>Graphic type</th><th>Best use</th><th>Typical use</th><th>See-through or not</th></tr></thead><tbody><tr><td>Cut vinyl lettering</td><td>Names, hours and short service messages</td><td>Long-term identity</td><td>Yes, only the letters block the glass</td></tr><tr><td>Printed decals</td><td>Product images, color blocks and promotions</td><td>Campaigns and seasons</td><td>Partly, depending on coverage</td></tr><tr><td>Full-coverage graphics and wraps</td><td>Large panes and bold brand statements</td><td>Long-term or campaign</td><td>No, unless perforated</td></tr><tr><td>Perforated one-way film</td><td>Large display windows that need daylight and a view out</td><td>Medium-term campaigns</td><td>Yes, from inside in daylight</td></tr></tbody></table><p>Typical use is a guide. Your quote names the material, and our team confirms how long it will last on your glass.</p><p>Static clings hold with no adhesive and suit short promotions. Ask <a href=\"#inquiry\">our team</a> if they fit your glass.</p><p>For frosted and privacy film, see <a href=\"/nyc/window-film/\">window film in NYC</a>.</p>",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "What to Put on Storefront Glass",
+      "intro_html": "<p>Window signs for business and custom window decals for business both work well when each pane has one job. Custom window graphics in NYC start with that split: reserve the entrance for essentials, and use nearby glass for one focused message.</p>",
+      "items": [
+        {
+          "title": "Hours and Contact Details",
+          "html": "<p>Put hours, phone numbers, and entry details near the door, where people stop to read. Keep the letters large enough to read from a step back.</p>"
+        },
+        {
+          "title": "Logo and Name",
+          "html": "<p>Your logo and name confirm that people are in the right place. Cut lettering keeps the glass open, and a printed panel suits a full-color mark.</p>"
+        },
+        {
+          "title": "Services",
+          "html": "<p>Short service lines help passersby understand what you do. Keep to a few words per pane so the glass reads at a glance.</p>"
+        },
+        {
+          "title": "Promotions",
+          "html": "<p>Use the larger panes for a current offer or campaign. Plan the display period first, so the material and the removal fit the promotion.</p>"
+        }
+      ],
+      "image": "nyc-window-graphics-glass-01",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Seasonal and Promotional Graphics",
+      "intro_html": "<p>Seasonal graphics change on a schedule, so plan how they come off before they go on. The material, the glass side, and the display period all affect the swap.</p>",
+      "items": [
+        {
+          "title": "Swapping Graphics",
+          "html": "<p>Window stickers for business promotions, sale artwork, and holiday designs can change on a schedule. Tell us the display dates, and we plan the material and the swap around them.</p>"
+        },
+        {
+          "title": "Removal",
+          "html": "<p>Our team confirms the removal scope in your quote. Existing film, adhesive, and glass condition affect the work.</p>"
+        },
+        {
+          "title": "Reprints",
+          "html": "<p>A saved drawing of your panes lets a later campaign fit the same layout. Keep your artwork files so a set can be reprinted at the same size.</p>"
+        },
+        {
+          "title": "Landmark Districts",
+          "html": "<p>In a landmark district, replacing vinyl that LPC already approved may need no new permit. Our team confirms what applies at your address.</p>"
+        }
+      ],
+      "image": "nyc-window-graphics-seasonal-01",
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Perforated Window Wraps",
+      "intro_html": "<p>Perforated window vinyl puts a printed graphic on the street side while people inside still see out. Window wraps in NYC often use it on large display windows that need daylight.</p>",
+      "items": [
+        {
+          "title": "How One-Way Film Works",
+          "html": "<p>Small holes in the film let you see out in daylight, while the printed face shows to the street. The effect reverses at night when interior lights are brighter than the street.</p>"
+        },
+        {
+          "title": "Perforated Window Decals",
+          "html": "<p>Perforated window decals suit doors and panes where staff need the view out. The hole pattern and the lighting on each side affect what people see.</p>"
+        },
+        {
+          "title": "Full-Coverage Wraps",
+          "html": "<p>A full-coverage graphic covers a large pane with one image. Plan joins, door gaps, and the view from inside before the artwork is final.</p>"
+        }
+      ],
+      "image": "nyc-window-graphics-perforated-01",
+      "doc_section": 6
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Window Graphics?",
+      "html": "<p>Send photos of your whole frontage and each pane, your logo, and any lease sign rules. Our team will come back with questions, a drawing, and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "NYC Rules for Window Graphics",
+      "intro_html": "<p>Window graphics sit under a few city rules. The rules below are the city's, and they may change.</p>",
+      "items": [
+        {
+          "title": "Coverage Limits",
+          "html": "<p>In landmark districts, LPC limits vinyl on storefront glass to 20 percent of the glazed area, subject to staff approval. Some zoning districts cap window coverage too.</p>"
+        },
+        {
+          "title": "Permits and Zoning",
+          "html": "<p>A non-lit sign of about six square feet or less may need no DOB permit, and zoning rules still apply. Larger or lit graphics may need review.</p>"
+        },
+        {
+          "title": "Landlord Approval",
+          "html": "<p>Your lease may set window rules, and your landlord or building management may need to approve the design before work starts. Send any lease sign criteria early, and we will prepare the drawings they ask for.</p><p>We can provide a certificate of insurance upon request, and our team will confirm your building's requirements.</p>"
+        },
+        {
+          "title": "Restaurant Grade Card",
+          "html": "<p>The NYC letter grade card must stay visible to passersby and cannot be hidden. We plan graphics around it.</p>"
+        },
+        {
+          "title": "Glass Door Markings",
+          "html": "<p>Decals on glass doors may double as the marking the state requires on doors and nearby sidelights. See <a href=\"/nyc/window-film/\">window film in NYC</a> for the marking heights.</p>"
+        }
+      ],
+      "after_html": "<p>Permit paperwork is part of the plan our project lead manages. Ask <a href=\"#inquiry\">our team</a> what applies at your address.</p>",
+      "doc_section": 7
+    },
+    {
+      "type": "rich-text",
+      "h2": "Window Graphics and Your Storefront Sign",
+      "html": "<p>Glass graphics support the main sign above the door.</p><p>Plan them together, so the name, colors, and message agree across both.</p><p>See <a href=\"/nyc/storefront-signs/\">storefront signs in NYC</a> for the sign above the door.</p>",
+      "doc_section": 8
+    },
+    {
+      "type": "features-grid",
+      "h2": "Where Window Graphics Work",
+      "intro_html": "<p>Storefront window graphics in NYC suit each kind of street-level business a little differently.</p>",
+      "items": [
+        {
+          "title": "Restaurants",
+          "html": "<p>Restaurants use glass for hours, delivery details, and a menu highlight, while keeping the grade card clear. See <a href=\"/nyc/restaurants/\">restaurant signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Retail",
+          "html": "<p>Retail windows carry a brand message and a current offer without hiding the display. See <a href=\"/nyc/retail/\">retail store signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Salons and Services",
+          "html": "<p>Salons and neighborhood services use lettering for hours and services, and printed panels for a campaign. Keep the door area simple and readable.</p>"
+        },
+        {
+          "title": "Offices",
+          "html": "<p>Street-level offices use lettering for the name and hours. Frosted bands for privacy are covered on the window film page.</p>"
+        }
+      ],
+      "after_html": "<p>Window graphics in Manhattan often sit on dense blocks with shared building rules. See <a href=\"/nyc/manhattan/\">window graphics in Manhattan</a>.</p><p>Window decals in Brooklyn range from busy corridors to quiet side streets. See <a href=\"/nyc/brooklyn/\">window decals in Brooklyn</a>.</p>",
+      "doc_section": 9
+    },
+    {
+      "type": "features-grid",
+      "h2": "Installation and Removal",
+      "intro_html": "<p>Graphics go on the glass once the drawing, the surface check, and the approvals are done. A Vision Graphics project lead is your single point of contact throughout.</p>",
+      "items": [
+        {
+          "title": "Production",
+          "html": "<p>We make most window graphics at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p>"
+        },
+        {
+          "title": "Installation",
+          "html": "<p>Licensed installation partners install your graphics. A Vision Graphics project lead manages the schedule, building access, and paperwork. See how <a href=\"/nyc/sign-installation/\">sign installation in NYC</a> works.</p>"
+        },
+        {
+          "title": "After-Hours Installation",
+          "html": "<p>We schedule installs around your building's rules, including early mornings, evenings, and weekends. After-hours work can add labor charges, and we confirm them in your quote.</p>"
+        },
+        {
+          "title": "Removal",
+          "html": "<p>Our team confirms the removal scope in your quote. Existing film, adhesive, and glass condition affect the work.</p>"
+        },
+        {
+          "title": "What to Send",
+          "html": "<p>Send photos of the whole frontage and each pane, rough sizes, your logo, and any lease sign rules. See the <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a> for what to include.</p>"
+        }
+      ],
+      "doc_section": 10
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-window-graphics-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-graphics-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-graphics-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-window-graphics-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "intro_html": "<p>Projects from other Vision Graphics locations show the range of our signage work.</p>",
+      "doc_section": 11
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "They planned our glass around the grade card, and the landlord approved the layout.",
+          "name": "Isaac Moreau",
+          "role": "General Manager",
+          "company": "Moreau Pizzeria"
+        },
+        {
+          "quote": "We swapped our holiday graphics on schedule, and the new set matched the old pane layout.",
+          "name": "Leonora Pryce",
+          "role": "Owner",
+          "company": "Pryce Books"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 12
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "How much do storefront window graphics cost?",
+          "a_html": "<p>Cost depends on size, material, and coverage. Pricing ranges per square foot are about $5 to $15 for cut vinyl lettering, $12 to $25 for printed decals, and $15 to $30 for perforated film. Installation scope is stated in your quote, and your quote replaces these ranges.</p>"
+        },
+        {
+          "q": "Can customers still see out from inside with perforated window film?",
+          "a_html": "<p>Yes, in daylight from inside. Small holes in the film let you see out while the printed face shows to the street. The effect reverses at night when interior lights are brighter than the street, so the hole pattern and your lighting both matter.</p>"
+        },
+        {
+          "q": "How long do window graphics last outdoors?",
+          "a_html": "<p>It depends on the film, the sun on the glass, and which side the graphic sits, so your quote names the material and how long it suits your window.</p>"
+        },
+        {
+          "q": "Can you swap graphics for seasonal promotions?",
+          "a_html": "<p>Yes. Tell us the display dates, and we plan the material and the swap around them. In a landmark district, replacing vinyl that LPC already approved may not require a new permit, and <a href=\"#inquiry\">our team</a> confirms what applies at your address.</p>"
+        },
+        {
+          "q": "Can you remove old graphics or lettering first?",
+          "a_html": "<p>Yes. Removal is part of the install plan, and our team confirms the removal scope in your quote. Existing film, adhesive, and glass condition affect the work, so send a photo of the old graphics.</p>"
+        },
+        {
+          "q": "What is the usual turnaround?",
+          "a_html": "<p>Most window graphics run about 1 to 2 weeks from approved drawing to installation, plus shipping from Salt Lake City. Larger full-coverage jobs and building approvals can add time. Your quote confirms the schedule, and our project lead manages it.</p>"
+        },
+        {
+          "q": "Do window graphics need a permit in NYC?",
+          "a_html": "<p>Often not for small, non-lit signs of about six square feet or less, and zoning rules still apply. Larger or lit graphics may need review. LPC limits and your lease may add rules, and <a href=\"#inquiry\">our team</a> confirms what applies at your address.</p>"
+        },
+        {
+          "q": "Can a restaurant cover the window where the grade card goes?",
+          "a_html": "<p>Leave it clear. The NYC letter grade card must stay visible to passersby and cannot be hidden, so we plan graphics around it. Send a photo of your entrance, and we will show the card position on the drawing.</p>"
+        },
+        {
+          "q": "What is the difference between window graphics and window film?",
+          "a_html": "<p>Window graphics are cut, printed, or perforated vinyl that carry a message. Window film is a frosted or decorative treatment for privacy. Both go on existing glass, and <a href=\"#inquiry\">our team</a> can help you choose between them.</p>"
+        },
+        {
+          "q": "Who does storefront window graphics in Manhattan?",
+          "a_html": "<p>Vision Graphics designs and makes window graphics and window signage for NYC storefronts, with a 60-year history and production in Salt Lake City. Licensed installation partners install them, managed by one project lead. We serve all five boroughs. Send a photo of your glass, and our team replies with a drawing and a quote.</p>"
+        }
+      ],
+      "doc_section": 13
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Window Graphics?",
+      "intro_html": "<p>Send photos of your whole frontage and each pane, your logo, and any lease sign rules. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 14
+    }
+  ]
+}

@@ -198,16 +198,32 @@ function vgnyc_brief_rows() {
     return $rows;
 }
 
+/** Image Brief filters from the request: array(page, status). Used by the list and the CSV export. */
+function vgnyc_brief_filters() {
+    $page = isset($_GET['brief_page']) ? sanitize_text_field(wp_unslash($_GET['brief_page'])) : '';
+    $status = isset($_GET['brief_status']) ? sanitize_key(wp_unslash($_GET['brief_status'])) : '';
+    return array($page, $status);
+}
+
+/** Rows that match the filters (empty filter = all). */
+function vgnyc_brief_filtered($rows, $f_page, $f_status) {
+    return array_values(array_filter($rows, function ($r) use ($f_page, $f_status) {
+        return (!$f_page || $r['page'] === $f_page) && (!$f_status || $r['status'] === $f_status);
+    }));
+}
+
 function vgnyc_brief_page() {
     if (!current_user_can('manage_options')) { return; }
     $processed = vgnyc_process_images();
     $rows = vgnyc_brief_rows();
     $pages = array_values(array_unique(array_column($rows, 'page')));
-    $f_page = isset($_GET['brief_page']) ? sanitize_text_field(wp_unslash($_GET['brief_page'])) : '';
-    $f_status = isset($_GET['brief_status']) ? sanitize_key(wp_unslash($_GET['brief_status'])) : '';
+    list($f_page, $f_status) = vgnyc_brief_filters();
+    $shown = vgnyc_brief_filtered($rows, $f_page, $f_status);
     $labels = array('missing' => '⏳ Missing', 'ready' => '✅ Ready', 'check' => '⚠️ Check size');
     $counts = array_count_values(array_column($rows, 'status'));
-    $csv = wp_nonce_url(admin_url('admin-post.php?action=vgnyc_brief_csv'), 'vgnyc_brief_csv');
+    // The CSV exports the same rows as the list below: the current filters go with the link.
+    $csv = wp_nonce_url(add_query_arg(array_filter(array('action' => 'vgnyc_brief_csv', 'brief_page' => $f_page, 'brief_status' => $f_status), 'strlen'), admin_url('admin-post.php')), 'vgnyc_brief_csv');
+    $filtered = ($f_page || $f_status);
     echo '<div class="wrap"><h1>Image Brief</h1>';
     echo '<div class="notice notice-info inline"><p><strong>For the designer:</strong> Export each image with the exact file name below (jpg/png/webp, at least the minimum width). Put the files in <code>images-inbox/</code>, then refresh this page.</p></div>';
     if (!vgnyc_images_dev()) {
@@ -216,15 +232,14 @@ function vgnyc_brief_page() {
     foreach ($processed as $slot => $result) {
         echo '<div class="notice ' . ($result === 'ok' ? 'notice-success' : 'notice-error') . ' inline"><p><code>' . esc_html($slot) . '</code>: ' . esc_html($result === 'ok' ? 'processed.' : $result) . '</p></div>';
     }
-    echo '<p>' . count($rows) . ' slots: ' . (int)($counts['ready'] ?? 0) . ' ready, ' . (int)($counts['check'] ?? 0) . ' to check, ' . (int)($counts['missing'] ?? 0) . ' missing. <a class="button button-primary" href="' . esc_url($csv) . '">Download CSV</a></p>';
+    echo '<p>' . count($rows) . ' slots: ' . (int)($counts['ready'] ?? 0) . ' ready, ' . (int)($counts['check'] ?? 0) . ' to check, ' . (int)($counts['missing'] ?? 0) . ' missing. <a class="button button-primary" href="' . esc_url($csv) . '">' . esc_html($filtered ? sprintf('Download CSV (%d filtered)', count($shown)) : 'Download CSV (all)') . '</a></p>';
     echo '<form method="get"><input type="hidden" name="page" value="vgnyc-brief"><select name="brief_page"><option value="">All pages</option>';
     foreach ($pages as $p) { echo '<option value="' . esc_attr($p) . '"' . selected($f_page, $p, false) . '>' . esc_html($p) . '</option>'; }
     echo '</select> <select name="brief_status"><option value="">All statuses</option>';
     foreach ($labels as $k => $l) { echo '<option value="' . esc_attr($k) . '"' . selected($f_status, $k, false) . '>' . esc_html($l) . '</option>'; }
     echo '</select> <button class="button">Filter</button></form><br>';
     echo '<table class="widefat striped"><thead><tr><th>Preview</th><th>Slot / file name</th><th>Page</th><th>Section</th><th>Ratio</th><th>Min width</th><th>Alt</th><th>Prompt</th><th>Status</th></tr></thead><tbody>';
-    foreach ($rows as $r) {
-        if (($f_page && $r['page'] !== $f_page) || ($f_status && $r['status'] !== $f_status)) { continue; }
+    foreach ($shown as $r) {
         $files = vgnyc_image_files($r['slot']);
         $thumb = $files ? '<img src="' . esc_url(plugins_url('assets/images/' . basename(reset($files)), dirname(__DIR__) . '/vg-nyc-website.php')) . '" width="96" alt="">' : '';
         echo '<tr><td>' . $thumb . '</td><td><code>' . esc_html($r['slot']) . '</code><br><small>.jpg / .png / .webp</small></td><td>' . esc_html($r['page']) . '</td><td>' . esc_html($r['section']) . '</td><td>' . esc_html($r['ratio']) . '</td><td>' . (int)$r['min_width'] . 'px</td><td>' . esc_html($r['alt']) . '</td>';
@@ -239,11 +254,13 @@ add_action('admin_post_vgnyc_brief_csv', function () {
     if (!current_user_can('manage_options') || !check_admin_referer('vgnyc_brief_csv')) { wp_die('Not allowed.'); }
     nocache_headers();
     header('Content-Type: text/csv; charset=UTF-8');
-    header('Content-Disposition: attachment; filename="vg-nyc-image-brief-' . gmdate('Y-m-d') . '.csv"');
+    list($f_page, $f_status) = vgnyc_brief_filters();
+    $suffix = implode('-', array_filter(array(sanitize_title(trim(str_replace('/nyc/', '', $f_page), '/')), $f_status)));
+    header('Content-Disposition: attachment; filename="vg-nyc-image-brief-' . ($suffix ? $suffix . '-' : '') . gmdate('Y-m-d') . '.csv"');
     $out = fopen('php://output', 'w');
     fwrite($out, "\xEF\xBB\xBF");
     fputcsv($out, array('File name (use exactly)', 'Page', 'Section', 'Ratio', 'Minimum width (px)', 'Sizes produced', 'Alt text', 'Prompt / brief', 'Notes', 'Status'));
-    foreach (vgnyc_brief_rows() as $r) {
+    foreach (vgnyc_brief_filtered(vgnyc_brief_rows(), $f_page, $f_status) as $r) {
         fputcsv($out, array($r['slot'] . '.jpg', $r['page'], $r['section'], $r['ratio'], $r['min_width'], $r['sizes'], $r['alt'], $r['prompt'], $r['notes'], $r['status']));
     }
     exit;

@@ -1,0 +1,309 @@
+{
+  "route": "/nyc/manhattan/",
+  "source": "VGNYCLandingPages242511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "Sign Company for Manhattan Offices, Lobbies and Storefronts",
+      "lead_html": "<p>Manhattan signs start with the building: its rules, its paperwork, and its schedule.</p><p>Vision Graphics is a sign company for Manhattan offices, lobbies, and storefronts, with signs made in Salt Lake City and installed through licensed partners.</p><p>One project lead handles building approvals, insurance paperwork, and access with you.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-manhattan-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Building Paperwork",
+          "text": "Approvals and insurance",
+          "icon": "clipboard-check"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "Landmark Planning",
+          "text": "Districts and LPC rules",
+          "icon": "check"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "features-grid",
+      "h2": "Signs for Manhattan Offices and Lobbies",
+      "intro_html": "<p>Corporate signs in Manhattan and commercial signage for managed buildings share one need: approvals before production. Each product below has its own page.</p>",
+      "items": [
+        {
+          "title": "Lobby Signs",
+          "html": "<p>Lobby signs for Manhattan offices carry the logo behind the reception desk and at the building entrance. Metal letters, acrylic panels, and backlit signs are common choices. See <a href=\"/nyc/lobby-signs/\">lobby signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Office Signs",
+          "html": "<p>Office signage in Manhattan covers suite entries, conference rooms, and room names on a leased floor. Matching the building's sign standard keeps approvals moving. See <a href=\"/nyc/office-signs/\">office signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Directory Signs",
+          "html": "<p>Multi-tenant towers need a lobby directory that lists each tenant. Names change, so plan how updates are handled. See <a href=\"/nyc/interior-directory-signs/\">directory signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Wayfinding Signs",
+          "html": "<p>Wayfinding signs for Manhattan buildings guide visitors from the elevator bank to the right suite. Directional signs follow the property's naming and numbering. See <a href=\"/nyc/wayfinding-signs/\">wayfinding signs in NYC</a>.</p>"
+        }
+      ],
+      "image": "nyc-manhattan-offices-01",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "Storefront Signs in Manhattan",
+      "intro_html": "<p>A new business sign in Manhattan starts with the facade and the lease. Retail signs in Manhattan share blocks with scaffolding, awnings, and neighboring shopfronts, so sightlines matter.</p>",
+      "items": [
+        {
+          "title": "Storefront Signs",
+          "html": "<p>A Manhattan storefront sign company plans the main sign, a blade sign, and window details together. Storefront signage in Manhattan often needs landlord and landmark checks first. See <a href=\"/nyc/storefront-signs/\">storefront signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Channel Letter Signs",
+          "html": "<p>Channel letters carry a name after dark on a sign band or facade. Landmark districts may limit lit letters, so check the address early. See <a href=\"/nyc/channel-letter-signs/\">channel letter signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Window Graphics",
+          "html": "<p>Window graphics in Manhattan add hours, offers, and door details at eye level. Keep the grade card and door markings clear where they apply. See <a href=\"/nyc/window-graphics/\">window graphics in NYC</a>.</p>"
+        },
+        {
+          "title": "Restaurants and Cafes",
+          "html": "<p>Restaurants and cafes often combine a main sign, a blade sign, and window graphics. Sidewalk visibility and neighbor rules shape the plan. See <a href=\"/nyc/restaurants/\">restaurant signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Retail Shops",
+          "html": "<p>Retail shops mix permanent identity with changing promotions. Plan which glass changes and which stays. See <a href=\"/nyc/retail/\">retail signs in NYC</a>.</p>"
+        }
+      ],
+      "image": "nyc-manhattan-storefronts-01",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Working in Manhattan Buildings",
+      "intro_html": "<p>Many Manhattan sign delays come from building paperwork and access. These nine points cover what to settle before production.</p>",
+      "items": [
+        {
+          "title": "Building Management Approval",
+          "html": "<p>Property teams often review a sign drawing before work starts. Send us the building's sign standards early, and we'll prepare drawings in the required format.</p><p>Many tower management offices keep a standing process for contractor paperwork, so ask for it at the start.</p>"
+        },
+        {
+          "title": "Certificate of Insurance",
+          "html": "<p>Managers often ask for a certificate of insurance before a contractor enters the building. We can send one on request, and our team confirms the wording your building needs.</p>"
+        },
+        {
+          "title": "Freight Elevators and Access",
+          "html": "<p>Many Manhattan buildings book freight elevators or loading docks in set windows. Tell us your building's booking steps, and we plan the schedule around them.</p>"
+        },
+        {
+          "title": "After-Hours Installs",
+          "html": "<p>Tower rules often push installs to evenings or weekends. Work outside business hours can add labor charges, and your quote lists them. Read more about <a href=\"/nyc/sign-installation/\">sign installation in NYC</a>.</p>"
+        },
+        {
+          "title": "Landmark Districts and LPC Review",
+          "html": "<p>Parts of Manhattan sit in landmark districts, where LPC reviews exterior signs. Staff cannot approve exterior signs lit from inside, so front-lit letters and lightboxes may need a hearing or a different design.</p><p>Pin-mounted halo-lit letters with a concealed light source may qualify under LPC's staff criteria.</p>"
+        },
+        {
+          "title": "Street-Level Shops in Mixed-Use Buildings",
+          "html": "<p>Many Manhattan storefronts sit under offices or apartments so that a sign may touch the facade, the shared entrance, and the landlord's rules at once. Ask who controls the facade before design starts.</p>"
+        },
+        {
+          "title": "Narrow Blocks and Deliveries",
+          "html": "<p>Manhattan blocks pack in narrow sidewalks, scaffolding, and delivery zones, so an install needs a plan for where the crate goes and when. Tell us about sidewalk sheds or street rules at the address.</p>"
+        },
+        {
+          "title": "What Affects a Manhattan Quote",
+          "html": "<p>Size, materials, mounting height, wall or facade condition, and old-sign removal all move the price. Restricted work hours and building access add to the scope.</p>"
+        },
+        {
+          "title": "What to Send for Your Building",
+          "html": "<p>Send the address, photos of the wall or facade, rough sizes, and any building sign standard. Add the property manager's contact if you have it. See the <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a> for the full list.</p>"
+        }
+      ],
+      "image": "nyc-manhattan-buildings-01",
+      "doc_section": 5
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your Manhattan Signs?",
+      "html": "<p>Send the building address, photos of the space, and any building sign standards. We reply with follow-up questions, then a drawing and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Manhattan Neighborhoods We Serve",
+      "intro_html": "<p>Each Manhattan neighborhood brings its own building types and rules. These notes help you plan before you send an address.</p>",
+      "items": [
+        {
+          "title": "Midtown",
+          "html": "<p>Midtown towers run lobbies and tenant floors through property teams. Ask for the building's sign standard and work-hour rules before design starts.</p>"
+        },
+        {
+          "title": "Chelsea",
+          "html": "<p>Chelsea mixes studios, galleries, and street-level shops with different landlords. Window rules and sign bands vary by building, so photos of the facade help.</p>"
+        },
+        {
+          "title": "Flatiron",
+          "html": "<p>Parts of the Flatiron area sit in the Ladies' Mile Historic District, where LPC reviews exterior signs. Check your address before you choose a lit sign.</p>"
+        },
+        {
+          "title": "SoHo",
+          "html": "<p>Parts of SoHo sit in the SoHo-Cast Iron Historic District, where LPC reviews exterior signs. Cast-iron storefronts and glass-heavy facades shape the sign choices.</p>"
+        },
+        {
+          "title": "Financial District",
+          "html": "<p>Financial District towers combine offices, residences, and managed lobbies. After-hours work and building paperwork shape the schedule.</p>"
+        },
+        {
+          "title": "Upper East Side",
+          "html": "<p>Parts of the Upper East Side sit in the Upper East Side Historic District, where LPC reviews exterior signs. Medical offices, galleries, and shops there should check the address first.</p>"
+        },
+        {
+          "title": "Upper West Side",
+          "html": "<p>Upper West Side jobs range from avenue shops to professional offices on residential blocks. Our team checks the address for landmark and building rules.</p>"
+        },
+        {
+          "title": "Harlem",
+          "html": "<p>Harlem jobs range from avenue storefronts to institutions and offices. Our team checks the address for landmark and building rules.</p>"
+        },
+        {
+          "title": "More Manhattan Neighborhoods",
+          "html": "<p>Parts of Tribeca and Greenwich Village also sit in landmark districts, where LPC reviews exterior signs. Hudson Yards and Hell's Kitchen mix newer towers with street-level shops, so send the address and our team checks it.</p>"
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "process-steps",
+      "h2": "How a Manhattan Sign Project Runs",
+      "intro_html": "<p>A Manhattan job runs in four steps under one project lead.</p>",
+      "steps": [
+        "<h3>Send Your Address and Photos</h3><p>Send the address, photos, and any building sign standards. Our team replies with questions and next steps.</p>",
+        "<h3>Drawing and Approvals</h3><p>We draw the sign in place for you and the property team to review. Approvals come first.</p>",
+        "<h3>Production</h3><p>We produce signs in Salt Lake City and ship finished signs to your building. Your quote confirms shipping time.</p>",
+        "<h3>Installation</h3><p>Licensed partners handle mounting, and a licensed electrician wires any lit sign. Your project lead coordinates timing, access, and filings.</p>"
+      ],
+      "doc_section": 7
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-manhattan-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-manhattan-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-manhattan-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-manhattan-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "intro_html": "<p>Projects from other Vision Graphics locations show the range of our signage work.</p>",
+      "doc_section": 8
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "They asked for our building's sign standard first, and the property team approved the drawing.",
+          "name": "Pavel Novak",
+          "role": "Property Manager",
+          "company": "Novak Lane Management"
+        },
+        {
+          "quote": "Our install was scheduled around the freight elevator booking.",
+          "name": "Simone Achterberg",
+          "role": "Co-owner",
+          "company": "Achterberg Tea House"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 9
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "Which Manhattan neighborhoods do you cover?",
+          "a_html": "<p>We take projects across Manhattan, from Midtown, Chelsea, Flatiron and SoHo to the Financial District, the Upper East Side, the Upper West Side and Harlem. Send the building address, and <a href=\"#inquiry\">our team</a> confirms scheduling for your block and any landmark or building rules that apply.</p>"
+        },
+        {
+          "q": "Can you provide a certificate of insurance for building management?",
+          "a_html": "<p>Yes, on request. Property managers often ask for a certificate before a contractor enters, and each building writes its own requirements. Send those early, and <a href=\"#inquiry\">our team</a> confirms what we can provide for your property.</p>"
+        },
+        {
+          "q": "Do you install after hours in occupied buildings?",
+          "a_html": "<p>Yes. We plan installs around the building's rules, which often mean evenings or weekends in occupied towers. Work outside business hours can add labor charges, and your quote lists them. Licensed installation partners install the signs, and your project lead coordinates access.</p>"
+        },
+        {
+          "q": "What is your typical lead time?",
+          "a_html": "<p>Lead time depends on the product. Simple graphics take about 1 to 2 weeks from approved drawings; lobby and office signs take 2 to 3 weeks; and lit exterior signs take 3 to 5 weeks to make and ship. Building approvals, city review, and shipping from Salt Lake City add time.</p>"
+        },
+        {
+          "q": "Do you handle sign permits in Manhattan?",
+          "a_html": "<p>Exterior signs may need a DOB sign permit, and landmark districts add LPC review. Small non-lit signs of about six square feet or less may need no DOB permit. Paperwork runs through your Vision Graphics project lead, and <a href=\"#inquiry\">our team</a> confirms the filing party for your address.</p>"
+        },
+        {
+          "q": "Do I need landmark approval?",
+          "a_html": "<p>Possibly, for exterior signs in a landmark district. LPC staff cannot approve exterior signs lit from inside, and vinyl on storefront glass is capped at 20 percent of the glazed area. <a href=\"#inquiry\">Our team</a> checks if your address sits in a district.</p>"
+        },
+        {
+          "q": "How do freight elevators and building access work?",
+          "a_html": "<p>Many Manhattan buildings book freight elevators or loading docks in set windows. Tell us the building's booking steps and any delivery rules, and we plan delivery and installation around them. Your project lead coordinates access with the property team.</p>"
+        },
+        {
+          "q": "Where are your signs made, and who installs them in Manhattan?",
+          "a_html": "<p>We produce signs at our Salt Lake City facility, and we ship the finished signs to your building. Licensed installation partners install them, and one Vision Graphics project lead is your contact from drawing to installation. Shipping time from Salt Lake City is part of your quote.</p>"
+        },
+        {
+          "q": "How do I start a Manhattan sign project?",
+          "a_html": "<p>Send the building address, photos of the space, and any building sign standards through the quote page. Add the property manager's contact if you have it. Our team replies with questions and next steps, and a drawing follows once the details are clear.</p>"
+        },
+        {
+          "q": "Which sign companies handle office lobby signs in Midtown Manhattan?",
+          "a_html": "<p>Vision Graphics designs and makes lobby signs for Manhattan offices, from Midtown to the Financial District, with a 60-year history and production in Salt Lake City.</p><p>Licensed installation partners handle installation, with one Vision Graphics project lead overseeing the job. Share a photo of the lobby wall, and our team will send a drawing and a quote.</p>"
+        }
+      ],
+      "doc_section": 10
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your Manhattan Signs?",
+      "intro_html": "<p>Send the building address, photos of the space, and any building sign standards. We reply with follow-up questions, then a drawing and a quote.</p>",
+      "doc_section": 11
+    }
+  ]
+}

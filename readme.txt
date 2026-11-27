@@ -3,7 +3,7 @@ Contributors: visiongraphics
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.5.0
+Stable tag: 1.6.0
 License: Proprietary
 
 Customer-facing New York signs and graphics website at /nyc/, using your existing Contact Form 7 inquiry form.
@@ -15,6 +15,10 @@ Renders the Vision Graphics New York site under /nyc/: home, about, contact, pro
 Updates are delivered from GitHub Releases and appear as "Update now" on the Plugins screen.
 
 == Changelog ==
+
+= 1.6.0 — 27 November 2026 =
+* Six pages rebuilt in the landing design: /nyc/storefront-signs/, /nyc/window-film/, /nyc/window-graphics/, /nyc/wayfinding-signs/, /nyc/school-signs/, /nyc/manhattan/ (new copy, 44 new images, quote popup form).
+* Process steps support a title for each step.
 
 = 1.5.0 — 20 November 2026 =
 * Six service pages rebuilt in the landing design: /nyc/interior-directory-signs/, /nyc/lobby-signs/, /nyc/office-signs/, /nyc/exterior-signs/, /nyc/channel-letter-signs/, /nyc/trade-show-displays/ (new copy, 50 new images, quote popup form).

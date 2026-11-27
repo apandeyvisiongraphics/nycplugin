@@ -1,0 +1,322 @@
+{
+  "route": "/nyc/school-signs/",
+  "source": "VGNYCLandingPages242511.html",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Vision Graphics: 60 Years of Visual Communications",
+      "h1": "School Signs in New York City for Classrooms and Campus Buildings",
+      "lead_html": "<p>A school sign speaks to students, families, and visitors who may not know the building.</p><p>Vision Graphics designs and makes signage for schools in NYC, from classroom signs and hallway wayfinding to school pride graphics, as part of our <a href=\"/nyc/interior-signs/\">interior signs in NYC</a> range.</p><p>We plan installation around the school calendar and manage it through licensed partners.</p>",
+      "ctas": [
+        {
+          "label": "Get a Quote",
+          "href": "#inquiry",
+          "style": "primary"
+        }
+      ],
+      "image": "nyc-school-signs-hero-01",
+      "doc_section": 1
+    },
+    {
+      "type": "trust-bar",
+      "items": [
+        {
+          "title": "60 Years",
+          "text": "Vision Graphics legacy",
+          "icon": "award"
+        },
+        {
+          "title": "Calendar Planning",
+          "text": "Around the school year",
+          "icon": "award"
+        },
+        {
+          "title": "Licensed Installation",
+          "text": "Through vetted partners",
+          "icon": "shield-check"
+        },
+        {
+          "title": "5 Boroughs",
+          "text": "Citywide service",
+          "icon": "map-pin"
+        }
+      ],
+      "doc_section": 2
+    },
+    {
+      "type": "image-text",
+      "h2": "School Signs by Area",
+      "html": "<p>Educational signs work area by area. The table shows the main sign types for each space and what to settle before production.</p><table><thead><tr><th>Area</th><th>Sign types</th><th>What to plan</th></tr></thead><tbody><tr><td>Entrance and building ID</td><td>Building name signs, entrance letters, and campus signs. See <a href=\"/nyc/building-signs/\">building signs</a>.</td><td>The approved school name, the mounting surface, and any building or landmark rules for exterior work.</td></tr><tr><td>Hallways and wayfinding</td><td>Directional signs, floor and wing signs, and corridor maps. See <a href=\"/nyc/wayfinding-signs/\">wayfinding signs in NYC</a>.</td><td>A naming list, floor and room numbering, and the decision points along each route.</td></tr><tr><td>Classroom and room ID</td><td>Classroom signage and classroom door signage with room numbers and names. See <a href=\"/nyc/door-signs/\">door signs in NYC</a>.</td><td>Raised characters and Braille on permanent room signs, and a plan for names that change.</td></tr><tr><td>Offices and reception</td><td>Main office, nurse, counseling and department signs. See <a href=\"/nyc/office-signs/\">office signs in NYC</a>.</td><td>One naming system shared with the room signs, and clear visitor check-in instructions.</td></tr><tr><td>Gym and auditorium</td><td>Facility signs, entry graphics and event displays</td><td>Large surfaces, daily use, and clear space for changing event messages.</td></tr></tbody></table><p>For building directories, see <a href=\"/nyc/interior-directory-signs/\">interior directory signs in NYC</a>.</p>",
+      "image": "nyc-school-signs-areas-01",
+      "doc_section": 3
+    },
+    {
+      "type": "features-grid",
+      "h2": "School Pride Graphics",
+      "intro_html": "<p>Pride graphics give a school its identity on large walls and glass. Plan the artwork with the school, and keep daily information on separate surfaces.</p>",
+      "items": [
+        {
+          "title": "Mascot and Values Walls",
+          "html": "<p>Large wall graphics can feature a mascot, a motto, or school values. See <a href=\"/nyc/wall-graphics/\">wall graphics in NYC</a> for wall options.</p>"
+        },
+        {
+          "title": "Murals",
+          "html": "<p>Murals suit large walls in halls, gyms, and cafeterias. See <a href=\"/nyc/wall-murals/\">murals</a> for large-format options.</p>"
+        },
+        {
+          "title": "Window Graphics",
+          "html": "<p>Window graphics add school colors, hours, or messages to entrances and offices. See <a href=\"/nyc/window-graphics/\">window graphics in NYC</a>.</p>"
+        },
+        {
+          "title": "Mission and Values Signs",
+          "html": "<p>A mission or values sign sets a statement in a dimensional or printed format. See <a href=\"/nyc/mission-statement-signs/\">mission statement signs</a>.</p>"
+        },
+        {
+          "title": "High School Graphics and Signage",
+          "html": "<p>High school graphics signage often combines team spirit, achievements, and wayfinding. Custom school signage starts with the approved name, colors, and logo, so one visual system keeps graphics and signs in agreement.</p>"
+        },
+        {
+          "title": "Student Photos and Names",
+          "html": "<p>Use student photos and names only with the permissions and approvals your school requires. Confirm rights before artwork is released.</p>"
+        }
+      ],
+      "image": "nyc-school-signs-pride-01",
+      "doc_section": 4
+    },
+    {
+      "type": "features-grid",
+      "h2": "Room ID and ADA Signs",
+      "intro_html": "<p>Room signs need clear names and a plan for the applicable standards. The ADA Standards set the rules, and your design professional confirms what applies.</p>",
+      "items": [
+        {
+          "title": "Permanent Room Signs",
+          "html": "<p>Permanent room signs need raised characters and Braille, where provided, under the ADA Standards. Classroom door signage with a room number and a name is common. See <a href=\"/nyc/door-signs/\">door signs in NYC</a>.</p>"
+        },
+        {
+          "title": "Directional and Informational Signs",
+          "html": "<p>Directional and informational signs need only visual criteria: contrast, a non-glare finish, and legible characters. Placement still affects how well people find their way.</p>"
+        },
+        {
+          "title": "Updating Names",
+          "html": "<p>Room names change with programs and staff. Ask <a href=\"#inquiry\">our team</a> about updateable options.</p>"
+        },
+        {
+          "title": "Standards Review",
+          "html": "<p>Your school's design professional confirms the standards for each sign. We state the rules and do not certify compliance. See <a href=\"/nyc/ada-signs/\">ADA signs in NYC</a>.</p>"
+        }
+      ],
+      "doc_section": 5
+    },
+    {
+      "type": "features-grid",
+      "h2": "Event and Seasonal Signs",
+      "intro_html": "<p>Events change often, so plan them apart from permanent signs. School event signage works well when daily guidance stays clear underneath.</p>",
+      "items": [
+        {
+          "title": "Open Houses and Graduations",
+          "html": "<p>Banners and display graphics mark open houses, orientations, and graduations. See <a href=\"/nyc/banners/\">banners in NYC</a>.</p>"
+        },
+        {
+          "title": "Sports and Performances",
+          "html": "<p>Event banners and entry graphics support games, shows, and community nights. Plan hanging points and removal dates before printing.</p>"
+        },
+        {
+          "title": "Daily Guidance and Changing News",
+          "html": "<p>School communication signage works when permanent room and department signs stay readable beside event posters. Choose which surfaces change often, and keep names consistent.</p>"
+        }
+      ],
+      "doc_section": 6
+    },
+    {
+      "type": "cta-band",
+      "h2": "Ready to Plan Your School Signs?",
+      "html": "<p>Send your location list, floor plans, and photos of the spaces, plus any purchasing requirements. Our team will come back with questions, a drawing, and a quote.</p>",
+      "cta": {
+        "label": "Get a Quote",
+        "href": "#inquiry"
+      },
+      "generated": "mid-cta",
+      "doc_section": null
+    },
+    {
+      "type": "features-grid",
+      "h2": "Planning School Signage Around the Calendar",
+      "intro_html": "<p>School projects work around the calendar, the approvals, and the building's access rules. These five points shape the schedule.</p>",
+      "items": [
+        {
+          "title": "Summer and School Breaks",
+          "html": "<p>Summer and school breaks usually give installers the most open access. Tell us your dates early so the schedule fits, and ask about evenings and weekends.</p>"
+        },
+        {
+          "title": "Approvals and Content Ownership",
+          "html": "<p>Confirm who approves names, logos, photos, and student-related content. Gather your sign standards and facilities requirements before design starts.</p>"
+        },
+        {
+          "title": "How Schools Buy",
+          "html": "<p>NYC Public Schools buys through contracts and small purchases under its procurement rules. Colleges may use formal bids that list sign types and set insurance and reference requirements. Our team confirms the purchasing path your school uses.</p>"
+        },
+        {
+          "title": "Building Access and Clearance",
+          "html": "<p>Anyone working in NYC public school buildings may need background clearance under Chancellor's Regulation C-105. Tell us early, so our team can confirm the access steps for your building.</p>"
+        },
+        {
+          "title": "Insurance and Paperwork",
+          "html": "<p>We can provide a certificate of insurance upon request, and our team will confirm your school's requirements. Public and college projects may set insurance, wage, and subcontractor terms, so send them early.</p>"
+        }
+      ],
+      "image": "nyc-school-signs-calendar-01",
+      "doc_section": 7
+    },
+    {
+      "type": "features-grid",
+      "h2": "Schools We Can Support",
+      "intro_html": "<p>School needs differ by type, size, and decision-making. These are the groups we plan for.</p>",
+      "items": [
+        {
+          "title": "Independent and Private Schools",
+          "html": "<p>Independent and private schools set their own approvals, so name your approver early. Share brand standards and any donor or heritage details with the brief.</p>"
+        },
+        {
+          "title": "Charter Schools",
+          "html": "<p>Charter school signs often need to be ready for enrollment and open-house dates. Share your target dates early, so production and installation fit.</p>"
+        },
+        {
+          "title": "Colleges and Universities",
+          "html": "<p>University signage and college campus signs often cover many buildings and departments. Plan the sign types, floor plans, and review steps for the whole campus.</p>"
+        }
+      ],
+      "after_html": "<p>Public school purchasing paths vary. Ask <a href=\"#inquiry\">our team</a> how your school buys.</p>",
+      "doc_section": 8
+    },
+    {
+      "type": "rich-text",
+      "h2": "School Signs in Manhattan and Brooklyn",
+      "html": "<p>Manhattan schools often sit in shared or landmark buildings with their own rules. See <a href=\"/nyc/manhattan/\">school signs in Manhattan</a>.</p><p>Brooklyn school signs serve buildings of many ages and sizes. See <a href=\"/nyc/brooklyn/\">school signs in Brooklyn</a>.</p>",
+      "doc_section": 9
+    },
+    {
+      "type": "features-grid",
+      "h2": "How It Works",
+      "intro_html": "<p>School projects run from a location list to an installed sign. A Vision Graphics project lead is your single point of contact throughout.</p>",
+      "items": [
+        {
+          "title": "Production",
+          "html": "<p>We make most signs at our Salt Lake City production facility and ship them to your project. Specialty items can come from other Vision Graphics locations or trusted partners.</p>"
+        },
+        {
+          "title": "Installation",
+          "html": "<p>Licensed installation partners install your signs. A Vision Graphics project lead manages the schedule, building access, and paperwork. See how <a href=\"/nyc/sign-installation/\">sign installation in NYC</a> works.</p>"
+        },
+        {
+          "title": "After-Hours Installation",
+          "html": "<p>We schedule installs around your building's rules, including evenings, weekends, and school breaks. After-hours work can add labor charges, and we confirm them in your quote.</p>"
+        },
+        {
+          "title": "Building Approval",
+          "html": "<p>Interior signs may require approval from the school or building management, and we prepare the drawings they ask for. Send any school or building sign rules early, so the drawings match them.</p>"
+        },
+        {
+          "title": "What to Send",
+          "html": "<p>Send your location list, floor plans, approved names and logos, and photos of the spaces. See the <a href=\"/nyc/resources/project-brief/\">sign quote checklist for NYC</a> for what to include.</p>"
+        }
+      ],
+      "doc_section": 10
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "image": "nyc-school-signs-projects-01",
+          "caption": ""
+        },
+        {
+          "image": "nyc-school-signs-projects-02",
+          "caption": ""
+        },
+        {
+          "image": "nyc-school-signs-projects-03",
+          "caption": ""
+        },
+        {
+          "image": "nyc-school-signs-projects-04",
+          "caption": ""
+        }
+      ],
+      "h2": "Projects",
+      "intro_html": "<p>Projects from other Vision Graphics locations show the range of our signage work.</p>",
+      "doc_section": 11
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "quote": "They planned the install around our summer break and our office approvals.",
+          "name": "Denise Holloway",
+          "role": "Head of Operations",
+          "company": "Holloway Day School"
+        },
+        {
+          "quote": "Our room signs and hallway signs finally use the same names.",
+          "name": "Karim Haddad",
+          "role": "Campus Facilities Manager",
+          "company": "Haddad Technical Institute"
+        }
+      ],
+      "h2": "What Clients Say",
+      "doc_section": 12
+    },
+    {
+      "type": "faq",
+      "h2": "Common Questions",
+      "items": [
+        {
+          "q": "Are you an approved vendor for NYC schools?",
+          "a_html": "<p>That depends on how your school buys. NYC Public Schools buys through contracts and small purchases under its procurement rules, and colleges may use formal bids. Tell us what your purchasing office requires, and <a href=\"#inquiry\">our team</a> confirms the paperwork we can provide.</p>"
+        },
+        {
+          "q": "Can you install during school breaks or after hours?",
+          "a_html": "<p>Yes. We schedule installs around your school's rules, including evenings, weekends, and school breaks. After-hours work can add labor charges, and we confirm them in your quote. Licensed installation partners handle the installation, and our project lead manages the schedule.</p>"
+        },
+        {
+          "q": "Are your classroom and room signs ADA compliant?",
+          "a_html": "<p>The ADA Standards set the rules for these signs. Permanent room signs need raised characters and Braille where provided, and directional signs need visual criteria. Your school's design professional confirms what applies, and <a href=\"#inquiry\">our team</a> discusses specifications with you.</p>"
+        },
+        {
+          "q": "How much does a school signage project usually cost?",
+          "a_html": "<p>Cost depends on the number of rooms, sign types, and sizes. Planning ranges are about $50 to $150 for standard indoor room and directional signs and $100 to $250 for corridor directionals. Wall graphics and banners are quoted by size, and your quote replaces these ranges.</p>"
+        },
+        {
+          "q": "Do you also do exterior signs and wall graphics for schools?",
+          "a_html": "<p>Yes. We make exterior signs and wall graphics for schools, and each has its own page. Exterior signs may need city permits, which our project lead plans with you. See <a href=\"/nyc/exterior-signs/\">exterior signs in NYC</a> and <a href=\"/nyc/wall-graphics/\">wall graphics in NYC</a>.</p>"
+        },
+        {
+          "q": "How do NYC schools buy signage?",
+          "a_html": "<p>NYC Public Schools buys through contracts and small purchases under its procurement rules. Colleges may use formal bids that list sign types and set reference and insurance terms. Private and charter schools set their own approval processes. <a href=\"#inquiry\">Our team</a> confirms the path your school uses.</p>"
+        },
+        {
+          "q": "Do installers need background clearance to work in a school?",
+          "a_html": "<p>They may. Chancellor's Regulation C-105 requires background clearance for people working in NYC public school buildings, and other schools may set their own checks. Tell us early, and <a href=\"#inquiry\">our team</a> confirms the access steps for your building.</p>"
+        },
+        {
+          "q": "Can signs use student photos or names?",
+          "a_html": "<p>Only with the permissions and approvals your school requires. Confirm rights for each photo and name before artwork is released. Tell us who approves the final design, so the drawing reaches the right person before production.</p>"
+        },
+        {
+          "q": "Can you update room signs when names change?",
+          "a_html": "<p>Often, with updateable components. They let you change a room or department name without replacing the whole sign. <a href=\"#inquiry\">Our team</a> confirms the options for your building and how to order replacements. Share your list of names so that we can plan those signs first.</p>"
+        },
+        {
+          "q": "Which sign companies work with schools in NYC?",
+          "a_html": "<p>Vision Graphics is a school signage company that designs and makes signs for NYC schools and campuses, with a 60-year history and production in Salt Lake City. Licensed installation partners install them, managed by one project lead. We serve all five boroughs. Send your location list, and our team replies with a drawing and a quote.</p>"
+        }
+      ],
+      "doc_section": 13
+    },
+    {
+      "type": "inquiry",
+      "h2": "Ready to Plan Your School Signs?",
+      "intro_html": "<p>Send your location list, floor plans, and photos of the spaces, plus any purchasing requirements. Our team will come back with questions, a drawing, and a quote.</p>",
+      "doc_section": 14
+    }
+  ]
+}

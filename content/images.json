@@ -1310,6 +1310,119 @@
     "notes": "",
     "caption": ""
   },
+  "nyc-manhattan-buildings-01": {
+    "page": "/nyc/manhattan/",
+    "section": "buildings",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Porter holding a side-street service entrance door open while a delivery person wheels in a padded crate",
+    "prompt": "Photorealistic photograph, 3:2, of a side-street service entrance at 7 a.m. with a porter holding the metal door open while a delivery person wheels a flat padded crate on a hand truck into the building. Soft early light with a warm interior glow; a concrete-and-steel palette with natural color on the porter's jacket. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-manhattan-hero-01": {
+    "page": "/nyc/manhattan/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Corner conference room at golden hour with floor-to-ceiling windows overlooking Manhattan rooftops",
+    "prompt": "Photorealistic wide photograph, 16:9, of a corner conference room at golden hour with floor-to-ceiling windows overlooking distant Manhattan rooftops and water towers, a glass partition with a cut frosted band (no readable text) and two colleagues in conversation at a long table. Warm gold light, oak table, and pale plaster palette, with natural color on one colleague's blazer. Camera at eye level, subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-manhattan-offices-01": {
+    "page": "/nyc/manhattan/",
+    "section": "offices",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "High-floor office reception with brushed-metal dimensional letters behind a long pale ash desk",
+    "prompt": "Photorealistic photograph, 3:2, of a high-floor reception seen from a low side angle along a long pale ash desk, with brushed-metal dimensional letters (abstract, no readable text) on a polished concrete wall behind a receptionist, in midday light from tall windows. Gray concrete, pale timber, and brushed steel palette with natural color on a visitor's bag. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-manhattan-projects-01": {
+    "page": "/nyc/manhattan/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-manhattan-projects-02": {
+    "page": "/nyc/manhattan/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-manhattan-projects-03": {
+    "page": "/nyc/manhattan/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-manhattan-projects-04": {
+    "page": "/nyc/manhattan/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Manhattan Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-manhattan-storefronts-01": {
+    "page": "/nyc/manhattan/",
+    "section": "storefronts",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Cast-iron shopfront with slender columns and a flat painted sign band, with a pedestrian passing",
+    "prompt": "Photorealistic photograph, 3:2, of a cast-iron shopfront with slender columns and a flat painted sign band in early afternoon light, with a pedestrian in a long coat window-shopping at the glass. Charcoal and warm stone palette with natural color on the pedestrian's scarf. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
   "nyc-office-signs-hero-01": {
     "page": "/nyc/office-signs/",
     "section": "hero",
@@ -1550,6 +1663,119 @@
     "notes": "From the blog doc: images/image5.jpg",
     "caption": ""
   },
+  "nyc-school-signs-areas-01": {
+    "page": "/nyc/school-signs/",
+    "section": "areas",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Wide school corridor with lockers along one wall and a wall-mounted directional sign",
+    "prompt": "Photorealistic photograph, 3:2, of a wide school corridor at midday with lockers along one wall and a wall-mounted directional panel showing abstract arrow shapes (no readable text) beside a stairwell door. A teacher carrying a stack of folders walks past in soft focus. Daylight from classroom doors, warm gray and pale wood palette with natural color on the teacher's cardigan. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-school-signs-calendar-01": {
+    "page": "/nyc/school-signs/",
+    "section": "calendar",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer measuring a wall in an empty school corridor during summer break",
+    "prompt": "Photorealistic photograph, 3:2, of an empty school corridor in summer with bright light from tall windows and a polished floor, an installer in a work apron measuring a wall beside rows of lockers with a laser measure. A small cart with flat sign panels sits behind them. Camera at a low three-quarter angle, soft gray and pale wood palette with natural color on the cart's tool bag. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-school-signs-hero-01": {
+    "page": "/nyc/school-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "School entrance hall in morning light with a large geometric wall graphic above a wooden bench",
+    "prompt": "Photorealistic wide photograph, 16:9, of a school entrance hall in morning light, with a large abstract geometric wall graphic (no readable text) above a wooden bench and a front-office staff member at a reception counter greeting an arriving parent. Terrazzo floor, pale plaster and warm oak palette, with natural color on the parent's coat. Camera at eye level, subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-school-signs-pride-01": {
+    "page": "/nyc/school-signs/",
+    "section": "pride",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "School gymnasium wall with a large geometric pride graphic in bold shapes above the wooden floor",
+    "prompt": "Photorealistic photograph, 3:2, of a school gymnasium wall with a large abstract geometric pride graphic in bold shapes (no readable text, no mascot) above wooden bleachers, while a coach in a tracksuit carries a ball bag across the polished floor. Late-afternoon light from high windows, warm wood and cream palette with natural color on the tracksuit. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-school-signs-projects-01": {
+    "page": "/nyc/school-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-school-signs-projects-02": {
+    "page": "/nyc/school-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-school-signs-projects-03": {
+    "page": "/nyc/school-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-school-signs-projects-04": {
+    "page": "/nyc/school-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any School Sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
   "nyc-sign-installation-buildings-01": {
     "page": "/nyc/sign-installation/",
     "section": "buildings",
@@ -1705,6 +1931,119 @@
     "notes": "",
     "caption": ""
   },
+  "nyc-storefront-signs-business-types-01": {
+    "page": "/nyc/storefront-signs/",
+    "section": "business-types",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Baker unlocking the glass door of a small neighborhood bakery in early morning light",
+    "prompt": "Photorealistic photograph, 3:2, of a baker unlocking the glass door of a small neighborhood bakery in early morning, pale sunrise light across the sidewalk, warm window light over a bread display and matte copper dimensional letters (abstract, no readable text) on the sign band above. Camera at a low three-quarter angle. Copper, cream, and warm wood palette with natural color on the baker's apron. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-storefront-signs-hero-01": {
+    "page": "/nyc/storefront-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Neighborhood shopfront with a sage-green wood facade, a bronze dimensional sign on the sign band and a blade sign bracket by the door",
+    "prompt": "Photorealistic wide photograph, 16:9, of a narrow neighborhood shopfront on a tree-lined street in mid-morning light, with a sage-green painted wood facade, a bronze dimensional sign (abstract, no readable text) across the sign band and a small blade sign bracket beside the door. A neighbor with a coffee walks past; the camera is at eye level from across the street. Warm stone and painted-wood palette with natural color on the neighbor's scarf. Subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-storefront-signs-permits-01": {
+    "page": "/nyc/storefront-signs/",
+    "section": "permits",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Two people on a sidewalk looking up at a bare sign band and an empty blade sign bracket above a shop entrance",
+    "prompt": "Photorealistic photograph, 3:2, of two people standing on a quiet sidewalk looking up at a bare painted sign band and an empty metal bracket above a shop entrance, one holding a folded drawing and the other pointing to the spot for the new sign. Soft overcast daylight, limestone and painted-wood palette with natural color on a jacket. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-storefront-signs-process-01": {
+    "page": "/nyc/storefront-signs/",
+    "section": "process",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Two installers in high-visibility vests carrying a long flat sign panel along a sidewalk toward a shopfront",
+    "prompt": "Photorealistic photograph, 3:2, of two installers in high-visibility vests carrying a long, narrow flat sign panel along a quiet sidewalk toward a shopfront at mid-morning, while a shop owner holds the door open. Soft daylight, side-on camera at waist height, with a painted wood-and-stone palette and natural color on the owner's sweater. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-storefront-signs-projects-01": {
+    "page": "/nyc/storefront-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-storefront-signs-projects-02": {
+    "page": "/nyc/storefront-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-storefront-signs-projects-03": {
+    "page": "/nyc/storefront-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-storefront-signs-projects-04": {
+    "page": "/nyc/storefront-signs/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any storefront sign projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
   "nyc-trade-show-displays-booth-sizes-01": {
     "page": "/nyc/trade-show-displays/",
     "section": "booth-sizes",
@@ -1830,6 +2169,289 @@
     "alt": "",
     "prompt": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
     "notes": "Four image slots, real photos only, no AI images. Choose any trade show projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-wayfinding-signs-buildings-01": {
+    "page": "/nyc/wayfinding-signs/",
+    "section": "buildings",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Calm clinic corridor with a wall-mounted directional sign beside a waiting area",
+    "prompt": "Photorealistic photograph, 3:2, of a calm clinic corridor with a wall-mounted directional panel showing abstract arrow shapes (no readable text) beside a waiting area, and a nurse walking away in soft focus. Soft daylight from a skylight, pale sage and warm gray palette with natural color on a waiting-room chair. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-wayfinding-signs-formats-01": {
+    "page": "/nyc/wayfinding-signs/",
+    "section": "formats",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Projecting flag sign with arrow shapes mounted at a corridor corner between glass-walled offices",
+    "prompt": "Photorealistic photograph, 3:2, of a projecting flag sign with abstract arrow shapes (no readable text) mounted at a corridor corner between glass-walled offices, seen from down the corridor in low afternoon sun. A colleague carrying a folder walks toward it, softly out of focus. Warm gray and pale oak palette with natural color on the colleague's sweater. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-wayfinding-signs-hero-01": {
+    "page": "/nyc/wayfinding-signs/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Sunlit office atrium with a suspended overhead directional sign above people crossing the floor",
+    "prompt": "Photorealistic wide photograph, 16:9, of a sunlit office atrium at midday with a suspended overhead sign showing abstract arrow shapes (no readable text) above a stone floor, and a visitor in a long coat looking up at it. Glass walls and pale wood panels frame the space, camera low and wide from the entrance. Warm stone and pale wood palette with natural color on the visitor's coat. Subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-wayfinding-signs-planning-01": {
+    "page": "/nyc/wayfinding-signs/",
+    "section": "planning",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Visitor with a lanyard pausing at a corridor junction where three hallways branch on an office floor",
+    "prompt": "Photorealistic photograph, 3:2, seen from behind, of a visitor with a lanyard pausing at a corridor junction where three hallways branch on a modern office floor, with bare pale walls and a long carpet runner. Soft light from ceiling panels and a far window; wide-angle camera at eye level. Warm gray and pale oak palette with natural color on the lanyard. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-film-coverage-01": {
+    "page": "/nyc/window-film/",
+    "section": "coverage",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Visitor in an office corridor looking at a glass meeting room screened by a wide horizontal frosted band",
+    "prompt": "Photorealistic photograph, 3:2, taken over the shoulder of a visitor in an office corridor looking at a glass meeting room with a wide horizontal frosted band across the glass, a seated colleague visible but blurred through the clear glass above the band. Soft overcast daylight from a far window, pale stone floor, warm neutral palette with natural color on the visitor's scarf. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-film-hero-01": {
+    "page": "/nyc/window-film/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Office corridor lined with glass conference rooms finished with a repeating frosted window film pattern",
+    "prompt": "Photorealistic wide photograph, 16:9, of a long office corridor in late-afternoon light, with a row of glass conference rooms on one side and a repeating cut frosted geometric pattern (abstract, no readable text) across the glass. A colleague carrying a laptop walks past in soft focus, low camera angle along the corridor. Pale oak floor, plaster walls, and soft gold light, with natural color on the colleague's jacket. Subjects in the central 60%, calm space in the upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-film-installation-01": {
+    "page": "/nyc/window-film/",
+    "section": "installation",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer smoothing a large sheet of frosted film onto a glass office partition with a squeegee",
+    "prompt": "Photorealistic photograph, 3:2, of an installer in a work apron smoothing a large sheet of frosted film onto a glass partition with a squeegee, in an empty open-plan office at early morning, with pale sunrise light from tall windows and a small cart of film rolls beside them. Camera at a low three-quarter angle, pale wood and soft gray palette with natural color on the cart's tool bag. Subjects in the central 60%. No readable text, logos, or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-film-logos-01": {
+    "page": "/nyc/window-film/",
+    "section": "logos",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Suite entry glass door and sidelight in a stone-floored lobby with a cut frosted film logo",
+    "prompt": "Photorealistic photograph, 3:2, of a suite entry glass door and sidelight in a stone-floored lobby, seen at an angle, with an abstract cut frosted mark (no readable text) and a clear band left across the upper glass. A courier waits at the door holding a wrapped parcel. Morning light from a lobby window, limestone and brushed steel palette with natural color on the parcel wrapping. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-film-projects-01": {
+    "page": "/nyc/window-film/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-film-projects-02": {
+    "page": "/nyc/window-film/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-film-projects-03": {
+    "page": "/nyc/window-film/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-film-projects-04": {
+    "page": "/nyc/window-film/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Film projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-graphics-glass-01": {
+    "page": "/nyc/window-graphics/",
+    "section": "glass",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Narrow shop window with a small cut-lettering panel near the door and a larger printed graphic on the main pane",
+    "prompt": "Photorealistic photograph, 3:2, of a narrow shop window seen at a slight angle in late-afternoon light, with a small cut-lettering panel near the door and a larger printed panel on the main pane (both abstract, no readable text). Warm glow inside the shop and a shopper approaching the door. Use a plaster, oak, and sage palette, with a natural color on the shopper's coat. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-graphics-hero-01": {
+    "page": "/nyc/window-graphics/",
+    "section": "hero",
+    "ratio": "16:9",
+    "min_width": 1600,
+    "sizes": [
+      480,
+      960,
+      1600
+    ],
+    "alt": "Neighborhood bookshop window with a printed color panel and cut vinyl lettering on the glass",
+    "prompt": "Photorealistic wide photograph, 16:9, of a neighborhood bookshop window at midday under soft overcast light, with a printed color panel on one pane and cut lettering in the glass above it (abstract, no readable text). A passerby with a tote bag looks in at the display; the camera is at eye level from across the quiet street. Warm stone and painted-wood palette with natural color on the passerby's tote bag. Subjects in the central 60%, calm space at upper left. No logos, no blue-dominant tones. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-graphics-perforated-01": {
+    "page": "/nyc/window-graphics/",
+    "section": "perforated",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "View from inside a coffee bar looking out through a perforated one-way window graphic",
+    "prompt": "Photorealistic photograph, 3:2, taken from inside a small coffee bar looking out through a large perforated one-way graphic (abstract pattern, no readable text) onto a sunlit street, with the street softly visible through the dots. A barista wipes the counter in the foreground. Afternoon light, warm wood and cream palette with natural color on the barista's apron. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
+    "caption": ""
+  },
+  "nyc-window-graphics-projects-01": {
+    "page": "/nyc/window-graphics/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-graphics-projects-02": {
+    "page": "/nyc/window-graphics/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-graphics-projects-03": {
+    "page": "/nyc/window-graphics/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-graphics-projects-04": {
+    "page": "/nyc/window-graphics/",
+    "section": "projects",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "",
+    "prompt": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "notes": "Four image slots, real photos only, no AI images. Choose any Window Graphics projects from other locations. Remove section if no project images available.",
+    "caption": ""
+  },
+  "nyc-window-graphics-seasonal-01": {
+    "page": "/nyc/window-graphics/",
+    "section": "seasonal",
+    "ratio": "3:2",
+    "min_width": 960,
+    "sizes": [
+      480,
+      960
+    ],
+    "alt": "Installer's gloved hands peeling transfer tape from fresh cut vinyl lettering on a shop window",
+    "prompt": "Photorealistic close photograph, 3:2, of an installer's gloved hands peeling transfer tape from fresh cut lettering (abstract, no readable text) on a shop window in early morning, with pale sunrise light on the glass and a squeegee resting on the sill. Shallow depth of field, soft neutral palette with natural color on the squeegee handle. Subjects in the central 60%. No logos or license plates. Complete as generated.",
+    "notes": "",
     "caption": ""
   }
 }

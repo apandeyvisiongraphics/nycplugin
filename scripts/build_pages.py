@@ -18,6 +18,9 @@ Copy is taken verbatim from the doc. Only these mechanical changes are made:
     ("bold": true = only where the writer made that exact phrase bold)
 Doc formatting glitches handled the same way every time (and printed as notes when unusual):
   - "[ ]" list items are a checklist (<ul class="vg-checklist">), never process steps
+  - H3 headings numbered "1. ", "2. ", … (3+, in order) are process steps: each step is an H3 title
+    (number dropped, the list shows it) plus the paragraphs under it. A "How it works" section with
+    unnumbered H3s (Production, Installation, …) stays a card grid.
   - a writer label after a line break inside a paragraph ("...<br> CTA buttons: ...") starts its own block
   - a table after the cards (with an optional bold lead-in line) goes below the grid ("after_html")
   - images after each H3 group (with H4 items) belong to that group; 2+ images scattered between
@@ -187,7 +190,8 @@ def build_trust(sec, ctx):
     for b in sec['blocks']:
         if is_note(b):
             continue
-        m = re.match(r'^<strong>(.*?)</strong>\s*\|\s*(.*)$', b['html'], re.S)
+        # "<strong>60 Years</strong> | Vision Graphics legacy", or the same without bold
+        m = re.match(r'^<strong>(.*?)</strong>\s*\|\s*(.*)$', b['html'], re.S) or re.match(r'^([^<|]+?)\s*\|\s*(.*)$', b['html'], re.S)
         if m:
             items.append({'title': text_of(m.group(1)), 'text': text_of(m.group(2)), 'icon': icon_for(text_of(b['html']))})
     return [{'type': 'trust-bar', 'items': items}]
@@ -254,19 +258,38 @@ def build_inquiry(sec, ctx):
     return [prune(s)]
 
 
+STEP_HEAD = re.compile(r'^\s*(\d+)\.\s+')
+
+
+def numbered_heads(blocks):
+    """True when the section's H3/H4 headings are numbered steps "1. …", "2. …" (3 or more, in order)."""
+    heads = [b for b in blocks if b['tag'] in ('h3', 'h4')]
+    nums = [STEP_HEAD.match(b['text']) for b in heads]
+    return len(heads) >= 3 and all(nums) and [int(m.group(1)) for m in nums] == list(range(1, len(heads) + 1))
+
+
 def build_steps(sec, ctx):
     intro, steps, after, img = [], [], [], None
+    body = None  # numbered H3 steps: paragraphs after a step heading belong to that step
     for b in sec['blocks']:
         if is_note(b):
             continue
         if is_image(b):
             img = ctx.slot(key_for(sec['label'], 'process'), b)
+        elif b['tag'] in ('h3', 'h4') and STEP_HEAD.match(b['text']):
+            # The list shows the step number, so the writer's "1. " prefix is dropped from the title.
+            title = re.sub(r'^\s*<strong>(.*)</strong>\s*$', r'\1', b['html'], flags=re.S)  # a heading is bold already
+            body = ['<h3>%s</h3>' % ctx.links(STEP_HEAD.sub('', title, count=1))]
+            steps.append(body)
+        elif body is not None and b['tag'] == 'p':
+            body.append('<p>%s</p>' % ctx.links(b['html']))
         elif b['tag'] == 'li':
             steps.append(ctx.links(b['html']))
         elif steps:
             after.append(b)
         else:
             intro.append(b)
+    steps = [''.join(x) if isinstance(x, list) else x for x in steps]
     return [prune({'type': 'process-steps', 'h2': heading(sec['label']), 'intro_html': html_of(intro, ctx), 'steps': steps,
                    'after_html': html_of(after, ctx), 'image': img})]
 
@@ -420,7 +443,10 @@ def build_section(sec, ctx):
         return build_faq(sec, ctx)
     if 'testimonial' in l or 'clients say' in l:
         return build_testimonials(blocks, heading(sec['label']) if 'h2' in l else None, ctx)
-    if any(k in l for k in ('how it works', 'happens next', 'project works')) or (blocks and not any(is_check(b) for b in blocks) and sum(b['tag'] == 'li' for b in blocks) >= 3 and all('<strong>' in b['html'] for b in blocks if b['tag'] == 'li') and not any(b['tag'] in ('h3', 'h4') for b in blocks)):
+    if numbered_heads(blocks):
+        return build_steps(sec, ctx)
+    # A "How it works" section whose H3s are not numbered (Production, Installation, …) is a card grid.
+    if (any(k in l for k in ('how it works', 'happens next', 'project works')) and not any(b['tag'] in ('h3', 'h4') for b in blocks)) or (blocks and not any(is_check(b) for b in blocks) and sum(b['tag'] == 'li' for b in blocks) >= 3 and all('<strong>' in b['html'] for b in blocks if b['tag'] == 'li') and not any(b['tag'] in ('h3', 'h4') for b in blocks)):
         return build_steps(sec, ctx)
     return build_content(sec, ctx)
 
@@ -519,7 +545,11 @@ def main():
         doc.update(config.get('meta_overrides', {}).get(slug, {}))  # approved meta edits (e.g. length fixes)
         ctx = Ctx(slug, doc['route'], config)
         sections = []
+        drop = set(config.get('drop_sections', {}).get(slug, []))  # approved removals (e.g. no project photos)
         for sec in doc['sections'][1:]:
+            if sec['n'] in drop:
+                ctx.notes.append('doc section %d (%s) left out: drop_sections' % (sec['n'], sec.get('label', '')))
+                continue
             ctx.section_n = sec['n']
             for s in build_section(sec, ctx):
                 s['doc_section'] = sec['n']
@@ -531,6 +561,10 @@ def main():
         with open(os.path.join(ROOT, content), 'w', encoding='utf-8') as f:
             json.dump({'route': doc['route'], 'source': doc['source'], 'sections': sections}, f, ensure_ascii=False, indent=2)
             f.write('\n')
+        if drop:  # slots that only a dropped section used leave the registry, so the designer brief stops asking for them
+            built = {sl['id'] for sl in ctx.slots}
+            for sid in [k for k, v in registry.items() if v.get('page') == doc['route'] and k not in built]:
+                del registry[sid]
         for sl in ctx.slots:
             sid = sl.pop('id')
             old = registry.get(sid, {})

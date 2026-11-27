@@ -345,13 +345,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
   },
   "/nyc/manhattan/": {
-    "title": "Custom Signs & Graphics for Manhattan | Vision Graphics",
-    "description": "Plan office signs, window graphics and storefront branding for Manhattan, including Midtown and Chelsea. Review materials, access and installation.",
+    "title": "Signs Manhattan: Offices & Storefronts | Vision Graphics",
+    "description": "Sign company for Manhattan offices, lobbies, and storefronts: building approvals, insurance certificates, after-hours installs, and landmark district planning.",
     "file": "manhattan.php",
-    "template": "service",
-    "content": "content/services/manhattan.json",
+    "template": "landing",
+    "content": "content/pages/manhattan.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
+    "image": "nyc-manhattan-hero-01"
   },
   "/nyc/metal-signs/": {
     "title": "Metal signs with a considered finish | Vision Graphics New York",
@@ -570,13 +570,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-retractable-banners-960.webp"
   },
   "/nyc/school-signs/": {
-    "title": "School signs for clear campus communication | Vision Graphics New York",
-    "description": "School signage serves students, staff, families and visitors who may be unfamiliar with the building.",
+    "title": "School Signs NYC | Signage for Schools | Vision Graphics",
+    "description": "School signs for NYC schools and campuses: classroom and room signs, hallway wayfinding, school pride graphics, and event banners, with installation by partners.",
     "file": "school-signs.php",
-    "template": "service",
-    "content": "content/services/school-signs.json",
+    "template": "landing",
+    "content": "content/pages/school-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-interior-signs-960.webp"
+    "image": "nyc-school-signs-hero-01"
   },
   "/nyc/sign-installation/": {
     "title": "Sign Installation in NYC: Removal & Repair | Vision Graphics",
@@ -597,13 +597,13 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-new-service-retractable-banners-960.webp"
   },
   "/nyc/storefront-signs/": {
-    "title": "Storefront Signs in Brooklyn & Manhattan | Vision Graphics",
-    "description": "Plan storefront signs for your New York business. Compare materials, mounting and building requirements, then request a quote from Vision Graphics.",
+    "title": "Storefront Signs NYC | Shops & Restaurants | Vision Graphics",
+    "description": "Storefront signs for NYC shops and restaurants: compare channel letter, blade, cabinet, and dimensional signs, plus permit rules and partner installation.",
     "file": "storefront-signs.php",
-    "template": "service",
-    "content": "content/services/storefront-signs.json",
+    "template": "landing",
+    "content": "content/pages/storefront-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-building-signage-storefronts-960.webp"
+    "image": "nyc-storefront-signs-hero-01"
   },
   "/nyc/trade-show-displays/": {
     "title": "Trade Show Displays NYC | 10x10 Booths | Vision Graphics",
@@ -696,31 +696,31 @@ return json_decode(<<<'VGNYC_MANIFEST'
     "image": "/nyc/assets/mcs-wall-murals-960.webp"
   },
   "/nyc/wayfinding-signs/": {
-    "title": "Wayfinding & Directory Signs NYC | Vision Graphics",
-    "description": "Plan directories, directional signs and room identification for New York offices and properties. Organize routes, updates and installation scope.",
+    "title": "Wayfinding and Directional Signs NYC | Vision Graphics",
+    "description": "Wayfinding and directional signs for NYC offices, schools, and multi-tenant buildings: route planning, wall and overhead signs, plus installation by partners.",
     "file": "wayfinding-signs.php",
-    "template": "service",
-    "content": "content/services/wayfinding-signs.json",
+    "template": "landing",
+    "content": "content/pages/wayfinding-signs.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-service-custom-signs-960.webp"
+    "image": "nyc-wayfinding-signs-hero-01"
   },
   "/nyc/window-film/": {
-    "title": "Office Privacy & Window Film NYC | Vision Graphics",
-    "description": "Plan frosted window film, privacy bands and branded glass for New York offices. Review coverage, glass conditions and installation needs for your quote.",
+    "title": "Window Film NYC: Frosted & Privacy Film | Vision Graphics",
+    "description": "Frosted and privacy window film for NYC offices and conference rooms: bands, panels, and cut logos, plus glass door marking rules and partner installation.",
     "file": "window-film.php",
-    "template": "service",
-    "content": "content/services/window-film.json",
+    "template": "landing",
+    "content": "content/pages/window-film.json",
     "service": true,
-    "image": "/nyc/assets/mcs-new-corporate-lobby-signs-business-lobby-signage-960.webp"
+    "image": "nyc-window-film-hero-01"
   },
   "/nyc/window-graphics/": {
-    "title": "Window Graphics in Brooklyn & Manhattan | Vision Graphics",
-    "description": "Explore window lettering, promotional graphics and privacy treatments for Brooklyn and Manhattan businesses. Send photos and dimensions for a project quote.",
+    "title": "Window Graphics NYC: Decals & Lettering | Vision Graphics",
+    "description": "Window graphics for NYC storefronts: cut vinyl lettering, printed decals, perforated one-way film, and seasonal swaps, with installation by licensed partners.",
     "file": "window-graphics.php",
-    "template": "service",
-    "content": "content/services/window-graphics.json",
+    "template": "landing",
+    "content": "content/pages/window-graphics.json",
     "service": true,
-    "image": "/nyc/assets/mcs-window-graphics-960.webp"
+    "image": "nyc-window-graphics-hero-01"
   }
 }
 VGNYC_MANIFEST
